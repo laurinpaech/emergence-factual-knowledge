@@ -1,0 +1,35 @@
+Unnamed: 0,id,en,en_negated,de,de_negated,fr,fr_negated,es,es_negated,count
+0,P19,was born in,was not born in,wurde geboren in,wurde nicht geboren,est né en,n'est pas né en,nació en,no nació en,3035164
+1,P20,died in,did not die in,starb in,starb nicht ein,mort en,n'est pas mort en,murio en,no murió en,1212693
+2,P279,is a subclass of,is not a subclass of,ist eine Unterklasse von,ist keine Unterklasse von,est une sous-classe de,n'est pas une sous-classe de,es una subclase de,no es una subclase de,3285011
+3,P166,was awarded the,was not awarded the,ausgezeichnet wurde,wurde nicht verliehen,s'est vu décerner le,n'a pas obtenu le,fue galardonado con el,no se le concedió el,1350612
+4,P449,was originally aired on,was not originally aired on,wurde ursprünglich ausgestrahlt,wurde ursprünglich nicht ausgestrahlt,a été diffusé à l'origine sur,n'a pas été diffusé à l'origine sur,se emitió originalmente en,no se emitió originalmente en,93087
+5,P69,was educated at the University of,was not educated at the University of,wurde an der Universität von ausgebildet,wurde nicht an der Universität von erzogen,a fait ses études à l'Université de,n'a pas fait ses études à l'Université de,fue educado en la Universidad de,No fue educado en la Universidad de,2269402
+6,P47,shares border with,does not share border with,teilt die Grenze mit,grenzt nicht an,partage une frontière avec,ne partage pas de frontière avec,comparte frontera con,no comparte frontera con,605173
+7,P138,is named after,is not named after,ist benannt nach,ist nicht nach benannt,est nommé d'après,n'est pas nommé d'après,lleva el nombre de,no lleva el nombre,369576
+8,P54,plays with,does not play with,spielt mit,spielt nicht mit,joue avec,ne joue pas avec,juega con,no juega con,1546197
+9,P463,is a member of,is not a member of,ist Mitglied bei,ist kein Mitglied von,est membre de,n'est pas membre de,es miembro de,no es miembro de,436936
+10,P101,works in the field of,does not work in the field of,arbeitet im Bereich,funktioniert nicht im Bereich,travaille dans le domaine de,ne travaille pas dans le domaine de,trabaja en el campo de,no trabaja en el campo de,252599
+11,P1923,participated in the,did not participate in the,hat teilgenommen an,nahm nicht an der teil,participé à la,n'a pas participé à la,participo en el,no participó en el,148066
+12,P527,consists of,does not consist of,besteht aus,besteht nicht aus,consiste en,ne consiste pas à,consiste en,no consiste en,1935300
+13,P530,maintains diplomatic relations with,does not maintain diplomatic relations with,unterhält diplomatische Beziehungen zu,unterhält keine diplomatischen Beziehungen zu,entretient des relations diplomatiques avec,n'entretient pas de relations diplomatiques avec,mantiene relaciones diplomáticas con,no mantiene relaciones diplomáticas con,7046
+14,P176,is produced by,is not produced by,wird produziert von,wird nicht von produziert,est produit par,n'est pas produit par,es producido por,no es producido por,130741
+15,P407,was written in,was not written in,eingeschrieben wurde,wurde nicht hineingeschrieben,a été écrit dans,n'était pas écrit dans,fue escrito en,no estaba escrito en,14800503
+16,P30,is located in,is not located in,befindet sich in,befindet sich nicht in,est situé à,n'est pas situé dans,Se encuentra en,no se encuentra en,83038
+17,P178,is developed by,is not developed by,wird entwickelt von,wird nicht von entwickelt,est développé par,n'est pas développé par,es desarrollado por,no es desarrollado por,45750
+18,P1376,is the capital of,is not the capital of,ist die Hauptstadt von,ist nicht die Hauptstadt von,est la capitale de,n'est pas la capitale de,es la capital de,no es la capital de,83871
+19,P131,is located in,is not located in,befindet sich in,befindet sich nicht in,est situé à,n'est pas situé dans,Se encuentra en,no se encuentra en,11213234
+20,P1412,used to communicate in,did not use to communicate in,"verwendet, um sich zu verständigen","nicht verwendet, um in zu kommunizieren",utilisé pour communiquer dans,n'avait pas l'habitude de communiquer dans,solía comunicarse en,no solía comunicarse en,2221570
+21,P108,works for,does not work for,funktioniert für,funktioniert nicht für,fonctionne pour,ne fonctionne pas pour,trabaja para,no funciona para,1618361
+22,P17,is located in,is not located in,befindet sich in,befindet sich nicht in,est situé à,n'est pas situé dans,Se encuentra en,no se encuentra en,14800490
+23,P39,has the position of,does not have the position of,hat die Stellung als,hat nicht die Position von,occupe le poste de,n'occupe pas le poste de,tiene la posición de,no tiene el puesto de,1456025
+24,P264,is represented by music label,is not represented by music label,wird vertreten durch ein Musiklabel,wird nicht durch ein Musiklabel vertreten,est représenté par le label de musique,n'est pas représenté par un label de musique,está representado por la etiqueta de la música,no está representado por el sello musical,338731
+25,P276,is located in,is not located in,befindet sich in,befindet sich nicht in,est situé à,n'est pas situé dans,Se encuentra en,no se encuentra en,2553086
+26,P937,used to work in,did not use to work in,"verwendet, um darin zu arbeiten",habe nicht gearbeitet,avait l'habitude de travailler dans,n'avait pas l'habitude de travailler dans,solía trabajar en,no solía trabajar en,339031
+27,P1303,plays,does not play,Theaterstücke,spielt nicht,pièces,Ne joue pas,obras de teatro,No juega,210870
+28,P127,is owned by,is not owned by,gehört,ist nicht im Besitz von,Est détenue par,n'appartient pas à,es propiedad de,no es propiedad de,466709
+29,P1001,is a legal term in,is not a legal term in,ist ein juristischer Begriff in,ist kein juristischer Begriff in,est un terme juridique en,n'est pas un terme juridique dans,es un término legal en,no es un término legal en,938663
+30,P31,is a,is not a,ist ein,ist kein,est un,n'est pas un,es un,no es un,103114325
+31,P495,was created in,was not created in,entstand in,wurde nicht erstellt in,a été créé en,n'a pas été créé en,fue creado en,no fue creado en,1345801
+32,P740,was founded in,was not founded in,wurde gegründet in,wurde nicht gegründet,A été fondé en,n'a pas été fondée en,fue fundado en,no fue fundado en,44482
+33,P361,is part of,is not part of,ist ein Teil von,ist nicht Teil von,fait partie de,ne fait pas partie de,es parte de,no es parte de,4368193

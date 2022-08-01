@@ -1,0 +1,795 @@
+,id,en,de,es,fr,count,en_negated,de_negated,fr_negated,es_negated
+0,P3719,regulated by,reguliert von,regulado por,régi par,469,not regulated by,nicht reguliert von,ne pas régi par,no regulado por
+1,P1704,is pollinator of,Bestäuber von,polinizador,pollinisateur de,58,not is pollinator of,nicht Bestäuber von,ne pas pollinisateur de,no polinizador
+2,P3173,offers view on,bietet Sicht auf,ofrece vista a,offre une vue sur,875,not offers view on,nicht bietet Sicht auf,ne pas offre une vue sur,no ofrece vista a
+3,P3085,qualifies for event,qualifiziert für Turnier,califica para el evento,qualifie pour,2788,not qualifies for event,nicht qualifiziert für Turnier,ne pas qualifie pour,no califica para el evento
+4,P4646,representation of,Vorstellung von,representación de,représentation de,165,not representation of,nicht Vorstellung von,ne pas représentation de,no representación de
+5,P4043,emulates,emuliert,emula,émule,345,not emulates,nicht emuliert,ne pas émule,no emula
+6,P1034,main food source,Hauptnahrungsquelle,fuente de alimento principal,source principale de nourriture,326,not main food source,nicht Hauptnahrungsquelle,ne pas source principale de nourriture,no fuente de alimento principal
+7,P457,foundational text,Gründungsvertrag,texto fundacional,texte fondateur,50534,not foundational text,nicht Gründungsvertrag,ne pas texte fondateur,no texto fundacional
+8,P532,port of registry,Registerhafen,puerto de registro,quartier d'immatriculation,25610,not port of registry,nicht Registerhafen,ne pas quartier d'immatriculation,no puerto de registro
+9,P740,location of formation,Gründungsort,lugar de formación,lieu de fondation,44406,not location of formation,nicht Gründungsort,ne pas lieu de fondation,no lugar de formación
+10,P1817,addressee,Adressat,destinatario,destinataire,49000,not addressee,nicht Adressat,ne pas destinataire,no destinatario
+11,P122,basic form of government,Regierungsform,forma de gobierno,régime politique,2144,not basic form of government,nicht Regierungsform,ne pas régime politique,no forma de gobierno
+12,P58,screenwriter,Drehbuchautor,guionista,scénariste,185278,not screenwriter,nicht Drehbuchautor,ne pas scénariste,no guionista
+13,P5249,sports competition competed at,Teilnahme an Sportveranstaltung,competición deportiva participada,compétition sportive,718,not sports competition competed at,nicht Teilnahme an Sportveranstaltung,ne pas compétition sportive,no competición deportiva participada
+14,P9072,derived from organism type,abgeleitet vom Organismentyp,derivado del organismo,dérivé de l'organisme,135867,not derived from organism type,nicht abgeleitet vom Organismentyp,ne pas dérivé de l'organisme,no derivado del organismo
+15,P1716,brand,Marke,marca,marque,15367,not brand,nicht Marke,ne pas marque,no marca
+16,P1165,home world,Heimatwelt,mundo de origen,monde d'origine,1646,not home world,nicht Heimatwelt,ne pas monde d'origine,no mundo de origen
+17,P741,playing hand,Spielhand,mano utilizada,prise de raquette,6255,not playing hand,nicht Spielhand,ne pas prise de raquette,no mano utilizada
+18,P5110,has grammatical person,hat grammatische Person,tiene la persona gramatical,a comme personne grammaticale,113,not has grammatical person,nicht hat grammatische Person,ne pas a comme personne grammaticale,no tiene la persona gramatical
+19,P6889,microarchitecture,Mikroarchitektur,microarquitectura,microarchitecture,197,not microarchitecture,nicht Mikroarchitektur,ne pas microarchitecture,no microarquitectura
+20,P8839,hairstyle,Frisur,peinado,coiffure,581,not hairstyle,nicht Frisur,ne pas coiffure,no peinado
+21,P8546,recording location,Ort der Aufnahme,ubicación de la grabación,lieu d'enregistrement,314,not recording location,nicht Ort der Aufnahme,ne pas lieu d'enregistrement,no ubicación de la grabación
+22,P3080,game artist,Spielekünstler,artista de juegos,artiste multimédia,159,not game artist,nicht Spielekünstler,ne pas artiste multimédia,no artista de juegos
+23,P534,streak color,Strichfarbe,color de la raya,couleur du trait,680,not streak color,nicht Strichfarbe,ne pas couleur du trait,no color de la raya
+24,P7167,does not have effect,verursacht nicht,no tiene como efecto,n'a pas d'effet,29,not does not have effect,nicht verursacht nicht,ne pas n'a pas d'effet,no no tiene como efecto
+25,P1951,investor,Investor,inversionista,investisseur,6286,not investor,nicht Investor,ne pas investisseur,no inversionista
+26,P2554,production designer,Szenenbildner,diseñador de producción,chef décorateur,13497,not production designer,nicht Szenenbildner,ne pas chef décorateur,no diseñador de producción
+27,P2358,Roman praenomen,römischer Vorname,praenomen,praenomen,6445,not Roman praenomen,nicht römischer Vorname,ne pas praenomen,no praenomen
+28,P66,ancestral home,Herkunftsort,hogar ancestral,foyer ancestral,1792,not ancestral home,nicht Herkunftsort,ne pas foyer ancestral,no hogar ancestral
+29,P8006,footedness,Füßigkeit,lateralidad de los pies,agilité des pieds,500,not footedness,nicht Füßigkeit,ne pas agilité des pieds,no lateralidad de los pies
+30,P7163,typically sells,verkauft im Allgemeinen,vende generalmente,vend généralement,299,not typically sells,nicht verkauft im Allgemeinen,ne pas vend généralement,no vende generalmente
+31,P7938,associated electoral district,Wahlkreis,situado en la entidad territorial electoral,division électorale,62872,not associated electoral district,nicht Wahlkreis,ne pas division électorale,no situado en la entidad territorial electoral
+32,P786,stipe character,Stielform,carácter del estipe,caractère du stipe,664,not stipe character,nicht Stielform,ne pas caractère du stipe,no carácter del estipe
+33,P106,occupation,Tätigkeit,ocupación,occupation,9242546,not occupation,nicht Tätigkeit,ne pas occupation,no ocupación
+34,P85,anthem,Hymne,himno,hymne,1692,not anthem,nicht Hymne,ne pas hymne,no himno
+35,P2841,age of onset,Erkrankungsalter,edad de aparición,âge d'apparition,7,not age of onset,nicht Erkrankungsalter,ne pas âge d'apparition,no edad de aparición
+36,P1811,list of episodes,Episodenliste,lista de episodios,liste des épisodes,4553,not list of episodes,nicht Episodenliste,ne pas liste des épisodes,no lista de episodios
+37,P631,structural engineer,Statiker,ingeniero estructural,ingénieur de structure,1781,not structural engineer,nicht Statiker,ne pas ingénieur de structure,no ingeniero estructural
+38,P5588,invasive to,invasiv in,especie invasora en,envahit,107,not invasive to,nicht invasiv in,ne pas envahit,no especie invasora en
+39,P1158,location of landing,Landeplatz,sitio del aterrizaje,site d'atterrissage,501,not location of landing,nicht Landeplatz,ne pas site d'atterrissage,no sitio del aterrizaje
+40,P4608,scenographer,Bühnenbildner,escenógrafo,scénographe,9757,not scenographer,nicht Bühnenbildner,ne pas scénographe,no escenógrafo
+41,P103,native language,Muttersprache,lengua materna,langue maternelle,287064,not native language,nicht Muttersprache,ne pas langue maternelle,no lengua materna
+42,P5995,kit supplier,technischer Ausrüster,proveedor de equipación,équipementier,293,not kit supplier,nicht technischer Ausrüster,ne pas équipementier,no proveedor de equipación
+43,P37,official language,Amtssprache,idioma oficial,langue officielle,21395,not official language,nicht Amtssprache,ne pas langue officielle,no idioma oficial
+44,P689,afflicts,befällt,afecta,affecte,4188,not afflicts,nicht befällt,ne pas affecte,no afecta
+45,P568,overlies,Liegend,suprayacente a,mur,1555,not overlies,nicht Liegend,ne pas mur,no suprayacente a
+46,P3158,enclosure,Einhausung,recinto,enceinte,96,not enclosure,nicht Einhausung,ne pas enceinte,no recinto
+47,P2453,nominee,Nominierter,nominado,nommé,164,not nominee,nicht Nominierter,ne pas nommé,no nominado
+48,P38,currency,Währung,moneda,monnaie,2094,not currency,nicht Währung,ne pas monnaie,no moneda
+49,P183,endemic to,endemisch in,endémico en,endémique de,32251,not endemic to,nicht endemisch in,ne pas endémique de,no endémico en
+50,P163,flag,Flagge,descripción de la bandera,drapeau,6537,not flag,nicht Flagge,ne pas drapeau,no descripción de la bandera
+51,P4805,make-up artist,Visagist,maquillador,maquilleur,506,not make-up artist,nicht Visagist,ne pas maquilleur,no maquillador
+52,P556,crystal system,Kristallsystem,sistema cristalino,système cristallin,5447,not crystal system,nicht Kristallsystem,ne pas système cristallin,no sistema cristalino
+53,P2438,narrator,Erzähler,narrador,narrateur,2262,not narrator,nicht Erzähler,ne pas narrateur,no narrador
+54,P3491,muscle insertion,Muskelansatz,inserción del músculo,insertion du muscle,57,not muscle insertion,nicht Muskelansatz,ne pas insertion du muscle,no inserción del músculo
+55,P282,writing system,Schrift,alfabeto,système d'écriture,587905,not writing system,nicht Schrift,ne pas système d'écriture,no alfabeto
+56,P291,place of publication,Erscheinungsort,lugar de publicación,lieu de publication,269797,not place of publication,nicht Erscheinungsort,ne pas lieu de publication,no lugar de publicación
+57,P2548,strand orientation,Strangorientierung,orientación de la cadena,orientation des brins,1034996,not strand orientation,nicht Strangorientierung,ne pas orientation des brins,no orientación de la cadena
+58,P6275,copyright representative,urheberrechtliche Vertretung durch,representante de derechos de autor,représentant des droits d'auteurs,81007,not copyright representative,nicht urheberrechtliche Vertretung durch,ne pas représentant des droits d'auteurs,no representante de derechos de autor
+59,P20,place of death,Sterbeort,lugar de fallecimiento,lieu de mort,1208628,not place of death,nicht Sterbeort,ne pas lieu de mort,no lugar de fallecimiento
+60,P3680,statement supported by,Aussage gestützt durch,afirmación sostenida por,déclaration soutenue par,57,not statement supported by,nicht Aussage gestützt durch,ne pas déclaration soutenue par,no afirmación sostenida por
+61,P5202,adapted by,Bearbeiter,adaptación de,adaptation par,3400,not adapted by,nicht Bearbeiter,ne pas adaptation par,no adaptación de
+62,P2184,history,Geschichte,historia,histoire,2182,not history,nicht Geschichte,ne pas histoire,no historia
+63,P3027,open period from,geöffnet von Zeitpunkt,abierto desde,début de la période d'ouverture,16,not open period from,nicht geöffnet von Zeitpunkt,ne pas début de la période d'ouverture,no abierto desde
+64,P450,astronaut mission,Raumfahrtmission,misión del astronauta,mission de l'astronaute,1827,not astronaut mission,nicht Raumfahrtmission,ne pas mission de l'astronaute,no misión del astronauta
+65,P2813,house publication,Hauspublikation,órgano de prensa,organe de presse,1070,not house publication,nicht Hauspublikation,ne pas organe de presse,no órgano de prensa
+66,P1455,list of works,Werkliste,lista de obras,liste des œuvres,1227,not list of works,nicht Werkliste,ne pas liste des œuvres,no lista de obras
+67,P3712,objective of project or action,angestrebtes Ziel,objetivo del proyecto o de la acción,objectif du projet ou de la mission,1623,not objective of project or action,nicht angestrebtes Ziel,ne pas objectif du projet ou de la mission,no objetivo del proyecto o de la acción
+68,P8822,epithet,Epitheton,epíteto,épithète,26,not epithet,nicht Epitheton,ne pas épithète,no epíteto
+69,P3764,pole position,Pole Position,pole position,en pole position au départ,4737,not pole position,nicht Pole Position,ne pas en pole position au départ,no pole position
+70,P2361,online service,Onlinedienst,servicio en línea,service en ligne,48,not online service,nicht Onlinedienst,ne pas service en ligne,no servicio en línea
+71,P6606,study or design for,Studie oder Entwurf für,estudio o diseño para,étude ou travail préparatoire pour,272,not study or design for,nicht Studie oder Entwurf für,ne pas étude ou travail préparatoire pour,no estudio o diseño para
+72,P5126,assistant director,Regieassistent,ayudante de dirección,assistant réalisateur,550,not assistant director,nicht Regieassistent,ne pas assistant réalisateur,no ayudante de dirección
+73,P2882,relegated,Absteiger,relegado,relégué,2899,not relegated,nicht Absteiger,ne pas relégué,no relegado
+74,P2634,sitter,Modell,modelo,modèle,280,not sitter,nicht Modell,ne pas modèle,no modelo
+75,P1625,has melody,verwendet eine Melodie aus,tiene la melodía de,contient une mélodie de,2107,not has melody,nicht verwendet eine Melodie aus,ne pas contient une mélodie de,no tiene la melodía de
+76,P5096,member of the crew of,Mitglied der Besatzung von,tripulante de,membre de l'équipage de,1359,not member of the crew of,nicht Mitglied der Besatzung von,ne pas membre de l'équipage de,no tripulante de
+77,P7228,access restriction status,Zugangsbeschränkung,restricción de acceso,conditions d'accès,403541,not access restriction status,nicht Zugangsbeschränkung,ne pas conditions d'accès,no restricción de acceso
+78,P1990,species kept,gehaltene Arten,especies presentes,espèce conservée,7902,not species kept,nicht gehaltene Arten,ne pas espèce conservée,no especies presentes
+79,P9972,illustrative content,illustrativer Inhalt,ilustraciones contenidas,contenu illustratif,59,not illustrative content,nicht illustrativer Inhalt,ne pas contenu illustratif,no ilustraciones contenidas
+80,P6954,online access status,Onlineverfügbarkeit,estatus de acceso,type d'accessibilité,5595,not online access status,nicht Onlineverfügbarkeit,ne pas type d'accessibilité,no estatus de acceso
+81,P136,genre,Genre,género,genre,1520165,not genre,nicht Genre,ne pas genre,no género
+82,P452,industry,Branche,industria,secteur d'activité,103636,not industry,nicht Branche,ne pas secteur d'activité,no industria
+83,P4770,hydrated form of,ist eine Hydrat-Form von,es una forma hidratada de,est une forme hydratée de,170,not hydrated form of,nicht ist eine Hydrat-Form von,ne pas est une forme hydratée de,no es una forma hidratada de
+84,P1462,standards body,standardisiert von,organismo de normalización,organisme de normalisation,2799,not standards body,nicht standardisiert von,ne pas organisme de normalisation,no organismo de normalización
+85,P4510,describes a project that uses,beschriebenes Projekt benutzt,describe un proyecto que usa,décrit un projet qui utilise,87048,not describes a project that uses,nicht beschriebenes Projekt benutzt,ne pas décrit un projet qui utilise,no describe un proyecto que usa
+86,P449,original broadcaster,Sender der Erstausstrahlung,emisora original,diffuseur original,90308,not original broadcaster,nicht Sender der Erstausstrahlung,ne pas diffuseur original,no emisora original
+87,P6001,applies to people,gilt für Leute,válido para,s'applique aux personnes,16,not applies to people,nicht gilt für Leute,ne pas s'applique aux personnes,no válido para
+88,P2872,visitor centre,Touristeninformation,oficina de turismo,office de tourisme,553,not visitor centre,nicht Touristeninformation,ne pas office de tourisme,no oficina de turismo
+89,P5800,narrative role,narrative Funktion,función narrativa,rôle narratologique,4581,not narrative role,nicht narrative Funktion,ne pas rôle narratologique,no función narrativa
+90,P517,interaction,Wechselwirkung,interacción,interaction,291,not interaction,nicht Wechselwirkung,ne pas interaction,no interacción
+91,P7937,form of creative work,künstlerische Form,forma artística,forme de l'œuvre,339736,not form of creative work,nicht künstlerische Form,ne pas forme de l'œuvre,no forma artística
+92,P6872,has written for,hat geschrieben für,editor en,rédacteur à,3180,not has written for,nicht hat geschrieben für,ne pas rédacteur à,no editor en
+93,P1884,hair color,Haarfarbe,color de pelo,couleur des cheveux,11929,not hair color,nicht Haarfarbe,ne pas couleur des cheveux,no color de pelo
+94,P3018,located in protected area,liegt in Schutzgebiet,localizado en el área protegida,aire protégée,36525,not located in protected area,nicht liegt in Schutzgebiet,ne pas aire protégée,no localizado en el área protegida
+95,P483,recorded at studio or venue,Aufnahmeort,grabado en,studio d'enregistrement,5401,not recorded at studio or venue,nicht Aufnahmeort,ne pas studio d'enregistrement,no grabado en
+96,P1686,for work,für das Werk,premiado por la obra,récompense pour,50,not for work,nicht für das Werk,ne pas récompense pour,no premiado por la obra
+97,P3975,secretary general,Generalsekretär,secretario general,secrétaire général,1417,not secretary general,nicht Generalsekretär,ne pas secrétaire général,no secretario general
+98,P1050,medical condition,Erkrankung,condición médica,affection médicale,241890,not medical condition,nicht Erkrankung,ne pas affection médicale,no condición médica
+99,P2286,arterial supply,arterieller Zustrom,irrigación arterial,artère,288,not arterial supply,nicht arterieller Zustrom,ne pas artère,no irrigación arterial
+100,P59,constellation,Sternbild,constelación,constellation,7371206,not constellation,nicht Sternbild,ne pas constellation,no constelación
+101,P1201,space tug,Raketenoberstufe,remolcador espacial,remorqueur spatial,409,not space tug,nicht Raketenoberstufe,ne pas remorqueur spatial,no remolcador espacial
+102,P8138,located in the statistical territorial entity,liegt in der statistischen Einheit,situado en la entidad territorial estadística,situé dans l'entité territoriale statistique,31918,not located in the statistical territorial entity,nicht liegt in der statistischen Einheit,ne pas situé dans l'entité territoriale statistique,no situado en la entidad territorial estadística
+103,P1434,takes place in fictional universe,beschreibt fiktives Universum,describe el universo ficticio,décrit l'univers de fiction,14683,not takes place in fictional universe,nicht beschreibt fiktives Universum,ne pas décrit l'univers de fiction,no describe el universo ficticio
+104,P8289,parish church,Pfarrkirche,iglesia parroquial,église paroissiale,7307,not parish church,nicht Pfarrkirche,ne pas église paroissiale,no iglesia parroquial
+105,P3912,newspaper format,Zeitungsformat,formato de periódico,format de journal,4084,not newspaper format,nicht Zeitungsformat,ne pas format de journal,no formato de periódico
+106,P1923,participating team,teilnehmendes Team,equipo participante,équipes participantes,147529,not participating team,nicht teilnehmendes Team,ne pas équipes participantes,no equipo participante
+107,P930,type of electrification,Bahnstromsystem,tipo de electrificación,type d'électrification,5558,not type of electrification,nicht Bahnstromsystem,ne pas type d'électrification,no tipo de electrificación
+108,P1546,motto,Wahlspruch,lema,devise,506,not motto,nicht Wahlspruch,ne pas devise,no lema
+109,P149,architectural style,Architekturstil,estilo arquitectónico,style architectural,124633,not architectural style,nicht Architekturstil,ne pas style architectural,no estilo arquitectónico
+110,P1389,product certification,Produktzertifikat,certificación del producto,certificat de produit,8990,not product certification,nicht Produktzertifikat,ne pas certificat de produit,no certificación del producto
+111,P3803,original film format,Filmformat,formato original de la película,format de film original,6458,not original film format,nicht Filmformat,ne pas format de film original,no formato original de la película
+112,P1656,unveiled by,enthüllt von,develado por,dévoilé par,439,not unveiled by,nicht enthüllt von,ne pas dévoilé par,no develado por
+113,P509,cause of death,Todesursache,causa de muerte,cause de la mort,115336,not cause of death,nicht Todesursache,ne pas cause de la mort,no causa de muerte
+114,P967,guest of honor,Ehrengast,invitado de honor,invité d'honneur,733,not guest of honor,nicht Ehrengast,ne pas invité d'honneur,no invitado de honor
+115,P2925,domain of saint or deity,Patron von,dominio del santo o deidad,domaine du saint ou de la divinité,843,not domain of saint or deity,nicht Patron von,ne pas domaine du saint ou de la divinité,no dominio del santo o deidad
+116,P3026,closed on,geschlossen an/am,cerrado en,jours de fermeture,136,not closed on,nicht geschlossen an/am,ne pas jours de fermeture,no cerrado en
+117,P3081,damaged,beschädigt,ha dañado,endommage,86,not damaged,nicht beschädigt,ne pas endommage,no ha dañado
+118,P6271,demonym of,Demonym zu,gentilicio de,gentilé de,2629,not demonym of,nicht Demonym zu,ne pas gentilé de,no gentilicio de
+119,P6086,dramaturge,Dramaturg,dramaturgo,dramaturge (de production),3252,not dramaturge,nicht Dramaturg,ne pas dramaturge (de production),no dramaturgo
+120,P111,measured physical quantity,gemessene physikalische Größe,cantidad física medida,grandeur physique mesurée,3610,not measured physical quantity,nicht gemessene physikalische Größe,ne pas grandeur physique mesurée,no cantidad física medida
+121,P1013,criterion used,verwendetes Kriterium,criterio utilizado,critère utilisé,69,not criterion used,nicht verwendetes Kriterium,ne pas critère utilisé,no criterio utilizado
+122,P8646,expansion of,Erweiterung von,expansión de,extension de,1498,not expansion of,nicht Erweiterung von,ne pas extension de,no expansión de
+123,P1956,takeoff and landing capability,Start- und Landeweise,despegue y aterrizaje,décollage et atterrissage,5,not takeoff and landing capability,nicht Start- und Landeweise,ne pas décollage et atterrissage,no despegue y aterrizaje
+124,P5998,distributary,Mündungsarm,distributario,défluent,119,not distributary,nicht Mündungsarm,ne pas défluent,no distributario
+125,P538,fracturing,Bruch,fractura,cassure,11,not fracturing,nicht Bruch,ne pas cassure,no fractura
+126,P4968,relevant qualification,relevante Qualifikation,cualificación relevante,qualification pertinente,55,not relevant qualification,nicht relevante Qualifikation,ne pas qualification pertinente,no cualificación relevante
+127,P784,mushroom cap shape,Hutform,tipo de sombrero,type de chapeau,878,not mushroom cap shape,nicht Hutform,ne pas type de chapeau,no tipo de sombrero
+128,P680,molecular function,Molekularfunktion,función molecular,fonction moléculaire,1210166,not molecular function,nicht Molekularfunktion,ne pas fonction moléculaire,no función molecular
+129,P4443,card network,Kreditkarten-Netzwerk,red de tarjeta,réseau de carte bancaire,54,not card network,nicht Kreditkarten-Netzwerk,ne pas réseau de carte bancaire,no red de tarjeta
+130,P35,head of state,Staatsoberhaupt,jefe de Estado,chef d'État,1834,not head of state,nicht Staatsoberhaupt,ne pas chef d'État,no jefe de Estado
+131,P2715,elected in,gewählt in,electo en,élection,182,not elected in,nicht gewählt in,ne pas élection,no electo en
+132,P1677,index case of,Indexpatient von,caso índice de,patient zéro de,29,not index case of,nicht Indexpatient von,ne pas patient zéro de,no caso índice de
+133,P589,point group,Punktgruppe,grupo puntual,groupe ponctuel,274,not point group,nicht Punktgruppe,ne pas groupe ponctuel,no grupo puntual
+134,P516,powered by,angetrieben von,impulsado por,origine mécanique de l'énergie,11070,not powered by,nicht angetrieben von,ne pas origine mécanique de l'énergie,no impulsado por
+135,P1142,political ideology,politische Weltanschauung,ideología política,idéologie politique,23673,not political ideology,nicht politische Weltanschauung,ne pas idéologie politique,no ideología política
+136,P7095,end grade,höchste Klassenstufe,grado final,plus haut niveau scolaire,3729,not end grade,nicht höchste Klassenstufe,ne pas plus haut niveau scolaire,no grado final
+137,P8345,media franchise,Medien-Franchise,franquicia de medios,franchise médiatique,27415,not media franchise,nicht Medien-Franchise,ne pas franchise médiatique,no franquicia de medios
+138,P2700,protocol,Protokoll,protocolo,protocole d'accès,231,not protocol,nicht Protokoll,ne pas protocole d'accès,no protocolo
+139,P1911,increased expression in,erhöhte Expression in,expresión incrementada en,expression accrue dans,148,not increased expression in,nicht erhöhte Expression in,ne pas expression accrue dans,no expresión incrementada en
+140,P2827,flower color,Blütenfarbe,color de las flores,couleur des fleurs,550,not flower color,nicht Blütenfarbe,ne pas couleur des fleurs,no color de las flores
+141,P2962,title of chess person,Titel (im Schachsport),título de ajedrecista,titre au jeu d'échecs,31173,not title of chess person,nicht Titel (im Schachsport),ne pas titre au jeu d'échecs,no título de ajedrecista
+142,P9241,demographics of topic,Demografie des Objekts,demografía del elemento,démographie du sujet,1155,not demographics of topic,nicht Demografie des Objekts,ne pas démographie du sujet,no demografía del elemento
+143,P4688,geomorphological unit,geomorphologische Einheit,unidad geomorfológica,unité géomorphologique,1899,not geomorphological unit,nicht geomorphologische Einheit,ne pas unité géomorphologique,no unidad geomorfológica
+144,P2159,computes solution to,löst,resuelve,résout,119,not computes solution to,nicht löst,ne pas résout,no resuelve
+145,P6437,day of regular release,Tag der Veröffentlichung,día de lanzamiento regular,jour de parution,87,not day of regular release,nicht Tag der Veröffentlichung,ne pas jour de parution,no día de lanzamiento regular
+146,P2568,repealed by,aufgehoben durch,abrogado por,abrogé par,33372,not repealed by,nicht aufgehoben durch,ne pas abrogé par,no abrogado por
+147,P823,speaker,Redner,orador,orateur,5263,not speaker,nicht Redner,ne pas orateur,no orador
+148,P4100,parliamentary group,Fraktion,grupo parlamentario,groupe parlementaire,1971,not parliamentary group,nicht Fraktion,ne pas groupe parlementaire,no grupo parlamentario
+149,P495,country of origin,Ursprungsland,país de origen,pays d’origine,1342364,not country of origin,nicht Ursprungsland,ne pas pays d’origine,no país de origen
+150,P1056,product or material produced,Produkt,producto,produit,45597,not product or material produced,nicht Produkt,ne pas produit,no producto
+151,P5053,fastest lap,schnellste Runde,vuelta más rápida,auteur du meilleur tour,2718,not fastest lap,nicht schnellste Runde,ne pas auteur du meilleur tour,no vuelta más rápida
+152,P8115,eligible recipient,für Erhalt qualifiziert,posible receptor,bénéficiaire éligible,67,not eligible recipient,nicht für Erhalt qualifiziert,ne pas bénéficiaire éligible,no posible receptor
+153,P2348,time period,Zeitraum,periodo histórico,période,202508,not time period,nicht Zeitraum,ne pas période,no periodo histórico
+154,P3602,candidacy in election,kandidiert für,candidato en la elección,candidat à l'élection,157377,not candidacy in election,nicht kandidiert für,ne pas candidat à l'élection,no candidato en la elección
+155,P3610,fare zone,Tarifzone,zona tarifaria,zone tarifaire,5160,not fare zone,nicht Tarifzone,ne pas zone tarifaire,no zona tarifaria
+156,P3033,package management system,Paketverwaltung,sistema de gestión de paquetes,gestionnaire de paquets,191,not package management system,nicht Paketverwaltung,ne pas gestionnaire de paquets,no sistema de gestión de paquetes
+157,P6819,calligrapher,Kalligraph,calígrafo,calligraphe,278,not calligrapher,nicht Kalligraph,ne pas calligraphe,no calígrafo
+158,P1412,"languages spoken, written or signed",gesprochene oder publizierte Sprachen,"lenguas habladas, escritas o signadas","langues parlées, écrites ou signées",2212454,"not languages spoken, written or signed",nicht gesprochene oder publizierte Sprachen,"ne pas langues parlées, écrites ou signées","no lenguas habladas, escritas o signadas"
+159,P277,programming language,Programmiersprache,lenguaje de programación,langage de programmation,12170,not programming language,nicht Programmiersprache,ne pas langage de programmation,no lenguaje de programación
+160,P1308,officeholder,Amtsinhaber,titular del cargo,titulaire,17417,not officeholder,nicht Amtsinhaber,ne pas titulaire,no titular del cargo
+161,P750,distributed by,Distributor,distribuidor,distribué par,155113,not distributed by,nicht Distributor,ne pas distribué par,no distribuidor
+162,P4147,conjugate acid,konjugierte Säure,ácido conjugado,acide conjugué,365,not conjugate acid,nicht konjugierte Säure,ne pas acide conjugué,no ácido conjugado
+163,P9191,letterer,Letterer,letrista,lettreur,231,not letterer,nicht Letterer,ne pas lettreur,no letrista
+164,P453,character role,Rolle,rol,rôle,506,not character role,nicht Rolle,ne pas rôle,no rol
+165,P787,spore print color,Sporenpulverabdruck,color de espora,couleur de sporée,727,not spore print color,nicht Sporenpulverabdruck,ne pas couleur de sporée,no color de espora
+166,P840,narrative location,Handlungsort,lugar de la narración,lieu de l'action,88410,not narrative location,nicht Handlungsort,ne pas lieu de l'action,no lugar de la narración
+167,P5832,political coalition,Koalition,coalición política,coalition politique,146,not political coalition,nicht Koalition,ne pas coalition politique,no coalición política
+168,P3437,people or cargo transported,transportiertes Gut oder Passagiere,carga o personal transportado,cargaison,223,not people or cargo transported,nicht transportiertes Gut oder Passagiere,ne pas cargaison,no carga o personal transportado
+169,P3103,has tense,hat grammatische Zeitform,tiene como tiempo gramatical,a comme temps grammatical,145,not has tense,nicht hat grammatische Zeitform,ne pas a comme temps grammatical,no tiene como tiempo gramatical
+170,P364,original language of film or TV show,Originalsprache,idioma de la película o programa de televisión,langue originelle du film ou de l'émission de télévision,378548,not original language of film or TV show,nicht Originalsprache,ne pas langue originelle du film ou de l'émission de télévision,no idioma de la película o programa de televisión
+171,P6532,has phenotype,hat Phänotyp,tiene el fenotipo,a un phénotype,169,not has phenotype,nicht hat Phänotyp,ne pas a un phénotype,no tiene el fenotipo
+172,P4324,combination classification,Kombinationswertung,clasificación de la combinada,classement du meilleur au combiné,669,not combination classification,nicht Kombinationswertung,ne pas classement du meilleur au combiné,no clasificación de la combinada
+173,P4543,has listed ingredient,aufgeführter Bestandteil,ingrediente listado,ingrédient indiqué,604,not has listed ingredient,nicht aufgeführter Bestandteil,ne pas ingrédient indiqué,no ingrediente listado
+174,P5134,evaluation of,Auswertung von,evaluación de,évaluation de,26,not evaluation of,nicht Auswertung von,ne pas évaluation de,no evaluación de
+175,P88,commissioned by,Auftraggeber,comisionador,commanditaire,23361,not commissioned by,nicht Auftraggeber,ne pas commanditaire,no comisionador
+176,P3189,innervated by,innerviert durch,inervado por,innervé par,288,not innervated by,nicht innerviert durch,ne pas innervé par,no inervado por
+177,P1885,cathedral,Kathedrale,catedral,cathédrale,2129,not cathedral,nicht Kathedrale,ne pas cathédrale,no catedral
+178,P3092,film crew member,Mitglied des Filmstabs,miembro del equipo de filmación,membre de l'équipe du film,4957,not film crew member,nicht Mitglied des Filmstabs,ne pas membre de l'équipe du film,no miembro del equipo de filmación
+179,P9810,remix of,Remix von,remezclar de,remix de,85,not remix of,nicht Remix von,ne pas remix de,no remezclar de
+180,P427,taxonomic type,nomenklatorischer Typ,tipo taxonómico,type taxinomique,28509,not taxonomic type,nicht nomenklatorischer Typ,ne pas type taxinomique,no tipo taxonómico
+181,P2587,has phoneme,enthält Phonem,tiene el fonema,a le phonème,99,not has phoneme,nicht enthält Phonem,ne pas a le phonème,no tiene el fonema
+182,P1423,template has topic,Hauptthema der Vorlage,tema tiene plantilla,sujet principal d'un modèle,21347,not template has topic,nicht Hauptthema der Vorlage,ne pas sujet principal d'un modèle,no tema tiene plantilla
+183,P1011,excluding,ausgenommen,excluyendo,non pris en compte,6,not excluding,nicht ausgenommen,ne pas non pris en compte,no excluyendo
+184,P7984,depicted format,abgebildetes Format,formato representado,type de vue,915,not depicted format,nicht abgebildetes Format,ne pas type de vue,no formato representado
+185,P4586,type foundry,Schriftgießerei,empresa diseñadora de tipos,fonderie typographique,414,not type foundry,nicht Schriftgießerei,ne pas fonderie typographique,no empresa diseñadora de tipos
+186,P1918,altered regulation leads to,geänderte Regulation führt zu,regulación alterada resulta en,conséquence d'une altération de la régulation,14,not altered regulation leads to,nicht geänderte Regulation führt zu,ne pas conséquence d'une altération de la régulation,no regulación alterada resulta en
+187,P1995,health specialty,medizinisches Fachgebiet,especialidad sanitaria,spécialité médicale,10251,not health specialty,nicht medizinisches Fachgebiet,ne pas spécialité médicale,no especialidad sanitaria
+188,P4185,iconographic symbol,ikonografisches Symbol,símbolo iconográfico,symbole iconographique,223,not iconographic symbol,nicht ikonografisches Symbol,ne pas symbole iconographique,no símbolo iconográfico
+189,P415,radio format,Radioformat,formato de radio,format radio,3611,not radio format,nicht Radioformat,ne pas format radio,no formato de radio
+190,P3833,diaspora,Diaspora,diáspora,diaspora,271,not diaspora,nicht Diaspora,ne pas diaspora,no diáspora
+191,P5872,perfume note,Duftnote,nota del perfume,note d'un parfum,20,not perfume note,nicht Duftnote,ne pas note d'un parfum,no nota del perfume
+192,P1910,decreased expression in,verringerte Expression in,expresión reducida por,expression réduite par,27,not decreased expression in,nicht verringerte Expression in,ne pas expression réduite par,no expresión reducida por
+193,P654,direction relative to location,Richtung relativ zur Position,dirección relativa a la posición,direction relative au lieu,25,not direction relative to location,nicht Richtung relativ zur Position,ne pas direction relative au lieu,no dirección relativa a la posición
+194,P1310,statement disputed by,Aussage bestritten von,afirmación disputada por,contesté par,5,not statement disputed by,nicht Aussage bestritten von,ne pas contesté par,no afirmación disputada por
+195,P1444,destination point,geografischer Endpunkt,lugar de finalización,destination du parcours,25418,not destination point,nicht geografischer Endpunkt,ne pas destination du parcours,no lugar de finalización
+196,P1678,has vertex figure,Folgefläche beim Abstumpfen,figura de vértice,figure de sommet,223,not has vertex figure,nicht Folgefläche beim Abstumpfen,ne pas figure de sommet,no figura de vértice
+197,P5353,school district,Schulbezirk,distrito escolar,district scolaire,9776,not school district,nicht Schulbezirk,ne pas district scolaire,no distrito escolar
+198,P4330,contains,enthält,contiene,contient,8223,not contains,nicht enthält,ne pas contient,no contiene
+199,P1032,Digital Rights Management system,Digital-Rights-Management-System,sistema de gestión de derechos digitales,système de mesures techniques de protection,119,not Digital Rights Management system,nicht Digital-Rights-Management-System,ne pas système de mesures techniques de protection,no sistema de gestión de derechos digitales
+200,P803,professorship,Professur,cátedra universitaria,chaire universitaire,12294,not professorship,nicht Professur,ne pas chaire universitaire,no cátedra universitaria
+201,P5095,fault,Verwerfung,falla,faille,20,not fault,nicht Verwerfung,ne pas faille,no falla
+202,P118,league,Liga,liga,ligue,192606,not league,nicht Liga,ne pas ligue,no liga
+203,P2633,geography of topic,Geographie,geografía,géographie,726,not geography of topic,nicht Geographie,ne pas géographie,no geografía
+204,P800,notable work,bedeutende Werke,obra destacada,œuvre notable,96303,not notable work,nicht bedeutende Werke,ne pas œuvre notable,no obra destacada
+205,P1775,follower of,Anhänger von,seguidor de,suiveur de,22,not follower of,nicht Anhänger von,ne pas suiveur de,no seguidor de
+206,P1606,natural reservoir of,Erregerreservoir von,reservorio natural de,réservoir naturel de,17,not natural reservoir of,nicht Erregerreservoir von,ne pas réservoir naturel de,no reservorio natural de
+207,P1264,valid in period,betroffener Zeitraum,periodo aplicable,période applicable,219,not valid in period,nicht betroffener Zeitraum,ne pas période applicable,no periodo aplicable
+208,P4774,biological phase,biologische Phase,fase biológica,phase biologique,21,not biological phase,nicht biologische Phase,ne pas phase biologique,no fase biológica
+209,P3739,inflorescence,Blütenstand,inflorescencia,inflorescence,166,not inflorescence,nicht Blütenstand,ne pas inflorescence,no inflorescencia
+210,P27,country of citizenship,Land der Staatsangehörigkeit,país de nacionalidad,pays de citoyenneté,4414018,not country of citizenship,nicht Land der Staatsangehörigkeit,ne pas pays de citoyenneté,no país de nacionalidad
+211,P1660,has index case,hat Indexpatient,tiene como caso índice,patient zéro,28,not has index case,nicht hat Indexpatient,ne pas patient zéro,no tiene como caso índice
+212,P3274,content deliverer,Serviceprovider,proveedor de contenido,fournisseur du contenu,6,not content deliverer,nicht Serviceprovider,ne pas fournisseur du contenu,no proveedor de contenido
+213,P2679,author of foreword,Autor des Vorworts,autor del prefacio,auteur de la préface,1524,not author of foreword,nicht Autor des Vorworts,ne pas auteur de la préface,no autor del prefacio
+214,P913,notation,Notation,notación,notation,213,not notation,nicht Notation,ne pas notation,no notación
+215,P1909,side effect,Nebenwirkung,efecto secundario,effet secondaire,40,not side effect,nicht Nebenwirkung,ne pas effet secondaire,no efecto secundario
+216,P1534,end cause,Ursache der Beendigung,causa del fin,motif de fin,166,not end cause,nicht Ursache der Beendigung,ne pas motif de fin,no causa del fin
+217,P2079,fabrication method,Herstellungsmethode,método de fabricación,méthode de fabrication,126027,not fabrication method,nicht Herstellungsmethode,ne pas méthode de fabrication,no método de fabricación
+218,P1605,has natural reservoir,hat Erregerreservoir,tiene reservorio natural,a pour réservoir naturel,443,not has natural reservoir,nicht hat Erregerreservoir,ne pas a pour réservoir naturel,no tiene reservorio natural
+219,P5052,supervisory board member,Aufsichtsratmitglied,miembro del consejo de supervisión,membre du conseil de surveillance,745,not supervisory board member,nicht Aufsichtsratmitglied,ne pas membre du conseil de surveillance,no miembro del consejo de supervisión
+220,P8852,facial hair,Gesichtshaar,vello facial,pilosité faciale,362,not facial hair,nicht Gesichtshaar,ne pas pilosité faciale,no vello facial
+221,P1537,contributing factor of,Co-Faktor von,factor contribuyente de,facteur contributif de,324,not contributing factor of,nicht Co-Faktor von,ne pas facteur contributif de,no factor contribuyente de
+222,P6099,clinical trial phase,Studienphase,fase de ensayo clínico,phase d'essai clinique,177424,not clinical trial phase,nicht Studienphase,ne pas phase d'essai clinique,no fase de ensayo clínico
+223,P6259,epoch,Epoche,época,époque,8076516,not epoch,nicht Epoche,ne pas époque,no época
+224,P9234,supplement to,Beilage,suplemento de,supplément de,140,not supplement to,nicht Beilage,ne pas supplément de,no suplemento de
+225,P9745,translation of,Übersetzung von,traducción de,traduction de,403,not translation of,nicht Übersetzung von,ne pas traduction de,no traducción de
+226,P1211,fuel system,Kraftstoffversorgung,sistema de alimentación,type d'alimentation en carburant,179,not fuel system,nicht Kraftstoffversorgung,ne pas type d'alimentation en carburant,no sistema de alimentación
+227,P4195,category for employees of the organization,Kategorie für Angestellte der Organisation,categoría para empleados de la organización,catégorie pour les employés de l'organisation,3215,not category for employees of the organization,nicht Kategorie für Angestellte der Organisation,ne pas catégorie pour les employés de l'organisation,no categoría para empleados de la organización
+228,P2881,promoted,Aufsteiger,promovido,promu,1221,not promoted,nicht Aufsteiger,ne pas promu,no promovido
+229,P469,lakes on river,See im Verlauf,lagos y embalses en el curso de agua,lac sur le cours d'eau,3369,not lakes on river,nicht See im Verlauf,ne pas lac sur le cours d'eau,no lagos y embalses en el curso de agua
+230,P542,officially opened by,offiziell eröffnet von,abierto oficialmente por,officiellement ouvert par,1043,not officially opened by,nicht offiziell eröffnet von,ne pas officiellement ouvert par,no abierto oficialmente por
+231,P8739,prohibits,verbietet,prohíbe,interdit,16,not prohibits,nicht verbietet,ne pas interdit,no prohíbe
+232,P2318,debut participant,Debütteilnehmer,debutante,première participation,217,not debut participant,nicht Debütteilnehmer,ne pas première participation,no debutante
+233,P2675,reply to,Antwort auf,respuesta a,réponse à,381,not reply to,nicht Antwort auf,ne pas réponse à,no respuesta a
+234,P3433,biological variant of,biologische Nebenform von,variante biológica de,variante biologique de,2085,not biological variant of,nicht biologische Nebenform von,ne pas variante biologique de,no variante biológica de
+235,P87,librettist,Librettist,libretista,librettiste,7348,not librettist,nicht Librettist,ne pas librettiste,no libretista
+236,P1078,Valvetrain configuration,Ventiltrieb,Sistema mecánico,configuration de la commande des soupapes,225,not Valvetrain configuration,nicht Ventiltrieb,ne pas configuration de la commande des soupapes,no Sistema mecánico
+237,P1363,points/goal scored by,Punkt/Treffer erzielt durch,puntos/goles marcados por,point/but marqué par,2441,not points/goal scored by,nicht Punkt/Treffer erzielt durch,ne pas point/but marqué par,no puntos/goles marcados por
+238,P768,electoral district,Wahlbezirk,circunscripción electoral,circonscription électorale,18984,not electoral district,nicht Wahlbezirk,ne pas circonscription électorale,no circunscripción electoral
+239,P1227,astronomical filter,astronomischer Filter,filtro astronómico,filtre astronomique,19,not astronomical filter,nicht astronomischer Filter,ne pas filtre astronomique,no filtro astronómico
+240,P1060,pathogen transmission process,Krankheitserregerübertragungsprozess,proceso de transmisión del patógeno,processus de transmission pathogène,315,not pathogen transmission process,nicht Krankheitserregerübertragungsprozess,ne pas processus de transmission pathogène,no proceso de transmisión del patógeno
+241,P1068,instruction set,Befehlssatz,conjunto de instrucciones,jeu d'instructions,446,not instruction set,nicht Befehlssatz,ne pas jeu d'instructions,no conjunto de instrucciones
+242,P358,discography,Diskografie,discografía,discographie,11845,not discography,nicht Diskografie,ne pas discographie,no discografía
+243,P84,architect,Architekt,arquitecto,architecte,74959,not architect,nicht Architekt,ne pas architecte,no arquitecto
+244,P3496,teams classification by points,Mannschaftsklassifikation nach Punkten,clasificación de equipos por puntos,classement par équipe aux points,963,not teams classification by points,nicht Mannschaftsklassifikation nach Punkten,ne pas classement par équipe aux points,no clasificación de equipos por puntos
+245,P6118,season ends,Saisonende,fin de la temporada,fin de la saison,38,not season ends,nicht Saisonende,ne pas fin de la saison,no fin de la temporada
+246,P3985,supports programming language,unterstützte Programmiersprache,lenguaje de programación soportado,langage de programmation supporté,228,not supports programming language,nicht unterstützte Programmiersprache,ne pas langage de programmation supporté,no lenguaje de programación soportado
+247,P8810,parent,Elternteil,padres,parent (non spécifié),12,not parent,nicht Elternteil,ne pas parent (non spécifié),no padres
+248,P4733,produced sound,erzeugtes Geräusch,sonido producido,son émis,56,not produced sound,nicht erzeugtes Geräusch,ne pas son émis,no sonido producido
+249,P2505,carries,überführt,permite el paso de,permet de faire passer,12347,not carries,nicht überführt,ne pas permet de faire passer,no permite el paso de
+250,P1057,chromosome,Chromosom,cromosoma,chromosome,608704,not chromosome,nicht Chromosom,ne pas chromosome,no cromosoma
+251,P2680,author of afterword,Autor des Nachworts,autor del epílogo,auteur de la postface,96,not author of afterword,nicht Autor des Nachworts,ne pas auteur de la postface,no autor del epílogo
+252,P5054,cabinet,Kabinett,gabinete,gouvernement,5,not cabinet,nicht Kabinett,ne pas gouvernement,no gabinete
+253,P744,asteroid family,Asteroidenfamilie,familia de asteroides,famille d'astéroïdes,184,not asteroid family,nicht Asteroidenfamilie,ne pas famille d'astéroïdes,no familia de asteroides
+254,P1080,from narrative universe,aus narrativem Universum,del universo de ficción,tiré de l'univers de fiction,30781,not from narrative universe,nicht aus narrativem Universum,ne pas tiré de l'univers de fiction,no del universo de ficción
+255,P1875,represented by,repräsentiert von,representante,représenté par,8007,not represented by,nicht repräsentiert von,ne pas représenté par,no representante
+256,P135,movement,Bewegung,movimiento,mouvement,58509,not movement,nicht Bewegung,ne pas mouvement,no movimiento
+257,P1210,supercharger,Kompressor,supercargador,système de suralimentation,7,not supercharger,nicht Kompressor,ne pas système de suralimentation,no supercargador
+258,P7500,comorbidity,Komorbidität,comorbilidad,comorbidité,19,not comorbidity,nicht Komorbidität,ne pas comorbidité,no comorbilidad
+259,P618,source of energy,Energiequelle,fuente de energía,source d'énergie,6176,not source of energy,nicht Energiequelle,ne pas source d'énergie,no fuente de energía
+260,P923,medical examinations,medizinische Untersuchungen,exámenes posibles,examens possibles,989,not medical examinations,nicht medizinische Untersuchungen,ne pas examens possibles,no exámenes posibles
+261,P788,mushroom ecological type,Lebensart des Pilzes,tipo de ecología de la seta,type écologique de champignon,967,not mushroom ecological type,nicht Lebensart des Pilzes,ne pas type écologique de champignon,no tipo de ecología de la seta
+262,P2632,place of detention,Haftort,lugar de encarcelamiento,lieu de détention,144480,not place of detention,nicht Haftort,ne pas lieu de détention,no lugar de encarcelamiento
+263,P2935,connector,Anschluss,conector,connecteur,786,not connector,nicht Anschluss,ne pas connecteur,no conector
+264,P1012,including,einschließlich,incluyendo,pris en compte,59,not including,nicht einschließlich,ne pas pris en compte,no incluyendo
+265,P4322,best sprinter classification,Sprintwertung,Clasificación de las metas volantes,classement du meilleur sprinteur,1461,not best sprinter classification,nicht Sprintwertung,ne pas classement du meilleur sprinteur,no Clasificación de las metas volantes
+266,P1547,depends on software,abhängig von,depende del software,dépend de,18184,not depends on software,nicht abhängig von,ne pas dépend de,no depende del software
+267,P8032,victim,Opfer,víctima,victime,848,not victim,nicht Opfer,ne pas victime,no víctima
+268,P272,production company,Produktionsgesellschaft,empresa productora,société de production,117973,not production company,nicht Produktionsgesellschaft,ne pas société de production,no empresa productora
+269,P1419,shape,Form,forma,forme géométrique,1775,not shape,nicht Form,ne pas forme géométrique,no forma
+270,P5824,is retracted by,ist zurückgezogen worden von,es retractado por,rétractation,1462,not is retracted by,nicht ist zurückgezogen worden von,ne pas rétractation,no es retractado por
+271,P2416,sports discipline competed in,Sportdisziplin,disciplina deportiva,discipline sportive pratiquée en compétition,47958,not sports discipline competed in,nicht Sportdisziplin,ne pas discipline sportive pratiquée en compétition,no disciplina deportiva
+272,P3828,wears,trägt,vestimenta,élément de parure,1707,not wears,nicht trägt,ne pas élément de parure,no vestimenta
+273,P5389,permanent resident of,mit Niederlassungserlaubnis in,residente permanente de,résident permanent de,1285,not permanent resident of,nicht mit Niederlassungserlaubnis in,ne pas résident permanent de,no residente permanente de
+274,P4006,overrules,überstimmen,prevalece sobre,l'emporte sur,10,not overrules,nicht überstimmen,ne pas l'emporte sur,no prevalece sobre
+275,P69,educated at,besuchte Bildungseinrichtung,educado en,scolarité,2263949,not educated at,nicht besuchte Bildungseinrichtung,ne pas scolarité,no educado en
+276,P189,location of discovery,Fundort,lugar de descubrimiento,lieu de découverte,26237,not location of discovery,nicht Fundort,ne pas lieu de découverte,no lugar de descubrimiento
+277,P3094,develops from,entwickelt sich aus,se desarrolla de,se développe de,106,not develops from,nicht entwickelt sich aus,ne pas se développe de,no se desarrolla de
+278,P2825,via,via,vía,via,851,not via,nicht via,ne pas via,no vía
+279,P4934,calculated from,berechnet aus,calculado a partir de,calculé à partir de,578,not calculated from,nicht berechnet aus,ne pas calculé à partir de,no calculado a partir de
+280,P2462,member of the deme,Mitglied im Demos,miembro del demo,membre du dème,195,not member of the deme,nicht Mitglied im Demos,ne pas membre du dème,no miembro del demo
+281,P2937,parliamentary term,Legislaturperiode,legislatura,législature,6368,not parliamentary term,nicht Legislaturperiode,ne pas législature,no legislatura
+282,P2828,corporate officer,leitender Angestellter,funcionario de la corporación,cadre dirigeant,95,not corporate officer,nicht leitender Angestellter,ne pas cadre dirigeant,no funcionario de la corporación
+283,P400,platform,Plattform,plataforma,plateforme,95318,not platform,nicht Plattform,ne pas plateforme,no plataforma
+284,P4353,nominated by,vorgeschlagen von,nominado por,nommé à ce poste par,230,not nominated by,nicht vorgeschlagen von,ne pas nommé à ce poste par,no nominado por
+285,P690,space group,Raumgruppe,grupo espacial,groupe spatial,2226,not space group,nicht Raumgruppe,ne pas groupe spatial,no grupo espacial
+286,P681,cell component,Zellkomponente,componente celular,composant cellulaire,899727,not cell component,nicht Zellkomponente,ne pas composant cellulaire,no componente celular
+287,P425,field of this occupation,Betätigungsfeld des Berufes,ámbito de la ocupación,domaine d'occupation,5724,not field of this occupation,nicht Betätigungsfeld des Berufes,ne pas domaine d'occupation,no ámbito de la ocupación
+288,P6364,official color,offizielle Farbe,color oficial,couleur officielle,3085,not official color,nicht offizielle Farbe,ne pas couleur officielle,no color oficial
+289,P1789,chief operating officer,Chief Operating Officer,jefe de operaciones,directeur de l'exploitation,68,not chief operating officer,nicht Chief Operating Officer,ne pas directeur de l'exploitation,no jefe de operaciones
+290,P1049,worshipped by,Gottheit von,venerado por,fait l'objet d'une vénération par,2328,not worshipped by,nicht Gottheit von,ne pas fait l'objet d'une vénération par,no venerado por
+291,P831,parent club,Mutterverein,club principal,club parent,4469,not parent club,nicht Mutterverein,ne pas club parent,no club principal
+292,P1881,list of characters,Liste der Charaktere,lista de personajes,liste des personnages,877,not list of characters,nicht Liste der Charaktere,ne pas liste des personnages,no lista de personajes
+293,P2289,venous drainage,venöse Abstrom,drenaje venoso,drainage veineux,164,not venous drainage,nicht venöse Abstrom,ne pas drainage veineux,no drenaje venoso
+294,P2175,medical condition treated,zur Behandlung von benutzt,condición médica tratada,maladie traitée,6990,not medical condition treated,nicht zur Behandlung von benutzt,ne pas maladie traitée,no condición médica tratada
+295,P3512,means of locomotion,Fortbewegungsweise,medio de locomoción,moyen de locomotion,102,not means of locomotion,nicht Fortbewegungsweise,ne pas moyen de locomotion,no medio de locomoción
+296,P3741,seed dispersal,Samenausbreitung,dispersión de semillas,dissémination des graines,9,not seed dispersal,nicht Samenausbreitung,ne pas dissémination des graines,no dispersión de semillas
+297,P8701,has census,hat Volkszählung,censo de la población,recensement de la population effectué,596,not has census,nicht hat Volkszählung,ne pas recensement de la population effectué,no censo de la población
+298,P1731,Fach,Stimmfach,especialización vocal,Fach,390,not Fach,nicht Stimmfach,ne pas Fach,no especialización vocal
+299,P2353,statistical unit,statistische Einheit,unidad estadística,granularité,25,not statistical unit,nicht statistische Einheit,ne pas granularité,no unidad estadística
+300,P1571,codomain,Zielmenge,codominio,ensemble d'arrivée,76,not codomain,nicht Zielmenge,ne pas ensemble d'arrivée,no codominio
+301,P972,catalog,Katalog,catálogo,catalogue,69053,not catalog,nicht Katalog,ne pas catalogue,no catálogo
+302,P3461,designated as terrorist by,als terroristisch eingestuft von,considerado terrorista por,désigné comme terroriste par,236,not designated as terrorist by,nicht als terroristisch eingestuft von,ne pas désigné comme terroriste par,no considerado terrorista por
+303,P688,encodes,codiert,codifica,synthètise,973832,not encodes,nicht codiert,ne pas synthètise,no codifica
+304,P1898,lowest note,tiefste Note,nota más baja,note la plus basse,9,not lowest note,nicht tiefste Note,ne pas note la plus basse,no nota más baja
+305,P6116,chord progression,Akkordprogression,progresión armónica,progression d'accords,25,not chord progression,nicht Akkordprogression,ne pas progression d'accords,no progresión armónica
+306,P1592,prosecutor,Ankläger,fiscal,procureur,426,not prosecutor,nicht Ankläger,ne pas procureur,no fiscal
+307,P5051,towards,Endhaltestelle,destino,destination,64,not towards,nicht Endhaltestelle,ne pas destination,no destino
+308,P200,inflows,Zufluss,alimentación,alimentation,14492,not inflows,nicht Zufluss,ne pas alimentation,no alimentación
+309,P1924,vaccine for,Impfstoff für,vacuna para,vaccin pour,203,not vaccine for,nicht Impfstoff für,ne pas vaccin pour,no vacuna para
+310,P703,found in taxon,auffindbar in Taxon,hallado en el taxón,trouvé dans le taxon,2881165,not found in taxon,nicht auffindbar in Taxon,ne pas trouvé dans le taxon,no hallado en el taxón
+311,P4954,may prevent,kann verhindern,puede prevenir,peut prévenir,10,not may prevent,nicht kann verhindern,ne pas peut prévenir,no puede prevenir
+312,P5816,state of conservation,Erhaltungszustand,estado de conservación,état de conservation,32874,not state of conservation,nicht Erhaltungszustand,ne pas état de conservation,no estado de conservación
+313,P4614,drainage basin,Einzugsgebiet,cuenca hidrográfica,bassin versant,79349,not drainage basin,nicht Einzugsgebiet,ne pas bassin versant,no cuenca hidrográfica
+314,P2308,class,Klasse,clase,classe,2,not class,nicht Klasse,ne pas classe,no clase
+315,P3501,Christian liturgical rite,katholischer Ritus,rito cristiano,rite catholique,14867,not Christian liturgical rite,nicht katholischer Ritus,ne pas rite catholique,no rito cristiano
+316,P2673,next crossing upstream,nächste Querung flussaufwärts,próximo cruce río arriba,précédent franchissement en amont,1546,not next crossing upstream,nicht nächste Querung flussaufwärts,ne pas précédent franchissement en amont,no próximo cruce río arriba
+317,P1706,together with,zusammen mit,junto con,avec,71,not together with,nicht zusammen mit,ne pas avec,no junto con
+318,P1318,proved by,bewiesen durch,probado por,prouvé ou démontré par,124,not proved by,nicht bewiesen durch,ne pas prouvé ou démontré par,no probado por
+319,P2551,used metre,Metrum,métrica usada,métrique utilisée,344,not used metre,nicht Metrum,ne pas métrique utilisée,no métrica usada
+320,P2578,studies,studiert,estudia,objet de la discipline,1945,not studies,nicht studiert,ne pas objet de la discipline,no estudia
+321,P812,academic major,Hauptfach im Studium,especialización académica,principale spécialité d'étude,2802,not academic major,nicht Hauptfach im Studium,ne pas principale spécialité d'étude,no especialización académica
+322,P1887,vice-county,Vice-County,vicecondado,vice-comté,47,not vice-county,nicht Vice-County,ne pas vice-comté,no vicecondado
+323,P8058,symbol of,Symbol von,símbolo de,symbole de,48,not symbol of,nicht Symbol von,ne pas symbole de,no símbolo de
+324,P8764,port calls,Angelaufener Hafen,puerto de escala,port d'escale,25,not port calls,nicht Angelaufener Hafen,ne pas port d'escale,no puerto de escala
+325,P4584,first appearance,erstes Erscheinen,primera aparición,première apparition,6813,not first appearance,nicht erstes Erscheinen,ne pas première apparition,no primera aparición
+326,P1456,list of monuments,Liste der Denkmale,lista de monumentos,liste de biens patrimoniaux,20112,not list of monuments,nicht Liste der Denkmale,ne pas liste de biens patrimoniaux,no lista de monumentos
+327,P4446,reward program,Bonusprogramm,programa de beneficios,programme de récompense,276,not reward program,nicht Bonusprogramm,ne pas programme de récompense,no programa de beneficios
+328,P65,site of astronomical discovery,astronomischer Entdeckungsort,lugar de descubrimiento astronómico,lieu de découverte astronomique,53748,not site of astronomical discovery,nicht astronomischer Entdeckungsort,ne pas lieu de découverte astronomique,no lugar de descubrimiento astronómico
+329,P1809,choreographer,Choreograf,coreógrafo,chorégraphe,4202,not choreographer,nicht Choreograf,ne pas chorégraphe,no coreógrafo
+330,P522,type of orbit,Umlaufbahn,tipo de órbita,type d'orbite,1169,not type of orbit,nicht Umlaufbahn,ne pas type d'orbite,no tipo de órbita
+331,P344,director of photography,Kameramann,director de fotografía,directeur de la photographie,91420,not director of photography,nicht Kameramann,ne pas directeur de la photographie,no director de fotografía
+332,P2319,elector,Wahlleute,elector,électeur,67,not elector,nicht Wahlleute,ne pas électeur,no elector
+333,P500,exclave of,Exklave von,exclave de,exclave de,130,not exclave of,nicht Exklave von,ne pas exclave de,no exclave de
+334,P2396,image of function,Bildmenge,imagen de la función,image d'une application,47,not image of function,nicht Bildmenge,ne pas image d'une application,no imagen de la función
+335,P1454,legal form,Rechtsform,forma jurídica,forme juridique,196617,not legal form,nicht Rechtsform,ne pas forme juridique,no forma jurídica
+336,P467,legislated by,verabschiedet durch,legislado por,législateur,46713,not legislated by,nicht verabschiedet durch,ne pas législateur,no legislado por
+337,P795,located on linear feature,befindet sich entlang,situado a lo largo de,situé le long de,1430,not located on linear feature,nicht befindet sich entlang,ne pas situé le long de,no situado a lo largo de
+338,P375,space launch vehicle,Trägerrakete,vehículo de lanzamiento espacial,lanceur,6754,not space launch vehicle,nicht Trägerrakete,ne pas lanceur,no vehículo de lanzamiento espacial
+339,P3349,designed to carry,transportiert,diseñado para transportar,conçu pour transporter,164,not designed to carry,nicht transportiert,ne pas conçu pour transporter,no diseñado para transportar
+340,P2500,league level below,niedrigere Liga,liga inferior,ligue inférieure,6575,not league level below,nicht niedrigere Liga,ne pas ligue inférieure,no liga inferior
+341,P1372,binding of software library,Sprachanbindung für,binding de biblioteca software,liaison de la bibliothèque,29,not binding of software library,nicht Sprachanbindung für,ne pas liaison de la bibliothèque,no binding de biblioteca software
+342,P2851,payment types accepted,akzeptierte Zahlungsarten,métodos de pago aceptados,méthode de paiement acceptée,39222,not payment types accepted,nicht akzeptierte Zahlungsarten,ne pas méthode de paiement acceptée,no métodos de pago aceptados
+343,P264,record label,Plattenlabel,sello discográfico,label discographique,338037,not record label,nicht Plattenlabel,ne pas label discographique,no sello discográfico
+344,P1312,has facet polytope,Facette des Polytops,faceta del politopo,polytope de facette,1089,not has facet polytope,nicht Facette des Polytops,ne pas polytope de facette,no faceta del politopo
+345,P5102,nature of statement,Art der Behauptung,naturaleza de la declaración,nature de la déclaration,29,not nature of statement,nicht Art der Behauptung,ne pas nature de la déclaration,no naturaleza de la declaración
+346,P8625,bibliography,Bibliographie,bibliografía,bibliographie,69,not bibliography,nicht Bibliographie,ne pas bibliographie,no bibliografía
+347,P736,cover art by,Covergestalter,artista de la portada,auteur de la couverture ou de la pochette,6641,not cover art by,nicht Covergestalter,ne pas auteur de la couverture ou de la pochette,no artista de la portada
+348,P6112,category for members of a team,Kategorie für Vereinsmitglieder,categoría para miembros de un equipo,catégorie pour les membres de cette équipe,16667,not category for members of a team,nicht Kategorie für Vereinsmitglieder,ne pas catégorie pour les membres de cette équipe,no categoría para miembros de un equipo
+349,P2820,cardinality of this set,Mächtigkeit dieser Menge,cardinalidad de este conjunto,cardinalité de cet ensemble,45,not cardinality of this set,nicht Mächtigkeit dieser Menge,ne pas cardinalité de cet ensemble,no cardinalidad de este conjunto
+350,P9071,character type,Charaktertypus,tipo de personaje,personnage type,3191,not character type,nicht Charaktertypus,ne pas personnage type,no tipo de personaje
+351,P770,cause of destruction,Grund der Zerstörung,causa de destrucción,cause de la destruction,1374,not cause of destruction,nicht Grund der Zerstörung,ne pas cause de la destruction,no causa de destrucción
+352,P1393,proxy,Bevollmächtigte,apoderado,fondé de pouvoir,49,not proxy,nicht Bevollmächtigte,ne pas fondé de pouvoir,no apoderado
+353,P1170,transmitted signal type,übertragenes Signal,señal transmitida,signal transmis,12,not transmitted signal type,nicht übertragenes Signal,ne pas signal transmis,no señal transmitida
+354,P531,diplomatic mission sent,diplomatische Vertretung,misión diplomática enviada,mission diplomatique envoyée,1693,not diplomatic mission sent,nicht diplomatische Vertretung,ne pas mission diplomatique envoyée,no misión diplomática enviada
+355,P4743,animal breed,Tierrasse,raza animal,race animale,8600,not animal breed,nicht Tierrasse,ne pas race animale,no raza animal
+356,P1313,office held by head of government,oberstes Regierungsamt,cargo ocupado por el jefe de gobierno,poste occupé par le chef de l'exécutif,62768,not office held by head of government,nicht oberstes Regierungsamt,ne pas poste occupé par le chef de l'exécutif,no cargo ocupado por el jefe de gobierno
+357,P3037,spatial reference system,Koordinatenbezugssystem,sistema de referencia espacial,système de coordonnées,3,not spatial reference system,nicht Koordinatenbezugssystem,ne pas système de coordonnées,no sistema de referencia espacial
+358,P7045,chassis,Fahrgestell,chasis,châssis,48,not chassis,nicht Fahrgestell,ne pas châssis,no chasis
+359,P1026,academic thesis,Hochschulschrift,tesis académica,thèse académique,10992,not academic thesis,nicht Hochschulschrift,ne pas thèse académique,no tesis académica
+360,P7261,use restriction status,Status der Verwendungsbeschränkung,restricción de uso,restrictions d'utilisation,415384,not use restriction status,nicht Status der Verwendungsbeschränkung,ne pas restrictions d'utilisation,no restricción de uso
+361,P5460,grants,verleiht akademischen Grad,confiere,diplôme ou distinction délivré,689,not grants,nicht verleiht akademischen Grad,ne pas diplôme ou distinction délivré,no confiere
+362,P6149,running mate,Mitkandidat,candidato a la vicepresidencia,candidat à la vice-présidence,2,not running mate,nicht Mitkandidat,ne pas candidat à la vice-présidence,no candidato a la vicepresidencia
+363,P5023,activity policy in this place,Verhaltensanweisung für den Ort,actividad reglamentada en este lugar,politique réglementaire en vigueur sur place,126,not activity policy in this place,nicht Verhaltensanweisung für den Ort,ne pas politique réglementaire en vigueur sur place,no actividad reglamentada en este lugar
+364,P4745,is proceedings from,ausgehend von,actas de,actes de,1584,not is proceedings from,nicht ausgehend von,ne pas actes de,no actas de
+365,P3161,has grammatical mood,hat grammatische Stimmung,tiene como modo gramatical,a comme mode grammatical,109,not has grammatical mood,nicht hat grammatische Stimmung,ne pas a comme mode grammatical,no tiene como modo gramatical
+366,P4312,camera setup,Filmkameraaufbau,posición de cámara,position de caméra,1869,not camera setup,nicht Filmkameraaufbau,ne pas position de caméra,no posición de cámara
+367,P8791,digitised by,digitalisiert von,digitalizado por,numérisé par,2702,not digitised by,nicht digitalisiert von,ne pas numérisé par,no digitalizado por
+368,P1194,received signal type,empfangenes Signal,señal recibida,signal capté,3,not received signal type,nicht empfangenes Signal,ne pas signal capté,no señal recibida
+369,P2095,co-driver,Beifahrer,copiloto,copilote,48,not co-driver,nicht Beifahrer,ne pas copilote,no copiloto
+370,P720,asteroid spectral type,Spektraltyp des Asteroiden,tipo espectral de asteroide,type spectral de l'astéroïde,419,not asteroid spectral type,nicht Spektraltyp des Asteroiden,ne pas type spectral de l'astéroïde,no tipo espectral de asteroide
+371,P658,tracklist,Titelliste,lista de canciones,liste des chansons,33672,not tracklist,nicht Titelliste,ne pas liste des chansons,no lista de canciones
+372,P991,successful candidate,erfolgreicher Kandidat,elegido,élu,23166,not successful candidate,nicht erfolgreicher Kandidat,ne pas élu,no elegido
+373,P2238,official symbol,offizielles Symbol,símbolo oficial,symbole officiel,1419,not official symbol,nicht offizielles Symbol,ne pas symbole officiel,no símbolo oficial
+374,P2674,next crossing downstream,nächste Querung flussabwärts,próximo cruce río abajo,prochain franchissement en aval,1563,not next crossing downstream,nicht nächste Querung flussabwärts,ne pas prochain franchissement en aval,no próximo cruce río abajo
+375,P8324,funder,Stifter,financiador,financeur,1881,not funder,nicht Stifter,ne pas financeur,no financiador
+376,P2701,file format,Dateiformat,formato de archivo,format de fichier,504,not file format,nicht Dateiformat,ne pas format de fichier,no formato de archivo
+377,P3771,activator of,Aktivator von,activador de,activateur de,9,not activator of,nicht Aktivator von,ne pas activateur de,no activador de
+378,P5024,choral conductor,Chorleiter,director de coro,chef de chœur,33,not choral conductor,nicht Chorleiter,ne pas chef de chœur,no director de coro
+379,P7108,location of the point of view,Standort des Beobachters,lugar del punto de vista,position du point de vue,513,not location of the point of view,nicht Standort des Beobachters,ne pas position du point de vue,no lugar del punto de vista
+380,P1780,school of,Schule,escuela de,école de,19,not school of,nicht Schule,ne pas école de,no escuela de
+381,P1340,eye color,Augenfarbe,color de ojos,couleur des yeux,10007,not eye color,nicht Augenfarbe,ne pas couleur des yeux,no color de ojos
+382,P1302,primary destinations,Hauptorte,destinos principales,principales localités desservies,3923,not primary destinations,nicht Hauptorte,ne pas principales localités desservies,no destinos principales
+383,P6216,copyright status,Urheberrechtsstatus,estatus de los derechos de autor,statut des droits d'auteur,1809459,not copyright status,nicht Urheberrechtsstatus,ne pas statut des droits d'auteur,no estatus de los derechos de autor
+384,P6568,inscription mentions,Inschrift erwähnt,mención de la inscripción,mention sur l'inscription,1709,not inscription mentions,nicht Inschrift erwähnt,ne pas mention sur l'inscription,no mención de la inscripción
+385,P1876,vehicle,Fahrzeug,nave,vaisseau,840,not vehicle,nicht Fahrzeug,ne pas vaisseau,no nave
+386,P3816,film script,Drehbuch,guion cinematográfico,scénario,28,not film script,nicht Drehbuch,ne pas scénario,no guion cinematográfico
+387,P2378,issued by,ausgestellt von,emitido por,délivré par,1768,not issued by,nicht ausgestellt von,ne pas délivré par,no emitido por
+388,P841,feast day,Gedenktag,día de festividad,fête,8727,not feast day,nicht Gedenktag,ne pas fête,no día de festividad
+389,P608,exhibition history,Ausstellungen,historial de exposiciones,exposition,26567,not exhibition history,nicht Ausstellungen,ne pas exposition,no historial de exposiciones
+390,P2822,by-product of,Nebenprodukt von,subproducto de,sous-produit de,34,not by-product of,nicht Nebenprodukt von,ne pas sous-produit de,no subproducto de
+391,P414,stock exchange,Börse,bolsa de valores,place de cotation,13226,not stock exchange,nicht Börse,ne pas place de cotation,no bolsa de valores
+392,P4424,mandates,benötigt,requiere,demande,147,not mandates,nicht benötigt,ne pas demande,no requiere
+393,P6439,has lyrics,Liedtext,tiene la letra de,paroles provenant de,393,not has lyrics,nicht Liedtext,ne pas paroles provenant de,no tiene la letra de
+394,P7767,serving temperature,Serviertemperatur,temperatura de servido,température de service,29,not serving temperature,nicht Serviertemperatur,ne pas température de service,no temperatura de servido
+395,P412,voice type,Stimmlage,tesitura,tessiture,34211,not voice type,nicht Stimmlage,ne pas tessiture,no tesitura
+396,P289,vessel class,Schiffsklasse,clase de navío,type de vaisseau,13258,not vessel class,nicht Schiffsklasse,ne pas type de vaisseau,no clase de navío
+397,P505,general manager,Generaldirektor,director general,manager général,1482,not general manager,nicht Generaldirektor,ne pas manager général,no director general
+398,P6365,member category,Kategorie für Mitglieder,categoría de miembros,catégorie pour les membres,3788,not member category,nicht Kategorie für Mitglieder,ne pas catégorie pour les membres,no categoría de miembros
+399,P1001,applies to jurisdiction,gehört zum Zuständigkeitsbereich,pertenece a la jurisdicción,ressort territorial,930421,not applies to jurisdiction,nicht gehört zum Zuständigkeitsbereich,ne pas ressort territorial,no pertenece a la jurisdicción
+400,P2499,league level above,höhere Liga,liga superior,ligue supérieure,6638,not league level above,nicht höhere Liga,ne pas ligue supérieure,no liga superior
+401,P6886,writing language,geschriebene Sprache,lengua(s) de escritura,langues d'écriture (pour les auteurs publiés seulement),160586,not writing language,nicht geschriebene Sprache,ne pas langues d'écriture (pour les auteurs publiés seulement),no lengua(s) de escritura
+402,P1221,compressor type,Kompressortyp,tipo de compresor,type de compresseur,2,not compressor type,nicht Kompressortyp,ne pas type de compresseur,no tipo de compresor
+403,P1002,engine configuration,Motorbauform,configuración del motor,architecture du moteur,1031,not engine configuration,nicht Motorbauform,ne pas architecture du moteur,no configuración del motor
+404,P693,cleavage,Spaltbarkeit,exfoliación,clivage,63,not cleavage,nicht Spaltbarkeit,ne pas clivage,no exfoliación
+405,P1777,manner of,nach Art von,a la manera de,à la manière de,9,not manner of,nicht nach Art von,ne pas à la manière de,no a la manera de
+406,P1574,exemplar of,Exemplar von,ejemplar de,exemplaire de,1726,not exemplar of,nicht Exemplar von,ne pas exemplaire de,no ejemplar de
+407,P1387,political alignment,politische Ausrichtung,posición política,position politique,4177,not political alignment,nicht politische Ausrichtung,ne pas position politique,no posición política
+408,P5444,model year,Modelljahr,año del modelo,année modèle,63,not model year,nicht Modelljahr,ne pas année modèle,no año del modelo
+409,P91,sexual orientation,sexuelle Orientierung,orientación sexual,orientation sexuelle,4087,not sexual orientation,nicht sexuelle Orientierung,ne pas orientation sexuelle,no orientación sexual
+410,P30,continent,Kontinent,continente,continent,82969,not continent,nicht Kontinent,ne pas continent,no continente
+411,P2515,costume designer,Kostümbildner,diseñador de vestuario,costumier,12653,not costume designer,nicht Kostümbildner,ne pas costumier,no diseñador de vestuario
+412,P2577,admissible rule in,gültige Regel in,regla admisible en,admissible en,8,not admissible rule in,nicht gültige Regel in,ne pas admissible en,no regla admisible en
+413,P2550,recording or performance of,Aufnahme oder Ausführung von,grabación o ejecución de,enregistrement ou interprétation de,14735,not recording or performance of,nicht Aufnahme oder Ausführung von,ne pas enregistrement ou interprétation de,no grabación o ejecución de
+414,P2647,source of material,Herkunft des Materials,origen del material,source du matériau,147,not source of material,nicht Herkunft des Materials,ne pas source du matériau,no origen del material
+415,P611,religious order,Ordensgemeinschaft,orden religiosa,ordre religieux,31990,not religious order,nicht Ordensgemeinschaft,ne pas ordre religieux,no orden religiosa
+416,P2541,operating area,Versorgungsgebiet,área de operación,zone opérationnelle,17718,not operating area,nicht Versorgungsgebiet,ne pas zone opérationnelle,no área de operación
+417,P3294,encoding,Kodierung,codificación,encodage,2,not encoding,nicht Kodierung,ne pas encodage,no codificación
+418,P479,input method,Eingabegerät,dispositivo de entrada,périphérique d'entrée,15055,not input method,nicht Eingabegerät,ne pas périphérique d'entrée,no dispositivo de entrada
+419,P6885,historical region,historische Region,región histórica,région historique,15035,not historical region,nicht historische Region,ne pas région historique,no región histórica
+420,P837,day in year for periodic occurrence,Jahrestag,día del año de una ocurrencia periódica,jour de l'année,3293,not day in year for periodic occurrence,nicht Jahrestag,ne pas jour de l'année,no día del año de una ocurrencia periódica
+421,P2058,depositary,Depositar,depositario,dépositaire,229,not depositary,nicht Depositar,ne pas dépositaire,no depositario
+422,P541,office contested,zur Wahl stehendes Amt,cargo que elige,poste en jeu,41494,not office contested,nicht zur Wahl stehendes Amt,ne pas poste en jeu,no cargo que elige
+423,P588,coolant,Kühlmedium,refrigerante,réfrigérant,484,not coolant,nicht Kühlmedium,ne pas réfrigérant,no refrigerante
+424,P1576,lifestyle,Lebensstil,estilo de vida,style de vie,1287,not lifestyle,nicht Lebensstil,ne pas style de vie,no estilo de vida
+425,P1774,workshop of,Werkstatt von,taller de,atelier de,7,not workshop of,nicht Werkstatt von,ne pas atelier de,no taller de
+426,P543,oath made by,Eid abgeleistet von,juramento tomado por,serment prêté par,90,not oath made by,nicht Eid abgeleistet von,ne pas serment prêté par,no juramento tomado por
+427,P504,home port,Heimathafen,puerto de origen,port d'attache,5856,not home port,nicht Heimathafen,ne pas port d'attache,no puerto de origen
+428,P511,honorific prefix,ehrende Anrede,prefijo honorífico,titre honorifique,52343,not honorific prefix,nicht ehrende Anrede,ne pas titre honorifique,no prefijo honorífico
+429,P8127,tournament format,Turnierformat,formato de torneo,format du tournoi,1801,not tournament format,nicht Turnierformat,ne pas format du tournoi,no formato de torneo
+430,P9237,reissue of,Wiederveröffentlichung,reedición de,réédition de,197,not reissue of,nicht Wiederveröffentlichung,ne pas réédition de,no reedición de
+431,P4908,season,Staffel,temporada,saison,63279,not season,nicht Staffel,ne pas saison,no temporada
+432,P1199,mode of inheritance,Vererbungsgang,modo de herencia,mode de transmission,85,not mode of inheritance,nicht Vererbungsgang,ne pas mode de transmission,no modo de herencia
+433,P6166,quotes work,wörtlich zitiertes Werk,cita la obra,cite l'œuvre,409,not quotes work,nicht wörtlich zitiertes Werk,ne pas cite l'œuvre,no cita la obra
+434,P193,main building contractor,Generalbauunternehmer,constructor,maître d'œuvre,2893,not main building contractor,nicht Generalbauunternehmer,ne pas maître d'œuvre,no constructor
+435,P945,allegiance,Treuepflicht,lealtad,allégeance envers,60809,not allegiance,nicht Treuepflicht,ne pas allégeance envers,no lealtad
+436,P5185,grammatical gender,grammatikalisches Geschlecht,género gramatical,genre grammatical,236557,not grammatical gender,nicht grammatikalisches Geschlecht,ne pas genre grammatical,no género gramatical
+437,P4647,location of first performance,Ort der Uraufführung oder Erstausstrahlung,lugar de primera representación,lieu de la première représentation,18236,not location of first performance,nicht Ort der Uraufführung oder Erstausstrahlung,ne pas lieu de la première représentation,no lugar de primera representación
+438,P1399,convicted of,verurteilt wegen,condenado por,condamné pour,10492,not convicted of,nicht verurteilt wegen,ne pas condamné pour,no condenado por
+439,P114,airline alliance,Luftfahrtallianz,alianza aérea,alliance aérienne,278,not airline alliance,nicht Luftfahrtallianz,ne pas alliance aérienne,no alianza aérea
+440,P512,academic degree,akademischer Grad,grado académico,diplôme universitaire,131615,not academic degree,nicht akademischer Grad,ne pas diplôme universitaire,no grado académico
+441,P8706,ritual object,Ritualobjekt,objeto ritual,objet rituel,631,not ritual object,nicht Ritualobjekt,ne pas objet rituel,no objeto ritual
+442,P3279,statistical leader,Erster in einer Statistik,líder estadístico,auteur de la meilleure performance,2638,not statistical leader,nicht Erster in einer Statistik,ne pas auteur de la meilleure performance,no líder estadístico
+443,P4220,order of battle,Schlachtordnung,orden de batalla,ordre de bataille,409,not order of battle,nicht Schlachtordnung,ne pas ordre de bataille,no orden de batalla
+444,P5514,accredited by,akkreditiert von,acreditación,accrédité par,4149,not accredited by,nicht akkreditiert von,ne pas accrédité par,no acreditación
+445,P735,given name,Vorname,nombre de pila,prénom,6659405,not given name,nicht Vorname,ne pas prénom,no nombre de pila
+446,P126,maintained by,Betreuer,mantenido por,maintenance assurée par,528275,not maintained by,nicht Betreuer,ne pas maintenance assurée par,no mantenido por
+447,P1408,licensed to broadcast to,Sendelizenz in,licenciado para emitir en,ville de licence,16647,not licensed to broadcast to,nicht Sendelizenz in,ne pas ville de licence,no licenciado para emitir en
+448,P5137,item for this sense,Objekt für diesen Sinn,elemento para este sentido,élément pour ce sens,113852,not item for this sense,nicht Objekt für diesen Sinn,ne pas élément pour ce sens,no elemento para este sentido
+449,P5009,complies with,erfüllt,conforme a,est conforme à,162,not complies with,nicht erfüllt,ne pas est conforme à,no conforme a
+450,P1437,plea,Plädoyer der Verteidigung,declaración de culpabilidad,plaidoyer,7,not plea,nicht Plädoyer der Verteidigung,ne pas plaidoyer,no declaración de culpabilidad
+451,P8626,opening time,Öffnungszeit,hora de apertura,heure d'ouverture,9,not opening time,nicht Öffnungszeit,ne pas heure d'ouverture,no hora de apertura
+452,P533,target,Angriffsziel,objetivo,cible,1480,not target,nicht Angriffsziel,ne pas cible,no objetivo
+453,P306,operating system,Betriebssystem,sistema operativo,système d'exploitation,39208,not operating system,nicht Betriebssystem,ne pas système d'exploitation,no sistema operativo
+454,P816,decays to,zerfällt zu,se desintegra en,se désintègre spontanément en,7387,not decays to,nicht zerfällt zu,ne pas se désintègre spontanément en,no se desintegra en
+455,P2291,charted in,Chartplatzierung,clasificado en,classé dans,1600,not charted in,nicht Chartplatzierung,ne pas classé dans,no clasificado en
+456,P1383,contains settlement,enthält Siedlung,núcleo de población,contient la localité,32828,not contains settlement,nicht enthält Siedlung,ne pas contient la localité,no núcleo de población
+457,P2849,produced by,produziert durch,producido por,produit par,270,not produced by,nicht produziert durch,ne pas produit par,no producido por
+458,P21,sex or gender,Geschlecht,sexo o género,sexe ou genre,7855753,not sex or gender,nicht Geschlecht,ne pas sexe ou genre,no sexo o género
+459,P682,biological process,biologischer Prozess,proceso biológico,processus biologique,1194172,not biological process,nicht biologischer Prozess,ne pas processus biologique,no proceso biológico
+460,P6758,supported sports team,unterstützt Sportmannschaft,equipo deportivo apoyado,supporter de,700,not supported sports team,nicht unterstützt Sportmannschaft,ne pas supporter de,no equipo deportivo apoyado
+461,P5817,state of use,Nutzungszustand,estado de uso,état d'usage,29051,not state of use,nicht Nutzungszustand,ne pas état d'usage,no estado de uso
+462,P3005,valid in place,gilt für Ort,válido en,valide en/à,174,not valid in place,nicht gilt für Ort,ne pas valide en/à,no válido en
+463,P3643,significant environmental impact,Einfluss auf die Umwelt,impacto ambiental significativo,problème environnemental,13095,not significant environmental impact,nicht Einfluss auf die Umwelt,ne pas problème environnemental,no impacto ambiental significativo
+464,P655,translator,Übersetzer,traductor,traducteur,17950,not translator,nicht Übersetzer,ne pas traducteur,no traductor
+465,P8196,voting system,Abstimmungssystem,sistema de votación,système de vote,1329,not voting system,nicht Abstimmungssystem,ne pas système de vote,no sistema de votación
+466,P1840,investigated by,untersucht von,investigado por,investigué par,573,not investigated by,nicht untersucht von,ne pas investigué par,no investigado por
+467,P5422,has pattern,hat dekoratives Muster,patrón decorativo,motif décoratif,404,not has pattern,nicht hat dekoratives Muster,ne pas motif décoratif,no patrón decorativo
+468,P912,has facility,verfügt über Einrichtung,instalaciones,équipement,16505,not has facility,nicht verfügt über Einrichtung,ne pas équipement,no instalaciones
+469,P3967,final event,Finale,evento final,événement final,1767,not final event,nicht Finale,ne pas événement final,no evento final
+470,P3014,laws applied,angewendete Gesetze,leyes aplicadas,lois appliquées,173,not laws applied,nicht angewendete Gesetze,ne pas lois appliquées,no leyes aplicadas
+471,P4634,premiere type,Erstaufführungstyp,tipo de estreno,type de première,469,not premiere type,nicht Erstaufführungstyp,ne pas type de première,no tipo de estreno
+472,P1192,connecting service,Linienangehörigkeit,servicio de conexión,service de transport,41093,not connecting service,nicht Linienangehörigkeit,ne pas service de transport,no servicio de conexión
+473,P8031,perpetrator,Täter,perpetrador,perpétrateur,785,not perpetrator,nicht Täter,ne pas perpétrateur,no perpetrador
+474,P4379,youth wing,Jugendorganisation,organización juvenil,section de jeunesse,205,not youth wing,nicht Jugendorganisation,ne pas section de jeunesse,no organización juvenil
+475,P4101,dissertation submitted to,Abschlussarbeit eingereicht bei,disertación presentada en,organisme de soutenance,63801,not dissertation submitted to,nicht Abschlussarbeit eingereicht bei,ne pas organisme de soutenance,no disertación presentada en
+476,P2563,superhuman feature or ability,übermenschliche Eigenschaft oder Fähigkeit,superpoder,super-pouvoir,6707,not superhuman feature or ability,nicht übermenschliche Eigenschaft oder Fähigkeit,ne pas super-pouvoir,no superpoder
+477,P2360,intended public,Zielgruppe,público objetivo,audience cible,7836,not intended public,nicht Zielgruppe,ne pas audience cible,no público objetivo
+478,P2839,gait,Gangart,andadura,allure,17,not gait,nicht Gangart,ne pas allure,no andadura
+479,P7084,related category,verwandte Kategorie,categoría relacionada,catégorie liée,16225,not related category,nicht verwandte Kategorie,ne pas catégorie liée,no categoría relacionada
+480,P57,director,Regisseur,director,réalisateur ou metteur en scène,331768,not director,nicht Regisseur,ne pas réalisateur ou metteur en scène,no director
+481,P7604,supervised by,Vorgesetzter,supervisor,encadrant,75,not supervised by,nicht Vorgesetzter,ne pas encadrant,no supervisor
+482,P2922,month of the year,Monat des Jahres,mes del año,mois de l'année,4518,not month of the year,nicht Monat des Jahres,ne pas mois de l'année,no mes del año
+483,P2408,set in period,Zeit der Handlung,época de ambientación,époque de l'action,7356,not set in period,nicht Zeit der Handlung,ne pas époque de l'action,no época de ambientación
+484,P2239,first aid measures,Erste-Hilfe-Maßnahmen,primeros auxilios,premiers secours,2825,not first aid measures,nicht Erste-Hilfe-Maßnahmen,ne pas premiers secours,no primeros auxilios
+485,P1637,undercarriage,Fahrwerk,tren de aterrizaje,train d'atterrissage,225,not undercarriage,nicht Fahrwerk,ne pas train d'atterrissage,no tren de aterrizaje
+486,P560,direction,Richtung,dirección,direction,36,not direction,nicht Richtung,ne pas direction,no dirección
+487,P6241,collection creator,Sammlungsgründer,creador de colección,producteur d'archives,6035,not collection creator,nicht Sammlungsgründer,ne pas producteur d'archives,no creador de colección
+488,P3015,backup or reserve team or crew,Ersatzmannschaft,equipo de reserva,équipe ou équipage de réserve,220,not backup or reserve team or crew,nicht Ersatzmannschaft,ne pas équipe ou équipage de réserve,no equipo de reserva
+489,P2846,wheelchair accessibility,Rollstuhlzugänglichkeit,accesibilidad para silla de ruedas,accessibilité aux fauteuils roulants,3117,not wheelchair accessibility,nicht Rollstuhlzugänglichkeit,ne pas accessibilité aux fauteuils roulants,no accesibilidad para silla de ruedas
+490,P1596,penalty,Strafe,condena,condamnation,1910,not penalty,nicht Strafe,ne pas condamnation,no condena
+491,P881,type of variable star,Typ des veränderlichen Sterns,tipo de estrella variable,type d'étoile variable,385882,not type of variable star,nicht Typ des veränderlichen Sterns,ne pas type d'étoile variable,no tipo de estrella variable
+492,P5131,possible medical findings,mögliche medizinische Befunde,hallazgos médicos posibles,observation médicale possible,96,not possible medical findings,nicht mögliche medizinische Befunde,ne pas observation médicale possible,no hallazgos médicos posibles
+493,P4387,update method,Aktualisierungsmethode,método de actualización,méthode de mise à jour,117,not update method,nicht Aktualisierungsmethode,ne pas méthode de mise à jour,no método de actualización
+494,P2341,indigenous to,einheimisch,nativo de,autochtone de,18192,not indigenous to,nicht einheimisch,ne pas autochtone de,no nativo de
+495,P4132,linguistic typology,Sprachtypologie,tipología lingüística,typologie linguistique,2248,not linguistic typology,nicht Sprachtypologie,ne pas typologie linguistique,no tipología lingüística
+496,P8938,artistic director,Künstlerischer Leiter,director artístico de una organización,directeur artistique d'une organisation,72,not artistic director,nicht Künstlerischer Leiter,ne pas directeur artistique d'une organisation,no director artístico de una organización
+497,P1027,conferred by,verliehen von,conferido por,décerné par,14995,not conferred by,nicht verliehen von,ne pas décerné par,no conferido por
+498,P4070,identifier shared with,teilt Identifikator mit,identificador compartido con,identifiant partagé avec,19,not identifier shared with,nicht teilt Identifikator mit,ne pas identifiant partagé avec,no identificador compartido con
+499,P3019,railway signalling system,Zugsicherungssystem,sistema de señalización ferroviaria,système de signalisation ferroviaire,109,not railway signalling system,nicht Zugsicherungssystem,ne pas système de signalisation ferroviaire,no sistema de señalización ferroviaria
+500,P941,inspired by,inspiriert von,inspirado por,inspiré de,5702,not inspired by,nicht inspiriert von,ne pas inspiré de,no inspirado por
+501,P1877,after a work by,nach einem Werk von,inspirado en la obra de,d'après une œuvre de,12273,not after a work by,nicht nach einem Werk von,ne pas d'après une œuvre de,no inspirado en la obra de
+502,P4969,derivative work,Bearbeitung,obra derivada,œuvre dérivée,19698,not derivative work,nicht Bearbeitung,ne pas œuvre dérivée,no obra derivada
+503,P9239,affiliated worker organisation,Gewerkschaft im Betrieb,sindicato afiliado,organisation de travailleurs affiliés,23,not affiliated worker organisation,nicht Gewerkschaft im Betrieb,ne pas organisation de travailleurs affiliés,no sindicato afiliado
+504,P6440,maintenance method,Instandhaltung,método de mantenimiento,méthode d'entretien,38,not maintenance method,nicht Instandhaltung,ne pas méthode d'entretien,no método de mantenimiento
+505,P3969,signed form,lautsprachbegleitende Gebärden,forma gestual,forme signée,3,not signed form,nicht lautsprachbegleitende Gebärden,ne pas forme signée,no forma gestual
+506,P6237,real estate developer,Immobilienentwickler,promotor inmobiliario,promoteur immobilier,78,not real estate developer,nicht Immobilienentwickler,ne pas promoteur immobilier,no promotor inmobiliario
+507,P92,main regulatory text,Rechtsgrundlage,texto regulador principal,principal texte régulateur,9314,not main regulatory text,nicht Rechtsgrundlage,ne pas principal texte régulateur,no texto regulador principal
+508,P520,armament,Bewaffnung,armamento,armement,5478,not armament,nicht Bewaffnung,ne pas armement,no armamento
+509,P922,magnetic ordering,magnetische Ordnung,ordenamiento magnético,effet magnétique,2,not magnetic ordering,nicht magnetische Ordnung,ne pas effet magnétique,no ordenamiento magnético
+510,P5028,sound designer,Tondesigner,diseñador de sonido,designer sonore,3210,not sound designer,nicht Tondesigner,ne pas designer sonore,no diseñador de sonido
+511,P925,presynaptic connection,präsynaptische Verbindung,conexión presináptica,connexion présynaptique,6,not presynaptic connection,nicht präsynaptische Verbindung,ne pas connexion présynaptique,no conexión presináptica
+512,P4844,research intervention,Forschungsintervention,intervención de investigación,variable de recherche,148107,not research intervention,nicht Forschungsintervention,ne pas variable de recherche,no intervención de investigación
+513,P8111,recommended unit of measurement,empfohlene Maßeinheit,unidad de medida recomendada,unité de mesure recommandée,1165,not recommended unit of measurement,nicht empfohlene Maßeinheit,ne pas unité de mesure recommandée,no unidad de medida recomendada
+514,P943,programmer,Programmierer,programador,programmeur,388,not programmer,nicht Programmierer,ne pas programmeur,no programador
+515,P8744,economy of topic,Wirtschaft des Themas,economía del sujeto,économie du sujet,1377,not economy of topic,nicht Wirtschaft des Themas,ne pas économie du sujet,no economía del sujeto
+516,P3773,antagonist of,Antagonist zu,antagonista de,antagoniste de,12,not antagonist of,nicht Antagonist zu,ne pas antagoniste de,no antagonista de
+517,P7727,legislative committee,Legislativkomitee,comité legislativo,comité législatif,123710,not legislative committee,nicht Legislativkomitee,ne pas comité législatif,no comité legislativo
+518,P1028,donated by,gestifted von,donado por,donné par,9668,not donated by,nicht gestifted von,ne pas donné par,no donado por
+519,P8225,is metaclass for,Metaklasse für,es una metaclase para,est une métaclasse pour,371,not is metaclass for,nicht Metaklasse für,ne pas est une métaclasse pour,no es una metaclase para
+520,P3452,inferred from,abgeleitet von,deducido de,déduit de,2,not inferred from,nicht abgeleitet von,ne pas déduit de,no deducido de
+521,P447,review score by,bewertet von,calificado por,noté par,14,not review score by,nicht bewertet von,ne pas noté par,no calificado por
+522,P2392,teaching method,Lehrmethode,método de enseñanza,méthode pédagogique,58,not teaching method,nicht Lehrmethode,ne pas méthode pédagogique,no método de enseñanza
+523,P2817,appears in the heritage monument list,ist in der Kulturdenkmal-Liste,aparece en la lista de los monumentos clasificados,apparaît dans la liste des monuments classifiés,267974,not appears in the heritage monument list,nicht ist in der Kulturdenkmal-Liste,ne pas apparaît dans la liste des monuments classifiés,no aparece en la lista de los monumentos clasificados
+524,P2596,culture,Kultur,cultura,culture,10007,not culture,nicht Kultur,ne pas culture,no cultura
+525,P1478,has immediate cause,hat unmittelbare Ursache,causa inmediata,a pour cause immédiate,123514,not has immediate cause,nicht hat unmittelbare Ursache,ne pas a pour cause immédiate,no causa inmediata
+526,P1018,language regulatory body,Kontrollorgan der Sprache,institución de normalización,institution de normalisation,208,not language regulatory body,nicht Kontrollorgan der Sprache,ne pas institution de normalisation,no institución de normalización
+527,P485,archives at,archiviert in,archivado en,archivé par,75122,not archives at,nicht archiviert in,ne pas archivé par,no archivado en
+528,P2912,distinctive jersey,Wertungstrikot,maillot distintivo,maillot distinctif,2,not distinctive jersey,nicht Wertungstrikot,ne pas maillot distinctif,no maillot distintivo
+529,P3310,muscle action,Bewegungstyp des Muskels,acción muscular,action du muscle,253,not muscle action,nicht Bewegungstyp des Muskels,ne pas action du muscle,no acción muscular
+530,P6855,emergency services,Notfalleinrichtungen,servicios de emergencia,accueil et traitement des urgences,766,not emergency services,nicht Notfalleinrichtungen,ne pas accueil et traitement des urgences,no servicios de emergencia
+531,P3301,broadcast by,ausgestrahlt von,transmitido por,diffusé par,7411,not broadcast by,nicht ausgestrahlt von,ne pas diffusé par,no transmitido por
+532,P1654,wing configuration,Flügelanordnung,configuración alar,configuration d'aile,1104,not wing configuration,nicht Flügelanordnung,ne pas configuration d'aile,no configuración alar
+533,P2681,is recto of,ist Vorderseite von,es recto de,est le recto,162,not is recto of,nicht ist Vorderseite von,ne pas est le recto,no es recto de
+534,P1568,definition domain,Definitionsmenge,dominio,domaine de définition,123,not definition domain,nicht Definitionsmenge,ne pas domaine de définition,no dominio
+535,P5236,prime factor,Primfaktor,factor primo,facteur premier,151179,not prime factor,nicht Primfaktor,ne pas facteur premier,no factor primo
+536,P2964,right to vote,Wahlrecht,derecho de voto,corps électoral,68,not right to vote,nicht Wahlrecht,ne pas corps électoral,no derecho de voto
+537,P3490,muscle origin,Muskelursprung,origen del músculo,origine du muscle,61,not muscle origin,nicht Muskelursprung,ne pas origine du muscle,no origen del músculo
+538,P97,noble title,Adelstitel,título nobiliario,titre de noblesse,54140,not noble title,nicht Adelstitel,ne pas titre de noblesse,no título nobiliario
+539,P1136,solved by,Gelöst von,resuelto por,résolu par,116,not solved by,nicht Gelöst von,ne pas résolu par,no resuelto por
+540,P1851,input set,Eingabemenge,conjunto de entrada,ensemble de départ,32,not input set,nicht Eingabemenge,ne pas ensemble de départ,no conjunto de entrada
+541,P16,transport network,Straßennetz,red de transporte,réseau de transport,52612,not transport network,nicht Straßennetz,ne pas réseau de transport,no red de transporte
+542,P1622,driving side,Fahrseite,lado de conducción,conduite à,427,not driving side,nicht Fahrseite,ne pas conduite à,no lado de conducción
+543,P4082,captured with,aufgenommen mit,tomada con,pris avec,20,not captured with,nicht aufgenommen mit,ne pas pris avec,no tomada con
+544,P3093,recovered by,zurückerlangt von,recuperado por,récupéré par,55,not recovered by,nicht zurückerlangt von,ne pas récupéré par,no recuperado por
+545,P550,chivalric order,Ritterorden,orden de caballería,ordre de chevalerie,65,not chivalric order,nicht Ritterorden,ne pas ordre de chevalerie,no orden de caballería
+546,P1202,carries scientific instrument,mitgeführtes wissenschaftliches Gerät,instrumentos científicos a bordo,instruments embarqués,212,not carries scientific instrument,nicht mitgeführtes wissenschaftliches Gerät,ne pas instruments embarqués,no instrumentos científicos a bordo
+547,P868,foods traditionally associated,Traditionsgericht,alimentos tradicionalmente asociados,nourriture traditionnellement associée,399,not foods traditionally associated,nicht Traditionsgericht,ne pas nourriture traditionnellement associée,no alimentos tradicionalmente asociados
+548,P437,distribution format,Materialart/Vertriebsweg,distribución,format de distribution,200508,not distribution format,nicht Materialart/Vertriebsweg,ne pas format de distribution,no distribución
+549,P1853,blood type,Blutgruppe,grupo sanguíneo,groupe sanguin,31850,not blood type,nicht Blutgruppe,ne pas groupe sanguin,no grupo sanguíneo
+550,P3148,repeals,hebt auf,revoca,abroge,28835,not repeals,nicht hebt auf,ne pas abroge,no revoca
+551,P6153,research site,Forschungsort,sitio de investigación,site de recherche,266968,not research site,nicht Forschungsort,ne pas site de recherche,no sitio de investigación
+552,P5642,risk factor,Risikofaktor,factor de riesgo,facteur de risque,198,not risk factor,nicht Risikofaktor,ne pas facteur de risque,no factor de riesgo
+553,P1406,script directionality,Schreibrichtung,dirección de la escritura,sens de l'écriture,324,not script directionality,nicht Schreibrichtung,ne pas sens de l'écriture,no dirección de la escritura
+554,P4878,symbolizes,symbolisiert,simboliza,symbolise,51,not symbolizes,nicht symbolisiert,ne pas symbolise,no simboliza
+555,P3815,volcano observatory,Vulkanobservatorium,observatorio vulcanológico,observatoire volcanologique,598,not volcano observatory,nicht Vulkanobservatorium,ne pas observatoire volcanologique,no observatorio vulcanológico
+556,P5072,presented in,aufgeführt bei,presentado en,présenté à,844,not presented in,nicht aufgeführt bei,ne pas présenté à,no presentado en
+557,P5658,railway traffic side,Fahrordnung,sentido de circulación de trenes,sens de circulation des trains,282,not railway traffic side,nicht Fahrordnung,ne pas sens de circulation des trains,no sentido de circulación de trenes
+558,P9883,created for,gemacht für,creado para,créé(e) pour,36,not created for,nicht gemacht für,ne pas créé(e) pour,no creado para
+559,P811,academic minor,Nebenfach im Studium,especialización académica secundaria,seconde spécialité d'études,104,not academic minor,nicht Nebenfach im Studium,ne pas seconde spécialité d'études,no especialización académica secundaria
+560,P19,place of birth,Geburtsort,lugar de nacimiento,lieu de naissance,3028025,not place of birth,nicht Geburtsort,ne pas lieu de naissance,no lugar de nacimiento
+561,P4320,mountains classification,Bergwertung,Clasificación de la montaña,classement de la montagne,10021,not mountains classification,nicht Bergwertung,ne pas classement de la montagne,no Clasificación de la montaña
+562,P501,enclave within,Enklave in,enclave en,enclavé dans,248,not enclave within,nicht Enklave in,ne pas enclavé dans,no enclave en
+563,P8258,field of training,Fach der Fachausbildung,campo de estudios profesionales,domaine d'études professionnelles,19,not field of training,nicht Fach der Fachausbildung,ne pas domaine d'études professionnelles,no campo de estudios profesionales
+564,P9714,taxon range,Verbreitungsgebiet,ámbito de distribución,aire de répartition,56,not taxon range,nicht Verbreitungsgebiet,ne pas aire de répartition,no ámbito de distribución
+565,P5133,has evaluation,hat Auswertung,tiene evaluación,a pour évaluation,24,not has evaluation,nicht hat Auswertung,ne pas a pour évaluation,no tiene evaluación
+566,P3091,mount,Reittier,montura,monture,737,not mount,nicht Reittier,ne pas monture,no montura
+567,P3440,time signature,Taktart,compás musical,chiffrage de mesure,81,not time signature,nicht Taktart,ne pas chiffrage de mesure,no compás musical
+568,P1429,has pet,hat Haustier,animal de compañía,animal de compagnie,317,not has pet,nicht hat Haustier,ne pas animal de compagnie,no animal de compañía
+569,P3938,named by,benannt durch,acuñado por,dénommé par,620,not named by,nicht benannt durch,ne pas dénommé par,no acuñado por
+570,P3871,tributary orientation,Richtung als Nebenfluss,orientación del tributario,rive de confluence,547,not tributary orientation,nicht Richtung als Nebenfluss,ne pas rive de confluence,no orientación del tributario
+571,P3082,destroyed,zerstört,ha destruido,détruit,280,not destroyed,nicht zerstört,ne pas détruit,no ha destruido
+572,P1591,defendant,Angeklagter,imputado,défendeur,4583,not defendant,nicht Angeklagter,ne pas défendeur,no imputado
+573,P642,of,von,de,de,5090,not of,nicht von,ne pas de,no de
+574,P1703,is pollinated by,bestäubt durch,polinización,pollinisé par,79,not is pollinated by,nicht bestäubt durch,ne pas pollinisé par,no polinización
+575,P6195,funding scheme,Fördertopf,método de financiamiento,plan de financement,3765,not funding scheme,nicht Fördertopf,ne pas plan de financement,no método de financiamiento
+576,P3780,active ingredient in,Wirkstoff in,es el principio activo en,est le principe actif dans,2529,not active ingredient in,nicht Wirkstoff in,ne pas est le principe actif dans,no es el principio activo en
+577,P2414,substrate of,Substrat von,sustrato de,substrat de,9,not substrate of,nicht Substrat von,ne pas substrat de,no sustrato de
+578,P4000,has fruit type,Fruchttyp,tipo de fruto,type de fruit,3039,not has fruit type,nicht Fruchttyp,ne pas type de fruit,no tipo de fruto
+579,P2746,production statistics,Produktionsstatistik,estadísticas de producción,statistiques de production,52,not production statistics,nicht Produktionsstatistik,ne pas statistiques de production,no estadísticas de producción
+580,P4444,reward,Prämie,recompensa,récompense,29,not reward,nicht Prämie,ne pas récompense,no recompensa
+581,P2852,emergency phone number,Notrufnummer,teléfono de emergencia,numéro d'appel d'urgence,634,not emergency phone number,nicht Notrufnummer,ne pas numéro d'appel d'urgence,no teléfono de emergencia
+582,P834,train depot,Zug-Depot,terminal ferroviario,dépôt ferroviaire,690,not train depot,nicht Zug-Depot,ne pas dépôt ferroviaire,no terminal ferroviario
+583,P702,encoded by,codiert von,codificado por,codé par,976841,not encoded by,nicht codiert von,ne pas codé par,no codificado por
+584,P9899,music created for,Musik gemacht für,música creada para,musique créée pour,179,not music created for,nicht Musik gemacht für,ne pas musique créée pour,no música creada para
+585,P7643,covered period,betroffene Epoche,periodo cubierto,période couverte,12,not covered period,nicht betroffene Epoche,ne pas période couverte,no periodo cubierto
+586,P2682,is verso of,ist Rückseite von,es verso de,est le verso,163,not is verso of,nicht ist Rückseite von,ne pas est le verso,no es verso de
+587,P2279,ambitus,Tonumfang,ámbito,ambitus,37,not ambitus,nicht Tonumfang,ne pas ambitus,no ámbito
+588,P9700,delta of,Flussdelta von,delta de,delta de,71,not delta of,nicht Flussdelta von,ne pas delta de,no delta de
+589,P9597,type of lens,Linsentyp,tipo de lente,type de lentille optique,1721,not type of lens,nicht Linsentyp,ne pas type de lentille optique,no tipo de lente
+590,P545,torch lit by,Flamme entzündet von,antorcha encendida por,flamme allumée par,73,not torch lit by,nicht Flamme entzündet von,ne pas flamme allumée par,no antorcha encendida por
+591,P4151,game mechanics,Spielmechanik,sistema de juego,système de jeu,1757,not game mechanics,nicht Spielmechanik,ne pas système de jeu,no sistema de juego
+592,P725,voice actor,Sprecher,actor de voz,comédien de doublage,61713,not voice actor,nicht Sprecher,ne pas comédien de doublage,no actor de voz
+593,P6962,narrative motif,literarisches Motiv,tópico literario,motif narratif,431,not narrative motif,nicht literarisches Motiv,ne pas motif narratif,no tópico literario
+594,P1620,plaintiff,Kläger,demandante,demandeur,344,not plaintiff,nicht Kläger,ne pas demandeur,no demandante
+595,P6840,student organization of,Studentenorganisation von,organización estudiantil de,organisation étudiante de,34,not student organization of,nicht Studentenorganisation von,ne pas organisation étudiante de,no organización estudiantil de
+596,P397,parent astronomical body,übergeordneter astronomischer Körper,objeto astronómico padre,orbite autour de,12506,not parent astronomical body,nicht übergeordneter astronomischer Körper,ne pas orbite autour de,no objeto astronómico padre
+597,P459,determination method,Bestimmungsmethode,método de determinación,méthode de détermination,329,not determination method,nicht Bestimmungsmethode,ne pas méthode de détermination,no método de determinación
+598,P1299,depicted by,dargestellt von,representado por,est dépeint par,10899,not depicted by,nicht dargestellt von,ne pas est dépeint par,no representado por
+599,P3989,members have occupation,Mitglieder haben den Beruf,ocupación de los miembros,occupation des membres,1755,not members have occupation,nicht Mitglieder haben den Beruf,ne pas occupation des membres,no ocupación de los miembros
+600,P462,color,Farbe,color,couleur,194389,not color,nicht Farbe,ne pas couleur,no color
+601,P1776,circle of,Umkreis von,círculo de,cercle de,7,not circle of,nicht Umkreis von,ne pas cercle de,no círculo de
+602,P5314,property scope,Anwendungsbereich der Eigenschaft,alcance de la propiedad,champ d'application,1,not property scope,nicht Anwendungsbereich der Eigenschaft,ne pas champ d'application,no alcance de la propiedad
+603,P241,military branch,Teilstreitkraft,rama militar,arme,114591,not military branch,nicht Teilstreitkraft,ne pas arme,no rama militar
+604,P1064,track gauge,Spurweite,ancho de vía,écartement des rails,24331,not track gauge,nicht Spurweite,ne pas écartement des rails,no ancho de vía
+605,P1891,signatory,Unterzeichner,signatario,signataire,17071,not signatory,nicht Unterzeichner,ne pas signataire,no signatario
+606,P2842,place of marriage,Ort der Eheschließung,lugar de matrimonio,lieu du mariage,3,not place of marriage,nicht Ort der Eheschließung,ne pas lieu du mariage,no lugar de matrimonio
+607,P734,family name,Familienname,apellido,nom de famille,3619572,not family name,nicht Familienname,ne pas nom de famille,no apellido
+608,P2429,expected completeness,erwartete Vollständigkeit,grado de completitud,degré de complétude,3826,not expected completeness,nicht erwartete Vollständigkeit,ne pas degré de complétude,no grado de completitud
+609,P6587,league system,Ligasystem,sistema de liga,structure pyramidale de la ligue,231,not league system,nicht Ligasystem,ne pas structure pyramidale de la ligue,no sistema de liga
+610,P3264,radix,Grundzahl,base aritmética,base (arithmétique),58,not radix,nicht Grundzahl,ne pas base (arithmétique),no base aritmética
+611,P410,military rank,militärischer Dienstgrad,rango militar alcanzado,grade militaire,157188,not military rank,nicht militärischer Dienstgrad,ne pas grade militaire,no rango militar alcanzado
+612,P3335,associated hazard,Gefährdung,peligro,danger sur place,71,not associated hazard,nicht Gefährdung,ne pas danger sur place,no peligro
+613,P1640,curator,Kurator,conservador o comisario,conservateur ou commissaire,1561,not curator,nicht Kurator,ne pas conservateur ou commissaire,no conservador o comisario
+614,P546,docking port,Andockziel,puerto de atraque o de acople,port d'arrimage,56,not docking port,nicht Andockziel,ne pas port d'arrimage,no puerto de atraque o de acople
+615,P1046,discovery method,Nachweismethode,método de descubrimiento,méthode de découverte,4253,not discovery method,nicht Nachweismethode,ne pas méthode de découverte,no método de descubrimiento
+616,P942,theme music,Titelmusik,tema musical,thème musical,3542,not theme music,nicht Titelmusik,ne pas thème musical,no tema musical
+617,P8571,external auditor,externer Rechnungsprüfer,auditor externo,auditeur comptable,125,not external auditor,nicht externer Rechnungsprüfer,ne pas auditeur comptable,no auditor externo
+618,P8363,study type,Studientyp,tipo de estudio,type d'étude,349385,not study type,nicht Studientyp,ne pas type d'étude,no tipo de estudio
+619,P2989,has grammatical case,hat grammatischen Fall,tiene el caso gramatical,a comme cas grammatical,430,not has grammatical case,nicht hat grammatischen Fall,ne pas a comme cas grammatical,no tiene el caso gramatical
+620,P1445,fictional universe described in,fiktives Universum wird beschrieben in,universo ficticio descrito en,univers de fiction décrit dans,4597,not fictional universe described in,nicht fiktives Universum wird beschrieben in,ne pas univers de fiction décrit dans,no universo ficticio descrito en
+621,P7078,typing discipline,Typisierung,sistema de tipos,système de typage,774,not typing discipline,nicht Typisierung,ne pas système de typage,no sistema de tipos
+622,P1672,this taxon is source of,Ursprung von,este taxón es una fuente de,ce taxon produit,2391,not this taxon is source of,nicht Ursprung von,ne pas ce taxon produit,no este taxón es una fuente de
+623,P3701,incarnation of,Inkarnation von,encarnación de,incarnation de,88,not incarnation of,nicht Inkarnation von,ne pas incarnation de,no encarnación de
+624,P3438,vehicle normally used,normalerweise verwendetes Fahrzeug,vehículo usado normalmente,véhicule habituellement utilisé,2892,not vehicle normally used,nicht normalerweise verwendetes Fahrzeug,ne pas véhicule habituellement utilisé,no vehículo usado normalmente
+625,P5132,suggests the existence of,vermutet das Vorhandensein von,sugiere la existencia de,suggère l'existence de,234,not suggests the existence of,nicht vermutet das Vorhandensein von,ne pas suggère l'existence de,no sugiere la existencia de
+626,P826,tonality,Tonart,tonalidad,tonalité,5023,not tonality,nicht Tonart,ne pas tonalité,no tonalidad
+627,P873,phase point,Phasenpunkt,punto de fase,point de phase,26,not phase point,nicht Phasenpunkt,ne pas point de phase,no punto de fase
+628,P1652,referee,Schiedsrichter,árbitro,arbitre,19978,not referee,nicht Schiedsrichter,ne pas arbitre,no árbitro
+629,P3447,mirrors data from,spiegelt Daten von,replica datos de,données miroirs de,8,not mirrors data from,nicht spiegelt Daten von,ne pas données miroirs de,no replica datos de
+630,P4224,category contains,Kategorie enthält,categoría contiene,type d'élément contenu dans la catégorie,823005,not category contains,nicht Kategorie enthält,ne pas type d'élément contenu dans la catégorie,no categoría contiene
+631,P765,surface played on,Belag,tipo de superficie,type de surface,3956,not surface played on,nicht Belag,ne pas type de surface,no tipo de superficie
+632,P376,located on astronomical body,auf astronomischem Körper,en el cuerpo astronómico,sur le corps astronomique,9234,not located on astronomical body,nicht auf astronomischem Körper,ne pas sur le corps astronomique,no en el cuerpo astronómico
+633,P5026,lighting designer,Lichtgestalter,diseñador de iluminación,éclairagiste,5168,not lighting designer,nicht Lichtgestalter,ne pas éclairagiste,no diseñador de iluminación
+634,P634,captain,Mannschaftskapitän,capitán,capitaine,529,not captain,nicht Mannschaftskapitän,ne pas capitaine,no capitán
+635,P3150,birthday,Geburtstag,cumpleaños,anniversaire,3173,not birthday,nicht Geburtstag,ne pas anniversaire,no cumpleaños
+636,P3489,pregnancy category,Schwangerschaftskategorie,categoría farmacológica en el embarazo,catégorie de grossesse,1546,not pregnancy category,nicht Schwangerschaftskategorie,ne pas catégorie de grossesse,no categoría farmacológica en el embarazo
+637,P7936,business model,Geschäftsmodell,modelo de negocio,modèle d'affaires,2352,not business model,nicht Geschäftsmodell,ne pas modèle d'affaires,no modelo de negocio
+638,P9353,does not have cause,nicht verursacht durch,no tiene como causa,n'a pas pour cause,11,not does not have cause,nicht nicht verursacht durch,ne pas n'a pas pour cause,no no tiene como causa
+639,P101,field of work,Arbeitsgebiet,campo de trabajo,domaine d'activité,251365,not field of work,nicht Arbeitsgebiet,ne pas domaine d'activité,no campo de trabajo
+640,P1589,lowest point,tiefster Punkt,punto más bajo,point le plus bas,511,not lowest point,nicht tiefster Punkt,ne pas point le plus bas,no punto más bajo
+641,P2517,category for recipients of this award,Kategorie für Preisträger,categoría para los galardonados con este premio,catégorie pour les lauréats de cette récompense,6162,not category for recipients of this award,nicht Kategorie für Preisträger,ne pas catégorie pour les lauréats de cette récompense,no categoría para los galardonados con este premio
+642,P5323,attested in,bestätigt in,atestiguado en,attesté dans,121113,not attested in,nicht bestätigt in,ne pas attesté dans,no atestiguado en
+643,P924,possible treatment,medizinische Behandlungen,tratamiento posible,traitements possibles,695,not possible treatment,nicht medizinische Behandlungen,ne pas traitements possibles,no tratamiento posible
+644,P3022,flag bearer,Flaggenträger,abanderado,porte-drapeau,4191,not flag bearer,nicht Flaggenträger,ne pas porte-drapeau,no abanderado
+645,P1595,charge,Anklagepunkt,imputación,inculpation,4508,not charge,nicht Anklagepunkt,ne pas inculpation,no imputación
+646,P2894,day of week,Wochentag,día de la semana,jour de la semaine,192690,not day of week,nicht Wochentag,ne pas jour de la semaine,no día de la semana
+647,P1196,manner of death,Todesart,circunstancias de la muerte,circonstances de la mort,99833,not manner of death,nicht Todesart,ne pas circonstances de la mort,no circunstancias de la muerte
+648,P4624,squadron embarked,eingeschifftes Geschwader,escuadrón embarcado,escadron embarqué,6,not squadron embarked,nicht eingeschifftes Geschwader,ne pas escadron embarqué,no escuadrón embarcado
+649,P3095,practiced by,praktiziert von,practicado por,pratiqué par,4774,not practiced by,nicht praktiziert von,ne pas pratiqué par,no practicado por
+650,P7514,landscape architect,Landschaftsarchitekt,arquitecto del paisaje,architecte paysagiste,190,not landscape architect,nicht Landschaftsarchitekt,ne pas architecte paysagiste,no arquitecto del paisaje
+651,P9660,not found in,nicht nachgewiesen in,no encontrado en,non présent dans,11878,not not found in,nicht nicht nachgewiesen in,ne pas non présent dans,no no encontrado en
+652,P102,member of political party,Parteizugehörigkeit,miembro del partido político,parti politique,501195,not member of political party,nicht Parteizugehörigkeit,ne pas parti politique,no miembro del partido político
+653,P1880,measurement scale,gemessen mit,medido por,mesuré par,181,not measurement scale,nicht gemessen mit,ne pas mesuré par,no medido por
+654,P1536,immediate cause of,direkte Ursache von,causa inmediata de,cause immédiate de,16711,not immediate cause of,nicht direkte Ursache von,ne pas cause immédiate de,no causa inmediata de
+655,P1479,has contributing factor,hat mitwirkenden Faktor,factor contribuyente,a comme facteur contributif,584,not has contributing factor,nicht hat mitwirkenden Faktor,ne pas a comme facteur contributif,no factor contribuyente
+656,P9831,release of,Release von,publicación musical de,sortie musciale de,2450,not release of,nicht Release von,ne pas sortie musciale de,no publicación musical de
+657,P870,instrumentation,Instrumentation,instrumentación,instrumentation,7569,not instrumentation,nicht Instrumentation,ne pas instrumentation,no instrumentación
+658,P6977,review of,Rezension von,reseña sobre,compte-rendu de,9669,not review of,nicht Rezension von,ne pas compte-rendu de,no reseña sobre
+659,P199,business division,Geschäftsbereich,división comercial,division,1679,not business division,nicht Geschäftsbereich,ne pas division,no división comercial
+660,P669,located on street or square,Straße oder Platz,situado en la calle,voie,161576,not located on street or square,nicht Straße oder Platz,ne pas voie,no situado en la calle
+661,P8001,endorsed by,Schirmherrschaft durch,apoyado por,soutenu par,193,not endorsed by,nicht Schirmherrschaft durch,ne pas soutenu par,no apoyado por
+662,P970,neurological function,neurologische Funktion,función neurológica,fonction neurologique,4,not neurological function,nicht neurologische Funktion,ne pas fonction neurologique,no función neurológica
+663,P209,highest judicial authority,höchstes Gericht,máxima autoridad judicial,Corps judiciaire suprême,183,not highest judicial authority,nicht höchstes Gericht,ne pas Corps judiciaire suprême,no máxima autoridad judicial
+664,P3263,base,Grundfläche,base geométrica,base (géométrie),116,not base,nicht Grundfläche,ne pas base (géométrie),no base geométrica
+665,P8411,set in environment,Umgebung der Handlung,lugar de ambientación,se déroule dans l'environnement,15915,not set in environment,nicht Umgebung der Handlung,ne pas se déroule dans l'environnement,no lugar de ambientación
+666,P5873,place of devotion,Andachtsstätte,lugar de devoción,lieu de culte,916,not place of devotion,nicht Andachtsstätte,ne pas lieu de culte,no lugar de devoción
+667,P3781,has active ingredient,hat Wirkstoff,contiene el principio activo,contient le principe actif,2690,not has active ingredient,nicht hat Wirkstoff,ne pas contient le principe actif,no contiene el principio activo
+668,P612,mother house,Mutterkloster,casa madre,maison mère,819,not mother house,nicht Mutterkloster,ne pas maison mère,no casa madre
+669,P748,appointed by,ernannt durch,designado por,nommé par,5536,not appointed by,nicht ernannt durch,ne pas nommé par,no designado por
+670,P3931,copyright holder,Urheberrechtsinhaber,titular de los derechos de autor,détenteur des droits d'auteur,3223,not copyright holder,nicht Urheberrechtsinhaber,ne pas détenteur des droits d'auteur,no titular de los derechos de autor
+671,P8738,permits,erlaubt,permite,permet,23,not permits,nicht erlaubt,ne pas permet,no permite
+672,P1029,crew member(s),Mannschaftsmitglied,tripulante,équipage,2956,not crew member(s),nicht Mannschaftsmitglied,ne pas équipage,no tripulante
+673,P3679,stock market index,Aktienindex,índice bursátil,indice boursier,76,not stock market index,nicht Aktienindex,ne pas indice boursier,no índice bursátil
+674,P1283,filmography,Filmografie,filmografía,filmographie,1519,not filmography,nicht Filmografie,ne pas filmographie,no filmografía
+675,P2388,office held by head of the organization,Amt des Leiters,cargo ocupado por el dirigente,fonction à la tête de l'organisation,12722,not office held by head of the organization,nicht Amt des Leiters,ne pas fonction à la tête de l'organisation,no cargo ocupado por el dirigente
+676,P3902,had as last meal,letzte Mahlzeit,última comida,dernier repas,72,not had as last meal,nicht letzte Mahlzeit,ne pas dernier repas,no última comida
+677,P172,ethnic group,Bevölkerungsgruppe,etnia,groupe ethnique,159525,not ethnic group,nicht Bevölkerungsgruppe,ne pas groupe ethnique,no etnia
+678,P872,printed by,Drucker,impreso por,imprimé par,2884,not printed by,nicht Drucker,ne pas imprimé par,no impreso por
+679,P4967,prerequisite,Voraussetzung,prerrequisito,prérequis,191,not prerequisite,nicht Voraussetzung,ne pas prérequis,no prerrequisito
+680,P4884,court,Gericht,tribunal,tribunal,21126,not court,nicht Gericht,ne pas tribunal,no tribunal
+681,P5196,output method,Ausgabemethode,dispositivo de salida,périphérique de sortie,303,not output method,nicht Ausgabemethode,ne pas périphérique de sortie,no dispositivo de salida
+682,P552,handedness,Händigkeit,lateralidad,latéralisation,2256,not handedness,nicht Händigkeit,ne pas latéralisation,no lateralidad
+683,P565,crystal habit,Kristallhabitus,hábito cristalino,habitus du cristal,9,not crystal habit,nicht Kristallhabitus,ne pas habitus du cristal,no hábito cristalino
+684,P7779,member of military unit,Mitglied der Militäreinheit,miembro de la unidad militar,unité,2362,not member of military unit,nicht Mitglied der Militäreinheit,ne pas unité,no miembro de la unidad militar
+685,P5248,medical evacuation to,medizinische Evakuierung nach,evacuación sanitaria a,lieu d'évacuation des blessés,36,not medical evacuation to,nicht medizinische Evakuierung nach,ne pas lieu d'évacuation des blessés,no evacuación sanitaria a
+686,P6022,"expression, gesture or body pose",Körperhaltung oder -bewegung,"expresión, gesto o postura","expression, geste ou posture",1,"not expression, gesture or body pose",nicht Körperhaltung oder -bewegung,"ne pas expression, geste ou posture","no expresión, gesto o postura"
+687,P5109,has grammatical gender,hat grammatisches Geschlecht,tiene el género gramatical,a pour genre grammatical,136,not has grammatical gender,nicht hat grammatisches Geschlecht,ne pas a pour genre grammatical,no tiene el género gramatical
+688,P624,guidance system,Lenksystem,sistema de guiado,système de guidage,248,not guidance system,nicht Lenksystem,ne pas système de guidage,no sistema de guiado
+689,P789,edibility,Essbarkeit,comestibilidad,comestibilité,792,not edibility,nicht Essbarkeit,ne pas comestibilité,no comestibilidad
+690,P4032,reviewed by,überprüft von,revisado por,examiné par,507,not reviewed by,nicht überprüft von,ne pas examiné par,no revisado por
+691,P832,public holiday,Feiertag,día festivo,jour férié,1481,not public holiday,nicht Feiertag,ne pas jour férié,no día festivo
+692,P2868,subject has role,Subjekt fungiert als,tiene el rol de,tient le rôle de,353488,not subject has role,nicht Subjekt fungiert als,ne pas tient le rôle de,no tiene el rol de
+693,P2012,cuisine,Küche,cocina,cuisine servie,2291,not cuisine,nicht Küche,ne pas cuisine servie,no cocina
+694,P194,legislative body,gesetzgebende Körperschaft,órgano legislativo,assemblée délibérante,4254,not legislative body,nicht gesetzgebende Körperschaft,ne pas assemblée délibérante,no órgano legislativo
+695,P567,underlies,Hangend,infrayacente a,toit,1542,not underlies,nicht Hangend,ne pas toit,no infrayacente a
+696,P105,taxon rank,taxonomischer Rang,categoría taxonómica,rang taxinomique,3580266,not taxon rank,nicht taxonomischer Rang,ne pas rang taxinomique,no categoría taxonómica
+697,P1604,biosafety level,biologische Schutzstufe,nivel de bioseguridad,niveau de sécurité biologique,12,not biosafety level,nicht biologische Schutzstufe,ne pas niveau de sécurité biologique,no nivel de bioseguridad
+698,P3416,end period,Schlussperiode,periodo final,période de fin,15,not end period,nicht Schlussperiode,ne pas période de fin,no periodo final
+699,P8194,hardiness zone,Winterhärtezone,zona de rusticidad,zone de rusticité,19,not hardiness zone,nicht Winterhärtezone,ne pas zone de rusticité,no zona de rusticidad
+700,P1290,godparent,Pate,padrino,parrain ou marraine,1457,not godparent,nicht Pate,ne pas parrain ou marraine,no padrino
+701,P1594,judge,Richter,juez,juge,9996,not judge,nicht Richter,ne pas juge,no juez
+702,P2975,host,Wirt,huésped,hôte,7314,not host,nicht Wirt,ne pas hôte,no huésped
+703,P5021,assessment,abgelegte Prüfung,examen realizado,examen ou concours effectué,25102,not assessment,nicht abgelegte Prüfung,ne pas examen ou concours effectué,no examen realizado
+704,P2384,statement describes,Aussage beschreibt,declaración describe,formule décrivant,197,not statement describes,nicht Aussage beschreibt,ne pas formule décrivant,no declaración describe
+705,P248,stated in,nachgewiesen in,afirmado en,affirmé dans,784,not stated in,nicht nachgewiesen in,ne pas affirmé dans,no afirmado en
+706,P6339,reports periodicity,Datenintervall,intervalo de datos,périodicité des relevés,18160,not reports periodicity,nicht Datenintervall,ne pas périodicité des relevés,no intervalo de datos
+707,P4622,trophy awarded,ausgezeichnet mit Trophäe,trofeo recibido,trophée remis,242,not trophy awarded,nicht ausgezeichnet mit Trophäe,ne pas trophée remis,no trofeo recibido
+708,P887,based on heuristic,basierend auf Heuristik,basado en la heurística,déterminé par l'heuristique,1,not based on heuristic,nicht basierend auf Heuristik,ne pas déterminé par l'heuristique,no basado en la heurística
+709,P4792,dam,Talsperre,presa,barrage,3109,not dam,nicht Talsperre,ne pas barrage,no presa
+710,P5623,type of water supply,Art der Wasserversorgung,tipo de suministro de agua,type d'alimentation en eau,1475,not type of water supply,nicht Art der Wasserversorgung,ne pas type d'alimentation en eau,no tipo de suministro de agua
+711,P6291,advertises,bewirbt,publicita,promeut,862,not advertises,nicht bewirbt,ne pas promeut,no publicita
+712,P739,ammunition,Patrone,munición,munition,2488,not ammunition,nicht Patrone,ne pas munition,no munición
+713,P607,conflict,Kriegseinsatz,participó en el conflicto,conflit,220972,not conflict,nicht Kriegseinsatz,ne pas conflit,no participó en el conflicto
+714,P1593,defender,Verteidiger,defensor,défenseur,277,not defender,nicht Verteidiger,ne pas défenseur,no defensor
+715,P4791,commanded by,befohlen von,comandado por,commandé par,3519,not commanded by,nicht befohlen von,ne pas commandé par,no comandado por
+716,P1433,published in,veröffentlicht in,publicado en,publié dans,37895192,not published in,nicht veröffentlicht in,ne pas publié dans,no publicado en
+717,P1582,natural product of taxon,erzeugt aus,producto natural del taxón,produit par le taxon,2577,not natural product of taxon,nicht erzeugt aus,ne pas produit par le taxon,no producto natural del taxón
+718,P937,work location,Wirkungsort,lugar de trabajo,lieu de travail,338232,not work location,nicht Wirkungsort,ne pas lieu de travail,no lugar de trabajo
+719,P610,highest point,höchster Punkt,punto más alto,point culminant,5501,not highest point,nicht höchster Punkt,ne pas point culminant,no punto más alto
+720,P208,executive body,Exekutivorgan,órgano ejecutivo,exécutif,1672,not executive body,nicht Exekutivorgan,ne pas exécutif,no órgano ejecutivo
+721,P790,approved by,anerkannt von,aprobado por,approuvé par,29092,not approved by,nicht anerkannt von,ne pas approuvé par,no aprobado por
+722,P817,decay mode,Zerfallsart,modo de desintegración,mode de rayonnement radioactif,3,not decay mode,nicht Zerfallsart,ne pas mode de rayonnement radioactif,no modo de desintegración
+723,P3831,object has role,Objekt fungiert als,valor tiene el rol de,rôle de l'objet,65,not object has role,nicht Objekt fungiert als,ne pas rôle de l'objet,no valor tiene el rol de
+724,P2575,measures,misst,mide,mesure,251,not measures,nicht misst,ne pas mesure,no mide
+725,P1779,possible creator,möglicher Urheber,presunto creador,créateur présumé,38,not possible creator,nicht möglicher Urheber,ne pas créateur présumé,no presunto creador
+726,P86,composer,Komponist,compositor,compositeur ou compositrice,188072,not composer,nicht Komponist,ne pas compositeur ou compositrice,no compositor
+727,P3776,inhibitor of,Hemmstoff von,inhibidor de,inhibiteur de,101,not inhibitor of,nicht Hemmstoff von,ne pas inhibiteur de,no inhibidor de
+728,P7781,exonerated of,freigesprochen von,exonerado de,exonéré de,47,not exonerated of,nicht freigesprochen von,ne pas exonéré de,no exonerado de
+729,P5769,editor-in-chief,Chefredakteur,redactor en jefe,responsable éditorial,2294,not editor-in-chief,nicht Chefredakteur,ne pas responsable éditorial,no redactor en jefe
+730,P8627,closing time,Schließzeit,hora de cierre,heure de fermeture,7,not closing time,nicht Schließzeit,ne pas heure de fermeture,no hora de cierre
+731,P2770,source of income,Herkunft des Einkommens,fuente de ingreso,source de revenu,496,not source of income,nicht Herkunft des Einkommens,ne pas source de revenu,no fuente de ingreso
+732,P4794,season starts,Saisonstart,inicio de la temporada,début de la saison,2049,not season starts,nicht Saisonstart,ne pas début de la saison,no inicio de la temporada
+733,P926,postsynaptic connection,postsynaptische Verbindung,conexión postsináptica,connexion postsynaptique,7,not postsynaptic connection,nicht postsynaptische Verbindung,ne pas connexion postsynaptique,no conexión postsináptica
+734,P530,diplomatic relation,diplomatische Beziehung,relación diplomática,relation diplomatique,7046,not diplomatic relation,nicht diplomatische Beziehung,ne pas relation diplomatique,no relación diplomática
+735,P47,shares border with,gemeinsame Grenze mit,comparte fronteras con,limitrophe de,604494,not shares border with,nicht gemeinsame Grenze mit,ne pas limitrophe de,no comparte fronteras con
+736,P461,opposite of,Gegenteil von,opuesto a,contraire,23655,not opposite of,nicht Gegenteil von,ne pas contraire,no opuesto a
+737,P460,said to be the same as,eventuell gleichwertig,se dice que es lo mismo que,réputé identique à,284533,not said to be the same as,nicht eventuell gleichwertig,ne pas réputé identique à,no se dice que es lo mismo que
+738,P3373,sibling,Geschwister,hermano o hermana,frère ou sœur,405548,not sibling,nicht Geschwister,ne pas frère ou sœur,no hermano o hermana
+739,P26,spouse,Ehepartner(in),cónyuge,conjoint,729722,not spouse,nicht Ehepartner(in),ne pas conjoint,no cónyuge
+740,P7047,enemy of,Feind von,enemigo de,ennemi de,3796,not enemy of,nicht Feind von,ne pas ennemi de,no enemigo de
+741,P451,unmarried partner,Lebenspartner/-in,pareja,partenaire,14093,not unmarried partner,nicht Lebenspartner/-in,ne pas partenaire,no pareja
+742,P1889,different from,verschieden von,diferente de,à ne pas confondre avec,797811,not different from,nicht verschieden von,ne pas à ne pas confondre avec,no diferente de
+743,P3403,coextensive with,koexistiert mit,mismo territorio que,a le même territoire que,4066,not coextensive with,nicht koexistiert mit,ne pas a le même territoire que,no mismo territorio que
+744,P190,twinned administrative body,Partnerkommune,ciudad hermana,jumelage ou partenariat,48951,not twinned administrative body,nicht Partnerkommune,ne pas jumelage ou partenariat,no ciudad hermana
+745,P2152,antiparticle,Antiteilchen,antipartícula,antiparticule,77,not antiparticle,nicht Antiteilchen,ne pas antiparticule,no antipartícula
+746,P1382,partially coincident with,teilweise übereinstimmend mit,parcialmente coincidente con,coïncide partiellement avec,17886,not partially coincident with,nicht teilweise übereinstimmend mit,ne pas coïncide partiellement avec,no parcialmente coincidente con
+747,P4777,has boundary,hat als Grenze,delimitado por,délimité par,1140,not has boundary,nicht hat als Grenze,ne pas délimité par,no delimitado por
+748,P1038,relative,Verwandte,pariente,parentèle,51652,not relative,nicht Verwandte,ne pas parentèle,no pariente
+749,P197,adjacent station,benachbarte Station,estación adyacente,gare voisine,207794,not adjacent station,nicht benachbarte Station,ne pas gare voisine,no estación adyacente
+750,P833,interchange station,Umsteigebahnhof,estación de intercambio,pôle d'échanges,3568,not interchange station,nicht Umsteigebahnhof,ne pas pôle d'échanges,no estación de intercambio
+751,P2789,connects with,physisch verbunden mit,se conecta con,se connecte avec,182527,not connects with,nicht physisch verbunden mit,ne pas se connecte avec,no se conecta con
+752,P3342,significant person,relevante Person,persona relevante,personne clé,15016,not significant person,nicht relevante Person,ne pas personne clé,no persona relevante
+753,P1327,partner in business or sport,Berufs- oder Sportpartner,en conjunto con,partenaire professionnel ou sportif,17399,not partner in business or sport,nicht Berufs- oder Sportpartner,ne pas partenaire professionnel ou sportif,no en conjunto con
+754,P399,companion of,Begleiter,compañero de,compagnon de,4476,not companion of,nicht Begleiter,ne pas compagnon de,no compañero de
+755,P1420,taxon synonym,taxonomische Synonyme,sinónimo taxonómico,synonyme taxinomique,21321,not taxon synonym,nicht taxonomische Synonyme,ne pas synonyme taxinomique,no sinónimo taxonómico
+756,P129,physically interacts with,interagiert physikalisch mit,interactúa físicamente con,interagit physiquement avec,9480,not physically interacts with,nicht interagiert physikalisch mit,ne pas interagit physiquement avec,no interactúa físicamente con
+757,P1322,dual to,dual zu,dual de,dual de,351,not dual to,nicht dual zu,ne pas dual de,no dual de
+758,P2375,has superpartner,hat Superpartner,tiene como s-partícula,a comme superpartenaire,20,not has superpartner,nicht hat Superpartner,ne pas a comme superpartenaire,no tiene como s-partícula
+759,P8702,parallel street,Parallelstraße,calle paralela,rue parallèle,54,not parallel street,nicht Parallelstraße,ne pas rue parallèle,no calle paralela
+760,P1639,pendant of,Pendant,pendant de,pendant de,2235,not pendant of,nicht Pendant,ne pas pendant de,no pendant de
+761,P3032,adjacent building,Nachbargebäude,edificio adyacente,bâtiment adjacent,5173,not adjacent building,nicht Nachbargebäude,ne pas bâtiment adjacent,no edificio adyacente
+762,P6185,tautomer of,Tautomer von,tautómero de,tautomère de,1059,not tautomer of,nicht Tautomer von,ne pas tautomère de,no tautómero de
+763,P3179,territory overlaps,Territorium überschneidet sich mit,solapamiento territorial,recouvrement territorial,8207,not territory overlaps,nicht Territorium überschneidet sich mit,ne pas recouvrement territorial,no solapamiento territorial
+764,P144,based on,basiert auf,basado en,basé sur,51986,not based on,nicht basiert auf,ne pas basé sur,no basado en
+765,P737,influenced by,beeinflusst von,influenciado por,influencé par,18452,not influenced by,nicht beeinflusst von,ne pas influencé par,no influenciado por
+766,P2444,homoglyph,Homoglyph,homoglifo,homoglyphe,1751,not homoglyph,nicht Homoglyph,ne pas homoglyphe,no homoglifo
+767,P8865,mathematical inverse,mathematische Umkehroperation,inverso matemático,inverse mathématique,84,not mathematical inverse,nicht mathematische Umkehroperation,ne pas inverse mathématique,no inverso matemático
+768,P2329,antagonist muscle,antagonistischer Muskel,músculo antagonista,muscle antagoniste,101,not antagonist muscle,nicht antagonistischer Muskel,ne pas muscle antagoniste,no músculo antagonista
+769,P684,ortholog,ortholog,ortólogo,gène orthologue,4320867,not ortholog,nicht ortholog,ne pas gène orthologue,no ortólogo
+770,P2652,partnership with,Geschäftsbeziehung zu,en sociedad con,en partenariat avec,3272,not partnership with,nicht Geschäftsbeziehung zu,ne pas en partenariat avec,no en sociedad con
+771,P3364,stereoisomer of,Stereoisomer von,estereoisómero de,stéréoisomère de,2013,not stereoisomer of,nicht Stereoisomer von,ne pas stéréoisomère de,no estereoisómero de
+772,P53,family,Familie,familia,famille,89007,not family,nicht Familie,ne pas famille,no familia
+773,P1416,affiliation,Zugehörigkeit zu,afiliación,affilié à,86502,not affiliation,nicht Zugehörigkeit zu,ne pas affilié à,no afiliación
+774,P3113,does not have part,enthält nicht,no contiene,ne comprend pas,488,not does not have part,nicht enthält nicht,ne pas ne comprend pas,no no contiene
+775,P514,interleaves with,verzahnt mit,intercalada con,s'imbrique avec,31,not interleaves with,nicht verzahnt mit,ne pas s'imbrique avec,no intercalada con
+776,P2860,cites work,zitiert,referencia,cite le document,285110038,not cites work,nicht zitiert,ne pas cite le document,no referencia
+777,P8956,compatible with,kompatibel mit,compatible con,compatible avec,213,not compatible with,nicht kompatibel mit,ne pas compatible avec,no compatible con
+778,P807,separated from,abgetrennt von,separado de,séparé de,2292,not separated from,nicht abgetrennt von,ne pas séparé de,no separado de
+779,P1557,manifestation of,Manifestation von,manifestación de,manifestation de,2107,not manifestation of,nicht Manifestation von,ne pas manifestation de,no manifestación de
+780,P2210,relative to,Bezugspunkt,relativo a,relatif à,48,not relative to,nicht Bezugspunkt,ne pas relatif à,no relativo a
+781,P4675,appears in the form of,angenommene Gestalt,aparece bajo la forma de,se métamorphose en,373,not appears in the form of,nicht angenommene Gestalt,ne pas se métamorphose en,no aparece bajo la forma de
+782,P6477,does not have quality,Mangel an,no tiene la cualidad,caractérisé par l'absence de,339,not does not have quality,nicht Mangel an,ne pas caractérisé par l'absence de,no no tiene la cualidad
+783,P2650,interested in,interessiert an,interesado en,intéressé par,14871,not interested in,nicht interessiert an,ne pas intéressé par,no interesado en
+784,P547,commemorates,erinnert an,conmemora,commémore,24672,not commemorates,nicht erinnert an,ne pas commémore,no conmemora
+785,P5004,in opposition to,in Opposition zu,en oposición a,en opposition à,401,not in opposition to,nicht in Opposition zu,ne pas en opposition à,no en oposición a
+786,P1268,represents,repräsentiert,representa,représente,5370,not represents,nicht repräsentiert,ne pas représente,no representa
+787,P825,dedicated to,Widmung an,dedicado a,dédicataire,50233,not dedicated to,nicht Widmung an,ne pas dédicataire,no dedicado a
+788,P7719,generalization of,impliziert,implica,généralisation de,37,not generalization of,nicht impliziert,ne pas généralisation de,no implica
+789,P31,instance of,ist ein(e),instancia de,nature de l'élément,102954591,not instance of,nicht ist ein(e),ne pas nature de l'élément,no instancia de
+790,P1441,present in work,kommt vor in,presente en la obra,présent dans l'œuvre,126014,not present in work,nicht kommt vor in,ne pas présent dans l'œuvre,no presente en la obra
+791,P828,has cause,Ursache,causado por,a pour cause,9219,not has cause,nicht Ursache,ne pas a pour cause,no causado por
+792,P1542,has effect,Ursache von,causa de,a pour effet,5673,not has effect,nicht Ursache von,ne pas a pour effet,no causa de
+793,P2737,union of,Vereinigung von,unión de,union de,375,not union of,nicht Vereinigung von,ne pas union de,no unión de

@@ -1,0 +1,58 @@
+item1,item1Label,item2,item2Label
+http://www.wikidata.org/entity/P1535,used by,http://www.wikidata.org/entity/P2283,uses
+http://www.wikidata.org/entity/P1411,nominated for,http://www.wikidata.org/entity/P2453,nominee
+http://www.wikidata.org/entity/P3148,repeals,http://www.wikidata.org/entity/P2568,repealed by
+http://www.wikidata.org/entity/P2579,studied by,http://www.wikidata.org/entity/P2578,studies
+http://www.wikidata.org/entity/P2682,is verso of,http://www.wikidata.org/entity/P2681,is recto of
+http://www.wikidata.org/entity/P770,cause of destruction,http://www.wikidata.org/entity/P3082,destroyed
+http://www.wikidata.org/entity/P425,field of this occupation,http://www.wikidata.org/entity/P3095,practiced by
+http://www.wikidata.org/entity/P3730,next higher rank,http://www.wikidata.org/entity/P3729,next lower rank
+http://www.wikidata.org/entity/P7376,worn by,http://www.wikidata.org/entity/P3828,wears
+http://www.wikidata.org/entity/P144,based on,http://www.wikidata.org/entity/P4969,derivative work
+http://www.wikidata.org/entity/P5135,greater than,http://www.wikidata.org/entity/P5136,less than
+http://www.wikidata.org/entity/P1027,conferred by,http://www.wikidata.org/entity/P5460,grants
+http://www.wikidata.org/entity/P7904,gave up territory to,http://www.wikidata.org/entity/P7903,gained territory from
+http://www.wikidata.org/entity/P8032,victim,http://www.wikidata.org/entity/P8031,perpetrator
+http://www.wikidata.org/entity/P1308,officeholder,http://www.wikidata.org/entity/P39,position held
+http://www.wikidata.org/entity/P22,father,http://www.wikidata.org/entity/P40,child
+http://www.wikidata.org/entity/P25,mother,http://www.wikidata.org/entity/P40,child
+http://www.wikidata.org/entity/P8810,parent (unspecified),http://www.wikidata.org/entity/P40,child
+http://www.wikidata.org/entity/P1830,owner of,http://www.wikidata.org/entity/P127,owned by
+http://www.wikidata.org/entity/P156,followed by,http://www.wikidata.org/entity/P155,follows
+http://www.wikidata.org/entity/P453,character role,http://www.wikidata.org/entity/P175,performer
+http://www.wikidata.org/entity/P1299,depicted by,http://www.wikidata.org/entity/P180,depicts
+http://www.wikidata.org/entity/P184,doctoral advisor,http://www.wikidata.org/entity/P185,doctoral student
+http://www.wikidata.org/entity/P749,parent organization,http://www.wikidata.org/entity/P355,subsidiary
+http://www.wikidata.org/entity/P568,overlies,http://www.wikidata.org/entity/P567,underlies
+http://www.wikidata.org/entity/P1441,present in work,http://www.wikidata.org/entity/P674,characters
+http://www.wikidata.org/entity/P688,encodes,http://www.wikidata.org/entity/P702,encoded by
+http://www.wikidata.org/entity/P3602,candidacy in election,http://www.wikidata.org/entity/P726,candidate
+http://www.wikidata.org/entity/P3919,contributed to creative work,http://www.wikidata.org/entity/P767,contributor to the creative work or subject
+http://www.wikidata.org/entity/P1542,has effect,http://www.wikidata.org/entity/P828,has cause
+http://www.wikidata.org/entity/P201,lake outflow,http://www.wikidata.org/entity/P885,origin of the watercourse
+http://www.wikidata.org/entity/P925,presynaptic connection,http://www.wikidata.org/entity/P926,postsynaptic connection
+http://www.wikidata.org/entity/P5096,member of the crew of,http://www.wikidata.org/entity/P1029,crew member(s)
+http://www.wikidata.org/entity/P1875,represented by,http://www.wikidata.org/entity/P1268,represents
+http://www.wikidata.org/entity/P1620,plaintiff,http://www.wikidata.org/entity/P1591,defendant
+http://www.wikidata.org/entity/P710,participant,http://www.wikidata.org/entity/P1344,participant in
+http://www.wikidata.org/entity/P2522,victory,http://www.wikidata.org/entity/P1346,winner
+http://www.wikidata.org/entity/P1366,replaced by,http://www.wikidata.org/entity/P1365,replaces
+http://www.wikidata.org/entity/P1643,departure transaction,http://www.wikidata.org/entity/P1642,acquisition transaction
+http://www.wikidata.org/entity/P36,capital,http://www.wikidata.org/entity/P1376,capital of
+http://www.wikidata.org/entity/P1434,takes place in fictional universe,http://www.wikidata.org/entity/P1445,fictional universe described in
+http://www.wikidata.org/entity/P1066,student of,http://www.wikidata.org/entity/P802,student
+http://www.wikidata.org/entity/P5134,evaluation of,http://www.wikidata.org/entity/P5133,has evaluation
+http://www.wikidata.org/entity/P360,is a list of,http://www.wikidata.org/entity/P2354,has list
+http://www.wikidata.org/entity/P527,has part,http://www.wikidata.org/entity/P361,part of
+http://www.wikidata.org/entity/P1479,has contributing factor,http://www.wikidata.org/entity/P1537,contributing factor of
+http://www.wikidata.org/entity/P1606,natural reservoir of,http://www.wikidata.org/entity/P1605,has natural reservoir
+http://www.wikidata.org/entity/P1677,index case of,http://www.wikidata.org/entity/P1660,has index case
+http://www.wikidata.org/entity/P1704,is pollinator of,http://www.wikidata.org/entity/P1703,is pollinated by
+http://www.wikidata.org/entity/P747,has edition or translation,http://www.wikidata.org/entity/P629,edition or translation of
+http://www.wikidata.org/entity/P1536,immediate cause of,http://www.wikidata.org/entity/P1478,has immediate cause
+http://www.wikidata.org/entity/P2974,habitat,http://www.wikidata.org/entity/P6803,taxon found at location
+http://www.wikidata.org/entity/P8517,view,http://www.wikidata.org/entity/P7108,location of the point of view
+http://www.wikidata.org/entity/P137,operator,http://www.wikidata.org/entity/P121,item operated
+http://www.wikidata.org/entity/P150,contains administrative territorial entity,http://www.wikidata.org/entity/P131,located in the administrative territorial entity
+http://www.wikidata.org/entity/P1056,product or material produced,http://www.wikidata.org/entity/P176,manufacturer
+http://www.wikidata.org/entity/P6087,coach of sports team,http://www.wikidata.org/entity/P286,head coach

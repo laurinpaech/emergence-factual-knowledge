@@ -1,0 +1,391 @@
+_id,label,alias
+P1034,main food source,eats
+P457,foundational text,establishing document
+P1366,replaced by,succeeded by
+P740,location of formation,founded in
+P1817,addressee,sent to
+P58,screenwriter,screenplay by
+P8329,principal investigator,chief investigator
+P9072,derived from organism type,axon of origin
+P137,operator,operated by
+P3085,qualifies for event,league this event qualifies for
+P1704,is pollinator of,pollinates
+P8263,curriculum topics,syllabus includes
+P3173,offers view on,has view of
+P1465,category for people who died here,category for place of death
+P1165,home world,home planet
+P741,playing hand,tennis hand
+P3719,regulated by,regulator
+P8839,hairstyle,haircut
+P178,developer,developed by
+P8546,recording location,recorded at
+P5869,model item,best example
+P26,spouse,married to
+P7888,merged into,acquired by
+P7719,generalization of,generalizes
+P66,ancestral home,native place
+P4777,has boundary,border
+P1322,dual to,dual of
+P106,occupation,profession
+P769,significant drug interaction,pharmacological interaction
+P631,structural engineer,building engineer
+P5588,invasive to,alien to
+P4608,scenographer,set designer
+P103,native language,mother tongue
+P37,official language,spoken in
+P689,afflicts,affects
+P38,currency,used money
+P183,endemic to,native to
+P4805,make-up artist,visagist
+P1382,partially coincident with,partially overlaps
+P4988,test method,methodology
+P2438,narrator,narrated by
+P282,writing system,alphabet
+P291,place of publication,released in
+P20,place of death,died in
+P463,member of,membership
+P3680,statement supported by,according to
+P1455,list of works,bibliography
+P1625,has melody,uses tune
+P5940,plot expanded in,story continued in
+P452,industry,sector
+P4770,hydrated form of,is a hydrate of
+P119,place of burial,grave at
+P186,made from material,constructed out of
+P6001,applies to people,valid to people
+P2872,visitor centre,tourist office
+P7937,form of creative work,artistic form
+P6872,has written for,writer for
+P1884,hair color,color of hair
+P1050,medical condition,suffers from
+P140,religion or world view,has religion
+P155,follows,succeeds
+P59,constellation,part of constellation
+P1434,takes place in fictional universe,set in fictional universe
+P930,type of electrification,electrification type
+P1546,motto,slogan
+P828,has cause,result of
+P509,cause of death,died of
+P1639,pendant of,pendant to
+P1431,executive producer,showrunner
+P111,measured physical quantity,measure of
+P1013,criterion used,on the basis of
+P7469,orientation,direction
+P179,part of the series,issue of
+P35,head of state,state headed by
+P2715,elected in,election
+P6530,has role in modeling,used to investigate
+P516,powered by,power source
+P1142,political ideology,political view
+P2827,flower color,color of the flower
+P2650,interested in,field of study
+P2159,computes solution to,is an algorithm for
+P2568,repealed by,revoked by
+P4100,parliamentary group,party
+P495,country of origin,comes from
+P1056,product or material produced,producer of
+P3602,candidacy in election,running in election
+P6819,calligrapher,scribe
+P1308,officeholder,incumbent
+P750,distributed by,distributor
+P453,character role,acting role
+P840,narrative location,takes place in
+P5832,political coalition,political alliance
+P287,designed by,has designer
+P88,commissioned by,built for
+P1011,excluding,except
+P3833,diaspora,part of diaspora
+P2567,amended by, altered by
+P1310,statement disputed by,opposed by
+P1444,destination point,ending at
+P4330,contains,has contents
+P664,organizer,organized by
+P177,crosses,over
+P118,league,division
+P800,notable work,known for
+P2546,sidekick of,helper of
+P27,country of citizenship,citizen of
+P2679,author of foreword,foreword by
+P913,notation,symbol
+P2283,uses,made use of
+P2652,partnership with,collaboration with
+P1534,end cause,ended by
+P2079,fabrication method,manufacturing method
+P166,award received,winner of
+P1605,has natural reservoir,natural reservoir
+P1537,contributing factor of,indirectly caused
+P9234,supplement to,extends
+P469,lakes on river,reservoir on this river
+P8739,prohibits,does not permit
+P2318,debut participant,first appearance for
+P2675,reply to,responds to
+P275,copyright license,content license
+P1363,points/goal scored by,scorer
+P768,electoral district,constituency
+P2860,cites work,bibliographic citation
+P358,discography,recording catalog
+P84,architect,architecture firm
+P4733,produced sound,makes sound
+P2680,author of afterword,afterword by
+P4428,implementation of,implements
+P1080,from narrative universe,from mythology
+P461,opposite of,inverse of
+P135,movement,trend
+P9793,setlist,music performed
+P2632,place of detention,prison
+P2935,connector,ports
+P1012,including,with
+P825,dedicated to,tribute to
+P1547,depends on software,has software dependency
+P159,headquarters location,HQ location
+P8032,victim,casualty
+P272,production company,film studio
+P1419,shape,form factor
+P5389,permanent resident of,landed immigrant of
+P4006,overrules,overruled
+P488,chairperson,leader
+P69,educated at,studied at
+P189,location of discovery,found in
+P3094,develops from,evolves from
+P4934,calculated from,computed from
+P2937,parliamentary term,legislative term
+P180,depicts,portrays
+P9047,archaeological site of,type of archaeological site
+P197,adjacent station,neighbouring station
+P6364,official color,signature color
+P8786,dedicated heritage entity,has museum
+P802,student,teacher of
+P1049,worshipped by,deity of
+P2175,medical condition treated,disease treated
+P9161,thesis committee member,dissertation committee member
+P1336,territory claimed by,sovereignty claimed by
+P1066,student of,teacher
+P156,followed by,succeded by
+P8701,has census,has human population census
+P1731,Fach,vocal specialization
+P1343,described by source,written about in
+P1571,codomain,range
+P47,shares border with,bordered by
+P39,position held,office held
+P688,encodes,codes for
+P5051,towards,in the direction of
+P276,location,is in
+P1924,vaccine for,target disease
+P5816,state of conservation,conservation status
+P1706,together with,accompanied by
+P2578,studies,researches
+P138,named after,eponym
+P812,academic major,field of study
+P8058,symbol of,emblem of
+P4584,first appearance,debut
+P4446,reward program,frequent flyer program
+P551,residence,lives in
+P641,sport,plays
+P5460,grants,awards
+P1777,manner of,style of
+P344,director of photography,cinematographer
+P1889,different from,is not
+P2396,image of function,function image
+P1454,legal form,structured as
+P467,legislated by,passed by
+P3349,designed to carry,carries
+P736,cover art by,cover artist
+P1398,structure replaces,replacement building
+P770,cause of destruction,destroyed by
+P2821,by-product, secondary product
+P25,mother,mum
+P157,killed by,murdered by
+P8791,digitised by,scanned by
+P466,occupant,inhabitant
+P658,tracklist,songs
+P991,successful candidate,election won by
+P8324,funder,donor
+P3342,significant person,notable person
+P1876,vehicle,vessel
+P7153,significant place,significant location
+P2378,issued by,assigned by
+P1071,location of creation,assembly location
+P4424,mandates,requires
+P3716,social classification,social status
+P112,founded by,established by
+P170,creator, created by
+P108,employer,works for
+P1365,replaces,succeeds
+P22,father,dad
+P1387,political alignment,political position
+P355,subsidiary,parent company of
+P6,head of government,president
+P2541,operating area,area of operations
+P1344,participant in,took part in
+P54,member of sports team,plays for
+P9788,performed at,performance location
+P31,instance of,is a/is an
+P110,illustrator,illustrated by
+P185,doctoral student,doctoral candidate
+P1576,lifestyle,diet
+P1774,workshop of,studio of
+P9237,reissue of,re-release
+P915,filming location,filmed at
+P193,main building contractor,constructed by
+P945,allegiance,loyalty
+P4647,location of first performance,first performed at
+P1079,launch contractor,launch service provider
+P1399,convicted of,found guilty of
+P512,academic degree,diploma
+P4220,order of battle,battle formation
+P735,given name,first name
+P126,maintained by,administered by
+P1552,has quality,has property
+P5009,complies with,conforms to
+P423,shooting handedness,dominant hand shooting
+P7782,category for ship name,Commons category for ship name
+P176,manufacturer,made by
+P1383,contains settlement,populated places within
+P2849,produced by,secreted by
+P6569,taxon especially protected in area,taxa especially protected in area
+P6758,supported sports team, is a fan of team
+P5817,state of use,use status
+P5059,modified version of,modification of
+P655,translator,is translated by
+P912,has facility,has amenity
+P8045,organized response related to outbreak,organised response related to outbreak
+P3014,laws applied,legal base
+P8031,perpetrator,criminal
+P4379,youth wing,youth organisation
+P4101,dissertation submitted to,thesis submitted to
+P2360,intended public,for audience of
+P547,commemorates,in honor of
+P7604,supervised by,is supervisee of
+P793,significant event,notable event
+P880,CPU,processor
+P2408,set in period,takes place in time
+P2239,first aid measures,first aid response
+P3032,adjacent building,located next to
+P1411,nominated for,nominee for
+P1596,penalty,punishment
+P3373,sibling,is sibling of
+P5030,talk show guest,participant in talk show
+P2341,indigenous to,native to
+P6106,uses capitalization for,capitalizes
+P1027,conferred by,awarded by
+P941,inspired by,inspiration
+P1877,after a work by,inspiring artist
+P4969,derivative work,is the basis for
+P520,armament,armed with
+P943,programmer,software developer
+P1028,donated by,gift of
+P3452,inferred from,implied by
+P40,child,offspring
+P3113,does not have part,lacks
+P1478,has immediate cause,immediate effect of
+P53,family,house
+P859,sponsor,sponsored by
+P2964,right to vote,suffrage
+P98,editor,edited by
+P127,owned by,belongs to
+P3148,repeals,cancels
+P6153,research site,location of research
+P4878,symbolizes,symbol for
+P17,country,sovereign state
+P6477,does not have quality,lacks quality
+P5072,presented in,screened at
+P3919,contributed to creative work,contributor to
+P9883,created for,made for
+P19,place of birth,born at
+P286,head coach,coached by
+P501,enclave within,enclosed by
+P4675,appears in the form of,takes the form of
+P3179,territory overlaps,partially contains territorial extent
+P1429,has pet,owns pet
+P3938,named by,coined by
+P1591,defendant,accused
+P1703,is pollinated by,pollinator
+P2579,studied by,researched by
+P371,presenter,hosted by
+P184,doctoral advisor,doctoral supervisor
+P834,train depot,rail yard
+P9899,music created for,music composed for
+P2682,is verso of,Backside
+P5004,in opposition to,opposes
+P725,voice actor,voiced by
+P1620,plaintiff,claimant
+P460,said to be the same as,may be equal to
+P6840,student organization of,student organisation of
+P459,determination method,determined by
+P1299,depicted by,portrayed by
+P749,parent organization,subsidiary of
+P1891,signatory,signed by
+P360,is a list of,lists
+P2842,place of marriage,married at
+P734,family name,surname
+P1269,facet of,aspect of
+P1640,curator,curated by
+P366,has use,purpose
+P1046,discovery method,detection method
+P1441,present in work,appears in
+P676,lyrics by,lyricist
+P514,interleaves with,interbedded with
+P826,tonality,in key
+P1652,referee,umpire
+P4224,category contains,is set of
+P2789,connects with,attaches to
+P1542,has effect,causes
+P1589,lowest point,deepest point
+P924,possible treatment,therapy
+P1595,charge,charged with
+P1196,manner of death,circumstance of death
+P3095,practiced by,done by
+P9660,not found in,not attested in
+P1536,immediate cause of,has immediate effect
+P1535,used by,played by
+P1479,has contributing factor,indirectly caused by
+P6977,review of,reviews
+P974,tributary,has river inflow
+P669,located on street or square,is on
+P8001,endorsed by,supported by
+P8411,set in environment,takes place in
+P748,appointed by,named by
+P8738,permits,does not prohibit
+P1029,crew member(s),member of crew of
+P1283,filmography,list of films the person contributed to
+P872,printed by,printer
+P4967,prerequisite,requirement
+P552,handedness,dominant hand
+P1557,manifestation of,realization of
+P789,edibility,palatiblity
+P4032,reviewed by,examined by
+P194,legislative body,council
+P144,based on,derived from
+P50,author,written by
+P1268,represents,stands for
+P5021,assessment,examination
+P1346,winner,won by
+P2384,statement describes,statement about
+P248,stated in,source of claim
+P887,based on heuristic,heuristically based on
+P9192,sensors,detector
+P6291,advertises,promotes
+P1074,fictional analog of,fictional version of
+P1593,defender,attorney
+P4791,commanded by,has commander
+P1303,instrument,player of
+P175,performer,played by
+P161,cast member,starring
+P937,work location,working at
+P8956,compatible with,supports
+P610,highest point,zenith
+P208,executive body,executive branch
+P751,introduced feature,new feature
+P8670,character designer,character modeler
+P398,child astronomical body,orbited by
+P807,separated from,seceded from
+P737,influenced by,has influence
+P1830,owner of,owns
+P790,approved by,erected by
+P162,producer,produced by
+P86,composer,composed by
+P7047,enemy of,opponent of
+P3822,rules for classification,classification rules
+P8627,closing time,closes at
+P2770,source of income,income source
+P4794,season starts,season begins

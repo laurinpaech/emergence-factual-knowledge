@@ -1,0 +1,53 @@
+id1,en1,es1,fr1,de1,id2,en2,es2,fr2,de2,count1,count2
+P1535,used by,utilizado por,utilisé par,verwendet von,P2283,uses,utiliza,utilise,benutzt,9765,27605
+P1411,nominated for,nominado a,nommé pour,nominiert für,P2453,nominee,nominado,nommé,Nominierter,68638,164
+P3148,repeals,revoca,abroge,hebt auf,P2568,repealed by,abrogado por,abrogé par,aufgehoben durch,28838,33377
+P2579,studied by,estudiado por,discipline dont c'est l'objet,Forschungsthema in,P2578,studies,estudia,objet de la discipline,studiert,5967,1954
+P2682,is verso of,es verso de,est le verso,ist Rückseite von,P2681,is recto of,es recto de,est le recto,ist Vorderseite von,165,164
+P770,cause of destruction,causa de destrucción,cause de la destruction,Grund der Zerstörung,P3082,destroyed,ha destruido,détruit,zerstört,1380,283
+P425,field of this occupation,ámbito de la ocupación,domaine d'occupation,Betätigungsfeld des Berufes,P3095,practiced by,practicado por,pratiqué par,praktiziert von,5765,4814
+P3730,next higher rank,rango inmediatamente superior,rang immédiatement supérieur,nächsthöherer Rang,P3729,next lower rank,rango inmediatamente inferior,rang immédiatement inférieur,nächstniedrigerer Rang,4403,4149
+P144,based on,basado en,basé sur,basiert auf,P4969,derivative work,obra derivada,œuvre dérivée,Bearbeitung,52294,19804
+P5135,greater than,mayor que,supérieur à,größer als,P5136,less than,menor que,inférieur à,weniger als,77,64
+P1027,conferred by,conferido por,décerné par,verliehen von,P5460,grants,confiere,diplôme ou distinction délivré,verleiht akademischen Grad,15110,696
+P8032,victim,víctima,victime,Opfer,P8031,perpetrator,perpetrador,perpétrateur,Täter,870,818
+P1308,officeholder,titular del cargo,titulaire,Amtsinhaber,P39,position held,cargo ocupado,fonction,öffentliches Amt oder Stellung,17533,1456025
+P22,father,padre,père,Vater,P40,child,hijo o hija,enfant,Kind(er),952062,1551742
+P25,mother,madre,mère,Mutter,P40,child,hijo o hija,enfant,Kind(er),601247,1551742
+P8810,parent,padres,parent,Elternteil,P40,child,hijo o hija,enfant,Kind(er),13,1551742
+P1830,owner of,propietario de,propriétaire de,Inhaber von,P127,owned by,propietario,propriétaire,Eigentümer,45238,466709
+P156,followed by,sucedido por,suivi par,Nachfolger,P155,follows,precedido por,précédé par,Vorgänger,1118555,1136252
+P453,character role,rol,rôle,Rolle,P175,performer,intérprete,interprète,Interpret,506,499822
+P1299,depicted by,representado por,est dépeint par,dargestellt von,P180,depicts,representa a,dépeint,Motiv,10979,614541
+P184,doctoral advisor,supervisor doctoral,directeur de thèse,Promotionsbetreuer,P185,doctoral student,doctorando,doctorant,Doktorand,302831,297261
+P749,parent organization,organización matriz,organisation mère,übergeordnete Organisation,P355,subsidiary,filial,organisation fille,nachgeordnete Organisation,122549,93001
+P568,overlies,suprayacente a,mur,Liegend,P567,underlies,infrayacente a,toit,Hangend,1555,1542
+P1441,present in work,presente en la obra,présent dans l'œuvre,kommt vor in,P674,characters,personajes,personnages,Figuren,126749,120548
+P688,encodes,codifica,synthètise,codiert,P702,encoded by,codificado por,codé par,codiert von,973826,976836
+P3602,candidacy in election,candidato en la elección,candidat à l'élection,kandidiert(e) für,P726,candidate,candidato,candidat,Kandidat,158938,90180
+P3919,contributed to creative work,contribuyó en la obra publicada,a contribué à une œuvre publiée,Mitarbeit an Publikationen,P767,contributor to the creative work or subject,colaborador,collaborateur,Mitarbeiter des Werks,5086,41528
+P1542,has effect,causa de,a pour effet,Ursache von,P828,has cause,causado por,a pour cause,Ursache,5715,9257
+P201,lake outflow,emisario del lago,émissaire du lac,Abfluss,P885,origin of the watercourse,origen del curso de agua,source,Quelle des Wasserlaufs,9202,12289
+P925,presynaptic connection,conexión presináptica,connexion présynaptique,präsynaptische Verbindung,P926,postsynaptic connection,conexión postsináptica,connexion postsynaptique,postsynaptische Verbindung,6,7
+P5096,member of the crew of,tripulante de,membre de l'équipage de,Mitglied der Besatzung von,P1029,crew member(s),tripulante,équipage,Mannschaftsmitglied,1386,2976
+P1875,represented by,representante,représenté par,repräsentiert von,P1268,represents,representa,représente,repräsentiert,8117,5411
+P1620,plaintiff,demandante,demandeur,Kläger,P1591,defendant,imputado,défendeur,Angeklagter,365,4610
+P2522,victory,victoria,victoire,Sieg,P1346,winner,ganador,vainqueur,Sieger,17913,246743
+P1366,replaced by,reemplazado por,remplacé par,ersetzt durch,P1365,replaces,reemplaza a,remplace,ersetzt,86569,85769
+P1643,departure transaction,transacción de salida,conditions de départ,Abgang des Sportlers,P1642,acquisition transaction,condiciones de la transferencia,conditions de transfert,Transferabwicklung,0,1
+P1434,takes place in fictional universe,describe el universo ficticio,décrit l'univers de fiction,beschreibt fiktives Universum,P1445,fictional universe described in,universo ficticio descrito en,univers de fiction décrit dans,fiktives Universum wird beschrieben in,15814,4613
+P1066,student of,alumno de,élève de,Schüler von,P802,student,discípulo,élève,Schüler,86511,62796
+P5134,evaluation of,evaluación de,évaluation de,Auswertung von,P5133,has evaluation,tiene evaluación,a pour évaluation,hat Auswertung,26,24
+P360,is a list of,lista de,est une liste de,Liste von,P2354,has list,lista del elemento,liste d'éléments,entsprechende Liste,249192,32329
+P527,has part,compuesto por,comprend,besteht aus,P361,part of,forma parte de,partie de,ist Teil von,1935300,4368193
+P1479,has contributing factor,factor contribuyente,a comme facteur contributif,hat mitwirkenden Faktor,P1537,contributing factor of,factor contribuyente de,facteur contributif de,Co-Faktor von,588,324
+P1606,natural reservoir of,reservorio natural de,réservoir naturel de,Erregerreservoir von,P1605,has natural reservoir,tiene reservorio natural,a pour réservoir naturel,hat Erregerreservoir,17,443
+P1677,index case of,caso índice de,patient zéro de,Indexpatient von,P1660,has index case,tiene como caso índice,patient zéro,hat Indexpatient,29,28
+P1704,is pollinator of,polinizador,pollinisateur de,Bestäuber von,P1703,is pollinated by,polinización,pollinisé par,bestäubt durch,58,79
+P747,has edition or translation,edición o traducción,édition,hat Ausgaben,P629,edition or translation of,edición o traducción de,édition ou traduction de,Ausgabe oder Übersetzung von,87363,87268
+P1536,immediate cause of,causa inmediata de,cause immédiate de,direkte Ursache von,P1478,has immediate cause,causa inmediata,a pour cause immédiate,hat unmittelbare Ursache,18761,125023
+P8517,view,vista,vue,Aussicht,P7108,location of the point of view,lugar del punto de vista,position du point de vue,Standort des Beobachters,1346,512
+P137,operator,operador,opérateur,Betreiber,P121,item operated,elemento operado,élément utilisé,eingesetztes Objekt,538793,12994
+P150,contains administrative territorial entity,subdividido en (división administrativa),contient les subdivisions territoriales administratives,Untereinheit (administrative Einheit),P131,located in the administrative territorial entity,situado en la entidad territorial administrativa,localisation administrative,liegt in der Verwaltungseinheit,1045005,11213234
+P1056,product or material produced,producto,produit,Produkt,P176,manufacturer,fabricante,fabricant,Hersteller,45764,130741
+P6087,coach of sports team,entrenador de,équipe sportive entraînée,Trainer von Sportteam oder -verein,P286,head coach,entrenador,entraîneur / directeur sportif,Cheftrainer,11850,53908

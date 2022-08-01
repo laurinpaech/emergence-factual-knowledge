@@ -1,0 +1,33 @@
+# Queried at: https://query.wikidata.org/
+
+# Inverse Property (167 results)
+SELECT ?item1 ?item1Label ?item2 ?item2Label
+WHERE
+{
+  ?item1 wdt:P1696 ?item2.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". } # Helps get the label in your language, if not, then en language
+}
+
+# Antonym Entities (23077 results)
+SELECT ?item1 ?item1Label ?item2 ?item2Label
+WHERE
+{
+  ?item1 wdt:P461 ?item2.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". } # Helps get the label in your language, if not, then en language
+}
+
+# complementary properties (only kinda and not many though)
+SELECT ?property1 ?property1Label ?property2 ?property2Label
+WHERE
+{
+  ?property1 wdt:P8882 ?property2.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". } # Helps get the label in your language, if not, then en language
+}
+
+# equivalent property in other ontologies (use in statements on properties, use property URI) (not useful...)
+SELECT ?item1 ?item1Label ?item2 ?item2Label
+WHERE
+{
+  ?item1 wdt:P1628 ?item2.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". } # Helps get the label in your language, if not, then en language
+}

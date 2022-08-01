@@ -1,0 +1,466 @@
+id,zh,ja,en,count
+P1034,主要食物來源,主な食料源,main food source,326
+P457,成立文书,設立文,foundational text,50541
+P532,船籍港,船籍港,port of registry,25629
+P740,成立地點,結成場所,location of formation,44482
+P1817,收件人,宛名,addressee,49021
+P122,政体,政治体制,basic form of government,2152
+P58,編劇,脚本,screenwriter,186866
+P1716,品牌,ブランド,brand,15374
+P1165,來源星球,故郷,home world,1648
+P4043,模拟,エミュレート対象,emulates,345
+P6889,微架構,マイクロアーキテクチャ,microarchitecture,198
+P8839,发型,髪型,hairstyle,595
+P7167,没有效果,以下は無効,does not have effect,30
+P1951,投資者,投資家,investor,6294
+P2554,美術指導,プロダクションデザイナー,production designer,13508
+P66,籍贯,祖籍,ancestral home,1811
+P7163,销售商品,取扱商品,typically sells,299
+P3275,分镜师,絵コンテ,storyboard artist,697
+P7938,所属选区,関連する選挙区,associated electoral district,62894
+P106,职业,職業,occupation,9260065
+P636,给药途径,投与経路,route of administration,3001
+P85,颂歌,アンセム,anthem,1691
+P2841,发病年龄,発症年齢,age of onset,7
+P1811,剧集列表,エピソードの一覧,list of episodes,4553
+P631,結構工程師,構造設計,structural engineer,1781
+P1158,降落地點,着地点,location of landing,502
+P103,母语,母語,native language,287778
+P37,官方语言,公用語,official language,21472
+P6563,關鍵績效指標,KPI,key performance indicator,13
+P1435,遗产名称,遺産保護指定,heritage designation,2062512
+P689,影响,障害部位,afflicts,4196
+P38,货币,通貨,currency,2098
+P183,特有分布,生息域,endemic to,32262
+P163,旗帜,旗,flag,6539
+P6902,年号,元号,era name,345
+P2438,敘事者,ナレーター,narrator,2267
+P282,書寫系統,文字体系,writing system,611234
+P291,出版地,出版地,place of publication,271222
+P6275,版權代表人,著作権代表者,copyright representative,81054
+P20,死亡地,死亡地,place of death,1212693
+P3680,主张此叙述者,この主張の支持者,statement supported by,58
+P5202,改編者,翻案,adapted by,3430
+P2184,話題历史,主題の歴史,history of topic,2171
+P450,航天任务,宇宙飛行士のミッション,astronaut mission,1836
+P1455,作品列表,作品集,list of works,1228
+P3712,計畫目標,計画や行為の目的,objective of project or action,1632
+P2361,线上服务,オンラインサービス,online service,48
+P2882,降级,勝利した対戦相手,relegated,2906
+P2634,模特,作品モデル,sitter,280
+P1990,饲养品种,飼育生物,species kept,7902
+P136,類型,ジャンル,genre,1527395
+P452,产业,業種,industry,104004
+P1462,標準組織,標準化団体,standards body,2799
+P449,首播电视台,放送当初のネットワーク,original broadcaster,93087
+P5800,故事角色,作中の役割,narrative role,4591
+P517,相互作用,相互作用,interaction,291
+P7937,作品形式,創作物の形式,form of creative work,342698
+P1884,髮色,髪の色,hair color,11981
+P3018,所在保护区,位置する保護区,located in protected area,36798
+P1686,得獎作品,対象作品,for work,50
+P4241,确切时间,該当時期,refine date,0
+P3975,总书记,総書記,secretary general,1431
+P1050,医疗状况,医学的状況,medical condition,241962
+P2286,动脉供应,動脈支配,arterial supply,288
+P140,信仰,宗教,religion or world view,444622
+P59,星座,星座,constellation,7371215
+P1434,发生在虚构的宇宙中,舞台の架空世界,takes place in fictional universe,15814
+P3912,报纸版式,新聞の形式,newspaper format,4083
+P1923,參與隊伍,参加チーム,participating team,148066
+P1546,座右铭,標語,motto,509
+P149,建築風格,建築様式,architectural style,124958
+P509,死因,死因,cause of death,115623
+P111,以此物理量测量,測られる物理量,measured physical quantity,3611
+P1013,所用標準,使用した基準,criterion used,69
+P8646,资料片,以下の拡張パック,expansion of,1507
+P5998,分流,派川,distributary,119
+P4968,相關資格,関連する資格,relevant qualification,55
+P680,分子功能,分子機能,molecular function,1210165
+P35,国家元首,元首,head of state,1841
+P2715,當選選舉,選出選挙名,elected in,183
+P516,发动机,動力装置・エンジン,powered by,11110
+P1142,政治意识形态,政治イデオロギー,political ideology,23809
+P2700,协议,プロトコル,protocol,231
+P2827,花色,花の色,flower color,551
+P2962,棋士称号,チェスのタイトル,title of chess person,31178
+P2568,取代者,以下の文書によって廃止,repealed by,33377
+P823,演讲者,講演者,speaker,5293
+P4100,黨團,会派,parliamentary group,1970
+P7376,被穿著,着用者,worn by,182
+P495,原產地,本国,country of origin,1345801
+P1056,产品,生産品目,product or material produced,45764
+P2348,時間週期,時代,time period,202625
+P3602,競選,立候補選挙,candidacy in election,158938
+P277,编程语言,プログラミング言語,programming language,12192
+P1308,公职人员,在職者,officeholder,17533
+P750,經銷商,配給元,distributed by,158589
+P453,人物角色,配役,character role,506
+P840,敘事發生地,物語の舞台,narrative location,91176
+P5832,政治聯盟,政党連合,political coalition,155
+P88,委托人,依頼者,commissioned by,23429
+P3092,电影摄制组成员,スタッフ,film crew member,4973
+P1423,模板主话题,テンプレートの中心記事,template has topic,21545
+P1011,排除,以下を除く,excluding,6
+P1995,醫學專科,診療科,health specialty,10263
+P415,廣播節目類型,ラジオ・フォーマット,radio format,3611
+P654,方位,方位,direction relative to location,25
+P1310,对此声明有异议者,この主張の反対者,statement disputed by,5
+P1444,行程目的地,目的地,destination point,25554
+P5353,學區,学区,school district,9780
+P4330,包含,内容,contains,8269
+P5095,斷層,断層,fault,20
+P118,所属联盟,リーグ,league,192730
+P2633,主题的地理学,主題の地理,geography of topic,726
+P800,主要作品,主要作品,notable work,96985
+P1775,追隨對象,以下のフォロワー,follower of,22
+P1606,为其天然宿主,以下の自然宿主,natural reservoir of,17
+P1264,有效期,あてはまる期間,valid in period,219
+P27,國籍,国籍,country of citizenship,4426813
+P3274,內容遞送者,コンテンツの提供元,content deliverer,6
+P2679,序言作者,まえがきの筆者,author of foreword,1543
+P913,符號,表記法,notation,214
+P1909,副作用,副作用,side effect,39
+P2079,制作方法,制作技法,fabrication method,126162
+P8852,脸毛,髭,facial hair,365
+P1537,是该对象的影响因素,以下の寄与因子,contributing factor of,324
+P1072,可讀取文件格式,読み込み可能なファイル形式,readable file format,8852
+P6099,临床试验期段,臨床試験の段階,clinical trial phase,177424
+P6259,曆元,元期,epoch,8076517
+P469,流经湖泊,関係する湖,lakes on river,3384
+P542,宣布开幕者,公式開会者,officially opened by,1047
+P2675,回应,返信先,reply to,387
+P275,许可协议,利用許諾,copyright license,161241
+P1363,得分或進球者,得点者,points/goal scored by,2441
+P768,選區,選挙区,electoral district,18986
+P358,唱片目录,ディスコグラフィ,discography,11952
+P84,建造者,設計,architect,75317
+P3985,支援的程式語言,サポートするプログラミング言語,supports programming language,228
+P2667,对应模板,対応するテンプレート,corresponding template,860
+P8810,亲代,親,parent (unspecified),13
+P4733,產生聲音,発生音,produced sound,56
+P2505,承载,通るもの,carries,12478
+P1057,染色体,染色体,chromosome,608710
+P2680,后跋作者,あとがきの筆者,author of afterword,99
+P5054,內閣,内閣,cabinet,5
+P1080,所属虚构世界,登場する架空世界,from narrative universe,31385
+P1875,代表者,仲介者,represented by,8117
+P135,文化运动,ムーブメント,movement,58648
+P7500,合併症,合併症,comorbidity,19
+P618,能量来源,エネルギー源,source of energy,6188
+P923,医学检查,診察,medical examinations,993
+P8107,总线,バス,bus,17
+P2632,羁押地点,収監場所,place of detention,145141
+P2935,連接器,コネクタ,connector,788
+P1012,包括,以下を含める,including,59
+P1547,依賴軟件,依存しているソフトウェア,depends on software,18192
+P5280,部首,部首,radical,2355
+P8032,受害人,被害者,victim,870
+P272,製作商,制作会社,production company,119102
+P1419,形状,形状,shape,1875
+P5824,撤銷,以下によって撤回,is retracted by,1462
+P2416,参加的体育比赛项目,競技種目,sports discipline competed in,49498
+P3828,穿着,以下を着用,wears,1752
+P5389,永久居留权,永住権保有国,permanent resident of,1288
+P708,教區,教区,diocese,141578
+P69,就读于,出身校,educated at,2269402
+P189,发现地点,発見場所,location of discovery,26285
+P2825,途经,経由地,via,861
+P4934,计算方法,以下から算出,calculated from,578
+P2937,议会任期,議会開催期,parliamentary term,6378
+P400,平台,プラットフォーム,platform,98555
+P4353,提名者,推薦者,nominated by,230
+P681,细胞组件,細胞の構成要素,cell component,899727
+P425,专业领域,専門的職業の分野,field of this occupation,5765
+P6364,官方颜色,オフィシャル・カラー,official color,3090
+P1049,受其崇拜,信仰元,worshipped by,2380
+P1881,角色列表,登場人物の一覧,list of characters,878
+P2175,用于治疗,対象となる医学的状態,medical condition treated,6992
+P3512,移动方式,移動手段,means of locomotion,103
+P418,印章描述,印章の解説,"has seal, badge, or sigil",110
+P2353,統計單位,統計単位,statistical unit,25
+P1571,到达域,終域,codomain,76
+P972,目录,カタログ,catalog,69086
+P688,生物编码,遺伝子産物,encodes,973826
+P1592,檢察官,検察官,prosecutor,426
+P5051,行車方向,方面,towards,64
+P200,流入源,流入源,inflows,14887
+P1924,疫苗用於,ワクチンの対象,vaccine for,203
+P703,具此物質之物種/此物質可作用之物種,これを持つタクソン,found in taxon,2853804
+P4614,集水區,分水嶺,drainage basin,79530
+P2308,类,クラス,class,4
+P1706,连同,以下とともに,together with,72
+P1318,证明者,証明した人,proved by,125
+P2578,研究對象,研究分野,studies,1954
+P812,高校专业,大学における専攻,academic major,2838
+P4584,首次亮相于,初登場,first appearance,6985
+P1456,古迹列表,記念碑の一覧,list of monuments,20144
+P4446,忠诚计划,報奨プログラム,reward program,275
+P1532,体育代表国,代表国,country for sport,201826
+P1809,编舞,振付師,choreographer,4208
+P344,摄影指导,撮影監督,director of photography,91536
+P500,飞地从属于,飛地の本体,exclave of,130
+P407,作品或名稱的語言,言語,language of work or name,14800503
+P2396,值域,像,image of function,47
+P1454,法律形式,組織形態,legal form,197130
+P467,立法者,制定した立法府,legislated by,46724
+P375,发射载具,打ち上げロケット,space launch vehicle,6763
+P2851,接受的付款方式,料金の支払い方法,payment types accepted,39226
+P7137,致谢,謝辞の相手,acknowledged,858
+P264,唱片公司,レコード・レーベル,record label,338731
+P5102,陳述環境,情報の状況,nature of statement,29
+P8625,文献资料,書誌,bibliography,70
+P2098,副職,代理官,substitute/deputy/replacement of office/officeholder,590
+P736,封面艺术家,装丁家／ジャケットデザイナー,cover art by,6718
+P2820,势,集合の濃度,cardinality of this set,52
+P9071,角色類型,キャラクターのタイプ,character type,3186
+P770,衰亡原因,破壊原因,cause of destruction,1380
+P1393,代理人,代理人,proxy,49
+P2821,副产品,副産物,by-product,49
+P531,派駐代表機構,在外公館,diplomatic mission sent,1710
+P6338,上色师,カラリスト,colorist,1312
+P4743,品種,家畜の品種,animal breed,8622
+P1313,政府首脑职位,行政府の長の地位,office held by head of government,62785
+P1026,學位論文,学位論文,academic thesis,11022
+P7261,使用限制状态,使用制限,use restriction status,415440
+P5023,此地點的活動方針,利用案内,activity policy in this place,130
+P3161,具有语气,文法的法,has grammatical mood,109
+P8791,電子化,デジタル化した者,digitised by,2705
+P658,曲目,収録曲,tracklist,33907
+P991,当选者,当選者,successful candidate,23167
+P8324,財務贊助者,資金提供者,funder,1904
+P1780,所属学派,所属学派,school of,19
+P1340,眼睛顏色,目の色,eye color,10047
+P1302,主要目的地,主な経由都市,primary destinations,3923
+P6216,著作權狀態,著作権の状況,copyright status,1817697
+P1876,载具,船,vehicle,846
+P2378,發行者,ID発行者,issued by,1797
+P608,展覽歷史,展示歴,exhibition history,26633
+P7374,教育阶段,教育段階,educational stage,81
+P414,证券交易所,証券取引所,stock exchange,13231
+P518,適用部分,あてはまる部分,applies to part,203
+P3716,社會階層,社会階級,social classification,11947
+P7767,食物存放温度,提供温度,serving temperature,29
+P412,聲部,声域,voice type,34254
+P289,艦級,艦級,vessel class,13365
+P707,衛星平台,衛星バス,satellite bus,113
+P505,总经理,ゼネラルマネージャー,general manager,1482
+P1001,管辖区,管轄・適用区域,applies to jurisdiction,938663
+P6886,书写语言,記述言語,writing language,162201
+P1002,引擎配置,エンジン形態,engine configuration,1031
+P1574,原本包含,以下のものの原本,exemplar of,1740
+P1387,政治立場,政治的立場,political alignment,4250
+P4149,共轭碱,共役塩基,conjugate base,358
+P91,性取向,性的指向,sexual orientation,4111
+P30,大洲,大陸,continent,83038
+P2515,服裝設計,衣裳デザイナー,costume designer,12686
+P2647,材料来源,産地,source of material,147
+P611,宗教團,宗教会,religious order,33053
+P3294,编码,符号化,encoding,2
+P54,所屬運動隊,所属チーム,member of sports team,1546197
+P479,输入设备,入力機器,input method,15149
+P6885,历史地区,歴史的地域,historical region,15038
+P417,主保圣人,守護聖人,patron saint,21721
+P541,競逐之職位,争われた公職,office contested,42849
+P1576,生活方式,生活様式,lifestyle,1288
+P1558,拍速标记,速度記号,tempo marking,133
+P931,机场服务地区,空港周辺の場所,place served by transport hub,12148
+P543,宣誓者,宣誓者,oath made by,90
+P504,母港,母港,home port,5863
+P511,头衔,敬称,honorific prefix,52387
+P4908,電視劇季,シーズン,season,63882
+P1199,遺傳模式,遺伝形式,mode of inheritance,85
+P6166,引用原文出处,引用作品,quotes work,410
+P193,主要建筑承建商,元請建設会社,main building contractor,2904
+P1906,國家元首職位,国家元首の地位,office held by head of state,563
+P945,效忠对象,忠誠を誓った対象,allegiance,60876
+P408,软件引擎,エンジン,software engine,9860
+P4647,首演地点,初演地,location of first performance,18266
+P1399,所犯罪名,罪名,convicted of,10528
+P114,航空聯盟,航空連合,airline alliance,278
+P512,学位,学位,academic degree,132400
+P4220,作戰序列,戦闘序列,order of battle,409
+P2501,賽果,競技結果,results,84
+P7252,难度系数,難易度,degree of difficulty,420
+P735,名字,名,given name,6673611
+P126,维护者,管理者,maintained by,528563
+P1408,廣播地區,放送区域,licensed to broadcast to,16665
+P5137,该义项的项目,この語義に対応する項目,item for this sense,115540
+P5009,符合標準,適合基準,complies with,163
+P533,攻击目标,標的,target,1496
+P2291,上榜,チャートイン,charted in,1601
+P1383,包含聚落,包含する集落,contains settlement,32821
+P21,性別,性別,sex or gender,7876165
+P682,生物途径,生物学的プロセス,biological process,1194167
+P5817,使用狀態,使用状態,state of use,62593
+P3005,有效地點,あてはまる場所,valid in place,173
+P655,译者,訳者,translator,18384
+P912,擁有設施,保有施設,has facility,16547
+P3967,决赛,決勝戦,final event,1860
+P1192,所屬路線,所属運行路線,connecting service,41150
+P8031,加害人,加害者,perpetrator,818
+P4379,青年翼,青年組織,youth wing,205
+P2360,受眾,この項目が想定する対象,intended public,7870
+P57,导演,監督,director,332848
+P2922,月份,対象月,month of the year,4599
+P2408,時代背景,時代設定,set in period,7382
+P560,方向,方向,direction,36
+P1596,刑罰,科刑,penalty,1918
+P4387,更新方法,更新方法,update method,119
+P1027,颁发者,授与者,conferred by,15110
+P941,启发自,着想を得たもの,inspired by,5758
+P1877,原著作者,原作者,after a work by,12339
+P4969,衍生作品,派生作品,derivative work,19804
+P6718,音樂影片,ミュージック・ビデオ,music video,324
+P520,武器,兵装,armament,5520
+P925,突触,シナプス前細胞,presynaptic connection,6
+P205,流域国,流域国,basin country,17703
+P8111,计量单位,推奨測定単位,recommended unit of measurement,1167
+P943,程序员,プログラマ,programmer,388
+P8744,話題的經濟,主題の経済,economy of topic,1377
+P7727,议会委员会,立法委員会,legislative committee,124889
+P1028,捐贈者,寄贈者,donated by,9673
+P8225,为其元类,以下のメタクラス,is metaclass for,372
+P3452,推断依据,以下から推測,inferred from,2
+P447,评分者,レビュアー,review score by,14
+P7086,開始年級,開始学年,start grade,3730
+P6224,著录级次,説明のレベル,level of description,628069
+P2596,文化,文化,culture,10030
+P1478,直接原因,直接の原因,has immediate cause,125023
+P1018,語言管理機構,言語統制機関,language regulatory body,208
+P485,存檔于,アーカイブ,archives at,75475
+P6855,是否提供急診,救急サービス,emergency services,766
+P3301,广播业者,放送媒体,broadcast by,7431
+P1568,定義域,定義域,definition domain,125
+P2964,投票權人,投票権者,right to vote,68
+P97,贵族头衔,爵位,noble title,54552
+P1136,解決者,解いた人,solved by,116
+P16,公路系統,道路システム,transport network,52704
+P1622,道路通行方向,交通方法,driving side,428
+P1897,最高音,最高音,highest note,6
+P4661,建立的水庫,ダム湖,reservoir created,3203
+P437,发行方式,メディア形態,distribution format,205282
+P7309,登山路線,登山ルート,climbing route,64
+P1171,近似算法,近似アルゴリズム,approximation algorithm,9
+P3148,廢除,以下の文書を廃止,repeals,28838
+P6153,研究地點,研究施設,research site,266976
+P5642,风险因子,危険因子,risk factor,198
+P1406,文字方向,書字方向,script directionality,324
+P4878,象征,象徴するもの,symbolizes,51
+P5658,鐵路通行方向,鉄道の交通方法,railway traffic side,282
+P811,副修专业,大学における副専攻,academic minor,103
+P19,出生地,出生地,place of birth,3035164
+P501,内飞于,包領の周囲,enclave within,249
+P8258,訓練,研修分野,field of training,19
+P5133,医学发现,主題の評価,has evaluation,24
+P3091,騎上,騎乗する動物,mount,746
+P1429,寵物,ペット,has pet,318
+P3938,命名者,命名者,named by,628
+P6087,體育隊,スポーツチームのコーチ,coach of sports team,11850
+P1591,被告人,被告,defendant,4610
+P642,範圍,以下についての,of,5091
+P2414,为酶的底物,以下の基質,substrate of,9
+P4000,拥有果实类型,果実の種類,has fruit type,3039
+P702,編碼基因,コードしている遺伝子,encoded by,976836
+P545,火炬点燃者,聖火点火者,torch lit by,73
+P725,配音演员,声優,voice actor,63208
+P6840,学生组织属于,在籍校,student organization of,34
+P397,母天体,母天体,parent astronomical body,12507
+P459,确定方法,使用された手段・手法,determination method,329
+P1299,描绘于,描写した作品,depicted by,10979
+P3989,成员职业,メンバーの職業,members have occupation,1768
+P7959,历史郡,歴史的カウンティ,historic county,782765
+P462,颜色,色,color,195178
+P3261,解剖分支属于,以下の解剖学的分枝,anatomical branch of,415
+P241,军事部门,軍種,military branch,114815
+P1064,軌距,軌間,track gauge,24421
+P1891,签署方,調印者,signatory,17166
+P2842,結婚地點,結婚した場所,place of marriage,3
+P734,姓氏,姓,family name,3641074
+P421,时区,標準時間帯,located in time zone,2008070
+P6587,聯賽系統,リーグ制度,league system,231
+P2302,属性约束,プロパティ制約,property constraint,60448
+P1640,館長,キュレーター,curator,1600
+P1046,发现方法,発見方法,discovery method,4253
+P942,主題曲,主題歌,theme music,3967
+P8571,外部審計,会計監査人,external auditor,125
+P7078,类型推断系统,型システム,typing discipline,774
+P3438,常用车辆,主な使用車両,vehicle normally used,2901
+P826,音調,調,tonality,5039
+P1652,裁判,審判,referee,19997
+P3262,解剖学分支,解剖学的分枝,has anatomical branch,286
+P376,所在天体,位置する天体,located on astronomical body,9235
+P5026,照明设计师,照明デザイナー,lighting designer,5171
+P634,隊長,主将,captain,539
+P3150,生日,誕生日,birthday,3191
+P7936,商业模式,ビジネスモデル,business model,2359
+P5138,賽季所屬俱樂部或團隊,クラブやチームのシーズン,season of club or team,79872
+P101,工作領域,専門分野,field of work,252599
+P562,中央銀行或發行機構,中央銀行または発行者,central bank/issuer,443
+P1589,最深點,最も低い地点,lowest point,512
+P5323,文獻出處,典拠,attested in,121128
+P924,疗法,治療,possible treatment,699
+P3022,持旗手,旗手,flag bearer,4191
+P1595,控罪,争われた罪,charge,4516
+P1196,死亡方式,死亡状況,manner of death,100146
+P3095,从业者,従事者,practiced by,4814
+P2376,是超對稱粒子,以下の超対称性粒子,superpartner of,21
+P102,所属政党,所属政党,member of political party,502780
+P1880,测量规范,測定単位,measurement scale,181
+P1536,直接结果,以下の直接の原因,immediate cause of,18761
+P1479,影响因素,寄与因子,has contributing factor,588
+P870,使用的乐器,使用楽器,instrumentation,7611
+P3966,編程範型,プログラミングパラダイム,programming paradigm,1472
+P199,业务部门,事業部門,business division,1686
+P669,所在街道,所在地（街路名）,located on street or square,164995
+P780,症状,症状,symptoms and signs,10915
+P8001,推薦者,支持表明者,endorsed by,195
+P8411,环境设定,物語のロケーション,set in environment,15928
+P7501,音响系统,オーディオシステム,audio system,2087
+P748,委任者,任命者,appointed by,5538
+P3931,著作權所有者,著作権所有者,copyright holder,3231
+P8693,粉絲文化,ファンベース,fandom,63
+P1029,機組人員,乗組員,crew member(s),2976
+P1283,影片集锦,映画作品目録,filmography,1518
+P2388,機構主管職位,組織長の地位,office held by head of the organization,12812
+P3902,最后进食,最後に摂った食事,had as last meal,72
+P172,族群,民族,ethnic group,160731
+P872,印刷自,印刷者,printed by,2905
+P4967,前提,前提条件,prerequisite,191
+P4884,法院,法廷,court,21138
+P5196,输出方法,出力機器,output method,305
+P552,利手,利き手,handedness,2257
+P6193,批准方,批准,ratified by,2631
+P5109,擁有語法性,文法的性,has grammatical gender,136
+P196,小行星族,小惑星グループ,minor planet group,97538
+P624,导引系统,誘導システム,guidance system,248
+P789,食用性,食用可能,edibility,792
+P832,公立假日,祝日,public holiday,1481
+P2868,主體角色,役割,subject has role,353857
+P194,立法机构,立法府,legislative body,4257
+P1594,法官,裁判官,judge,9995
+P7075,模组基于,以下のMOD,mod of,186
+P5021,参与考试,受けた試験,assessment,25144
+P248,载于,出典,stated in,785
+P887,基於啟發法,推測に基づく,based on heuristic,1
+P4792,水壩,ダム,dam,3135
+P1074,相應虛構概念,現実世界で対応する概念,fictional analog of,1877
+P607,军事冲突,参加した戦い,conflict,221623
+P553,开设账户网站,ソーシャルメディア,website account on,2218
+P1593,辯護人,弁護人,defender,278
+P4791,指揮者,指揮官,commanded by,3546
+P1303,樂器,楽器,instrument,210870
+P210,党委书记,党委員会の責任者,party chief representative,266
+P1433,发表于,叢書,published in,37916091
+P937,工作地點,活動地,work location,339031
+P208,行政机构,行政府,executive body,1672
+P8670,角色設計,キャラクターデザイナー,character designer,1818
+P398,子天体,子天体,child astronomical body,8868
+P790,獲准自,承認者,approved by,29098
+P3831,客体角色,オブジェクトの役割,object has role,65
+P2445,所属元子类,以下のメタサブクラス,metasubclass of,41
+P1779,可能的創作者,創作者候補,possible creator,38
+P86,作曲者,作曲,composer,188471
+P3776,抑制剂,以下の阻害剤,inhibitor of,101
+P5769,總編輯,編集長,editor-in-chief,2325
+P2770,收入來源,収入源,source of income,500

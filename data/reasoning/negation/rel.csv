@@ -1,0 +1,47 @@
+,relation,template,template_negated,label,description,type
+0,P19,[X] was born in [Y] .,[X] was not born in [Y] .,place of birth,"most specific known (e.g. city instead of country, or hospital instead of city) birth location of a person, animal or fictional character",N-1
+1,P20,[X] died in [Y] .,[X] did not die in [Y] .,place of death,"most specific known (e.g. city instead of country, or hospital instead of city) death location of a person, animal or fictional character",N-1
+2,P279,[X] is a subclass of [Y] .,[X] is not a subclass of [Y] .,subclass of,all instances of these items are instances of those items; this item is a class (subset) of that item. Not to be confused with P31 (instance of),N-1
+3,P37,The official language of [X] is [Y] .,The official language of [X] is not [Y] .,official language,language designated as official by this item,N-1
+4,P413,[X] plays in [Y] position .,[X] does not play in [Y] position .,position played on team / speciality,"position or specialism of a player on a team, e.g. Small Forward",N-1
+5,P166,[X] was awarded the [Y] .,[X] was not awarded the [Y] .,award received,"award or recognition received by a person, organisation or creative work",N-M
+6,P449,[X] was originally aired on [Y] .,[X] was not originally aired on [Y] .,original network,"network(s) the radio or television show was originally aired on,  including",N-1
+7,P69,[X] was educated at the University of [Y] .,[X] was not educated at the University of [Y] .,educated at,educational institution attended by subject,N-M
+8,P47,[X] shares border with [Y] .,[X] does not share border with [Y] .,shares border with,"countries or administrative subdivisions, of equal level, that this item borders, either by land or water",N-M
+9,P138,[X] is named after [Y] .,[X] is not named after [Y] .,named after,"entity or event that inspired the subject's name, or namesake (in at least one language)",N-1
+10,P364,The original language of [X] is [Y] .,The original language of [X] is not [Y] .,original language of film or TV show,"language in which a film or a performance work was originally created. Deprecated for written works; use P407 (""language of work or name"") instead.",N-1
+11,P54,[X] plays with [Y] .,[X] does not play with [Y] .,member of sports team,sports teams or clubs that the subject currently represents or formerly represented,N-1
+12,P463,[X] is a member of [Y] .,[X] is not a member of [Y] .,member of,"organization or club to which the subject belongs. Do not use for membership in ethnic or social groups, nor for holding a position such as a member of parliament (use P39 for that).",N-M
+13,P101,[X] works in the field of [Y] .,[X] does not work in the field of [Y] .,field of work,specialization of a person or organization; see P106 for the occupation,N-M
+14,P1923,[Y] participated in the [X] .,[Y] did not participate in the [X] .,participating team,Like 'Participant' (P710) but for teams. For an event like a cycle race or a football match you can use this property to list the teams and P710 to list the individuals (with 'member of sports team' (P54)' as a qualifier for the individuals),N-M
+15,P106,[X] is a [Y] by profession .,[X] is not a [Y] by profession .,occupation,"occupation of a person; see also ""field of work"" (Property:P101), ""position held"" (Property:P39)",N-M
+16,P527,[X] consists of [Y] .,[X] does not consist of [Y] .,has part,"part of this subject; inverse property of ""part of"" (P361). See also ""has parts of the class"" (P2670).",N-M
+17,P102,[X] is a member of the [Y] political party .,[X] is not a member of the [Y] political party .,member of political party,the political party of which this politician is or has been a member,N-1
+18,P530,[X] maintains diplomatic relations with [Y] .,[X] does not maintain diplomatic relations with [Y] .,diplomatic relation,diplomatic relations of the country,N-M
+19,P176,[X] is produced by [Y] .,[X] is not produced by [Y] .,manufacturer,manufacturer or producer of this product,N-1
+20,P27,[X] is [Y] citizen .,[X] is not [Y] citizen .,country of citizenship,the object is a country that recognizes the subject as its citizen,N-M
+21,P407,[X] was written in [Y] .,[X] was not written in [Y] .,language of work or name,"language associated with this creative work (such as books, shows, songs, or websites) or a name (for persons use P103 and P1412)",N-1
+22,P30,[X] is located in [Y] .,[X] is not located in [Y] .,continent,continent of which the subject is a part,N-1
+23,P178,[X] is developed by [Y] .,[X] is not developed by [Y] .,developer,organisation or person that developed the item,N-M
+24,P1376,[X] is the capital of [Y] .,[X] is not the capital of [Y] .,capital of,"country, state, department, canton or other administrative division of which the municipality is the governmental seat",1-1
+25,P131,[X] is located in [Y] .,[X] is not located in [Y] .,located in the administrative territorial entity,the item is located on the territory of the following administrative entity. Use P276 (location) for specifying the location of non-administrative places and for items about events,N-1
+26,P1412,[X] used to communicate in [Y] .,[X] did not use to communicate in [Y] .,"languages spoken, written or signed","language(s) that a person speaks or writes, including the native language(s)",N-M
+27,P108,[X] works for [Y] .,[X] does not work for [Y] .,employer,person or organization for which the subject works or worked,N-M
+28,P136,[X] plays [Y] music .,[X] does not play [Y] music .,genre,creative work's genre or an artist's field of work (P101). Use main subject (P921) to relate creative works to their topic,N-1
+29,P17,[X] is located in [Y] .,[X] is not located in [Y] .,country,sovereign state of this item; don't use on humans,N-1
+30,P39,[X] has the position of [Y] .,[X] does not have the position of [Y] .,position held,subject currently or formerly holds the object position or public office,N-M
+31,P264,[X] is represented by music label [Y] .,[X] is not represented by music label [Y] .,record label,brand and trademark associated with the marketing of subject music recordings and music videos,N-1
+32,P276,[X] is located in [Y] .,[X] is not located in [Y] .,location,"location of the item, physical object or event is within. In case of an administrative entity use P131. In case of a distinct terrain feature use P706.",N-1
+33,P937,[X] used to work in [Y] .,[X] did not use to work in [Y] .,work location,location where persons were active,N-M
+34,P140,[X] is affiliated with the [Y] religion .,[X] is not affiliated with the [Y] religion .,religion,"religion of a person, organization or religious building, or associated with this subject",N-1
+35,P1303,[X] plays [Y] .,[X] does not play [Y] .,instrument,musical instrument that a person plays,N-M
+36,P127,[X] is owned by [Y] .,[X] is not owned by [Y] .,owned by,owner of the subject,N-1
+37,P103,The native language of [X] is [Y] .,[X] is not owned by [Y] .,native language,language or languages a person has learned from early childhood,N-1
+38,P190,[X] and [Y] are twin cities .,The native language of [X] is not [Y] .,twinned administrative body,"twin towns, sister cities, twinned municipalities and other localities that have a partnership or cooperative agreement, either legally or informally acknowledged by their governments",N-M
+39,P1001,[X] is a legal term in [Y] .,[X] is not a legal term in [Y] .,applies to jurisdiction,"the item (an institution, law, public office ...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)",N-M
+40,P31,[X] is a [Y] .,[X] is not a [Y] .,instance of,that class of which this subject is a particular example and member (subject typically an individual member with a proper name label); different from P279; using this property as a qualifier is deprecated—use P2868 or P3831 instead,N-M
+41,P495,[X] was created in [Y] .,[X] was not created in [Y] .,country of origin,"country of origin of this item (creative work, food, phrase, product, etc.)",N-1
+42,P159,The headquarter of [X] is in [Y] .,The headquarter of [X] is not in [Y] .,headquarters location,"specific location where an organization's headquarters is or has been situated. Inverse property of ""occupant"" (P466).",N-1
+43,P36,The capital of [X] is [Y] .,The capital of [X] is not [Y] .,capital,"primary city of a country, state or other type of administrative territorial entity",1-1
+44,P740,[X] was founded in [Y] .,[X] was not founded in [Y] .,location of formation,location where a group or organization was formed,N-1
+45,P361,[X] is part of [Y] .,[X] is not part of [Y] .,part of,"object of which the subject is a part (it's not useful to link objects which are themselves parts of other objects already listed as parts of the subject). Inverse property of ""has part"" (P527, see also ""has parts of the class"" (P2670)).",N-1

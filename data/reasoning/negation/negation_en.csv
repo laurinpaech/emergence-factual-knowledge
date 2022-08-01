@@ -1,0 +1,35 @@
+id,en,en_negated,count
+P19,was born in,was not born in,3035164
+P20,died in,did not die in,1212693
+P279,is a subclass of,is not a subclass of,3285011
+P166,was awarded the,was not awarded the,1350612
+P449,was originally aired on,was not originally aired on,93087
+P69,was educated at the University of,was not educated at the University of,2269402
+P47,shares border with,does not share border with,605173
+P138,is named after,is not named after,369576
+P54,plays with,does not play with,1546197
+P463,is a member of,is not a member of,436936
+P101,works in the field of,does not work in the field of,252599
+P1923,participated in the,did not participate in the,148066
+P527,consists of,does not consist of,1935300
+P530,maintains diplomatic relations with,does not maintain diplomatic relations with,7046
+P176,is produced by,is not produced by,130741
+P407,was written in,was not written in,14800503
+P30,is located in,is not located in,83038
+P178,is developed by,is not developed by,45750
+P1376,is the capital of,is not the capital of,83871
+P131,is located in,is not located in,11213234
+P1412,used to communicate in,did not use to communicate in,2221570
+P108,works for,does not work for,1618361
+P17,is located in,is not located in,14800490
+P39,has the position of,does not have the position of,1456025
+P264,is represented by music label,is not represented by music label,338731
+P276,is located in,is not located in,2553086
+P937,used to work in,did not use to work in,339031
+P1303,plays,does not play,210870
+P127,is owned by,is not owned by,466709
+P1001,is a legal term in,is not a legal term in,938663
+P31,is a,is not a,103114325
+P495,was created in,was not created in,1345801
+P740,was founded in,was not founded in,44482
+P361,is part of,is not part of,4368193

@@ -1,0 +1,391 @@
+_id,label,alias,label_de,alias_de
+P1034,main food source,eats,Hauptnahrungsquelle,isst
+P457,foundational text,establishing document,Grundtext,Gründungsdokument
+P1366,replaced by,succeeded by,ersetzt durch,gefolgt von
+P740,location of formation,founded in,Ort der Entstehung,gegründet in
+P1817,addressee,sent to,Adressat,gesendet an
+P58,screenwriter,screenplay by,Drehbuchautor,Drehbuch von
+P8329,principal investigator,chief investigator,Hauptermittler,Hauptermittler
+P9072,derived from organism type,axon of origin,abgeleitet vom Organismustyp,Axon des Ursprungs
+P137,operator,operated by,Operator,gesteuert von
+P3085,qualifies for event,league this event qualifies for,qualifiziert sich für die Veranstaltung,"Liga, für die sich dieses Event qualifiziert"
+P1704,is pollinator of,pollinates,ist Bestäuber von,bestäubt
+P8263,curriculum topics,syllabus includes,Lehrplanthemen,Lehrplan beinhaltet
+P3173,offers view on,has view of,bietet Aussicht auf,Aussicht hat
+P1465,category for people who died here,category for place of death,"Kategorie für Menschen, die hier gestorben sind",Kategorie für den Sterbeort
+P1165,home world,home planet,Heimatwelt,Heimatplanet
+P741,playing hand,tennis hand,spielende Hand,tennis hand
+P3719,regulated by,regulator,reguliert von,Regler
+P8839,hairstyle,haircut,Frisur,Haarschnitt
+P178,developer,developed by,Entwickler,entwickelt von
+P8546,recording location,recorded at,Aufnahmeort,aufgenommen bei
+P5869,model item,best example,Modell Artikel,bestes Beispiel
+P26,spouse,married to,Ehepartner,verheiratet mit
+P7888,merged into,acquired by,verschmolzen zu,erworben von
+P7719,generalization of,generalizes,Verallgemeinerung von,verallgemeinert
+P66,ancestral home,native place,Stammsitz,Geburtsort
+P4777,has boundary,border,Grenze hat,Rand
+P1322,dual to,dual of,dual zu,Dual von
+P106,occupation,profession,Besetzung,Beruf
+P769,significant drug interaction,pharmacological interaction,signifikante Arzneimittelwechselwirkung,pharmakologische Interaktion
+P631,structural engineer,building engineer,Statiker,Bauingenieur
+P5588,invasive to,alien to,invasiv zu,fremd zu
+P4608,scenographer,set designer,Szenograf,set designer
+P103,native language,mother tongue,Muttersprache,Muttersprache
+P37,official language,spoken in,offizielle Sprache,eingesprochen
+P689,afflicts,affects,betrübt,beeinflusst
+P38,currency,used money,Währung,gebrauchtes Geld
+P183,endemic to,native to,endemisch zu,heimisch
+P4805,make-up artist,visagist,Maskenbildner,Maskenbildner
+P1382,partially coincident with,partially overlaps,teilweise übereinstimmend mit,teilweise überlappt
+P4988,test method,methodology,Testmethode,Methodik
+P2438,narrator,narrated by,Erzähler,Erzählt von
+P282,writing system,alphabet,Schreibsystem,alphabet
+P291,place of publication,released in,Ort der Veröffentlichung,veröffentlicht in
+P20,place of death,died in,Ort des Todes,starb in
+P463,member of,membership,Mitglied von,Mitgliedschaft
+P3680,statement supported by,according to,Aussage unterstützt durch,entsprechend
+P1455,list of works,bibliography,Liste der Werke,Literaturverzeichnis
+P1625,has melody,uses tune,hat Melodie,verwendet Melodie
+P5940,plot expanded in,story continued in,Grundstück erweitert,Geschichte weiter in
+P452,industry,sector,Industrie,Sektor
+P4770,hydrated form of,is a hydrate of,hydratisierte Form von,ist ein Hydrat von
+P119,place of burial,grave at,Ort der Bestattung,Grab bei
+P186,made from material,constructed out of,aus Stoff gemacht,konstruiert aus
+P6001,applies to people,valid to people,gilt für Menschen,für Menschen gültig
+P2872,visitor centre,tourist office,Besucherzentrum,Touristeninformation
+P7937,form of creative work,artistic form,Form der kreativen Arbeit,künstlerische Form
+P6872,has written for,writer for,hat für geschrieben,Schriftsteller für
+P1884,hair color,color of hair,Haarfarbe,Haarfarbe
+P1050,medical condition,suffers from,medizinischer Zustand,leidet an
+P140,religion or world view,has religion,Religion oder Weltanschauung,has religion
+P155,follows,succeeds,folgt,gelingt es
+P59,constellation,part of constellation,Konstellation,Teil der Konstellation
+P1434,takes place in fictional universe,set in fictional universe,findet in einem fiktiven Universum statt,in einem fiktiven Universum angesiedelt
+P930,type of electrification,electrification type,Art der Elektrifizierung,Art der Elektrifizierung
+P1546,motto,slogan,motto,Slogan
+P828,has cause,result of,Anlass hat,Ergebnis von
+P509,cause of death,died of,Todesursache,starb an
+P1639,pendant of,pendant to,Anhänger von,Anhänger zu
+P1431,executive producer,showrunner,Ausführender Produzent,Showrunner
+P111,measured physical quantity,measure of,gemessene physikalische Größe,Maß
+P1013,criterion used,on the basis of,Kriterium verwendet,auf der Grundlage von
+P7469,orientation,direction,Orientierung,Richtung
+P179,part of the series,issue of,Teil der Serie,Problem von
+P35,head of state,state headed by,Staatsoberhaupt,Staat angeführt von
+P2715,elected in,election,eingewählt,Wahl
+P6530,has role in modeling,used to investigate,spielt eine Rolle bei der Modellierung,"verwendet, um zu recherchieren"
+P516,powered by,power source,bereitgestellt von,Energiequelle
+P1142,political ideology,political view,Politische Ideologie,politische Sicht
+P2827,flower color,color of the flower,Blumenfarbe,Farbe der Blume
+P2650,interested in,field of study,Interesse an,Forschungsbereich
+P2159,computes solution to,is an algorithm for,berechnet Lösung zu,ist ein Algorithmus für
+P2568,repealed by,revoked by,aufgehoben durch,widerrufen durch
+P4100,parliamentary group,party,Fraktion,Gruppe
+P495,country of origin,comes from,Ursprungsland,kommt von
+P1056,product or material produced,producer of,hergestelltes Produkt oder Material,Produzent von
+P3602,candidacy in election,running in election,Kandidatur bei der Wahl,bei der Wahl antreten
+P6819,calligrapher,scribe,Kalligraph,Schreiber
+P1308,officeholder,incumbent,Amtsinhaber,Amtsinhaber
+P750,distributed by,distributor,vertrieben von,Verteiler
+P453,character role,acting role,Charakterrolle,handelnde Rolle
+P840,narrative location,takes place in,erzählerischer Ort,Findet statt in
+P5832,political coalition,political alliance,politische Koalition,politisches Bündnis
+P287,designed by,has designer,entworfen von,has designer
+P88,commissioned by,built for,in Autrag gegeben von,gebaut für
+P1011,excluding,except,ausschließlich,außer
+P3833,diaspora,part of diaspora,Diaspora,Teil der Diaspora
+P2567,amended by, altered by,geändert durch,geändert durch
+P1310,statement disputed by,opposed by,Aussage bestritten von,widersetzt durch
+P1444,destination point,ending at,Bestimmungsort,endet bei
+P4330,contains,has contents,enthält,Inhalt hat
+P664,organizer,organized by,Veranstalter,organisiert von
+P177,crosses,over,Kreuze,über
+P118,league,division,Liga,Einteilung
+P800,notable work,known for,bemerkenswerte Arbeit,bekannt für
+P2546,sidekick of,helper of,Kumpel von,Helfer von
+P27,country of citizenship,citizen of,Staatsbürgerschaftsland,Bürger von
+P2679,author of foreword,foreword by,Autor des Vorworts,Vorwort von
+P913,notation,symbol,Notation,symbol
+P2283,uses,made use of,Verwendet,machten Gebrauch von
+P2652,partnership with,collaboration with,Partnerschaft mit,Zusammenarbeit mit
+P1534,end cause,ended by,Endursache,beendet durch
+P2079,fabrication method,manufacturing method,Herstellungsverfahren,Herstellungsverfahren
+P166,award received,winner of,Auszeichnung erhalten,Gewinner von
+P1605,has natural reservoir,natural reservoir,hat ein natürliches Reservoir,natürliches Reservoir
+P1537,contributing factor of,indirectly caused,Beitragsfaktor von,indirekt verursacht
+P9234,supplement to,extends,Ergänzung zu,erweitert
+P469,lakes on river,reservoir on this river,Seen am Fluss,Stausee an diesem Fluss
+P8739,prohibits,does not permit,verbietet,nicht zulässt
+P2318,debut participant,first appearance for,erster Teilnehmer,erster Auftritt für
+P2675,reply to,responds to,Antwort an,antwortet auf
+P275,copyright license,content license,Urheberrechtslizenz,Inhaltslizenz
+P1363,points/goal scored by,scorer,Punkte/Tor erzielt von,Torschütze
+P768,electoral district,constituency,Wahlbezirk,Wahlkreis
+P2860,cites work,bibliographic citation,zitiert Arbeit,bibliographisches Zitat
+P358,discography,recording catalog,Diskographie,Aufnahmekatalog
+P84,architect,architecture firm,Architekt,Architekturbüro
+P4733,produced sound,makes sound,erzeugten Klang,macht Geräusche
+P2680,author of afterword,afterword by,Autor des Nachworts,Nachwort von
+P4428,implementation of,implements,Implementierung von,implementiert
+P1080,from narrative universe,from mythology,aus dem narrativen Universum,aus der Mythologie
+P461,opposite of,inverse of,Gegenteil von,Gegenteil von
+P135,movement,trend,Bewegung,trend
+P9793,setlist,music performed,Setliste,Musik aufgeführt
+P2632,place of detention,prison,Haftort,Gefängnis
+P2935,connector,ports,Verbinder,Häfen
+P1012,including,with,einschließlich,mit
+P825,dedicated to,tribute to,gewidmet,gewidmet
+P1547,depends on software,has software dependency,hängt von der Software ab,Softwareabhängigkeit hat
+P159,headquarters location,HQ location,Standort der Zentrale,HQ-Standort
+P8032,victim,casualty,Opfer,Unfall
+P272,production company,film studio,Produktionsunternehmen,Filmstudio
+P1419,shape,form factor,Form,form factor
+P5389,permanent resident of,landed immigrant of,ständiger Wohnsitz in,gelandeter Einwanderer von
+P4006,overrules,overruled,überstimmt,überstimmt
+P488,chairperson,leader,Vorsitzender,Führer
+P69,educated at,studied at,erzogen bei,Studierte an
+P189,location of discovery,found in,Fundort,gefunden in
+P3094,develops from,evolves from,entwickelt sich aus,entwickelt sich aus
+P4934,calculated from,computed from,berechnet aus,berechnet aus
+P2937,parliamentary term,legislative term,Legislaturperiode,Legislaturperiode
+P180,depicts,portrays,darstellt,schildert
+P9047,archaeological site of,type of archaeological site,archäologische Stätte von,Art der archäologischen Stätte
+P197,adjacent station,neighbouring station,angrenzender Bahnhof,Nachbarbahnhof
+P6364,official color,signature color,offizielle Farbe,Signaturfarbe
+P8786,dedicated heritage entity,has museum,engagiertes Kulturerbe,has museum
+P802,student,teacher of,Schüler,Lehrer von
+P1049,worshipped by,deity of,verehrt von,Gottheit von
+P2175,medical condition treated,disease treated,Krankheit behandelt,Krankheit behandelt
+P9161,thesis committee member,dissertation committee member,Mitglied des Dissertationsausschusses,Mitglied des Dissertationsausschusses
+P1336,territory claimed by,sovereignty claimed by,Gebiet beansprucht von,Souveränität beansprucht von
+P1066,student of,teacher,Student der,Lehrer
+P156,followed by,succeded by,gefolgt von,gefolgt von
+P8701,has census,has human population census,Volkszählung hat,hat eine Volkszählung
+P1731,Fach,vocal specialization,Fach,stimmliche Spezialisierung
+P1343,described by source,written about in,Quelle beschrieben,darüber geschrieben
+P1571,codomain,range,Kodomäne,Reichweite
+P47,shares border with,bordered by,teilt die Grenze mit,grenzt an
+P39,position held,office held,Position gehalten,Amt gehalten
+P688,encodes,codes for,kodiert,Codes für
+P5051,towards,in the direction of,in Richtung,in der Richtung von
+P276,location,is in,Lage,ist in
+P1924,vaccine for,target disease,Impfstoff für,Zielkrankheit
+P5816,state of conservation,conservation status,Erhaltungszustand,Erhaltungszustand
+P1706,together with,accompanied by,zusammen mit,begleitet von
+P2578,studies,researches,Studien,Forschungen
+P138,named after,eponym,benannt nach,Namensgeber
+P812,academic major,field of study,akademisches Hauptfach,Forschungsbereich
+P8058,symbol of,emblem of,Symbol für,Emblem von
+P4584,first appearance,debut,erster Eindruck,Debüt
+P4446,reward program,frequent flyer program,Belohnungsprogramm,Vielfliegerprogramm
+P551,residence,lives in,Residenz,lebt in
+P641,sport,plays,sport,Theaterstücke
+P5460,grants,awards,Zuschüsse,Auszeichnungen
+P1777,manner of,style of,Weise von,Art von
+P344,director of photography,cinematographer,Kameramann,Kameramann
+P1889,different from,is not,anders als,ist nicht
+P2396,image of function,function image,Bild der Funktion,Funktionsbild
+P1454,legal form,structured as,legal form,strukturiert als
+P467,legislated by,passed by,gesetzlich geregelt durch,vorbeigegangen
+P3349,designed to carry,carries,"entworfen, um zu tragen",trägt
+P736,cover art by,cover artist,Titelbild von,Cover-Künstler
+P1398,structure replaces,replacement building,Struktur ersetzt,Ersatzgebäude
+P770,cause of destruction,destroyed by,Ursache der Zerstörung,zerstört von
+P2821,by-product, secondary product,Nebenprodukt,Sekundärprodukt
+P25,mother,mum,Mutter,Mama
+P157,killed by,murdered by,Getötet von,ermordet von
+P8791,digitised by,scanned by,digitalisiert durch,gescannt von
+P466,occupant,inhabitant,Bewohner,Einwohner
+P658,tracklist,songs,Trackliste,songs
+P991,successful candidate,election won by,erfolgreicher Kandidat,Wahl gewonnen von
+P8324,funder,donor,Geldgeber,Spender
+P3342,significant person,notable person,bedeutende Person,bemerkenswerte Person
+P1876,vehicle,vessel,Fahrzeug,Schiff
+P7153,significant place,significant location,bedeutsamer Ort,bedeutsamer Ort
+P2378,issued by,assigned by,ausgestellt von,zugeteilt von
+P1071,location of creation,assembly location,Ort der Schöpfung,Montageort
+P4424,mandates,requires,Mandate,erfordert
+P3716,social classification,social status,soziale Einordnung,sozialer Status
+P112,founded by,established by,gegründet von,gegründet von
+P170,creator, created by,Schöpfer,erstellt von
+P108,employer,works for,Arbeitgeber,funktioniert für
+P1365,replaces,succeeds,ersetzt,gelingt es
+P22,father,dad,Vater,Vati
+P1387,political alignment,political position,politische Ausrichtung,politische Stellung
+P355,subsidiary,parent company of,Tochtergesellschaft,Muttergesellschaft von
+P6,head of government,president,Regierungschef,Präsident
+P2541,operating area,area of operations,Betriebsbereich,Einsatzgebiet
+P1344,participant in,took part in,participant in,nahm teil an
+P54,member of sports team,plays for,Mitglied der Sportmannschaft,spielt für
+P9788,performed at,performance location,durchgeführt bei,Aufführungsort
+P31,instance of,is a/is an,Instanz von,ist ein/ist ein
+P110,illustrator,illustrated by,illustrator,veranschaulicht durch
+P185,doctoral student,doctoral candidate,Doktorand,Doktorand
+P1576,lifestyle,diet,Lebensstil,Diät
+P1774,workshop of,studio of,Werkstatt von,Atelier von
+P9237,reissue of,re-release,Neuauflage von,neu veröffentlichen
+P915,filming location,filmed at,Drehort,gefilmt bei
+P193,main building contractor,constructed by,Hauptbauunternehmer,gebaut von
+P945,allegiance,loyalty,Treue,Loyalität
+P4647,location of first performance,first performed at,Ort der Uraufführung,erstmals aufgeführt bei
+P1079,launch contractor,launch service provider,Auftragnehmer starten,Anbieter von Startdiensten
+P1399,convicted of,found guilty of,verurteilt,für schuldig befunden
+P512,academic degree,diploma,Akademischer Grad,Diplom
+P4220,order of battle,battle formation,Schlachtordnung,Kampfformation
+P735,given name,first name,Vorname,Vorname
+P126,maintained by,administered by,instandgehalten von,Verwaltet von
+P1552,has quality,has property,Qualität hat,Besitz hat
+P5009,complies with,conforms to,erfüllt,entspricht
+P423,shooting handedness,dominant hand shooting,Schießen Händigkeit,dominantes Handschießen
+P7782,category for ship name,Commons category for ship name,Kategorie für Schiffsnamen,Commons-Kategorie für Schiffsnamen
+P176,manufacturer,made by,Hersteller,hergestellt von
+P1383,contains settlement,populated places within,Siedlung enthält,besiedelte Orte innerhalb
+P2849,produced by,secreted by,produziert von,abgesondert von
+P6569,taxon especially protected in area,taxa especially protected in area,"Taxon, das im Gebiet besonders geschützt ist",im Gebiet besonders geschützte Taxa
+P6758,supported sports team, is a fan of team,unterstützte Sportmannschaft,ist ein Team-Fan
+P5817,state of use,use status,Gebrauchszustand,Nutzungsstatus
+P5059,modified version of,modification of,modifizierte Version von,Modifikation von
+P655,translator,is translated by,Übersetzer,wird übersetzt von
+P912,has facility,has amenity,Einrichtung hat,hat Annehmlichkeiten
+P8045,organized response related to outbreak,organised response related to outbreak,organisierte Reaktion im Zusammenhang mit dem Ausbruch,organisierte Reaktion im Zusammenhang mit dem Ausbruch
+P3014,laws applied,legal base,Gesetze angewandt,Rechtsgrundlage
+P8031,perpetrator,criminal,Täter,kriminell
+P4379,youth wing,youth organisation,Jugendflügel,youth organisation
+P4101,dissertation submitted to,thesis submitted to,Dissertation vorgelegt,Abschlussarbeit eingereicht
+P2360,intended public,for audience of,beabsichtigte Öffentlichkeit,für Publikum von
+P547,commemorates,in honor of,gedenkt,zu Ehren von
+P7604,supervised by,is supervisee of,überwacht von,ist Betreuer von
+P793,significant event,notable event,bedeutendes Ereignis,bemerkenswertes Ereignis
+P880,CPU,processor,Zentralprozessor,Prozessor
+P2408,set in period,takes place in time,Zeitraum eingestellt,findet zeitlich statt
+P2239,first aid measures,first aid response,Erste-Hilfe-Maßnahmen,Erste-Hilfe-Maßnahmen
+P3032,adjacent building,located next to,Nebengebäude,daneben gelegen
+P1411,nominated for,nominee for,nominiert für,Kandidat für
+P1596,penalty,punishment,Strafe,Bestrafung
+P3373,sibling,is sibling of,Geschwister,ist Geschwister von
+P5030,talk show guest,participant in talk show,Talkshow-Gast,Teilnehmer einer Talkshow
+P2341,indigenous to,native to,einheimisch zu,heimisch
+P6106,uses capitalization for,capitalizes,verwendet die Großschreibung für,großgeschrieben
+P1027,conferred by,awarded by,verliehen von,verliehen
+P941,inspired by,inspiration,inspiriert von,Inspiration
+P1877,after a work by,inspiring artist,nach einer Arbeit von,inspirierender Künstler
+P4969,derivative work,is the basis for,abgeleitete Arbeit,ist die Grundlage für
+P520,armament,armed with,Rüstung,bewaffnet mit
+P943,programmer,software developer,Programmierer,software developer
+P1028,donated by,gift of,gespendet von,Geschenk von
+P3452,inferred from,implied by,abgeleitet von,behauptet von
+P40,child,offspring,Kind,Nachwuchs
+P3113,does not have part,lacks,hat kein teil,fehlt
+P1478,has immediate cause,immediate effect of,unmittelbare Ursache hat,sofortige Wirkung von
+P53,family,house,Familie,Haus
+P859,sponsor,sponsored by,Sponsor,gefördert durch
+P2964,right to vote,suffrage,Recht zu wählen,Wahlrecht
+P98,editor,edited by,Editor,bearbeitet von
+P127,owned by,belongs to,gehört,gehört
+P3148,repeals,cancels,hebt auf,storniert
+P6153,research site,location of research,Forschungsstandort,Ort der Forschung
+P4878,symbolizes,symbol for,symbolisiert,Symbol für
+P17,country,sovereign state,Land,souveräner Staat
+P6477,does not have quality,lacks quality,hat keine qualität,fehlt Qualität
+P5072,presented in,screened at,vorgestellt in,gescreent bei
+P3919,contributed to creative work,contributor to,zur kreativen Arbeit beigetragen,Mitwirkender in
+P9883,created for,made for,hergestellt für,gemacht für
+P19,place of birth,born at,Geburtsort,geboren in
+P286,head coach,coached by,Cheftrainer,trainiert von
+P501,enclave within,enclosed by,Enklave darin,umschlossen
+P4675,appears in the form of,takes the form of,erscheint in Form von,nimmt die Form an
+P3179,territory overlaps,partially contains territorial extent,Gebiet überschneidet sich,enthält teilweise territoriale Ausdehnung
+P1429,has pet,owns pet,hat Haustier,besitzt Haustier
+P3938,named by,coined by,benannt nach,geprägt von
+P1591,defendant,accused,Beklagte,beschuldigt
+P1703,is pollinated by,pollinator,wird bestäubt von,Bestäuber
+P2579,studied by,researched by,studiert von,recherchiert von
+P371,presenter,hosted by,Moderator,veranstaltet von
+P184,doctoral advisor,doctoral supervisor,Doktorvater,Doktorvater
+P834,train depot,rail yard,train depot,Rangierbahnhof
+P9899,music created for,music composed for,Musik geschaffen für,Musik komponiert für
+P2682,is verso of,Backside,ist verso von,Rückseite
+P5004,in opposition to,opposes,im Gegensatz zu,widerspricht
+P725,voice actor,voiced by,Synchronsprecher,geäußert von
+P1620,plaintiff,claimant,Kläger,Antragsteller
+P460,said to be the same as,may be equal to,soll dasselbe sein wie,kann gleich sein
+P6840,student organization of,student organisation of,Studentenwerk der,student organisation of
+P459,determination method,determined by,Bestimmungsmethode,bestimmt durch
+P1299,depicted by,portrayed by,abgebildet von,dargestellt von
+P749,parent organization,subsidiary of,übergeordnete Organisation,Tochtergesellschaft der
+P1891,signatory,signed by,Unterzeichner,unterzeichnet von
+P360,is a list of,lists,ist eine Liste von,Listen
+P2842,place of marriage,married at,Ort der Eheschließung,verheiratet bei
+P734,family name,surname,Nachname,Nachname
+P1269,facet of,aspect of,Facette von,Aspekt von
+P1640,curator,curated by,Kurator,kuratiert von
+P366,has use,purpose,hat Verwendung,Zweck
+P1046,discovery method,detection method,Entdeckungsmethode,Nachweisverfahren
+P1441,present in work,appears in,in der Arbeit vorhanden,erscheint in
+P676,lyrics by,lyricist,Songtexte von,Texter
+P514,interleaves with,interbedded with,verschachtelt mit,eingebettet mit
+P826,tonality,in key,Tonalität,im Schlüssel
+P1652,referee,umpire,Schiedsrichter,Schiedsrichter
+P4224,category contains,is set of,Kategorie enthält,ist eingestellt
+P2789,connects with,attaches to,verbindet sich mit,hängt an
+P1542,has effect,causes,hat Wirkung,verursacht
+P1589,lowest point,deepest point,Tiefster Punkt,tiefster Punkt
+P924,possible treatment,therapy,mögliche Behandlung,Therapie
+P1595,charge,charged with,aufladen,geladen mit
+P1196,manner of death,circumstance of death,Todesart,Todesfall
+P3095,practiced by,done by,praktiziert von,gemacht von
+P9660,not found in,not attested in,nicht darin gefunden,nicht bezeugt in
+P1536,immediate cause of,has immediate effect,unmittelbare Ursache für,hat sofortige Wirkung
+P1535,used by,played by,benutzt von,gespielt von
+P1479,has contributing factor,indirectly caused by,Beitragsfaktor hat,indirekt verursacht durch
+P6977,review of,reviews,Überprüfung von,Bewertungen
+P974,tributary,has river inflow,Nebenfluss,hat Flusszufluss
+P669,located on street or square,is on,an der Straße oder am Platz gelegen,ist an
+P8001,endorsed by,supported by,gebilligt von,unterstützt durch
+P8411,set in environment,takes place in,in Umgebung setzen,Findet statt in
+P748,appointed by,named by,ernannt von,benannt nach
+P8738,permits,does not prohibit,Genehmigungen,verbietet nicht
+P1029,crew member(s),member of crew of,Mannschaftsmitglieder),Mitglied der Besatzung von
+P1283,filmography,list of films the person contributed to,Filmographie,"Liste der Filme, an denen die Person mitgewirkt hat"
+P872,printed by,printer,gedruckt von,Drucker
+P4967,prerequisite,requirement,Voraussetzung,Erfordernis
+P552,handedness,dominant hand,Händigkeit,dominante Hand
+P1557,manifestation of,realization of,Manifestation von,Realisierung von
+P789,edibility,palatiblity,Genießbarkeit,Schmackhaftigkeit
+P4032,reviewed by,examined by,rezensiert von,untersucht von
+P194,legislative body,council,die Legislative,Rat
+P144,based on,derived from,beyogen auf,abgeleitet von
+P50,author,written by,Autor,geschrieben von
+P1268,represents,stands for,repräsentiert,steht für
+P5021,assessment,examination,Bewertung,Untersuchung
+P1346,winner,won by,Gewinner,gewonnen durch
+P2384,statement describes,statement about,Aussage beschreibt,Aussage über
+P248,stated in,source of claim,beschrieben im,Anspruchsquelle
+P887,based on heuristic,heuristically based on,basierend auf Heuristik,heuristisch basierend auf
+P9192,sensors,detector,Sensoren,Detektor
+P6291,advertises,promotes,wirbt,fördert
+P1074,fictional analog of,fictional version of,fiktives Analogon von,fiktive Version von
+P1593,defender,attorney,Verteidiger,Rechtsanwalt
+P4791,commanded by,has commander,befohlen von,hat Kommandant
+P1303,instrument,player of,Instrument,Spieler von
+P175,performer,played by,Künstler,gespielt von
+P161,cast member,starring,Darsteller,mit
+P937,work location,working at,Arbeitsplatz,arbeiten bei
+P8956,compatible with,supports,kompatibel mit,unterstützt
+P610,highest point,zenith,höchster Punkt,Zenit
+P208,executive body,executive branch,ausführendes Organ,Exekutive
+P751,introduced feature,new feature,eingeführte Funktion,neue Funktion
+P8670,character designer,character modeler,character designer,Charaktermodellierer
+P398,child astronomical body,orbited by,Kind astronomischer Körper,umkreist von
+P807,separated from,seceded from,abgesondert von,abgespalten von
+P737,influenced by,has influence,beeinflusst von,Einfluss hat
+P1830,owner of,owns,Besitzer von,besitzt
+P790,approved by,erected by,genehmigt durch,errichtet von
+P162,producer,produced by,Produzent,produziert von
+P86,composer,composed by,Komponist,zusammengestellt von
+P7047,enemy of,opponent of,Feind von,Gegner von
+P3822,rules for classification,classification rules,Regeln für die Klassifizierung,Klassifizierungsregeln
+P8627,closing time,closes at,Geschäftsschluss,schließt um
+P2770,source of income,income source,Einkommensquelle,Einkommensquelle
+P4794,season starts,season begins,Saison beginnt,Saison beginnt

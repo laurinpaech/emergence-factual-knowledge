@@ -1,0 +1,540 @@
+id,en,zh,en_negated,zh_negated,count
+P1034,main food source,主要食物來源,not main food source,不是 主要食物來源,326
+P457,foundational text,成立文书,not foundational text,不是 成立文书,50541
+P532,port of registry,船籍港,not port of registry,不是 船籍港,25629
+P740,location of formation,成立地點,not location of formation,不是 成立地點,44482
+P1817,addressee,收件人,not addressee,不是 收件人,49021
+P122,basic form of government,政体,not basic form of government,不是 政体,2152
+P58,screenwriter,編劇,not screenwriter,不是 編劇,186866
+P2597,Gram staining,革蘭氏染色,not Gram staining,不是 革蘭氏染色,14932
+P9072,derived from organism type,从这个物种的组织内分离,not derived from organism type,不是 从这个物种的组织内分离,136745
+P1716,brand,品牌,not brand,不是 品牌,15374
+P1165,home world,來源星球,not home world,不是 來源星球,1648
+P4043,emulates,模拟,not emulates,不是 模拟,345
+P6889,microarchitecture,微架構,not microarchitecture,不是 微架構,198
+P8839,hairstyle,发型,not hairstyle,不是 发型,595
+P3772,agonist of,激动剂,not agonist of,不是 激动剂,11
+P3080,game artist,游戏艺术家,not game artist,不是 游戏艺术家,159
+P7167,does not have effect,没有效果,not does not have effect,不是 没有效果,30
+P1951,investor,投資者,not investor,不是 投資者,6294
+P2554,production designer,美術指導,not production designer,不是 美術指導,13508
+P66,ancestral home,籍贯,not ancestral home,不是 籍贯,1811
+P2853,electrical plug type,電源插頭型式,not electrical plug type,不是 電源插頭型式,531
+P7163,typically sells,销售商品,not typically sells,不是 销售商品,299
+P3275,storyboard artist,分镜师,not storyboard artist,不是 分镜师,697
+P106,occupation,职业,not occupation,不是 职业,9260065
+P636,route of administration,给药途径,not route of administration,不是 给药途径,3001
+P85,anthem,颂歌,not anthem,不是 颂歌,1691
+P2841,age of onset,发病年龄,not age of onset,不是 发病年龄,7
+P631,structural engineer,結構工程師,not structural engineer,不是 結構工程師,1781
+P1158,location of landing,降落地點,not location of landing,不是 降落地點,502
+P4608,scenographer,舞台设计师,not scenographer,不是 舞台设计师,9780
+P103,native language,母语,not native language,不是 母语,287778
+P37,official language,官方语言,not official language,不是 官方语言,21472
+P6563,key performance indicator,關鍵績效指標,not key performance indicator,不是 關鍵績效指標,13
+P1435,heritage designation,遗产名称,not heritage designation,不是 遗产名称,2062512
+P689,afflicts,影响,not afflicts,不是 影响,4196
+P38,currency,货币,not currency,不是 货币,2098
+P183,endemic to,特有分布,not endemic to,不是 特有分布,32262
+P163,flag,旗帜,not flag,不是 旗帜,6539
+P4805,make-up artist,化妝師,not make-up artist,不是 化妝師,512
+P6902,era name,年号,not era name,不是 年号,345
+P2992,software quality assurance,软件质量管理,not software quality assurance,不是 软件质量管理,447
+P2438,narrator,敘事者,not narrator,不是 敘事者,2267
+P282,writing system,書寫系統,not writing system,不是 書寫系統,611234
+P291,place of publication,出版地,not place of publication,不是 出版地,271222
+P6275,copyright representative,版權代表人,not copyright representative,不是 版權代表人,81054
+P20,place of death,死亡地,not place of death,不是 死亡地,1212693
+P3680,statement supported by,主张此叙述者,not statement supported by,不是 主张此叙述者,58
+P5202,adapted by,改編者,not adapted by,不是 改編者,3430
+P2184,history of topic,話題历史,not history of topic,不是 話題历史,2171
+P411,canonization status,冊封狀態,not canonization status,不是 冊封狀態,11488
+P450,astronaut mission,航天任务,not astronaut mission,不是 航天任务,1836
+P1455,list of works,作品列表,not list of works,不是 作品列表,1228
+P6942,animator,动画师,not animator,不是 动画师,4025
+P8822,epithet,修飾詞,not epithet,不是 修飾詞,26
+P2361,online service,线上服务,not online service,不是 线上服务,48
+P2882,relegated,降级,not relegated,不是 降级,2906
+P2634,sitter,模特,not sitter,不是 模特,280
+P1990,species kept,饲养品种,not species kept,不是 饲养品种,7902
+P136,genre,類型,not genre,不是 類型,1527395
+P452,industry,产业,not industry,不是 产业,104004
+P4770,hydrated form of,水合物,not hydrated form of,不是 水合物,170
+P1462,standards body,標準組織,not standards body,不是 標準組織,2799
+P449,original broadcaster,首播电视台,not original broadcaster,不是 首播电视台,93087
+P5800,narrative role,故事角色,not narrative role,不是 故事角色,4591
+P517,interaction,相互作用,not interaction,不是 相互作用,291
+P7937,form of creative work,作品形式,not form of creative work,不是 作品形式,342698
+P1884,hair color,髮色,not hair color,不是 髮色,11981
+P3018,located in protected area,所在保护区,not located in protected area,不是 所在保护区,36798
+P1686,for work,得獎作品,not for work,不是 得獎作品,50
+P6884,target muscle,肌肉,not target muscle,不是 肌肉,3
+P3975,secretary general,总书记,not secretary general,不是 总书记,1431
+P1050,medical condition,医疗状况,not medical condition,不是 医疗状况,241962
+P2286,arterial supply,动脉供应,not arterial supply,不是 动脉供应,288
+P140,religion or world view,信仰,not religion or world view,不是 信仰,444622
+P59,constellation,星座,not constellation,不是 星座,7371215
+P1434,takes place in fictional universe,发生在虚构的宇宙中,not takes place in fictional universe,不是 发生在虚构的宇宙中,15814
+P8289,parish church,堂區教堂,not parish church,不是 堂區教堂,7312
+P3912,newspaper format,报纸版式,not newspaper format,不是 报纸版式,4083
+P1923,participating team,參與隊伍,not participating team,不是 參與隊伍,148066
+P930,type of electrification,电气化方式,not type of electrification,不是 电气化方式,5562
+P1546,motto,座右铭,not motto,不是 座右铭,509
+P149,architectural style,建築風格,not architectural style,不是 建築風格,124958
+P3803,original film format,原始底片格式,not original film format,不是 原始底片格式,6459
+P509,cause of death,死因,not cause of death,不是 死因,115623
+P2925,domain of saint or deity,保佑領域,not domain of saint or deity,不是 保佑領域,853
+P6086,dramaturge,剧作者,not dramaturge,不是 剧作者,3253
+P111,measured physical quantity,以此物理量测量,not measured physical quantity,不是 以此物理量测量,3611
+P1013,criterion used,所用標準,not criterion used,不是 所用標準,69
+P7469,orientation,方向/面向,not orientation,不是 方向/面向,374
+P8646,expansion of,资料片,not expansion of,不是 资料片,1507
+P8402,open data portal,開放資料網站,not open data portal,不是 開放資料網站,870
+P5998,distributary,分流,not distributary,不是 分流,119
+P4968,relevant qualification,相關資格,not relevant qualification,不是 相關資格,55
+P680,molecular function,分子功能,not molecular function,不是 分子功能,1210165
+P35,head of state,国家元首,not head of state,不是 国家元首,1841
+P2715,elected in,當選選舉,not elected in,不是 當選選舉,183
+P516,powered by,发动机,not powered by,不是 发动机,11110
+P1142,political ideology,政治意识形态,not political ideology,不是 政治意识形态,23809
+P7095,end grade,結束年級,not end grade,不是 結束年級,3729
+P8345,media franchise,跨媒體製作,not media franchise,不是 跨媒體製作,28359
+P2700,protocol,协议,not protocol,不是 协议,231
+P2827,flower color,花色,not flower color,不是 花色,551
+P2962,title of chess person,棋士称号,not title of chess person,不是 棋士称号,31178
+P2568,repealed by,取代者,not repealed by,不是 取代者,33377
+P823,speaker,演讲者,not speaker,不是 演讲者,5293
+P4100,parliamentary group,黨團,not parliamentary group,不是 黨團,1970
+P7376,worn by,被穿著,not worn by,不是 被穿著,182
+P495,country of origin,原產地,not country of origin,不是 原產地,1345801
+P1056,product or material produced,产品,not product or material produced,不是 产品,45764
+P2348,time period,時間週期,not time period,不是 時間週期,202625
+P3602,candidacy in election,競選,not candidacy in election,不是 競選,158938
+P3610,fare zone,收費區,not fare zone,不是 收費區,5161
+P3033,package management system,软件包管理系统,not package management system,不是 软件包管理系统,192
+P6819,calligrapher,書法家,not calligrapher,不是 書法家,291
+P277,programming language,编程语言,not programming language,不是 编程语言,12192
+P1308,officeholder,公职人员,not officeholder,不是 公职人员,17533
+P750,distributed by,經銷商,not distributed by,不是 經銷商,158589
+P453,character role,人物角色,not character role,不是 人物角色,506
+P840,narrative location,敘事發生地,not narrative location,不是 敘事發生地,91176
+P5832,political coalition,政治聯盟,not political coalition,不是 政治聯盟,155
+P8453,public transport stop,車站,not public transport stop,不是 車站,132
+P88,commissioned by,委托人,not commissioned by,不是 委托人,23429
+P3092,film crew member,电影摄制组成员,not film crew member,不是 电影摄制组成员,4973
+P427,taxonomic type,模式分类,not taxonomic type,不是 模式分类,28515
+P2587,has phoneme,具有音位,not has phoneme,不是 具有音位,99
+P1011,excluding,排除,not excluding,不是 排除,6
+P1995,health specialty,醫學專科,not health specialty,不是 醫學專科,10263
+P415,radio format,廣播節目類型,not radio format,不是 廣播節目類型,3611
+P1310,statement disputed by,对此声明有异议者,not statement disputed by,不是 对此声明有异议者,5
+P1444,destination point,行程目的地,not destination point,不是 行程目的地,25554
+P5353,school district,學區,not school district,不是 學區,9780
+P4330,contains,包含,not contains,不是 包含,8269
+P5095,fault,斷層,not fault,不是 斷層,20
+P118,league,所属联盟,not league,不是 所属联盟,192730
+P2633,geography of topic,主题的地理学,not geography of topic,不是 主题的地理学,726
+P800,notable work,主要作品,not notable work,不是 主要作品,96985
+P1775,follower of,追隨對象,not follower of,不是 追隨對象,22
+P1606,natural reservoir of,为其天然宿主,not natural reservoir of,不是 为其天然宿主,17
+P1264,valid in period,有效期,not valid in period,不是 有效期,219
+P3739,inflorescence,花序,not inflorescence,不是 花序,166
+P27,country of citizenship,國籍,not country of citizenship,不是 國籍,4426813
+P3274,content deliverer,內容遞送者,not content deliverer,不是 內容遞送者,6
+P2679,author of foreword,序言作者,not author of foreword,不是 序言作者,1543
+P913,notation,符號,not notation,不是 符號,214
+P1909,side effect,副作用,not side effect,不是 副作用,39
+P413,position played on team / speciality,队中位置,not position played on team / speciality,不是 队中位置,401425
+P1534,end cause,結束原因,not end cause,不是 結束原因,171
+P2079,fabrication method,制作方法,not fabrication method,不是 制作方法,126162
+P5052,supervisory board member,監事會成員,not supervisory board member,不是 監事會成員,755
+P8852,facial hair,脸毛,not facial hair,不是 脸毛,365
+P1537,contributing factor of,是该对象的影响因素,not contributing factor of,不是 是该对象的影响因素,324
+P6099,clinical trial phase,临床试验期段,not clinical trial phase,不是 临床试验期段,177424
+P6259,epoch,曆元,not epoch,不是 曆元,8076517
+P1211,fuel system,燃料系統,not fuel system,不是 燃料系統,179
+P469,lakes on river,流经湖泊,not lakes on river,不是 流经湖泊,3384
+P542,officially opened by,宣布开幕者,not officially opened by,不是 宣布开幕者,1047
+P2675,reply to,回应,not reply to,不是 回应,387
+P275,copyright license,许可协议,not copyright license,不是 许可协议,161241
+P1363,points/goal scored by,得分或進球者,not points/goal scored by,不是 得分或進球者,2441
+P768,electoral district,選區,not electoral district,不是 選區,18986
+P358,discography,唱片目录,not discography,不是 唱片目录,11952
+P84,architect,建造者,not architect,不是 建造者,75317
+P4733,produced sound,產生聲音,not produced sound,不是 產生聲音,56
+P2505,carries,承载,not carries,不是 承载,12478
+P1057,chromosome,染色体,not chromosome,不是 染色体,608710
+P2680,author of afterword,后跋作者,not author of afterword,不是 后跋作者,99
+P5054,cabinet,內閣,not cabinet,不是 內閣,5
+P1080,from narrative universe,所属虚构世界,not from narrative universe,不是 所属虚构世界,31385
+P1875,represented by,代表者,not represented by,不是 代表者,8117
+P135,movement,文化运动,not movement,不是 文化运动,58648
+P1210,supercharger,增壓器,not supercharger,不是 增壓器,7
+P618,source of energy,能量来源,not source of energy,不是 能量来源,6188
+P923,medical examinations,医学检查,not medical examinations,不是 医学检查,993
+P8107,bus,总线,not bus,不是 总线,17
+P2632,place of detention,羁押地点,not place of detention,不是 羁押地点,145141
+P1012,including,包括,not including,不是 包括,59
+P1547,depends on software,依賴軟件,not depends on software,不是 依賴軟件,18192
+P5280,radical,部首,not radical,不是 部首,2355
+P8032,victim,受害人,not victim,不是 受害人,870
+P272,production company,製作商,not production company,不是 製作商,119102
+P1419,shape,形状,not shape,不是 形状,1875
+P5824,is retracted by,撤銷,not is retracted by,不是 撤銷,1462
+P2416,sports discipline competed in,参加的体育比赛项目,not sports discipline competed in,不是 参加的体育比赛项目,49498
+P3828,wears,穿着,not wears,不是 穿着,1752
+P5389,permanent resident of,永久居留权,not permanent resident of,不是 永久居留权,1288
+P708,diocese,教區,not diocese,不是 教區,141578
+P69,educated at,就读于,not educated at,不是 就读于,2269402
+P189,location of discovery,发现地点,not location of discovery,不是 发现地点,26285
+P944,Code of nomenclature,命名法规,not Code of nomenclature,不是 命名法规,598
+P2825,via,途经,not via,不是 途经,861
+P4934,calculated from,计算方法,not calculated from,不是 计算方法,578
+P2937,parliamentary term,议会任期,not parliamentary term,不是 议会任期,6378
+P400,platform,平台,not platform,不是 平台,98555
+P4353,nominated by,提名者,not nominated by,不是 提名者,230
+P681,cell component,细胞组件,not cell component,不是 细胞组件,899727
+P425,field of this occupation,专业领域,not field of this occupation,不是 专业领域,5765
+P6364,official color,官方颜色,not official color,不是 官方颜色,3090
+P1789,chief operating officer,首席运营官,not chief operating officer,不是 首席运营官,68
+P1049,worshipped by,受其崇拜,not worshipped by,不是 受其崇拜,2380
+P831,parent club,附属俱乐部,not parent club,不是 附属俱乐部,4473
+P1881,list of characters,角色列表,not list of characters,不是 角色列表,878
+P2175,medical condition treated,用于治疗,not medical condition treated,不是 用于治疗,6992
+P3512,means of locomotion,移动方式,not means of locomotion,不是 移动方式,103
+P8701,has census,人口普查,not has census,不是 人口普查,596
+P2353,statistical unit,統計單位,not statistical unit,不是 統計單位,25
+P1571,codomain,到达域,not codomain,不是 到达域,76
+P972,catalog,目录,not catalog,不是 目录,69086
+P688,encodes,生物编码,not encodes,不是 生物编码,973826
+P1898,lowest note,最低音,not lowest note,不是 最低音,9
+P1592,prosecutor,檢察官,not prosecutor,不是 檢察官,426
+P5051,towards,行車方向,not towards,不是 行車方向,64
+P200,inflows,流入源,not inflows,不是 流入源,14887
+P1924,vaccine for,疫苗用於,not vaccine for,不是 疫苗用於,203
+P2308,class,类,not class,不是 类,4
+P1706,together with,连同,not together with,不是 连同,72
+P1318,proved by,证明者,not proved by,不是 证明者,125
+P2551,used metre,格律,not used metre,不是 格律,344
+P2578,studies,研究對象,not studies,不是 研究對象,1954
+P812,academic major,高校专业,not academic major,不是 高校专业,2838
+P4446,reward program,忠诚计划,not reward program,不是 忠诚计划,275
+P1532,country for sport,体育代表国,not country for sport,不是 体育代表国,201826
+P5826,majority opinion by,代表主要意见者,not majority opinion by,不是 代表主要意见者,3364
+P1809,choreographer,编舞,not choreographer,不是 编舞,4208
+P522,type of orbit,轨道类型,not type of orbit,不是 轨道类型,1169
+P344,director of photography,摄影指导,not director of photography,不是 摄影指导,91536
+P500,exclave of,飞地从属于,not exclave of,不是 飞地从属于,130
+P489,currency symbol description,货币符号,not currency symbol description,不是 货币符号,186
+P2396,image of function,值域,not image of function,不是 值域,47
+P1454,legal form,法律形式,not legal form,不是 法律形式,197130
+P467,legislated by,立法者,not legislated by,不是 立法者,46724
+P7137,acknowledged,致谢,not acknowledged,不是 致谢,858
+P264,record label,唱片公司,not record label,不是 唱片公司,338731
+P5102,nature of statement,陳述環境,not nature of statement,不是 陳述環境,29
+P8625,bibliography,文献资料,not bibliography,不是 文献资料,70
+P736,cover art by,封面艺术家,not cover art by,不是 封面艺术家,6718
+P9071,character type,角色類型,not character type,不是 角色類型,3186
+P770,cause of destruction,衰亡原因,not cause of destruction,不是 衰亡原因,1380
+P1393,proxy,代理人,not proxy,不是 代理人,49
+P6338,colorist,上色师,not colorist,不是 上色师,1312
+P4743,animal breed,品種,not animal breed,不是 品種,8622
+P1313,office held by head of government,政府首脑职位,not office held by head of government,不是 政府首脑职位,62785
+P1026,academic thesis,學位論文,not academic thesis,不是 學位論文,11022
+P7261,use restriction status,使用限制状态,not use restriction status,不是 使用限制状态,415440
+P6149,running mate,競選搭檔,not running mate,不是 競選搭檔,2
+P5023,activity policy in this place,此地點的活動方針,not activity policy in this place,不是 此地點的活動方針,130
+P8791,digitised by,電子化,not digitised by,不是 電子化,2705
+P1194,received signal type,接收訊號,not received signal type,不是 接收訊號,3
+P783,hymenium type,子实层类型,not hymenium type,不是 子实层类型,985
+P658,tracklist,曲目,not tracklist,不是 曲目,33907
+P991,successful candidate,当选者,not successful candidate,不是 当选者,23167
+P2238,official symbol,官方標記,not official symbol,不是 官方標記,1419
+P8324,funder,財務贊助者,not funder,不是 財務贊助者,1904
+P1780,school of,所属学派,not school of,不是 所属学派,19
+P1340,eye color,眼睛顏色,not eye color,不是 眼睛顏色,10047
+P1876,vehicle,载具,not vehicle,不是 载具,846
+P3816,film script,剧本,not film script,不是 剧本,28
+P2378,issued by,發行者,not issued by,不是 發行者,1797
+P608,exhibition history,展覽歷史,not exhibition history,不是 展覽歷史,26633
+P7374,educational stage,教育阶段,not educational stage,不是 教育阶段,81
+P414,stock exchange,证券交易所,not stock exchange,不是 证券交易所,13231
+P518,applies to part,適用部分,not applies to part,不是 適用部分,203
+P3716,social classification,社會階層,not social classification,不是 社會階層,11947
+P7767,serving temperature,食物存放温度,not serving temperature,不是 食物存放温度,29
+P412,voice type,聲部,not voice type,不是 聲部,34254
+P707,satellite bus,衛星平台,not satellite bus,不是 衛星平台,113
+P505,general manager,总经理,not general manager,不是 总经理,1482
+P1001,applies to jurisdiction,管辖区,not applies to jurisdiction,不是 管辖区,938663
+P6886,writing language,书写语言,not writing language,不是 书写语言,162201
+P1574,exemplar of,原本包含,not exemplar of,不是 原本包含,1740
+P2515,costume designer,服裝設計,not costume designer,不是 服裝設計,12686
+P2647,source of material,材料来源,not source of material,不是 材料来源,147
+P611,religious order,宗教團,not religious order,不是 宗教團,33053
+P2541,operating area,業務區,not operating area,不是 業務區,17829
+P3294,encoding,编码,not encoding,不是 编码,2
+P54,member of sports team,所屬運動隊,not member of sports team,不是 所屬運動隊,1546197
+P479,input method,输入设备,not input method,不是 输入设备,15149
+P6885,historical region,历史地区,not historical region,不是 历史地区,15038
+P110,illustrator,插画家,not illustrator,不是 插画家,14607
+P541,office contested,競逐之職位,not office contested,不是 競逐之職位,42849
+P1576,lifestyle,生活方式,not lifestyle,不是 生活方式,1288
+P609,terminus location,起止地点,not terminus location,不是 起止地点,33591
+P1558,tempo marking,拍速标记,not tempo marking,不是 拍速标记,133
+P543,oath made by,宣誓者,not oath made by,不是 宣誓者,90
+P504,home port,母港,not home port,不是 母港,5863
+P4908,season,電視劇季,not season,不是 電視劇季,63882
+P1199,mode of inheritance,遺傳模式,not mode of inheritance,不是 遺傳模式,85
+P6166,quotes work,引用原文出处,not quotes work,不是 引用原文出处,410
+P1906,office held by head of state,國家元首職位,not office held by head of state,不是 國家元首職位,563
+P945,allegiance,效忠对象,not allegiance,不是 效忠对象,60876
+P4647,location of first performance,首演地点,not location of first performance,不是 首演地点,18266
+P1399,convicted of,所犯罪名,not convicted of,不是 所犯罪名,10528
+P114,airline alliance,航空聯盟,not airline alliance,不是 航空聯盟,278
+P5913,has inflection class,词形变化,not has inflection class,不是 词形变化,8
+P2501,results,賽果,not results,不是 賽果,84
+P735,given name,名字,not given name,不是 名字,6673611
+P126,maintained by,维护者,not maintained by,不是 维护者,528563
+P1408,licensed to broadcast to,廣播地區,not licensed to broadcast to,不是 廣播地區,16665
+P5137,item for this sense,该义项的项目,not item for this sense,不是 该义项的项目,115540
+P5009,complies with,符合標準,not complies with,不是 符合標準,163
+P533,target,攻击目标,not target,不是 攻击目标,1496
+P8536,raga,拉格,not raga,不是 拉格,14
+P2291,charted in,上榜,not charted in,不是 上榜,1601
+P1383,contains settlement,包含聚落,not contains settlement,不是 包含聚落,32821
+P682,biological process,生物途径,not biological process,不是 生物途径,1194167
+P5817,state of use,使用狀態,not state of use,不是 使用狀態,62593
+P3005,valid in place,有效地點,not valid in place,不是 有效地點,173
+P655,translator,译者,not translator,不是 译者,18384
+P912,has facility,擁有設施,not has facility,不是 擁有設施,16547
+P3967,final event,决赛,not final event,不是 决赛,1860
+P1192,connecting service,所屬路線,not connecting service,不是 所屬路線,41150
+P8031,perpetrator,加害人,not perpetrator,不是 加害人,818
+P4379,youth wing,青年翼,not youth wing,不是 青年翼,205
+P2360,intended public,受眾,not intended public,不是 受眾,7870
+P2839,gait,儀態,not gait,不是 儀態,17
+P57,director,导演,not director,不是 导演,332848
+P7604,supervised by,監察人,not supervised by,不是 監察人,77
+P2408,set in period,時代背景,not set in period,不是 時代背景,7382
+P560,direction,方向,not direction,不是 方向,36
+P6241,collection creator,建立者,not collection creator,不是 建立者,6094
+P1596,penalty,刑罰,not penalty,不是 刑罰,1918
+P5804,has program committee member,有程序委员会成员,not has program committee member,不是 有程序委员会成员,617
+P4387,update method,更新方法,not update method,不是 更新方法,119
+P6106,uses capitalization for,使用大写,not uses capitalization for,不是 使用大写,38
+P1027,conferred by,颁发者,not conferred by,不是 颁发者,15110
+P941,inspired by,启发自,not inspired by,不是 启发自,5758
+P1877,after a work by,原著作者,not after a work by,不是 原著作者,12339
+P4969,derivative work,衍生作品,not derivative work,不是 衍生作品,19804
+P6718,music video,音樂影片,not music video,不是 音樂影片,324
+P92,main regulatory text,主要規管文獻,not main regulatory text,不是 主要規管文獻,9320
+P520,armament,武器,not armament,不是 武器,5520
+P5028,sound designer,音效设计师,not sound designer,不是 音效设计师,3237
+P925,presynaptic connection,突触,not presynaptic connection,不是 突触,6
+P205,basin country,流域国,not basin country,不是 流域国,17703
+P943,programmer,程序员,not programmer,不是 程序员,388
+P8744,economy of topic,話題的經濟,not economy of topic,不是 話題的經濟,1377
+P7727,legislative committee,议会委员会,not legislative committee,不是 议会委员会,124889
+P1028,donated by,捐贈者,not donated by,不是 捐贈者,9673
+P3452,inferred from,推断依据,not inferred from,不是 推断依据,2
+P447,review score by,评分者,not review score by,不是 评分者,14
+P7086,start grade,開始年級,not start grade,不是 開始年級,3730
+P6224,level of description,著录级次,not level of description,不是 著录级次,628069
+P2596,culture,文化,not culture,不是 文化,10030
+P1478,has immediate cause,直接原因,not has immediate cause,不是 直接原因,125023
+P1018,language regulatory body,語言管理機構,not language regulatory body,不是 語言管理機構,208
+P485,archives at,存檔于,not archives at,不是 存檔于,75475
+P6855,emergency services,是否提供急診,not emergency services,不是 是否提供急診,766
+P3301,broadcast by,广播业者,not broadcast by,不是 广播业者,7431
+P1568,definition domain,定義域,not definition domain,不是 定義域,125
+P2964,right to vote,投票權人,not right to vote,不是 投票權人,68
+P97,noble title,贵族头衔,not noble title,不是 贵族头衔,54552
+P1136,solved by,解決者,not solved by,不是 解決者,116
+P16,transport network,公路系統,not transport network,不是 公路系統,52704
+P1622,driving side,道路通行方向,not driving side,不是 道路通行方向,428
+P1897,highest note,最高音,not highest note,不是 最高音,6
+P4661,reservoir created,建立的水庫,not reservoir created,不是 建立的水庫,3203
+P1202,carries scientific instrument,所搭載科學儀器,not carries scientific instrument,不是 所搭載科學儀器,212
+P437,distribution format,发行方式,not distribution format,不是 发行方式,205282
+P7309,climbing route,登山路線,not climbing route,不是 登山路線,64
+P1171,approximation algorithm,近似算法,not approximation algorithm,不是 近似算法,9
+P1853,blood type,血型,not blood type,不是 血型,31859
+P3148,repeals,廢除,not repeals,不是 廢除,28838
+P6153,research site,研究地點,not research site,不是 研究地點,266976
+P5642,risk factor,风险因子,not risk factor,不是 风险因子,198
+P1406,script directionality,文字方向,not script directionality,不是 文字方向,324
+P4878,symbolizes,象征,not symbolizes,不是 象征,51
+P5658,railway traffic side,鐵路通行方向,not railway traffic side,不是 鐵路通行方向,282
+P811,academic minor,副修专业,not academic minor,不是 副修专业,103
+P19,place of birth,出生地,not place of birth,不是 出生地,3035164
+P501,enclave within,内飞于,not enclave within,不是 内飞于,249
+P8258,field of training,訓練,not field of training,不是 訓練,19
+P5133,has evaluation,医学发现,not has evaluation,不是 医学发现,24
+P3091,mount,騎上,not mount,不是 騎上,746
+P3440,time signature,拍号,not time signature,不是 拍号,81
+P1429,has pet,寵物,not has pet,不是 寵物,318
+P3938,named by,命名者,not named by,不是 命名者,628
+P6087,coach of sports team,體育隊,not coach of sports team,不是 體育隊,11850
+P1591,defendant,被告人,not defendant,不是 被告人,4610
+P642,of,範圍,not of,不是 範圍,5091
+P6195,funding scheme,募款計劃,not funding scheme,不是 募款計劃,3765
+P2414,substrate of,为酶的底物,not substrate of,不是 为酶的底物,9
+P702,encoded by,編碼基因,not encoded by,不是 編碼基因,976836
+P2831,totem,圖騰,not totem,不是 圖騰,21
+P2279,ambitus,音区范围,not ambitus,不是 音区范围,37
+P545,torch lit by,火炬点燃者,not torch lit by,不是 火炬点燃者,73
+P725,voice actor,配音演员,not voice actor,不是 配音演员,63208
+P6840,student organization of,学生组织属于,not student organization of,不是 学生组织属于,34
+P459,determination method,确定方法,not determination method,不是 确定方法,329
+P1299,depicted by,描绘于,not depicted by,不是 描绘于,10979
+P3989,members have occupation,成员职业,not members have occupation,不是 成员职业,1768
+P462,color,颜色,not color,不是 颜色,195178
+P241,military branch,军事部门,not military branch,不是 军事部门,114815
+P1064,track gauge,軌距,not track gauge,不是 軌距,24421
+P1891,signatory,签署方,not signatory,不是 签署方,17166
+P2842,place of marriage,結婚地點,not place of marriage,不是 結婚地點,3
+P3174,art director,艺术总监,not art director,不是 艺术总监,1254
+P734,family name,姓氏,not family name,不是 姓氏,3641074
+P2429,expected completeness,预期完整性,not expected completeness,不是 预期完整性,3866
+P421,located in time zone,时区,not located in time zone,不是 时区,2008070
+P6587,league system,聯賽系統,not league system,不是 聯賽系統,231
+P2302,property constraint,属性约束,not property constraint,不是 属性约束,60448
+P410,military rank,军衔,not military rank,不是 军衔,157572
+P1640,curator,館長,not curator,不是 館長,1600
+P1046,discovery method,发现方法,not discovery method,不是 发现方法,4253
+P942,theme music,主題曲,not theme music,不是 主題曲,3967
+P8571,external auditor,外部審計,not external auditor,不是 外部審計,125
+P1445,fictional universe described in,虚构世界描述于,not fictional universe described in,不是 虚构世界描述于,4613
+P7078,typing discipline,类型推断系统,not typing discipline,不是 类型推断系统,774
+P3438,vehicle normally used,常用车辆,not vehicle normally used,不是 常用车辆,2901
+P826,tonality,音調,not tonality,不是 音調,5039
+P1652,referee,裁判,not referee,不是 裁判,19997
+P3262,has anatomical branch,解剖学分支,not has anatomical branch,不是 解剖学分支,286
+P376,located on astronomical body,所在天体,not located on astronomical body,不是 所在天体,9235
+P5026,lighting designer,照明设计师,not lighting designer,不是 照明设计师,5171
+P634,captain,隊長,not captain,不是 隊長,539
+P3150,birthday,生日,not birthday,不是 生日,3191
+P7936,business model,商业模式,not business model,不是 商业模式,2359
+P5138,season of club or team,賽季所屬俱樂部或團隊,not season of club or team,不是 賽季所屬俱樂部或團隊,79872
+P9353,does not have cause,不是原因,not does not have cause,不是 不是原因,11
+P101,field of work,工作領域,not field of work,不是 工作領域,252599
+P562,central bank/issuer,中央銀行或發行機構,not central bank/issuer,不是 中央銀行或發行機構,443
+P1589,lowest point,最深點,not lowest point,不是 最深點,512
+P5323,attested in,文獻出處,not attested in,不是 文獻出處,121128
+P924,possible treatment,疗法,not possible treatment,不是 疗法,699
+P3022,flag bearer,持旗手,not flag bearer,不是 持旗手,4191
+P1595,charge,控罪,not charge,不是 控罪,4516
+P1196,manner of death,死亡方式,not manner of death,不是 死亡方式,100146
+P3095,practiced by,从业者,not practiced by,不是 从业者,4814
+P7514,landscape architect,園境師,not landscape architect,不是 園境師,190
+P2376,superpartner of,是超對稱粒子,not superpartner of,不是 是超對稱粒子,21
+P102,member of political party,所属政党,not member of political party,不是 所属政党,502780
+P1880,measurement scale,测量规范,not measurement scale,不是 测量规范,181
+P1536,immediate cause of,直接结果,not immediate cause of,不是 直接结果,18761
+P1479,has contributing factor,影响因素,not has contributing factor,不是 影响因素,588
+P870,instrumentation,使用的乐器,not instrumentation,不是 使用的乐器,7611
+P3966,programming paradigm,編程範型,not programming paradigm,不是 編程範型,1472
+P8371,"references work, tradition or theory",参考作品、传统或理论,"not references work, tradition or theory",不是 参考作品、传统或理论,1382
+P199,business division,业务部门,not business division,不是 业务部门,1686
+P669,located on street or square,所在街道,not located on street or square,不是 所在街道,164995
+P780,symptoms and signs,症状,not symptoms and signs,不是 症状,10915
+P8001,endorsed by,推薦者,not endorsed by,不是 推薦者,195
+P8307,has sorting,排序,not has sorting,不是 排序,41
+P209,highest judicial authority,最高司法机关,not highest judicial authority,不是 最高司法机关,183
+P3263,base,底,not base,不是 底,116
+P1349,ploidy,染色體倍性,not ploidy,不是 染色體倍性,41
+P8411,set in environment,环境设定,not set in environment,不是 环境设定,15928
+P7501,audio system,音响系统,not audio system,不是 音响系统,2087
+P748,appointed by,委任者,not appointed by,不是 委任者,5538
+P3931,copyright holder,著作權所有者,not copyright holder,不是 著作權所有者,3231
+P8693,fandom,粉絲文化,not fandom,不是 粉絲文化,63
+P1029,crew member(s),機組人員,not crew member(s),不是 機組人員,2976
+P3902,had as last meal,最后进食,not had as last meal,不是 最后进食,72
+P172,ethnic group,族群,not ethnic group,不是 族群,160731
+P872,printed by,印刷自,not printed by,不是 印刷自,2905
+P4967,prerequisite,前提,not prerequisite,不是 前提,191
+P4884,court,法院,not court,不是 法院,21138
+P5196,output method,输出方法,not output method,不是 输出方法,305
+P552,handedness,利手,not handedness,不是 利手,2257
+P6193,ratified by,批准方,not ratified by,不是 批准方,2631
+P5589,microstructure,微觀結構,not microstructure,不是 微觀結構,5
+P5707,samples from work,樣本,not samples from work,不是 樣本,160
+P624,guidance system,导引系统,not guidance system,不是 导引系统,248
+P789,edibility,食用性,not edibility,不是 食用性,792
+P832,public holiday,公立假日,not public holiday,不是 公立假日,1481
+P2868,subject has role,主體角色,not subject has role,不是 主體角色,353857
+P194,legislative body,立法机构,not legislative body,不是 立法机构,4257
+P9419,personal library at,私人圖書館在,not personal library at,不是 私人圖書館在,285
+P8194,hardiness zone,抗寒帶,not hardiness zone,不是 抗寒帶,19
+P1594,judge,法官,not judge,不是 法官,9995
+P2975,host,宿主,not host,不是 宿主,7413
+P7075,mod of,模组基于,not mod of,不是 模组基于,186
+P5021,assessment,参与考试,not assessment,不是 参与考试,25144
+P248,stated in,载于,not stated in,不是 载于,785
+P887,based on heuristic,基於啟發法,not based on heuristic,不是 基於啟發法,1
+P4792,dam,水壩,not dam,不是 水壩,3135
+P607,conflict,军事冲突,not conflict,不是 军事冲突,221623
+P553,website account on,开设账户网站,not website account on,不是 开设账户网站,2218
+P1593,defender,辯護人,not defender,不是 辯護人,278
+P4791,commanded by,指揮者,not commanded by,不是 指揮者,3546
+P1303,instrument,樂器,not instrument,不是 樂器,210870
+P1433,published in,发表于,not published in,不是 发表于,37916091
+P937,work location,工作地點,not work location,不是 工作地點,339031
+P610,highest point,最高点,not highest point,不是 最高点,5503
+P208,executive body,行政机构,not executive body,不是 行政机构,1672
+P8670,character designer,角色設計,not character designer,不是 角色設計,1818
+P790,approved by,獲准自,not approved by,不是 獲准自,29098
+P3831,object has role,客体角色,not object has role,不是 客体角色,65
+P1779,possible creator,可能的創作者,not possible creator,不是 可能的創作者,38
+P86,composer,作曲者,not composer,不是 作曲者,188471
+P3776,inhibitor of,抑制剂,not inhibitor of,不是 抑制剂,101
+P2770,source of income,收入來源,not source of income,不是 收入來源,500
+P530,diplomatic relation,邦交國,not diplomatic relation,不是 邦交國,7046
+P47,shares border with,接壤,not shares border with,不是 接壤,605173
+P461,opposite of,相反面,not opposite of,不是 相反面,23857
+P460,said to be the same as,据称相同,not said to be the same as,不是 据称相同,285208
+P3373,sibling,兄弟姊妹,not sibling,不是 兄弟姊妹,407131
+P26,spouse,配偶,not spouse,不是 配偶,731197
+P7047,enemy of,敌人,not enemy of,不是 敌人,3809
+P451,unmarried partner,非婚伴侣,not unmarried partner,不是 非婚伴侣,14156
+P1889,different from,相异於,not different from,不是 相异於,801466
+P3403,coextensive with,空间重合实体,not coextensive with,不是 空间重合实体,4076
+P190,twinned administrative body,友好城市,not twinned administrative body,不是 友好城市,48990
+P1382,partially coincident with,部分重合物,not partially coincident with,不是 部分重合物,17887
+P1038,relative,亲属,not relative,不是 亲属,52123
+P197,adjacent station,相邻车站,not adjacent station,不是 相邻车站,209079
+P833,interchange station,换乘车站,not interchange station,不是 换乘车站,3685
+P2789,connects with,连接,not connects with,不是 连接,183333
+P3342,significant person,重要人物,not significant person,不是 重要人物,15439
+P1327,partner in business or sport,专业或体育合作伙伴,not partner in business or sport,不是 专业或体育合作伙伴,17571
+P399,companion of,伴天体,not companion of,不是 伴天体,4476
+P1420,taxon synonym,同物異名,not taxon synonym,不是 同物異名,21387
+P129,physically interacts with,物理相互作用于,not physically interacts with,不是 物理相互作用于,9480
+P1322,dual to,對偶幾何圖形,not dual to,不是 對偶幾何圖形,351
+P2375,has superpartner,其超對稱粒子為,not has superpartner,不是 其超對稱粒子為,20
+P3032,adjacent building,相邻建筑,not adjacent building,不是 相邻建筑,5242
+P6185,tautomer of,互变异构体,not tautomer of,不是 互变异构体,1063
+P3179,territory overlaps,领土重合于,not territory overlaps,不是 领土重合于,8370
+P144,based on,改編自,not based on,不是 改編自,52294
+P737,influenced by,影响自,not influenced by,不是 影响自,18552
+P2444,homoglyph,同形字,not homoglyph,不是 同形字,1752
+P684,ortholog,种间同源基因,not ortholog,不是 种间同源基因,4320878
+P3364,stereoisomer of,立體異構體,not stereoisomer of,不是 立體異構體,2013
+P53,family,家族,not family,不是 家族,89379
+P1416,affiliation,所属机构,not affiliation,不是 所属机构,86685
+P3113,does not have part,不包含的部分,not does not have part,不是 不包含的部分,499
+P2860,cites work,引用作品,not cites work,不是 引用作品,285213488
+P807,separated from,分离自,not separated from,不是 分离自,2321
+P1557,manifestation of,表现概念,not manifestation of,不是 表现概念,2120
+P4675,appears in the form of,形态,not appears in the form of,不是 形态,373
+P6477,does not have quality,不具备的特性,not does not have quality,不是 不具备的特性,344
+P2650,interested in,关注对象,not interested in,不是 关注对象,14947
+P547,commemorates,紀念對象,not commemorates,不是 紀念對象,26003
+P5004,in opposition to,反對,not in opposition to,不是 反對,461
+P1268,represents,代表对象,not represents,不是 代表对象,5411
+P825,dedicated to,呈献对象,not dedicated to,不是 呈献对象,50406
+P31,instance of,隶属于,not instance of,不是 隶属于,103114325
+P1441,present in work,登场作品,not present in work,不是 登场作品,126749
+P828,has cause,起因,not has cause,不是 起因,9257
+P1542,has effect,導致,not has effect,不是 導致,5715
+P2737,union of,并集,not union of,不是 并集,375

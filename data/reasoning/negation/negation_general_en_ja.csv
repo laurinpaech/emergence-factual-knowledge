@@ -1,0 +1,751 @@
+id,en,ja,en_negated,ja_negated,count
+P1034,main food source,主な食料源,not main food source,いいえ 主な食料源,326
+P457,foundational text,設立文,not foundational text,いいえ 設立文,50541
+P8004,ordered by,指示者,not ordered by,いいえ 指示者,12
+P532,port of registry,船籍港,not port of registry,いいえ 船籍港,25629
+P740,location of formation,結成場所,not location of formation,いいえ 結成場所,44482
+P1817,addressee,宛名,not addressee,いいえ 宛名,49021
+P122,basic form of government,政治体制,not basic form of government,いいえ 政治体制,2152
+P58,screenwriter,脚本,not screenwriter,いいえ 脚本,186866
+P2597,Gram staining,グラム染色,not Gram staining,いいえ グラム染色,14932
+P3085,qualifies for event,出場資格判断イベント,not qualifies for event,いいえ 出場資格判断イベント,2803
+P1704,is pollinator of,以下の送粉者,not is pollinator of,いいえ 以下の送粉者,58
+P1716,brand,ブランド,not brand,いいえ ブランド,15374
+P3173,offers view on,眺望できるもの,not offers view on,いいえ 眺望できるもの,905
+P1165,home world,故郷,not home world,いいえ 故郷,1648
+P741,playing hand,ラケットの持ち手,not playing hand,いいえ ラケットの持ち手,6284
+P4043,emulates,エミュレート対象,not emulates,いいえ エミュレート対象,345
+P6889,microarchitecture,マイクロアーキテクチャ,not microarchitecture,いいえ マイクロアーキテクチャ,198
+P3719,regulated by,規制当局,not regulated by,いいえ 規制当局,475
+P8839,hairstyle,髪型,not hairstyle,いいえ 髪型,595
+P534,streak color,条痕色,not streak color,いいえ 条痕色,680
+P7167,does not have effect,以下は無効,not does not have effect,いいえ 以下は無効,30
+P1951,investor,投資家,not investor,いいえ 投資家,6294
+P1035,honorific suffix,敬称としての接尾辞,not honorific suffix,いいえ 敬称としての接尾辞,773
+P2554,production designer,プロダクションデザイナー,not production designer,いいえ プロダクションデザイナー,13508
+P2358,Roman praenomen,古代ローマのプラエノーメン,not Roman praenomen,いいえ 古代ローマのプラエノーメン,6468
+P66,ancestral home,祖籍,not ancestral home,いいえ 祖籍,1811
+P8006,footedness,利き足,not footedness,いいえ 利き足,514
+P2853,electrical plug type,コンセントの種類,not electrical plug type,いいえ コンセントの種類,531
+P7163,typically sells,取扱商品,not typically sells,いいえ 取扱商品,299
+P3275,storyboard artist,絵コンテ,not storyboard artist,いいえ 絵コンテ,697
+P7938,associated electoral district,関連する選挙区,not associated electoral district,いいえ 関連する選挙区,62894
+P106,occupation,職業,not occupation,いいえ 職業,9260065
+P636,route of administration,投与経路,not route of administration,いいえ 投与経路,3001
+P85,anthem,アンセム,not anthem,いいえ アンセム,1691
+P2841,age of onset,発症年齢,not age of onset,いいえ 発症年齢,7
+P1811,list of episodes,エピソードの一覧,not list of episodes,いいえ エピソードの一覧,4553
+P10067,train melody,発車メロディ,not train melody,いいえ 発車メロディ,14
+P631,structural engineer,構造設計,not structural engineer,いいえ 構造設計,1781
+P5588,invasive to,侵入先,not invasive to,いいえ 侵入先,107
+P1158,location of landing,着地点,not location of landing,いいえ 着地点,502
+P103,native language,母語,not native language,いいえ 母語,287778
+P5995,kit supplier,キットサプライヤー,not kit supplier,いいえ キットサプライヤー,293
+P37,official language,公用語,not official language,いいえ 公用語,21472
+P1435,heritage designation,遺産保護指定,not heritage designation,いいえ 遺産保護指定,2062512
+P689,afflicts,障害部位,not afflicts,いいえ 障害部位,4196
+P568,overlies,下位層,not overlies,いいえ 下位層,1555
+P2453,nominee,候補者,not nominee,いいえ 候補者,164
+P9813,container,容器,not container,いいえ 容器,60
+P38,currency,通貨,not currency,いいえ 通貨,2098
+P183,endemic to,生息域,not endemic to,いいえ 生息域,32262
+P163,flag,旗,not flag,いいえ 旗,6539
+P556,crystal system,結晶系,not crystal system,いいえ 結晶系,5448
+P4988,test method,試験方法,not test method,いいえ 試験方法,27
+P6948,video system,ビデオシステム,not video system,いいえ ビデオシステム,7
+P2992,software quality assurance,ソフトウェア品質保証,not software quality assurance,いいえ ソフトウェア品質保証,447
+P2438,narrator,ナレーター,not narrator,いいえ ナレーター,2267
+P3491,muscle insertion,筋停止部,not muscle insertion,いいえ 筋停止部,57
+P282,writing system,文字体系,not writing system,いいえ 文字体系,611234
+P291,place of publication,出版地,not place of publication,いいえ 出版地,271222
+P2548,strand orientation,DNA鎖の向き,not strand orientation,いいえ DNA鎖の向き,1035000
+P6275,copyright representative,著作権代表者,not copyright representative,いいえ 著作権代表者,81054
+P20,place of death,死亡地,not place of death,いいえ 死亡地,1212693
+P3680,statement supported by,この主張の支持者,not statement supported by,いいえ この主張の支持者,58
+P5202,adapted by,翻案,not adapted by,いいえ 翻案,3430
+P2184,history of topic,主題の歴史,not history of topic,いいえ 主題の歴史,2171
+P3027,open period from,営業開始日,not open period from,いいえ 営業開始日,16
+P411,canonization status,列聖の段階,not canonization status,いいえ 列聖の段階,11488
+P450,astronaut mission,宇宙飛行士のミッション,not astronaut mission,いいえ 宇宙飛行士のミッション,1836
+P2813,house publication,社内報,not house publication,いいえ 社内報,1120
+P1455,list of works,作品集,not list of works,いいえ 作品集,1228
+P6942,animator,アニメーター,not animator,いいえ アニメーター,4025
+P3712,objective of project or action,計画や行為の目的,not objective of project or action,いいえ 計画や行為の目的,1632
+P7406,style of karate,空手の流派,not style of karate,いいえ 空手の流派,30
+P2545,bowling style,ボウリング・スタイル,not bowling style,いいえ ボウリング・スタイル,1371
+P8822,epithet,形容語句,not epithet,いいえ 形容語句,26
+P3764,pole position,ポールポジション,not pole position,いいえ ポールポジション,4769
+P2361,online service,オンラインサービス,not online service,いいえ オンラインサービス,48
+P5126,assistant director,助監督,not assistant director,いいえ 助監督,559
+P2882,relegated,勝利した対戦相手,not relegated,いいえ 勝利した対戦相手,2906
+P2634,sitter,作品モデル,not sitter,いいえ 作品モデル,280
+P1625,has melody,引用された旋律,not has melody,いいえ 引用された旋律,2139
+P5096,member of the crew of,以下の乗組員,not member of the crew of,いいえ 以下の乗組員,1386
+P1990,species kept,飼育生物,not species kept,いいえ 飼育生物,7902
+P9972,illustrative content,実例となる内容,not illustrative content,いいえ 実例となる内容,61
+P6954,online access status,アクセス状態,not online access status,いいえ アクセス状態,5602
+P136,genre,ジャンル,not genre,いいえ ジャンル,1527395
+P452,industry,業種,not industry,いいえ 業種,104004
+P1462,standards body,標準化団体,not standards body,いいえ 標準化団体,2799
+P449,original broadcaster,放送当初のネットワーク,not original broadcaster,いいえ 放送当初のネットワーク,93087
+P6001,applies to people,あてはまる人々,not applies to people,いいえ あてはまる人々,16
+P2872,visitor centre,ビジターセンター,not visitor centre,いいえ ビジターセンター,554
+P5800,narrative role,作中の役割,not narrative role,いいえ 作中の役割,4591
+P517,interaction,相互作用,not interaction,いいえ 相互作用,291
+P7937,form of creative work,創作物の形式,not form of creative work,いいえ 創作物の形式,342698
+P6872,has written for,寄稿先,not has written for,いいえ 寄稿先,3252
+P1884,hair color,髪の色,not hair color,いいえ 髪の色,11981
+P3018,located in protected area,位置する保護区,not located in protected area,いいえ 位置する保護区,36798
+P483,recorded at studio or venue,録音場所,not recorded at studio or venue,いいえ 録音場所,5412
+P1686,for work,対象作品,not for work,いいえ 対象作品,50
+P4241,refine date,該当時期,not refine date,いいえ 該当時期,0
+P3975,secretary general,総書記,not secretary general,いいえ 総書記,1431
+P1050,medical condition,医学的状況,not medical condition,いいえ 医学的状況,241962
+P2286,arterial supply,動脈支配,not arterial supply,いいえ 動脈支配,288
+P140,religion or world view,宗教,not religion or world view,いいえ 宗教,444622
+P59,constellation,星座,not constellation,いいえ 星座,7371215
+P8138,located in the statistical territorial entity,位置する統計区画,not located in the statistical territorial entity,いいえ 位置する統計区画,31986
+P1434,takes place in fictional universe,舞台の架空世界,not takes place in fictional universe,いいえ 舞台の架空世界,15814
+P3912,newspaper format,新聞の形式,not newspaper format,いいえ 新聞の形式,4083
+P1923,participating team,参加チーム,not participating team,いいえ 参加チーム,148066
+P7867,category for maps,当地の地図のカテゴリ,not category for maps,いいえ 当地の地図のカテゴリ,15839
+P8933,category for the view from the item,眺望のカテゴリ,not category for the view from the item,いいえ 眺望のカテゴリ,6902
+P930,type of electrification,電化方式,not type of electrification,いいえ 電化方式,5562
+P1546,motto,標語,not motto,いいえ 標語,509
+P1792,category of associated people,当地の人々のカテゴリ,not category of associated people,いいえ 当地の人々のカテゴリ,29630
+P149,architectural style,建築様式,not architectural style,いいえ 建築様式,124958
+P1389,product certification,製品認証基準,not product certification,いいえ 製品認証基準,8990
+P1656,unveiled by,除幕者,not unveiled by,いいえ 除幕者,444
+P509,cause of death,死因,not cause of death,いいえ 死因,115623
+P967,guest of honor,来賓,not guest of honor,いいえ 来賓,803
+P3026,closed on,休業日,not closed on,いいえ 休業日,136
+P3081,damaged,半壊,not damaged,いいえ 半壊,86
+P6271,demonym of,以下の住人の呼称,not demonym of,いいえ 以下の住人の呼称,2640
+P111,measured physical quantity,測られる物理量,not measured physical quantity,いいえ 測られる物理量,3611
+P1013,criterion used,使用した基準,not criterion used,いいえ 使用した基準,69
+P8646,expansion of,以下の拡張パック,not expansion of,いいえ 以下の拡張パック,1507
+P5998,distributary,派川,not distributary,いいえ 派川,119
+P538,fracturing,断口,not fracturing,いいえ 断口,11
+P4968,relevant qualification,関連する資格,not relevant qualification,いいえ 関連する資格,55
+P680,molecular function,分子機能,not molecular function,いいえ 分子機能,1210165
+P35,head of state,元首,not head of state,いいえ 元首,1841
+P2715,elected in,選出選挙名,not elected in,いいえ 選出選挙名,183
+P516,powered by,動力装置・エンジン,not powered by,いいえ 動力装置・エンジン,11110
+P1142,political ideology,政治イデオロギー,not political ideology,いいえ 政治イデオロギー,23809
+P7095,end grade,最終学年,not end grade,いいえ 最終学年,3729
+P8345,media franchise,メディア・フランチャイズ,not media franchise,いいえ メディア・フランチャイズ,28359
+P2700,protocol,プロトコル,not protocol,いいえ プロトコル,231
+P2827,flower color,花の色,not flower color,いいえ 花の色,551
+P2962,title of chess person,チェスのタイトル,not title of chess person,いいえ チェスのタイトル,31178
+P9241,demographics of topic,主題の人口統計,not demographics of topic,いいえ 主題の人口統計,1155
+P2159,computes solution to,解決可能問題,not computes solution to,いいえ 解決可能問題,119
+P2568,repealed by,以下の文書によって廃止,not repealed by,いいえ 以下の文書によって廃止,33377
+P823,speaker,講演者,not speaker,いいえ 講演者,5293
+P4100,parliamentary group,会派,not parliamentary group,いいえ 会派,1970
+P7376,worn by,着用者,not worn by,いいえ 着用者,182
+P495,country of origin,本国,not country of origin,いいえ 本国,1345801
+P1056,product or material produced,生産品目,not product or material produced,いいえ 生産品目,45764
+P5053,fastest lap,最速周回者,not fastest lap,いいえ 最速周回者,2721
+P8115,eligible recipient,受賞対象,not eligible recipient,いいえ 受賞対象,68
+P2348,time period,時代,not time period,いいえ 時代,202625
+P3602,candidacy in election,立候補選挙,not candidacy in election,いいえ 立候補選挙,158938
+P3033,package management system,パッケージ管理システム,not package management system,いいえ パッケージ管理システム,192
+P277,programming language,プログラミング言語,not programming language,いいえ プログラミング言語,12192
+P1308,officeholder,在職者,not officeholder,いいえ 在職者,17533
+P750,distributed by,配給元,not distributed by,いいえ 配給元,158589
+P4147,conjugate acid,共役酸,not conjugate acid,いいえ 共役酸,367
+P453,character role,配役,not character role,いいえ 配役,506
+P840,narrative location,物語の舞台,not narrative location,いいえ 物語の舞台,91176
+P5832,political coalition,政党連合,not political coalition,いいえ 政党連合,155
+P3103,has tense,時制,not has tense,いいえ 時制,145
+P5134,evaluation of,以下の評価,not evaluation of,いいえ 以下の評価,26
+P88,commissioned by,依頼者,not commissioned by,いいえ 依頼者,23429
+P3189,innervated by,支配神経,not innervated by,いいえ 支配神経,293
+P1885,cathedral,聖堂,not cathedral,いいえ 聖堂,2133
+P3092,film crew member,スタッフ,not film crew member,いいえ スタッフ,4973
+P427,taxonomic type,タイプ属・種,not taxonomic type,いいえ タイプ属・種,28515
+P1011,excluding,以下を除く,not excluding,いいえ 以下を除く,6
+P1995,health specialty,診療科,not health specialty,いいえ 診療科,10263
+P654,direction relative to location,方位,not direction relative to location,いいえ 方位,25
+P1310,statement disputed by,この主張の反対者,not statement disputed by,いいえ この主張の反対者,5
+P1444,destination point,目的地,not destination point,いいえ 目的地,25554
+P5353,school district,学区,not school district,いいえ 学区,9780
+P7174,school class,学校のクラス,not school class,いいえ 学校のクラス,5
+P4330,contains,内容,not contains,いいえ 内容,8269
+P803,professorship,教授職,not professorship,いいえ 教授職,12404
+P5095,fault,断層,not fault,いいえ 断層,20
+P118,league,リーグ,not league,いいえ リーグ,192730
+P2633,geography of topic,主題の地理,not geography of topic,いいえ 主題の地理,726
+P800,notable work,主要作品,not notable work,いいえ 主要作品,96985
+P1775,follower of,以下のフォロワー,not follower of,いいえ 以下のフォロワー,22
+P1606,natural reservoir of,以下の自然宿主,not natural reservoir of,いいえ 以下の自然宿主,17
+P1264,valid in period,あてはまる期間,not valid in period,いいえ あてはまる期間,219
+P4774,biological phase,生物学的時期,not biological phase,いいえ 生物学的時期,21
+P27,country of citizenship,国籍,not country of citizenship,いいえ 国籍,4426813
+P1660,has index case,初発症例,not has index case,いいえ 初発症例,28
+P3274,content deliverer,コンテンツの提供元,not content deliverer,いいえ コンテンツの提供元,6
+P2679,author of foreword,まえがきの筆者,not author of foreword,いいえ まえがきの筆者,1543
+P913,notation,表記法,not notation,いいえ 表記法,214
+P1909,side effect,副作用,not side effect,いいえ 副作用,39
+P413,position played on team / speciality,ポジション,not position played on team / speciality,いいえ ポジション,401425
+P1534,end cause,終了理由,not end cause,いいえ 終了理由,171
+P2079,fabrication method,制作技法,not fabrication method,いいえ 制作技法,126162
+P8464,content partnership category,このパートナーシップのカテゴリ,not content partnership category,いいえ このパートナーシップのカテゴリ,398
+P1605,has natural reservoir,自然宿主,not has natural reservoir,いいえ 自然宿主,443
+P8852,facial hair,髭,not facial hair,いいえ 髭,365
+P1537,contributing factor of,以下の寄与因子,not contributing factor of,いいえ 以下の寄与因子,324
+P6099,clinical trial phase,臨床試験の段階,not clinical trial phase,いいえ 臨床試験の段階,177424
+P6259,epoch,元期,not epoch,いいえ 元期,8076517
+P2881,promoted,選抜された対戦相手,not promoted,いいえ 選抜された対戦相手,1228
+P469,lakes on river,関係する湖,not lakes on river,いいえ 関係する湖,3384
+P542,officially opened by,公式開会者,not officially opened by,いいえ 公式開会者,1047
+P8739,prohibits,以下を禁止する,not prohibits,いいえ 以下を禁止する,16
+P2318,debut participant,初参加者,not debut participant,いいえ 初参加者,217
+P2675,reply to,返信先,not reply to,いいえ 返信先,387
+P275,copyright license,利用許諾,not copyright license,いいえ 利用許諾,161241
+P8746,check-out time,チェックアウト時間,not check-out time,いいえ チェックアウト時間,2495
+P87,librettist,台本作家,not librettist,いいえ 台本作家,7358
+P1363,points/goal scored by,得点者,not points/goal scored by,いいえ 得点者,2441
+P768,electoral district,選挙区,not electoral district,いいえ 選挙区,18986
+P1068,instruction set,命令セット,not instruction set,いいえ 命令セット,448
+P358,discography,ディスコグラフィ,not discography,いいえ ディスコグラフィ,11952
+P84,architect,設計,not architect,いいえ 設計,75317
+P6118,season ends,シーズン終了時期,not season ends,いいえ シーズン終了時期,39
+P3985,supports programming language,サポートするプログラミング言語,not supports programming language,いいえ サポートするプログラミング言語,228
+P2667,corresponding template,対応するテンプレート,not corresponding template,いいえ 対応するテンプレート,860
+P4733,produced sound,発生音,not produced sound,いいえ 発生音,56
+P2505,carries,通るもの,not carries,いいえ 通るもの,12478
+P1057,chromosome,染色体,not chromosome,いいえ 染色体,608710
+P2680,author of afterword,あとがきの筆者,not author of afterword,いいえ あとがきの筆者,99
+P5054,cabinet,内閣,not cabinet,いいえ 内閣,5
+P744,asteroid family,小惑星族,not asteroid family,いいえ 小惑星族,184
+P1080,from narrative universe,登場する架空世界,not from narrative universe,いいえ 登場する架空世界,31385
+P1875,represented by,仲介者,not represented by,いいえ 仲介者,8117
+P4788,storage device,記憶装置,not storage device,いいえ 記憶装置,582
+P135,movement,ムーブメント,not movement,いいえ ムーブメント,58648
+P9793,setlist,セットリスト,not setlist,いいえ セットリスト,140
+P1210,supercharger,スーパーチャージャー,not supercharger,いいえ スーパーチャージャー,7
+P7500,comorbidity,合併症,not comorbidity,いいえ 合併症,19
+P618,source of energy,エネルギー源,not source of energy,いいえ エネルギー源,6188
+P923,medical examinations,診察,not medical examinations,いいえ 診察,993
+P2632,place of detention,収監場所,not place of detention,いいえ 収監場所,145141
+P2935,connector,コネクタ,not connector,いいえ コネクタ,788
+P1012,including,以下を含める,not including,いいえ 以下を含める,59
+P171,parent taxon,上位タクソン,not parent taxon,いいえ 上位タクソン,3600730
+P1547,depends on software,依存しているソフトウェア,not depends on software,いいえ 依存しているソフトウェア,18192
+P5280,radical,部首,not radical,いいえ 部首,2355
+P8032,victim,被害者,not victim,いいえ 被害者,870
+P272,production company,制作会社,not production company,いいえ 制作会社,119102
+P1419,shape,形状,not shape,いいえ 形状,1875
+P5824,is retracted by,以下によって撤回,not is retracted by,いいえ 以下によって撤回,1462
+P2416,sports discipline competed in,競技種目,not sports discipline competed in,いいえ 競技種目,49498
+P3828,wears,以下を着用,not wears,いいえ 以下を着用,1752
+P5389,permanent resident of,永住権保有国,not permanent resident of,いいえ 永住権保有国,1288
+P4006,overrules,以下の判例を変更,not overrules,いいえ 以下の判例を変更,10
+P69,educated at,出身校,not educated at,いいえ 出身校,2269402
+P189,location of discovery,発見場所,not location of discovery,いいえ 発見場所,26285
+P3094,develops from,以下から発生,not develops from,いいえ 以下から発生,110
+P2825,via,経由地,not via,いいえ 経由地,861
+P4934,calculated from,以下から算出,not calculated from,いいえ 以下から算出,578
+P2937,parliamentary term,議会開催期,not parliamentary term,いいえ 議会開催期,6378
+P2828,corporate officer,執行役員,not corporate officer,いいえ 執行役員,98
+P400,platform,プラットフォーム,not platform,いいえ プラットフォーム,98555
+P4353,nominated by,推薦者,not nominated by,いいえ 推薦者,230
+P6364,official color,オフィシャル・カラー,not official color,いいえ オフィシャル・カラー,3090
+P1789,chief operating officer,最高執行責任者,not chief operating officer,いいえ 最高執行責任者,68
+P1049,worshipped by,信仰元,not worshipped by,いいえ 信仰元,2380
+P831,parent club,親クラブ,not parent club,いいえ 親クラブ,4473
+P1881,list of characters,登場人物の一覧,not list of characters,いいえ 登場人物の一覧,878
+P2175,medical condition treated,対象となる医学的状態,not medical condition treated,いいえ 対象となる医学的状態,6992
+P3512,means of locomotion,移動手段,not means of locomotion,いいえ 移動手段,103
+P4843,development of anatomical structure,解剖学的構造の発生,not development of anatomical structure,いいえ 解剖学的構造の発生,160
+P3741,seed dispersal,種子の散布方法,not seed dispersal,いいえ 種子の散布方法,9
+P2353,statistical unit,統計単位,not statistical unit,いいえ 統計単位,25
+P1571,codomain,終域,not codomain,いいえ 終域,76
+P972,catalog,カタログ,not catalog,いいえ カタログ,69086
+P3461,designated as terrorist by,テロ組織と認定した国,not designated as terrorist by,いいえ テロ組織と認定した国,238
+P688,encodes,遺伝子産物,not encodes,いいえ 遺伝子産物,973826
+P1898,lowest note,最低音,not lowest note,いいえ 最低音,9
+P1592,prosecutor,検察官,not prosecutor,いいえ 検察官,426
+P5051,towards,方面,not towards,いいえ 方面,64
+P200,inflows,流入源,not inflows,いいえ 流入源,14887
+P1924,vaccine for,ワクチンの対象,not vaccine for,いいえ ワクチンの対象,203
+P703,found in taxon,これを持つタクソン,not found in taxon,いいえ これを持つタクソン,2853804
+P5816,state of conservation,保全状態,not state of conservation,いいえ 保全状態,32936
+P4614,drainage basin,分水嶺,not drainage basin,いいえ 分水嶺,79530
+P2308,class,クラス,not class,いいえ クラス,4
+P4271,rating,等級,not rating,いいえ 等級,380
+P2673,next crossing upstream,上流側の構築物,not next crossing upstream,いいえ 上流側の構築物,1587
+P1706,together with,以下とともに,not together with,いいえ 以下とともに,72
+P1318,proved by,証明した人,not proved by,いいえ 証明した人,125
+P2578,studies,研究分野,not studies,いいえ 研究分野,1954
+P812,academic major,大学における専攻,not academic major,いいえ 大学における専攻,2838
+P8058,symbol of,以下の象徴,not symbol of,いいえ 以下の象徴,49
+P8764,port calls,寄港地,not port calls,いいえ 寄港地,25
+P4584,first appearance,初登場,not first appearance,いいえ 初登場,6985
+P1456,list of monuments,記念碑の一覧,not list of monuments,いいえ 記念碑の一覧,20144
+P4446,reward program,報奨プログラム,not reward program,いいえ 報奨プログラム,275
+P1532,country for sport,代表国,not country for sport,いいえ 代表国,201826
+P65,site of astronomical discovery,天文学的発見をした場所,not site of astronomical discovery,いいえ 天文学的発見をした場所,53750
+P1809,choreographer,振付師,not choreographer,いいえ 振付師,4208
+P522,type of orbit,衛星軌道の種類,not type of orbit,いいえ 衛星軌道の種類,1169
+P344,director of photography,撮影監督,not director of photography,いいえ 撮影監督,91536
+P2560,GPU,GPU,not GPU,いいえ GPU,159
+P2319,elector,選挙人,not elector,いいえ 選挙人,67
+P500,exclave of,飛地の本体,not exclave of,いいえ 飛地の本体,130
+P407,language of work or name,言語,not language of work or name,いいえ 言語,14800503
+P2396,image of function,像,not image of function,いいえ 像,47
+P1454,legal form,組織形態,not legal form,いいえ 組織形態,197130
+P467,legislated by,制定した立法府,not legislated by,いいえ 制定した立法府,46724
+P375,space launch vehicle,打ち上げロケット,not space launch vehicle,いいえ 打ち上げロケット,6763
+P3349,designed to carry,輸送対象,not designed to carry,いいえ 輸送対象,166
+P2851,payment types accepted,料金の支払い方法,not payment types accepted,いいえ 料金の支払い方法,39226
+P7137,acknowledged,謝辞の相手,not acknowledged,いいえ 謝辞の相手,858
+P264,record label,レコード・レーベル,not record label,いいえ レコード・レーベル,338731
+P5102,nature of statement,情報の状況,not nature of statement,いいえ 情報の状況,29
+P8625,bibliography,書誌,not bibliography,いいえ 書誌,70
+P736,cover art by,装丁家／ジャケットデザイナー,not cover art by,いいえ 装丁家／ジャケットデザイナー,6718
+P9071,character type,キャラクターのタイプ,not character type,いいえ キャラクターのタイプ,3186
+P770,cause of destruction,破壊原因,not cause of destruction,いいえ 破壊原因,1380
+P1393,proxy,代理人,not proxy,いいえ 代理人,49
+P2821,by-product,副産物,not by-product,いいえ 副産物,49
+P647,drafted by,ドラフト指名したチーム,not drafted by,いいえ ドラフト指名したチーム,11790
+P531,diplomatic mission sent,在外公館,not diplomatic mission sent,いいえ 在外公館,1710
+P8866,has operator,以下の演算を持つ,not has operator,いいえ 以下の演算を持つ,7
+P6338,colorist,カラリスト,not colorist,いいえ カラリスト,1312
+P4743,animal breed,家畜の品種,not animal breed,いいえ 家畜の品種,8622
+P1313,office held by head of government,行政府の長の地位,not office held by head of government,いいえ 行政府の長の地位,62785
+P7045,chassis,シャシ,not chassis,いいえ シャシ,48
+P1026,academic thesis,学位論文,not academic thesis,いいえ 学位論文,11022
+P7261,use restriction status,使用制限,not use restriction status,いいえ 使用制限,415440
+P5460,grants,授与する学位・称号,not grants,いいえ 授与する学位・称号,696
+P5023,activity policy in this place,利用案内,not activity policy in this place,いいえ 利用案内,130
+P3161,has grammatical mood,文法的法,not has grammatical mood,いいえ 文法的法,109
+P78,top-level Internet domain,トップレベルドメイン,not top-level Internet domain,いいえ トップレベルドメイン,344
+P4312,camera setup,カメラ・セットアップ,not camera setup,いいえ カメラ・セットアップ,1871
+P8791,digitised by,デジタル化した者,not digitised by,いいえ デジタル化した者,2705
+P2095,co-driver,コ・ドライバー,not co-driver,いいえ コ・ドライバー,48
+P537,twinning,双晶,not twinning,いいえ 双晶,10
+P720,asteroid spectral type,スペクトル型,not asteroid spectral type,いいえ スペクトル型,419
+P658,tracklist,収録曲,not tracklist,いいえ 収録曲,33907
+P991,successful candidate,当選者,not successful candidate,いいえ 当選者,23167
+P2238,official symbol,公式シンボル,not official symbol,いいえ 公式シンボル,1419
+P2674,next crossing downstream,下流側の構築物,not next crossing downstream,いいえ 下流側の構築物,1604
+P8324,funder,資金提供者,not funder,いいえ 資金提供者,1904
+P2701,file format,ファイル形式,not file format,いいえ ファイル形式,566
+P4882,segmental innervation,分節性神経支配,not segmental innervation,いいえ 分節性神経支配,5
+P7108,location of the point of view,展望場所,not location of the point of view,いいえ 展望場所,512
+P1780,school of,所属学派,not school of,いいえ 所属学派,19
+P1340,eye color,目の色,not eye color,いいえ 目の色,10047
+P1302,primary destinations,主な経由都市,not primary destinations,いいえ 主な経由都市,3923
+P8047,country of registry,船籍国,not country of registry,いいえ 船籍国,68644
+P6216,copyright status,著作権の状況,not copyright status,いいえ 著作権の状況,1817697
+P6568,inscription mentions,銘に書かれた対象,not inscription mentions,いいえ 銘に書かれた対象,1719
+P1876,vehicle,船,not vehicle,いいえ 船,846
+P2378,issued by,ID発行者,not issued by,いいえ ID発行者,1797
+P3195,league points system,リーグのポイント制度,not league points system,いいえ リーグのポイント制度,438
+P841,feast day,祭日,not feast day,いいえ 祭日,8747
+P4599,monomer of,以下のモノマー,not monomer of,いいえ 以下のモノマー,61
+P2822,by-product of,以下の副産物,not by-product of,いいえ 以下の副産物,35
+P7374,educational stage,教育段階,not educational stage,いいえ 教育段階,81
+P414,stock exchange,証券取引所,not stock exchange,いいえ 証券取引所,13231
+P518,applies to part,あてはまる部分,not applies to part,いいえ あてはまる部分,203
+P6439,has lyrics,歌詞付き,not has lyrics,いいえ 歌詞付き,404
+P7767,serving temperature,提供温度,not serving temperature,いいえ 提供温度,29
+P412,voice type,声域,not voice type,いいえ 声域,34254
+P505,general manager,ゼネラルマネージャー,not general manager,いいえ ゼネラルマネージャー,1482
+P1001,applies to jurisdiction,管轄・適用区域,not applies to jurisdiction,いいえ 管轄・適用区域,938663
+P2499,league level above,上位リーグ,not league level above,いいえ 上位リーグ,6639
+P6886,writing language,記述言語,not writing language,いいえ 記述言語,162201
+P1221,compressor type,圧縮機の種類,not compressor type,いいえ 圧縮機の種類,2
+P1002,engine configuration,エンジン形態,not engine configuration,いいえ エンジン形態,1031
+P693,cleavage,へき開,not cleavage,いいえ へき開,63
+P1777,manner of,同じスタイルの人物,not manner of,いいえ 同じスタイルの人物,9
+P1574,exemplar of,以下のものの原本,not exemplar of,いいえ 以下のものの原本,1740
+P1387,political alignment,政治的立場,not political alignment,いいえ 政治的立場,4250
+P4149,conjugate base,共役塩基,not conjugate base,いいえ 共役塩基,358
+P5444,model year,モデルイヤー,not model year,いいえ モデルイヤー,63
+P91,sexual orientation,性的指向,not sexual orientation,いいえ 性的指向,4111
+P30,continent,大陸,not continent,いいえ 大陸,83038
+P2515,costume designer,衣裳デザイナー,not costume designer,いいえ 衣裳デザイナー,12686
+P2550,recording or performance of,以下の演奏またはレコーディング,not recording or performance of,いいえ 以下の演奏またはレコーディング,14878
+P2647,source of material,産地,not source of material,いいえ 産地,147
+P611,religious order,宗教会,not religious order,いいえ 宗教会,33053
+P2541,operating area,業務区域,not operating area,いいえ 業務区域,17829
+P3294,encoding,符号化,not encoding,いいえ 符号化,2
+P54,member of sports team,所属チーム,not member of sports team,いいえ 所属チーム,1546197
+P479,input method,入力機器,not input method,いいえ 入力機器,15149
+P6885,historical region,歴史的地域,not historical region,いいえ 歴史的地域,15038
+P417,patron saint,守護聖人,not patron saint,いいえ 守護聖人,21721
+P9788,performed at,上演した会場,not performed at,いいえ 上演した会場,93
+P2058,depositary,寄託者,not depositary,いいえ 寄託者,229
+P110,illustrator,挿絵画家,not illustrator,いいえ 挿絵画家,14607
+P541,office contested,争われた公職,not office contested,いいえ 争われた公職,42849
+P588,coolant,冷媒,not coolant,いいえ 冷媒,485
+P1576,lifestyle,生活様式,not lifestyle,いいえ 生活様式,1288
+P1558,tempo marking,速度記号,not tempo marking,いいえ 速度記号,133
+P1774,workshop of,所属していた工房,not workshop of,いいえ 所属していた工房,7
+P931,place served by transport hub,空港周辺の場所,not place served by transport hub,いいえ 空港周辺の場所,12148
+P543,oath made by,宣誓者,not oath made by,いいえ 宣誓者,90
+P504,home port,母港,not home port,いいえ 母港,5863
+P4908,season,シーズン,not season,いいえ シーズン,63882
+P1199,mode of inheritance,遺伝形式,not mode of inheritance,いいえ 遺伝形式,85
+P6166,quotes work,引用作品,not quotes work,いいえ 引用作品,410
+P193,main building contractor,元請建設会社,not main building contractor,いいえ 元請建設会社,2904
+P1906,office held by head of state,国家元首の地位,not office held by head of state,いいえ 国家元首の地位,563
+P945,allegiance,忠誠を誓った対象,not allegiance,いいえ 忠誠を誓った対象,60876
+P408,software engine,エンジン,not software engine,いいえ エンジン,9860
+P4647,location of first performance,初演地,not location of first performance,いいえ 初演地,18266
+P1079,launch contractor,打ち上げ業者,not launch contractor,いいえ 打ち上げ業者,254
+P1399,convicted of,罪名,not convicted of,いいえ 罪名,10528
+P114,airline alliance,航空連合,not airline alliance,いいえ 航空連合,278
+P512,academic degree,学位,not academic degree,いいえ 学位,132400
+P2365,Roman cognomen,古代ローマのコグノーメン,not Roman cognomen,いいえ 古代ローマのコグノーメン,3833
+P4220,order of battle,戦闘序列,not order of battle,いいえ 戦闘序列,409
+P2501,results,競技結果,not results,いいえ 競技結果,84
+P7252,degree of difficulty,難易度,not degree of difficulty,いいえ 難易度,420
+P735,given name,名,not given name,いいえ 名,6673611
+P126,maintained by,管理者,not maintained by,いいえ 管理者,528563
+P1408,licensed to broadcast to,放送区域,not licensed to broadcast to,いいえ 放送区域,16665
+P5137,item for this sense,この語義に対応する項目,not item for this sense,いいえ この語義に対応する項目,115540
+P5009,complies with,適合基準,not complies with,いいえ 適合基準,163
+P1437,plea,罪状認否,not plea,いいえ 罪状認否,7
+P423,shooting handedness,シュート（左または右）,not shooting handedness,いいえ シュート（左または右）,13407
+P8626,opening time,開館時間,not opening time,いいえ 開館時間,9
+P533,target,標的,not target,いいえ 標的,1496
+P816,decays to,崩壊生成物,not decays to,いいえ 崩壊生成物,7387
+P2291,charted in,チャートイン,not charted in,いいえ チャートイン,1601
+P1383,contains settlement,包含する集落,not contains settlement,いいえ 包含する集落,32821
+P21,sex or gender,性別,not sex or gender,いいえ 性別,7876165
+P682,biological process,生物学的プロセス,not biological process,いいえ 生物学的プロセス,1194167
+P6758,supported sports team,支援するスポーツチーム,not supported sports team,いいえ 支援するスポーツチーム,710
+P5817,state of use,使用状態,not state of use,いいえ 使用状態,62593
+P3005,valid in place,あてはまる場所,not valid in place,いいえ あてはまる場所,173
+P3643,significant environmental impact,環境への重大な影響,not significant environmental impact,いいえ 環境への重大な影響,13095
+P655,translator,訳者,not translator,いいえ 訳者,18384
+P8196,voting system,投票制度,not voting system,いいえ 投票制度,1362
+P1840,investigated by,調査者,not investigated by,いいえ 調査者,576
+P5307,display technology,ディスプレイ技術,not display technology,いいえ ディスプレイ技術,161
+P5422,has pattern,装飾パターン,not has pattern,いいえ 装飾パターン,407
+P912,has facility,保有施設,not has facility,いいえ 保有施設,16547
+P3156,Australian Classification,ACBレーティング,not Australian Classification,いいえ ACBレーティング,648
+P3967,final event,決勝戦,not final event,いいえ 決勝戦,1860
+P3014,laws applied,適用法,not laws applied,いいえ 適用法,173
+P1192,connecting service,所属運行路線,not connecting service,いいえ 所属運行路線,41150
+P8031,perpetrator,加害者,not perpetrator,いいえ 加害者,818
+P4379,youth wing,青年組織,not youth wing,いいえ 青年組織,205
+P4101,dissertation submitted to,論文の提出先,not dissertation submitted to,いいえ 論文の提出先,69721
+P2563,superhuman feature or ability,超人的な働きや能力,not superhuman feature or ability,いいえ 超人的な働きや能力,6800
+P2360,intended public,この項目が想定する対象,not intended public,いいえ この項目が想定する対象,7870
+P57,director,監督,not director,いいえ 監督,332848
+P2922,month of the year,対象月,not month of the year,いいえ 対象月,4599
+P880,CPU,中央処理装置,not CPU,いいえ 中央処理装置,2174
+P2408,set in period,時代設定,not set in period,いいえ 時代設定,7382
+P2239,first aid measures,応急処置,not first aid measures,いいえ 応急処置,2825
+P560,direction,方向,not direction,いいえ 方向,36
+P2846,wheelchair accessibility,車椅子利用可否,not wheelchair accessibility,いいえ 車椅子利用可否,3136
+P1596,penalty,科刑,not penalty,いいえ 科刑,1918
+P5131,possible medical findings,取り得る医学的所見,not possible medical findings,いいえ 取り得る医学的所見,96
+P2379,deprecated in version,非推奨バージョン,not deprecated in version,いいえ 非推奨バージョン,129
+P4387,update method,更新方法,not update method,いいえ 更新方法,119
+P5030,talk show guest,トーク番組のゲスト,not talk show guest,いいえ トーク番組のゲスト,15550
+P2341,indigenous to,地域・民族,not indigenous to,いいえ 地域・民族,18247
+P4132,linguistic typology,言語類型,not linguistic typology,いいえ 言語類型,2248
+P1027,conferred by,授与者,not conferred by,いいえ 授与者,15110
+P2127,International Nuclear Event Scale,国際原子力事象評価尺度,not International Nuclear Event Scale,いいえ 国際原子力事象評価尺度,12
+P941,inspired by,着想を得たもの,not inspired by,いいえ 着想を得たもの,5758
+P1877,after a work by,原作者,not after a work by,いいえ 原作者,12339
+P4969,derivative work,派生作品,not derivative work,いいえ 派生作品,19804
+P6440,maintenance method,保守方法,not maintenance method,いいえ 保守方法,38
+P6237,real estate developer,不動産デベロッパー,not real estate developer,いいえ 不動産デベロッパー,79
+P6718,music video,ミュージック・ビデオ,not music video,いいえ ミュージック・ビデオ,324
+P92,main regulatory text,法的根拠,not main regulatory text,いいえ 法的根拠,9320
+P520,armament,兵装,not armament,いいえ 兵装,5520
+P922,magnetic ordering,磁気秩序,not magnetic ordering,いいえ 磁気秩序,2
+P925,presynaptic connection,シナプス前細胞,not presynaptic connection,いいえ シナプス前細胞,6
+P205,basin country,流域国,not basin country,いいえ 流域国,17703
+P8111,recommended unit of measurement,推奨測定単位,not recommended unit of measurement,いいえ 推奨測定単位,1167
+P943,programmer,プログラマ,not programmer,いいえ プログラマ,388
+P8744,economy of topic,主題の経済,not economy of topic,いいえ 主題の経済,1377
+P7727,legislative committee,立法委員会,not legislative committee,いいえ 立法委員会,124889
+P1028,donated by,寄贈者,not donated by,いいえ 寄贈者,9673
+P8225,is metaclass for,以下のメタクラス,not is metaclass for,いいえ 以下のメタクラス,372
+P3452,inferred from,以下から推測,not inferred from,いいえ 以下から推測,2
+P447,review score by,レビュアー,not review score by,いいえ レビュアー,14
+P7086,start grade,開始学年,not start grade,いいえ 開始学年,3730
+P6224,level of description,説明のレベル,not level of description,いいえ 説明のレベル,628069
+P2392,teaching method,教育法,not teaching method,いいえ 教育法,58
+P2596,culture,文化,not culture,いいえ 文化,10030
+P1478,has immediate cause,直接の原因,not has immediate cause,いいえ 直接の原因,125023
+P1018,language regulatory body,言語統制機関,not language regulatory body,いいえ 言語統制機関,208
+P485,archives at,アーカイブ,not archives at,いいえ アーカイブ,75475
+P6855,emergency services,救急サービス,not emergency services,いいえ 救急サービス,766
+P2974,habitat,生息地,not habitat,いいえ 生息地,162
+P3301,broadcast by,放送媒体,not broadcast by,いいえ 放送媒体,7431
+P1568,definition domain,定義域,not definition domain,いいえ 定義域,125
+P5236,prime factor,素因数,not prime factor,いいえ 素因数,151194
+P2964,right to vote,投票権者,not right to vote,いいえ 投票権者,68
+P3490,muscle origin,筋起始部,not muscle origin,いいえ 筋起始部,61
+P1137,fossil found in this unit,この地層で見つかる化石,not fossil found in this unit,いいえ この地層で見つかる化石,75
+P97,noble title,爵位,not noble title,いいえ 爵位,54552
+P1136,solved by,解いた人,not solved by,いいえ 解いた人,116
+P16,transport network,道路システム,not transport network,いいえ 道路システム,52704
+P1622,driving side,交通方法,not driving side,いいえ 交通方法,428
+P4082,captured with,撮影機器,not captured with,いいえ 撮影機器,20
+P5025,gens,ゲンス,not gens,いいえ ゲンス,6395
+P1897,highest note,最高音,not highest note,いいえ 最高音,6
+P4661,reservoir created,ダム湖,not reservoir created,いいえ ダム湖,3203
+P868,foods traditionally associated,名産品,not foods traditionally associated,いいえ 名産品,400
+P7309,climbing route,登山ルート,not climbing route,いいえ 登山ルート,64
+P1171,approximation algorithm,近似アルゴリズム,not approximation algorithm,いいえ 近似アルゴリズム,9
+P1853,blood type,血液型,not blood type,いいえ 血液型,31859
+P3148,repeals,以下の文書を廃止,not repeals,いいえ 以下の文書を廃止,28838
+P3259,intangible cultural heritage status,無形文化遺産の地位,not intangible cultural heritage status,いいえ 無形文化遺産の地位,974
+P6153,research site,研究施設,not research site,いいえ 研究施設,266976
+P5642,risk factor,危険因子,not risk factor,いいえ 危険因子,198
+P1406,script directionality,書字方向,not script directionality,いいえ 書字方向,324
+P4878,symbolizes,象徴するもの,not symbolizes,いいえ 象徴するもの,51
+P3815,volcano observatory,火山観測所,not volcano observatory,いいえ 火山観測所,598
+P5072,presented in,発表イベント,not presented in,いいえ 発表イベント,846
+P3919,contributed to creative work,貢献作品,not contributed to creative work,いいえ 貢献作品,5086
+P5658,railway traffic side,鉄道の交通方法,not railway traffic side,いいえ 鉄道の交通方法,282
+P811,academic minor,大学における副専攻,not academic minor,いいえ 大学における副専攻,103
+P19,place of birth,出生地,not place of birth,いいえ 出生地,3035164
+P501,enclave within,包領の周囲,not enclave within,いいえ 包領の周囲,249
+P8258,field of training,研修分野,not field of training,いいえ 研修分野,19
+P3415,start period,開始期間,not start period,いいえ 開始期間,58
+P5133,has evaluation,主題の評価,not has evaluation,いいえ 主題の評価,24
+P3091,mount,騎乗する動物,not mount,いいえ 騎乗する動物,746
+P1429,has pet,ペット,not has pet,いいえ ペット,318
+P3938,named by,命名者,not named by,いいえ 命名者,628
+P6087,coach of sports team,スポーツチームのコーチ,not coach of sports team,いいえ スポーツチームのコーチ,11850
+P3082,destroyed,全壊,not destroyed,いいえ 全壊,283
+P1591,defendant,被告,not defendant,いいえ 被告,4610
+P642,of,以下についての,not of,いいえ 以下についての,5091
+P1703,is pollinated by,送粉者,not is pollinated by,いいえ 送粉者,79
+P3780,active ingredient in,以下の有効成分,not active ingredient in,いいえ 以下の有効成分,2529
+P2414,substrate of,以下の基質,not substrate of,いいえ 以下の基質,9
+P4000,has fruit type,果実の種類,not has fruit type,いいえ 果実の種類,3039
+P2746,production statistics,製品の統計情報,not production statistics,いいえ 製品の統計情報,52
+P4600,polymer of,以下のポリマー,not polymer of,いいえ 以下のポリマー,71
+P3858,route diagram,路線図,not route diagram,いいえ 路線図,3626
+P834,train depot,列車車庫,not train depot,いいえ 列車車庫,691
+P702,encoded by,コードしている遺伝子,not encoded by,いいえ コードしている遺伝子,976836
+P2831,totem,トーテム,not totem,いいえ トーテム,21
+P545,torch lit by,聖火点火者,not torch lit by,いいえ 聖火点火者,73
+P725,voice actor,声優,not voice actor,いいえ 声優,63208
+P1620,plaintiff,原告,not plaintiff,いいえ 原告,365
+P6840,student organization of,在籍校,not student organization of,いいえ 在籍校,34
+P397,parent astronomical body,母天体,not parent astronomical body,いいえ 母天体,12507
+P459,determination method,使用された手段・手法,not determination method,いいえ 使用された手段・手法,329
+P1299,depicted by,描写した作品,not depicted by,いいえ 描写した作品,10979
+P3989,members have occupation,メンバーの職業,not members have occupation,いいえ メンバーの職業,1768
+P7959,historic county,歴史的カウンティ,not historic county,いいえ 歴史的カウンティ,782765
+P462,color,色,not color,いいえ 色,195178
+P1776,circle of,作者と関わりがあったと考えられる人物,not circle of,いいえ 作者と関わりがあったと考えられる人物,7
+P3261,anatomical branch of,以下の解剖学的分枝,not anatomical branch of,いいえ 以下の解剖学的分枝,415
+P5314,property scope,プロパティの適用範囲,not property scope,いいえ プロパティの適用範囲,1
+P241,military branch,軍種,not military branch,いいえ 軍種,114815
+P1064,track gauge,軌間,not track gauge,いいえ 軌間,24421
+P1891,signatory,調印者,not signatory,いいえ 調印者,17166
+P8864,identity element,単位元,not identity element,いいえ 単位元,6
+P2842,place of marriage,結婚した場所,not place of marriage,いいえ 結婚した場所,3
+P3174,art director,美術監督,not art director,いいえ 美術監督,1254
+P4850,permitted food additive,許可された食品添加物,not permitted food additive,いいえ 許可された食品添加物,1
+P734,family name,姓,not family name,いいえ 姓,3641074
+P2429,expected completeness,期待される完全性,not expected completeness,いいえ 期待される完全性,3866
+P421,located in time zone,標準時間帯,not located in time zone,いいえ 標準時間帯,2008070
+P6587,league system,リーグ制度,not league system,いいえ リーグ制度,231
+P548,version type,バージョン種類,not version type,いいえ バージョン種類,5
+P2302,property constraint,プロパティ制約,not property constraint,いいえ プロパティ制約,60448
+P410,military rank,軍隊の階級,not military rank,いいえ 軍隊の階級,157572
+P3335,associated hazard,関連する危険,not associated hazard,いいえ 関連する危険,71
+P1640,curator,キュレーター,not curator,いいえ キュレーター,1600
+P1046,discovery method,発見方法,not discovery method,いいえ 発見方法,4253
+P942,theme music,主題歌,not theme music,いいえ 主題歌,3967
+P8571,external auditor,会計監査人,not external auditor,いいえ 会計監査人,125
+P1445,fictional universe described in,舞台とする作品,not fictional universe described in,いいえ 舞台とする作品,4613
+P7078,typing discipline,型システム,not typing discipline,いいえ 型システム,774
+P3701,incarnation of,以下の化身,not incarnation of,いいえ 以下の化身,88
+P3438,vehicle normally used,主な使用車両,not vehicle normally used,いいえ 主な使用車両,2901
+P5132,suggests the existence of,以下の存在を示唆する,not suggests the existence of,いいえ 以下の存在を示唆する,234
+P3497,teams classification by time,チーム総合賞,not teams classification by time,いいえ チーム総合賞,10648
+P826,tonality,調,not tonality,いいえ 調,5039
+P873,phase point,転移点,not phase point,いいえ 転移点,27
+P1652,referee,審判,not referee,いいえ 審判,19997
+P765,surface played on,サーフェス,not surface played on,いいえ サーフェス,3968
+P1151,topic's main Wikimedia portal,ウィキメディアのポータル,not topic's main Wikimedia portal,いいえ ウィキメディアのポータル,1830
+P3262,has anatomical branch,解剖学的分枝,not has anatomical branch,いいえ 解剖学的分枝,286
+P376,located on astronomical body,位置する天体,not located on astronomical body,いいえ 位置する天体,9235
+P634,captain,主将,not captain,いいえ 主将,539
+P3150,birthday,誕生日,not birthday,いいえ 誕生日,3191
+P3489,pregnancy category,胎児危険度分類,not pregnancy category,いいえ 胎児危険度分類,1546
+P7936,business model,ビジネスモデル,not business model,いいえ ビジネスモデル,2359
+P5138,season of club or team,クラブやチームのシーズン,not season of club or team,いいえ クラブやチームのシーズン,79872
+P9549,official podcast,公式ポッドキャスト番組,not official podcast,いいえ 公式ポッドキャスト番組,143
+P101,field of work,専門分野,not field of work,いいえ 専門分野,252599
+P562,central bank/issuer,中央銀行または発行者,not central bank/issuer,いいえ 中央銀行または発行者,443
+P1589,lowest point,最も低い地点,not lowest point,いいえ 最も低い地点,512
+P5323,attested in,典拠,not attested in,いいえ 典拠,121128
+P3025,open days,営業日,not open days,いいえ 営業日,3283
+P924,possible treatment,治療,not possible treatment,いいえ 治療,699
+P3022,flag bearer,旗手,not flag bearer,いいえ 旗手,4191
+P1595,charge,争われた罪,not charge,いいえ 争われた罪,4516
+P2894,day of week,曜日,not day of week,いいえ 曜日,192693
+P1196,manner of death,死亡状況,not manner of death,いいえ 死亡状況,100146
+P3374,endianness,バイト順,not endianness,いいえ バイト順,103
+P3095,practiced by,従事者,not practiced by,いいえ 従事者,4814
+P7514,landscape architect,造園家,not landscape architect,いいえ 造園家,190
+P2376,superpartner of,以下の超対称性粒子,not superpartner of,いいえ 以下の超対称性粒子,21
+P102,member of political party,所属政党,not member of political party,いいえ 所属政党,502780
+P1880,measurement scale,測定単位,not measurement scale,いいえ 測定単位,181
+P1536,immediate cause of,以下の直接の原因,not immediate cause of,いいえ 以下の直接の原因,18761
+P5056,patronym or matronym for this person,この人物の父称または母称,not patronym or matronym for this person,いいえ この人物の父称または母称,1192
+P1479,has contributing factor,寄与因子,not has contributing factor,いいえ 寄与因子,588
+P870,instrumentation,使用楽器,not instrumentation,いいえ 使用楽器,7611
+P3450,sports season of league or competition,リーグや競技のスポーツシーズン,not sports season of league or competition,いいえ リーグや競技のスポーツシーズン,81264
+P3966,programming paradigm,プログラミングパラダイム,not programming paradigm,いいえ プログラミングパラダイム,1472
+P6977,review of,以下の評論,not review of,いいえ 以下の評論,9683
+P199,business division,事業部門,not business division,いいえ 事業部門,1686
+P669,located on street or square,所在地（街路名）,not located on street or square,いいえ 所在地（街路名）,164995
+P780,symptoms and signs,症状,not symptoms and signs,いいえ 症状,10915
+P8001,endorsed by,支持表明者,not endorsed by,いいえ 支持表明者,195
+P970,neurological function,神経機能,not neurological function,いいえ 神経機能,4
+P209,highest judicial authority,最高司法府,not highest judicial authority,いいえ 最高司法府,183
+P878,avionics,アビオニクス,not avionics,いいえ アビオニクス,168
+P1349,ploidy,倍数性,not ploidy,いいえ 倍数性,41
+P8411,set in environment,物語のロケーション,not set in environment,いいえ 物語のロケーション,15928
+P7501,audio system,オーディオシステム,not audio system,いいえ オーディオシステム,2087
+P3781,has active ingredient,有効成分,not has active ingredient,いいえ 有効成分,2691
+P612,mother house,母院,not mother house,いいえ 母院,820
+P748,appointed by,任命者,not appointed by,いいえ 任命者,5538
+P3931,copyright holder,著作権所有者,not copyright holder,いいえ 著作権所有者,3231
+P8693,fandom,ファンベース,not fandom,いいえ ファンベース,63
+P8738,permits,以下を許可する,not permits,いいえ 以下を許可する,23
+P1029,crew member(s),乗組員,not crew member(s),いいえ 乗組員,2976
+P3679,stock market index,株価指数,not stock market index,いいえ 株価指数,76
+P1283,filmography,映画作品目録,not filmography,いいえ 映画作品目録,1518
+P2388,office held by head of the organization,組織長の地位,not office held by head of the organization,いいえ 組織長の地位,12812
+P3902,had as last meal,最後に摂った食事,not had as last meal,いいえ 最後に摂った食事,72
+P172,ethnic group,民族,not ethnic group,いいえ 民族,160731
+P872,printed by,印刷者,not printed by,いいえ 印刷者,2905
+P4967,prerequisite,前提条件,not prerequisite,いいえ 前提条件,191
+P4884,court,法廷,not court,いいえ 法廷,21138
+P5196,output method,出力機器,not output method,いいえ 出力機器,305
+P552,handedness,利き手,not handedness,いいえ 利き手,2257
+P6193,ratified by,批准,not ratified by,いいえ 批准,2631
+P5248,medical evacuation to,搬送先医療機関,not medical evacuation to,いいえ 搬送先医療機関,36
+P6022,"expression, gesture or body pose",表情、しぐさ、ポーズ,"not expression, gesture or body pose",いいえ 表情、しぐさ、ポーズ,1
+P5109,has grammatical gender,文法的性,not has grammatical gender,いいえ 文法的性,136
+P624,guidance system,誘導システム,not guidance system,いいえ 誘導システム,248
+P789,edibility,食用可能,not edibility,いいえ 食用可能,792
+P4032,reviewed by,査読者,not reviewed by,いいえ 査読者,510
+P832,public holiday,祝日,not public holiday,いいえ 祝日,1481
+P2868,subject has role,役割,not subject has role,いいえ 役割,353857
+P2012,cuisine,提供料理,not cuisine,いいえ 提供料理,2328
+P194,legislative body,立法府,not legislative body,いいえ 立法府,4257
+P470,Eight Banner register,八旗,not Eight Banner register,いいえ 八旗,986
+P9059,subdivision of this unit,下位の単位,not subdivision of this unit,いいえ 下位の単位,133
+P567,underlies,上位層,not underlies,いいえ 上位層,1542
+P105,taxon rank,分類階級,not taxon rank,いいえ 分類階級,3588929
+P1604,biosafety level,バイオセーフティーレベル,not biosafety level,いいえ バイオセーフティーレベル,12
+P3416,end period,終了期間,not end period,いいえ 終了期間,15
+P1290,godparent,代父母,not godparent,いいえ 代父母,1464
+P1594,judge,裁判官,not judge,いいえ 裁判官,9995
+P2975,host,宿主,not host,いいえ 宿主,7413
+P7075,mod of,以下のMOD,not mod of,いいえ 以下のMOD,186
+P5021,assessment,受けた試験,not assessment,いいえ 受けた試験,25144
+P248,stated in,出典,not stated in,いいえ 出典,785
+P6339,reports periodicity,測定間隔,not reports periodicity,いいえ 測定間隔,18159
+P4622,trophy awarded,トロフィー,not trophy awarded,いいえ トロフィー,255
+P887,based on heuristic,推測に基づく,not based on heuristic,いいえ 推測に基づく,1
+P4792,dam,ダム,not dam,いいえ ダム,3135
+P5572,expressed in,発現時期,not expressed in,いいえ 発現時期,883176
+P739,ammunition,弾薬,not ammunition,いいえ 弾薬,2509
+P1074,fictional analog of,現実世界で対応する概念,not fictional analog of,いいえ 現実世界で対応する概念,1877
+P607,conflict,参加した戦い,not conflict,いいえ 参加した戦い,221623
+P553,website account on,ソーシャルメディア,not website account on,いいえ ソーシャルメディア,2218
+P1750,name day,聖名祝日,not name day,いいえ 聖名祝日,3454
+P1593,defender,弁護人,not defender,いいえ 弁護人,278
+P4791,commanded by,指揮官,not commanded by,いいえ 指揮官,3546
+P1303,instrument,楽器,not instrument,いいえ 楽器,210870
+P3028,open period to,営業終了日,not open period to,いいえ 営業終了日,13
+P210,party chief representative,党委員会の責任者,not party chief representative,いいえ 党委員会の責任者,266
+P1433,published in,叢書,not published in,いいえ 叢書,37916091
+P937,work location,活動地,not work location,いいえ 活動地,339031
+P610,highest point,最も高い地点,not highest point,いいえ 最も高い地点,5503
+P208,executive body,行政府,not executive body,いいえ 行政府,1672
+P751,introduced feature,導入機能,not introduced feature,いいえ 導入機能,814
+P8670,character designer,キャラクターデザイナー,not character designer,いいえ キャラクターデザイナー,1818
+P2738,disjoint union of,以下の非交和,not disjoint union of,いいえ 以下の非交和,458
+P790,approved by,承認者,not approved by,いいえ 承認者,29098
+P817,decay mode,崩壊モード,not decay mode,いいえ 崩壊モード,3
+P3831,object has role,オブジェクトの役割,not object has role,いいえ オブジェクトの役割,65
+P2575,measures,測定対象,not measures,いいえ 測定対象,252
+P1041,socket supported,CPUソケット,not socket supported,いいえ CPUソケット,107
+P1779,possible creator,創作者候補,not possible creator,いいえ 創作者候補,38
+P86,composer,作曲,not composer,いいえ 作曲,188471
+P3776,inhibitor of,以下の阻害剤,not inhibitor of,いいえ 以下の阻害剤,101
+P5769,editor-in-chief,編集長,not editor-in-chief,いいえ 編集長,2325
+P8627,closing time,閉館時間,not closing time,いいえ 閉館時間,7
+P7152,copyright exemption,著作権適用除外,not copyright exemption,いいえ 著作権適用除外,1
+P2770,source of income,収入源,not source of income,いいえ 収入源,500
+P4794,season starts,シーズン開始時期,not season starts,いいえ シーズン開始時期,2049
+P926,postsynaptic connection,シナプス後細胞,not postsynaptic connection,いいえ シナプス後細胞,7
+P530,diplomatic relation,国交のある国,not diplomatic relation,いいえ 国交のある国,7046
+P47,shares border with,隣の国または行政区画,not shares border with,いいえ 隣の国または行政区画,605173
+P461,opposite of,反対の概念,not opposite of,いいえ 反対の概念,23857
+P460,said to be the same as,同一とされる事物,not said to be the same as,いいえ 同一とされる事物,285208
+P3373,sibling,兄弟姉妹,not sibling,いいえ 兄弟姉妹,407131
+P26,spouse,配偶者,not spouse,いいえ 配偶者,731197
+P7047,enemy of,敵,not enemy of,いいえ 敵,3809
+P451,unmarried partner,婚姻関係にないパートナー,not unmarried partner,いいえ 婚姻関係にないパートナー,14156
+P1889,different from,以下と異なる,not different from,いいえ 以下と異なる,801466
+P3403,coextensive with,同一境界,not coextensive with,いいえ 同一境界,4076
+P190,twinned administrative body,姉妹都市,not twinned administrative body,いいえ 姉妹都市,48990
+P2152,antiparticle,反粒子,not antiparticle,いいえ 反粒子,79
+P1382,partially coincident with,重複,not partially coincident with,いいえ 重複,17887
+P4777,has boundary,以下を境界として持つ,not has boundary,いいえ 以下を境界として持つ,1156
+P1038,relative,親族,not relative,いいえ 親族,52123
+P197,adjacent station,隣の駅,not adjacent station,いいえ 隣の駅,209079
+P833,interchange station,乗換駅,not interchange station,いいえ 乗換駅,3685
+P2789,connects with,以下と接続,not connects with,いいえ 以下と接続,183333
+P3342,significant person,重要な人物,not significant person,いいえ 重要な人物,15439
+P1327,partner in business or sport,専門家またはスポーツのパートナー,not partner in business or sport,いいえ 専門家またはスポーツのパートナー,17571
+P399,companion of,伴天体,not companion of,いいえ 伴天体,4476
+P1420,taxon synonym,シノニム,not taxon synonym,いいえ シノニム,21387
+P129,physically interacts with,物理的相互作用,not physically interacts with,いいえ 物理的相互作用,9480
+P1322,dual to,双対,not dual to,いいえ 双対,351
+P2375,has superpartner,超対称性パートナー,not has superpartner,いいえ 超対称性パートナー,20
+P8702,parallel street,並行道,not parallel street,いいえ 並行道,54
+P1639,pendant of,以下と対,not pendant of,いいえ 以下と対,2268
+P3032,adjacent building,隣接する建築物,not adjacent building,いいえ 隣接する建築物,5242
+P6185,tautomer of,以下の互変異性体,not tautomer of,いいえ 以下の互変異性体,1063
+P3179,territory overlaps,重なる地域,not territory overlaps,いいえ 重なる地域,8370
+P144,based on,派生元,not based on,いいえ 派生元,52294
+P737,influenced by,影響を受けたもの,not influenced by,いいえ 影響を受けたもの,18552
+P2444,homoglyph,ホモグリフ,not homoglyph,いいえ ホモグリフ,1752
+P8865,mathematical inverse,数学的な逆,not mathematical inverse,いいえ 数学的な逆,84
+P2329,antagonist muscle,拮抗筋,not antagonist muscle,いいえ 拮抗筋,101
+P684,ortholog,オーソログ,not ortholog,いいえ オーソログ,4320878
+P2652,partnership with,連携先,not partnership with,いいえ 連携先,3328
+P3364,stereoisomer of,以下の立体異性体,not stereoisomer of,いいえ 以下の立体異性体,2013
+P53,family,家系,not family,いいえ 家系,89379
+P1416,affiliation,所属機関,not affiliation,いいえ 所属機関,86685
+P3113,does not have part,以下を含まない,not does not have part,いいえ 以下を含まない,499
+P2860,cites work,引用文献,not cites work,いいえ 引用文献,285213488
+P807,separated from,以下より分立,not separated from,いいえ 以下より分立,2321
+P1557,manifestation of,表現する概念,not manifestation of,いいえ 表現する概念,2120
+P2210,relative to,以下を基準として,not relative to,いいえ 以下を基準として,48
+P4675,appears in the form of,変身先,not appears in the form of,いいえ 変身先,373
+P6477,does not have quality,持たない特性,not does not have quality,いいえ 持たない特性,344
+P2650,interested in,興味の対象,not interested in,いいえ 興味の対象,14947
+P547,commemorates,記念対象,not commemorates,いいえ 記念対象,26003
+P5004,in opposition to,以下に反対,not in opposition to,いいえ 以下に反対,461
+P1268,represents,以下の代表,not represents,いいえ 以下の代表,5411
+P825,dedicated to,献呈先,not dedicated to,いいえ 献呈先,50406
+P31,instance of,分類,not instance of,いいえ 分類,103114325
+P1441,present in work,登場する作品,not present in work,いいえ 登場する作品,126749
+P828,has cause,原因,not has cause,いいえ 原因,9257
+P1542,has effect,以下の原因,not has effect,いいえ 以下の原因,5715
+P2737,union of,以下の和集合,not union of,いいえ 以下の和集合,375

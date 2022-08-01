@@ -1,0 +1,954 @@
+_id,alias,label
+P1034,"food source, food plant, eats, ration, diet, ecology (Fossilworks field  name)",main food source
+P5008,"Wikimedia project focus list, has Wikimedia project, focused on by Wikimedia project, catalog of Wikimedia project, focus list, part of Wikimedia project, included in Wikimedia project, created or edited for Wikimedia project, created or edited as part of Wikimedia project, item created or edited for Wikimedia project, item created or edited as part of Wikimedia project",on focus list of Wikimedia project
+P457,"establishing document, enabling law, created in document, constitutive text, created by, founding document, charter, constitution, treaty, organic law, established under",foundational text
+P1366,"heir, next job holder, successor, succeeded by, superseded by, continued by, mediatised to",replaced by
+P740,"originates from, comes from, place of foundation, founded in, formation location, source location of group/organisation, formed in, from, place of formation, place of incorporation, place of establishment",location of formation
+P1817,"addressed to, sent to, to:, To:, recipient",addressee
+P122,"type of government, form of government, government",basic form of government
+P58,"scriptwriter, screenplay by, teleplay by, writer (of screenplays), film script by, written by, writing credits, scenarist",screenwriter
+P1629,"item, represents, subject item, Wikidata property subject item, associated item, property's subject item, property subject item, subject of this property, subject of property, item of this property",Wikidata item of this property
+P8329,"PI, head investigator, chief investigator, research leader, research director, principal researcher, principal research fellow, lead researcher, theme lead, study lead, study chair",principal investigator
+P9072,"originated from individual of taxon, taxon of origin, derived from organism of taxon",derived from organism type
+P137,"service operator, facility operator, operated by, managed by, administrator, item operator, user, webmaster, manager, maintainer",operator
+P3085,league this event qualifies for,qualifies for event
+P1704,"pollinator of, pollinates",is pollinator of
+P8263,"curriculum includes, topic included, subject included, included topic, included subject, syllabus includes",curriculum topics
+P3173,"has view of, has views of, offers view of, views of, views to, view of, view to, sights",offers view on
+P4099,"metrically compatible with, metrically compatible font",metrically compatible typeface
+P1465,category for place of death,category for people who died here
+P1165,"homeworld, home planet",home world
+P741,tennis hand,playing hand
+P1038,"family, family member, kinsman, relation, uncle, aunt, niece, grandfather, grandmother, grandson, granddauther, grandchild, grandchildren, grandparent, father-in-law, mother-in-law, brother-in-law, sister-in-law, son-in-law, daughter-in-law, cousin, co-husband, ancestor, descendant, lineal descendant, collateral descendant, non-binary parent, nephew, co-sibling-in-law, co-sister-in-law, co-brother-in-law, nibling, aunt-in-law, uncle-in-law, co-wife",relative
+P123,"book publisher, video game publisher, software publisher, publishing house, published by, board game publisher, comic publisher, comic book publisher, music publisher, printed music publisher, sheet music publisher",publisher
+P6889,"CPU microarchitecture, GPU microarchitecture, processor microarchitecture",microarchitecture
+P3719,"regulator, regulatory authority",regulated by
+P8839,"haircut, hairdo, hair styling, hair cut, hair do, 'do, coiffure",hairstyle
+P3823,"language status, EGIDS",Ethnologue language status
+P2695,(co)-type locality,type locality (geology)
+P4329,"template that populates category, template that adds pages to this category, main Wikimedia template for this category, Wikimedia template or module that populates this category, Wikimedia template that populates this category, Wikimedia module that populates this category, category populated by template, category populated by template or module, category populated by this template, category is populated by template, category is populated by template or module, category is populated by this template, category applied by template",template or module that populates category
+P178,"developed by, written by, created by",developer
+P8546,recorded at,recording location
+P3080,"video game artist, game artwork by, video game artwork by",game artist
+P534,"streak, mineral streak",streak color
+P5869,"best example, for example, specimen, sample, featured item, example item",model item
+P141,conservation status,IUCN conservation status
+P26,"wife, married to, marry, marriage partner, married, wedded to, wed, wives, husbands, spouses, husband, marital partner",spouse
+P1951,"private investor, investors",investor
+P1035,"style suffix, post-nominal, honourific suffix, postnominal",honorific suffix
+P2554,"scenic designer, scenic design by",production designer
+P7888,"dissolved into, acquired by, bought by, purchased by, merged with, merger",merged into
+P2358,praenomen,Roman praenomen
+P7719,"implies, has conclusion, generalizes, generalisation of, generalises, is a special case of, so",generalization of
+P66,"native place, native village, ancestral village",ancestral home
+P8006,"dominant foot, stance, skating stance, board stance, skateboarding stance, snowboarding stance",footedness
+P2853,"plug type, socket type, electrical socket type, electrical connector type, mains plug type, mains socket type, mains connector",electrical plug type
+P7163,"sells, product, sold products",typically sells
+P3275,"story artist, visualizer",storyboard artist
+P7938,"located in the constituency, associated constituency, located in electoral district, electoral district associated with place, constituency associated with place",associated electoral district
+P4777,"boundary, has 2D boundary, border, delimited by, frontier, has border",has boundary
+P1322,dual of,dual to
+P106,"profession, job, work, career, employment, craft, employ",occupation
+P36,"capital city, capital town, chef-lieu, principal place, county seat, administrative centre, administrative headquarters, has capital, court residence, seat, administrative seat, seat of government, administrative capital, government capital, county town, government seat, administrative center, location of capital",capital
+P85,"national anthem, march, official song, official hymn, team anthem, club anthem",anthem
+P769,"drug interaction, pharmacological interaction",significant drug interaction
+P1811,"episode list, episodes list",list of episodes
+P10067,melody,train melody
+P631,"engineer, building engineer",structural engineer
+P5588,"alien to, introduced to",invasive to
+P1158,"landing site, landing location",location of landing
+P4608,"stage designer, set designer, scenic designer",scenographer
+P103,"first language, mother tongue, language native, L1 speaker of",native language
+P5995,sports wear supplier,kit supplier
+P37,"language official, spoken in, speaking, language spoken",official language
+P6563,"KPI, measured by, indicator",key performance indicator
+P1435,"designation, listing, listed status, protected status, protection, legal protection, heritage designation, heritage status",heritage designation
+P689,"affects, afflicts, condition endemic in",afflicts
+P2502,classification of cycling race,classification of race
+P3402,"CNC film rating, CNC movie rating, CNC rating",CNC film rating (Romania)
+P1855,"example of property, example of Wikidata property, property example, Wikidata property sample, Example item for this property, property sample, example, for example, e.g., eg",Wikidata property example
+P2614,WHS criteria,World Heritage criteria
+P38,"base currency, used money",currency
+P183,"endemic in, native to, native in",endemic to
+P167,"replaced by (structure), succeeded by (structure)",structure replaced by
+P163,flag description,flag
+P4805,"visagist, makeup artist",make-up artist
+P556,crystal structure,crystal system
+P1382,"partially overlaps, partial concurrency, concurrent with, concurrency, overlapping with, partially include, partially in, coincident with, part of (partially), overlaps, overlaps with",partially coincident with
+P4988,"method, methodology, estimation method",test method
+P6948,"GPU, PPU",video system
+P2992,"Software QA, QA",software quality assurance
+P2152,"antiparticle of, anti-particle",antiparticle
+P2438,narrated by,narrator
+P282,"alphabet, script",writing system
+P291,"release region, publication region, published in (place), publication place, publication location, location of publication, released in, publication city, printed in, printed at",place of publication
+P6275,performance rights organization,copyright representative
+P20,"deathplace, died in, death place, POD, location of death, death location, killed in",place of death
+P463,"membership, band member of, be member of, member of musical group, in musical group",member of
+P3680,"according to, supported by, per, claimed by, stated by, statement is supported by",statement supported by
+P5202,"arranger, remixed by, arranged by",adapted by
+P2184,"timeline of topic, chronology of topic",history of topic
+P3027,"start opening season, start of opening season",open period from
+P411,"sainthood status, canonisation status",canonization status
+P450,cosmonaut mission,astronaut mission
+P2813,"mouth piece, publication, publishes, manifest, has mouthpiece, official media, house organ, propaganda arm, official publication, official newspaper, mouthpiece, house journal, organisation publication, organization publication",house publication
+P1455,"bibliography, catalog of works, catalogue of works",list of works
+P1414,"default user interface, user interface, GUI toolkit, GUI framework, widget framework, widget toolkit, UI toolkit, UI framework",GUI toolkit or framework
+P3712,"objective, goal, desired result, desired outcome, aim, end, purpose, intention, to support, stated goal, mission, aim to",objective of project or action
+P1420,"this taxon has as synonym, synonym of this name, taxonomic synonym",taxon synonym
+P2545,Bowling,bowling style
+P2361,"internet service provider, ISP",online service
+P6606,"study for, design for, preparatory work for, draft for, first version of",study or design for
+P5522,block in Unicode,Unicode block
+P9888,New Zealand Threat Classification System conservation status,NZTCS conservation status
+P2882,"competitor relegated, team relegated, player relegated, relegation",relegated
+P2634,"posed, model, modeled after",sitter
+P1625,"to the tune of, TTTO, uses melody, has tune, uses tune",has melody
+P5096,"served aboard, crewmember of, ship appointments",member of the crew of
+P1990,"animals housed, animals species kept, resident animals, plant taxon in collection, resident animal species, species holdings, animals at zoo, animals in aquarium, trees in arboretum, plant in herborium, plant taxon in botanical garden, rose varity in rose garden, animals kept, captive animals",species kept
+P6657,Canadian Home Video Rating System Classification,CHVRS Classification
+P5940,"narrative continued in, sequel, story continued in, prequel",plot expanded in
+P6954,"publication access status, open access status, article access status, collection access status, archive access status, access status",online access status
+P5278,"gender inflection of family name, family name for other gender",gender inflection of surname
+P136,"music genre, film genre, artistic genre, literary genre, kind of music, type of film, genre of music, type of music",genre
+P452,"field of action, field of exercise, sector, branch, economic branch",industry
+P4770,"is a hydrate of, is a hydrated form of, hydrate of",hydrated form of
+P119,"burial place, resting place, place of grave, buried in, grave at, location of burial, tomb, interment, place of interment, buried at, burial location, interment place, interment location, entombed at, interred at, ashes scattered at, remains at, cemetery",place of burial
+P186,"medium, made from, constructed from, constructed out of, construction material, media, built from, built out of, manufactured from, manufactured out of, crafted from, crafted out of, formed from, formed out of, made of, ore, source material, raw material, feedstock, reactant, ingredient, ingredients, made in, be made in, material used",made from material
+P1462,"standards organisation, standards setting organization, standards setting organisation, standards developing organization, standards developing organisation, standards group, standardized by, standardised by",standards body
+P4510,"describes project that uses, uses",describes a project that uses
+P449,"original channel, channel, TV channel, radio network, network, television channel, radio station, original air channel, broadcast on, first air channel, original network, aired on, airs on",original broadcaster
+P6001,"subgroup, valid to people",applies to people
+P8989,view of category,category for the view of the item
+P2872,"visitor center, contact station, tourist office",visitor centre
+P8875,indexed in bibliographic database,indexed in bibliographic review
+P7937,"literary form, artistic form, album type, album format, creative format, creative form, format of creative work, physical format, painted format (landscape, portrait, tondo), song type",form of creative work
+P6872,"written for, writes for, wrote for, is writing for, writer for",has written for
+P1884,"hair colour, color of hair, colour of hair, haircolour",hair color
+P3018,"protected area location, located in national park, located in state park, located in provincial park, located in territorial park, located in conservation area, located in nature reserve, located in natural reserve, located in nature preserve, located in nature conservation area, located in wildlife refuge, located in wildlife sanctuary, located in biosphere reserve, located in bioreserve, located in ecological protection area, national park location, provincial park location, state park location",located in protected area
+P483,"studio, recording studio, recording venue",recorded at studio or venue
+P1686,"for their work on, nominated for work, awarded for work, citation for award",for work
+P4241,"quarter, semester, season of year, refine time, specific time, time of year, hour, local time, date refinement",refine date
+P3975,"general secretary, perpetual secretary, leader",secretary general
+P1050,"disability, ailment, health problem, disorder, illness, disease, paralympic disability, health condition, suffers from, health issue, condition, suffer from, sickness",medical condition
+P2286,artery,arterial supply
+P140,"religious affiliation, faith, life stance, denomination, follower of religion, follows religion, has religion",religion or world view
+P155,"succeeds to, previous is, before was, predecessor, preceded by, prequel is, sequel of, split from, comes after, successor to, succeeds, prev, previous element, is after",follows
+P814,"IUCN Management Category, IUCN category",IUCN protected areas category
+P59,part of constellation,constellation
+P1201,"payload deliverer, upper stage",space tug
+P8138,statistical territorial entity,located in the statistical territorial entity
+P1434,"describes fictional universe, fictional universe described, universe described, universe featured, set in fictional universe, describes the fictional universe, continuity",takes place in fictional universe
+P1923,teams,participating team
+P7867,"Commons maps category, maps category, map category",category for maps
+P8933,view from category,category for the view from the item
+P930,electrification type,type of electrification
+P9344,"has graphic element, graphical element, graphic element, graphical element added, added graphical element, added graphic element",has graphical element
+P1546,tourism slogan,motto
+P1792,category for people associated with this place,category of associated people
+P828,"cause, has causes, has underlying cause, underlying cause, ultimate cause, ultimate causes, initial cause, effect of, outcome of, result of, has reason, reason, caused by, implied by, because, due to, originated due to, had cause, had reason, had underlying cause, why",has cause
+P149,"style of architecture, architecture",architectural style
+P3803,"film format, film gauge, film size",original film format
+P509,"method of murder, death cause, die from, murder method, die of, died of",cause of death
+P967,guest of honour,guest of honor
+P2925,"saint or deity domain, domain of deity or saint, is patron saint of, patron saint of, god of, goddess of, patron of, guardian of, angel of, sacred domain, divine patron",domain of saint or deity
+P1639,pendant to,pendant of
+P3026,"days not open, except, closed days",closed on
+P3081,structures damaged,damaged
+P1431,showrunner,executive producer
+P111,"measure of, quantity, physical quantity",measured physical quantity
+P4900,"broader concept in this hierarchy, parent concept, is a child concept of, nearest external upward match, broader term, nearest matched item above this one in external hierarchy, wider concept, wider term",broader concept
+P1013,"basis, with respect to, by, on the basis of, according to, with reference to, respectively to, criteria used, based on",criterion used
+P7469,"direction, alignment, faces, facing, face",orientation
+P7561,"Interior category, Commons category for the interior of the item",category for the interior of the item
+P8402,od portal,open data portal
+P5998,distributary channel,distributary
+P538,"fracture, mineral fracture, crystal fracture",fracturing
+P8570,"front matter, back matter, back and front matter, preface, foreword, table of contents, glossary of this book, index of this book, addendum, appendix, title page, bibliography of this book, epilogue, abbreviations table, postface, acknowledgment, postscript, introduction in this book, afterword, colophon, prologue",front and back matter
+P4968,qualification,relevant qualification
+P179,"part of series, series, listed in, collection, issue of",part of the series
+P4443,card association,card network
+P35,"president, king, queen, emperor, monarch, state headed by, governor, leader, chief of state",head of state
+P2715,election,elected in
+P263,"lives in, lives at, resides at, home, domicile, presidential palace, presidential mansion, executive residence, executive mansion, gubernatorial mansion, state house, palace",official residence
+P6530,"used to investigate, used to study, used to research, used for researching, used for studying, used for investigating, has role in modelling",has role in modeling
+P516,"engine, prime mover, drive, powerplant, propulsion, power source",powered by
+P1142,"has political ideology, official political ideology, supports political ideology, ideology, political view, supports ideology, official ideology, political viewpoint, editorial viewpoint",political ideology
+P8345,media mix,media franchise
+P2700,communication protocol,protocol
+P2827,"color of the flower, colour of the flower, flower colour",flower color
+P2962,chess title,title of chess person
+P9241,demography of topic,demographics of topic
+P2650,"area of research, field of study, field of research, interests, vested interest, lobbies for, research interests, research area, field of interest, research topic",interested in
+P4688,physiographic unit,geomorphological unit
+P2159,"algorithm for, problem solved, is an algorithm for, calculates solution to, solves",computes solution to
+P6533,"front suspension, suspension (front)",type of front suspension
+P2568,revoked by,repealed by
+P3216,BARS,ClassInd rating
+P4100,"party, faction",parliamentary group
+P495,"place of origin, comes from, CoO, originates from, origin country",country of origin
+P2670,"has part(s) that are instances of, has parts(P527): instances(P31)of, parts of(P361) subject are some, is built/made with example(s) of, is constructed with members of, composition has pieces that are, of subcomponents whose class is, has part(s) forming subclass of, constitutent(s) are classified as, is assemblage with parts that are, some parts form subclass(P279)of, has part of the class, has parts of class, contains parts of the class",has part or parts of the class
+P1056,"material produced, produces, manufactures, makes, has product, product, maker of, manufacturer of, producer of, results in, creates, output, products, work produced, commodity, they make",product or material produced
+P5053,performer of the fastest lap,fastest lap
+P301,"main article in category, main category topic, main topic of category, category's main article, article with category's topic, page with category's topic, cmt, item for this category, topic of category",category's main topic
+P2758,"Commission de classification des œuvres cinématographiques film rating, film classification category (CNC), CNC film rating, CNC movie rating, CNC rating",CNC film rating (France)
+P8115,"eligible recipient for award, type of recipient who is eligible for this award",eligible recipient
+P2348,"era, historic era, epoch, historical period, sports season, theatre season, legislative period, historic period",time period
+P530,"diplomatic relations, ambassadorial relations, foreign relations, foreign relation, diplomatic relation, ambassadorial relation, political relations, political relation",diplomatic relation
+P3428,CAEC film rating,INCAA film rating
+P3602,"candidate in election, election candidacy, ran in election, running in election, candidate in",candidacy in election
+P3610,zone,fare zone
+P3033,software package,package management system
+P6803,"taxa found at location, taxa present in location, taxon present in location",taxon found at location
+P6819,"scribe, copist",calligrapher
+P1412,"language spoken, languages of expression, languages signed, language signed, language written, language read, language used, language, speaks language, writes language, signs language, uses language, wrote language, spoke language, used language, signed language, languages spoken, written, or signed, language(s) spoken, written or signed, languages spoken, language of expression","languages spoken, written or signed"
+P277,"language, written in",programming language
+P1308,"incumbent, position holder, noble title holder, office holder",officeholder
+P750,distributor,distributed by
+P4147,"deprotonated form of, has conjugate acid",conjugate acid
+P453,"role, as, plays, acting role",character role
+P840,"setting location, narrative set in, location of narrative, set in location, takes place in, playing in, setting of work, work set in, setting, setting place, set in, place set in, place of setting",narrative location
+P195,"art collection, museum collection, archives, archival holdings, GLAM, bibliographic collection, editorial collection",collection
+P5832,"political bloc, political alliance, electoral block, electoral alliance, electoral list, alliance, coalition",political coalition
+P3437,"cargo carried, passengers transported, cargo transported, payload",people or cargo transported
+P287,"has designer, designer",designed by
+P364,"original language, language of the original work, created on language, language",original language of film or TV show
+P3320,member of the board of directors,board member
+P7253,colour produced,color produced
+P4543,"has ingredient, listed ingredient, ingredient components",has listed ingredient
+P8874,OFNAA film rating,Hong Kong film rating
+P88,"client, commissioner, made for, built for, developer, orderer",commissioned by
+P1885,"is cathedral of, is cathedral of diocese",cathedral
+P9810,"mix of, remixes, mashup of, mashes up, chops and screws",remix of
+P427,"type species, type genus, type, type taxon",taxonomic type
+P1423,"infobox topic, topic of template, module has topic, template's main topic",template has topic
+P1011,"except, with the exception of, does not apply to part, not including",excluding
+P1376,"county seat of, county seat for, administrative seat of, seat of, parish seat of, is capital of",capital of
+P4586,"font house, foundry",type foundry
+P5967,disambiguating reference vocabulary,reference vocabulary
+P1995,"medical speciality, medical specialty, medical field",health specialty
+P4185,has attribute,iconographic symbol
+P415,"format, genre, radio station format",radio format
+P3833,"part of diaspora, diaspora of",diaspora
+P2567,"has addendum, modified by, changed by, corrected by, updated by, revised by, altered by",amended by
+P654,DRTL,direction relative to location
+P1310,"disputed by, rejected by, opposed by, refused by, denied by, controversy stated by",statement disputed by
+P1444,"destination, to, end of journey, finish, journey destination, ending at, stopping at, end point (journey)",destination point
+P7174,"school cohort, cohort, class",school class
+P4330,"holds, surrounds, encloses, wraps, contents, has contents, stores",contains
+P1032,"DRM system, copy protection system, copy protection mechanism, DRM mechanism",Digital Rights Management system
+P803,"chair, endowed chair, named professorship, endowed professorship, named chair, professorship position",professorship
+P664,"organiser, event producer, organising body, organizing body, organized by, organised by, promoter, presenter",organizer
+P177,"bridge over, tunnel under, over, under, through, spanning, spans",crosses
+P118,"division, sports league",league
+P800,"major works, famous works, significant works, notable books, famous books, representative work, literary works, bibliography, work, works, known for, famous for, significance, artwork, creator of, representative of artwork type, they wrote, they designed, they discovered, they invented, they created",notable work
+P2546,helper of,sidekick of
+P1264,"applies to period, time period, period of validity, period of time, period of applicability",valid in period
+P27,"subject of (country), citizenship, citizen of, national of, (legal) nationality",country of citizenship
+P1660,"index case, patient zero, primary case",has index case
+P2679,"foreword by, author of introduction, introduction by, preface by, author of preface",author of foreword
+P913,symbol,notation
+P2283,"makes use of, item used, using, instrument played, wields, used, made use of, wielded",uses
+P2652,collaboration with,partnership with
+P413,"fielding position, specialism, position (on team), speciality, player position",position played on team / speciality
+P1534,"cause of ending, ended by, end reason, reason for end",end cause
+P2079,"fabrication process, manufacturing process, production process, manufacturing method, production method, made by, assembly method, technique used, by method, method used, process used, technology used, by means, creation method, method of fabrication, method of assembly, assembly process, produced by, produced using, method of preparation, preparation method, method of cooking, cooking method, obtained by",fabrication method
+P166,"prize received, awards, honorary title, recognition title, award, honours, honors, medals, awarded, award won, prize awarded, awards received, win, winner of",award received
+P1605,natural reservoir,has natural reservoir
+P559,"termini, end point, terminating connection, trailhead, terminuses, train station at the end of the line",terminus
+P8852,"mustache, beard, face hair, moustache",facial hair
+P1537,indirectly caused,contributing factor of
+P6104,"WikiProject, Wikidata project, Wikimedia project",maintained by WikiProject
+P1072,"reads file format, file format readable, can read",readable file format
+P5425,"Chinese character in this lexeme, hanzi in this lexeme, kanji in this lexeme, hanja in this lexeme",Han character in this lexeme
+P9234,"supplements, extends, is supplement to",supplement to
+P3448,"stepfather, step father, step-father, stepmother, step-mother, step mother, step parent, step-parent",stepparent
+P4195,category for employees of the organisation,category for employees of the organization
+P2881,"competitor promoted, team promoted, player promoted, promotion",promoted
+P469,reservoir on this river,lakes on river
+P8739,does not permit,prohibits
+P2318,"debut country, first-time participant, first appearance for",debut participant
+P2637,RSVR rating,RARS rating
+P4290,"official application, official mobile application",official app
+P2675,"replies to, response to, responds to, in reply to, in response to, comment on",reply to
+P6186,container of eponymous categories,category for eponymous categories
+P275,"licence, content license, content licence, copyright licence, license, software license",copyright license
+P8746,checkout time,check-out time
+P87,"libretto by, book by",librettist
+P1363,"points scored by, goal scored by, scored by, scorer",points/goal scored by
+P768,"constituency, ward, riding, electoral area, electorate, seat",electoral district
+P2860,"bibliographic citation, citation",cites work
+P1227,"wavelength band, colour filter, filter",astronomical filter
+P1060,"transmitted by, transmission process",pathogen transmission process
+P1068,"ISA, architecture",instruction set
+P358,"discography link, recording catalog",discography
+P84,architecture firm,architect
+P2667,"template corresponding property, property template",corresponding template
+P8810,"parent, parents",parent (unspecified)
+P4733,"sound emitted, call, makes call, makes sound",produced sound
+P150,"contains, divides into, divided into, has towns, has shires, has cities, has rural cities, has municipalities, has wards, has local government areas, has districts, has boroughs, subdivided into, has counties, has administrative divisions, has arrondissements, has villages, has regions, has states, has members, has countries",contains administrative territorial entity
+P4628,virus group,ICTV virus genome composition
+P1057,on chromosome,chromosome
+P2680,afterword by,author of afterword
+P4428,"implements, is an implementation of, is implementation of",implementation of
+P1080,"from universe, universe, featured in universe, appears in universe, fictional universe where entity is from, from mythology, mythology, continuity, in continuity, cycle, in cycle, in world of, story cycle, from narrative, from fictional universe, narrative universe",from narrative universe
+P1875,"agent, representative, manager, managing agent, rep, talent agency, managed by",represented by
+P8030,"unit size, military unit size designation",size designation
+P461,"inverse, opposite, is the opposite of, inverse of, contrasted to, contrast of, is opposite of",opposite of
+P4788,"uses data storage type, data storage type, storage type, memory card",storage device
+P135,"school, trend, music scene, artistic movement, philosophical movement, scientific movement, literary movement, artistic school, art movement",movement
+P598,commands,commander of (DEPRECATED)
+P9793,"set list, performances, performance list, works performed, songs performed, music performed, concert program",setlist
+P618,"fuel type, energy source, nutrient, power source, source of power",source of energy
+P923,"possible examinations, examinations",medical examinations
+P2632,"prison, jail, gaol, imprisoned in, in jail, penitentiary, detention place, detained at, incarcerated at, forced exile to, place of internment, internment at, internment place, place of imprisonment, imprisoned at, jailed at, gaoled in, gaoled at, penal, place of incarceration, place of confinemant, inmate of",place of detention
+P2935,"ports, has connector, electrical connector",connector
+P131,"located in the administrative unit, located in administrative unit, is in administrative unit, is located in, is in the state of, is in the province of, is in the county of, is in the district of, is in the department of, is in the region of, is in the borough of, is in the city of, is in the town of, is in the village of, is in the municipality of, is in the territory of, is in the prefecture of, is in the voivodeship of, is in the Indian reservation of, is in the Indian reserve of, is in the ward of, is in the administrative region of, is in the settlement of, is in the local government area of, is in the rural city of, is in the shire of, happens in, is in the commune of, in administrative unit, in, is in the administrative unit, administrative territorial entity, city, town, state, Indian reservation, in the administrative unit, locality, is in the parish of, location (administrative territorial entity), is in the principal area of, based in, located in the administrative territorial entity, located in the territorial entity, region, is in the arrondissement of, administrative territory, territory",located in the administrative territorial entity
+P1012,"with, inclusive",including
+P171,"taxon parent, higher taxon",parent taxon
+P9926,template applies category,template populates category
+P825,"dedication, tribute to, dedicatee",dedicated to
+P1547,"dependency, software dependency, interfaces with, requires, runs on, software framework, has dependency, depends on, has software dependency, requires software",depends on software
+P159,"head office location, HQ, garrison, admin HQ, seat, principle office, headquarters, head quarters, HQ location, based in, location of headquarters",headquarters location
+P8032,"crime victim, murder victim, shooting victim, casualty, torture victim, kidnapping victim, sexual abuse victim, war crime victim, victims, assassination victim, terrorist victim",victim
+P272,"film studio, studio, motion picture studio, movie studio, production house, theatre company, theater company, theatrical troupe, ballet company, broadcasting company, produced by (company), producer (company)",production company
+P1419,form factor,shape
+P5824,retracted by,is retracted by
+P2416,"sport disciplines competed in, sport discipline competed in, sport discipline, sports discipline, sporting event, event in sports, sports event, sports disciplines competed in, discipline of sport, sport event",sports discipline competed in
+P3828,"clothing, garment, accessory, wore, outfit, wearing, uniform, fashion accessories",wears
+P5389,"PR, landed immigrant of",permanent resident of
+P4006,overruled,overrules
+P708,"bishopric, archdiocese, archbishopric",diocese
+P1145,"libration point, Lagrange point, L-point",Lagrangian point
+P404,"mode, gameplay",game mode
+P488,"leader, headed by, chairwoman, president, chair, chairman, dean",chairperson
+P69,"alma mater, education, alumni of, alumna of, college attended, university attended, school attended, studied at, graduate of, graduated from, faculty, place of education, alumnus of, attended, went to school at, schooled at, attended school at, schooling place, education place",educated at
+P189,"findspot, location of discovered object, discovery place, place of discovery, discovered at:, find location, find spot, found in, site of discovery",location of discovery
+P3094,"developed from, antecedent anatomical structure, evolves from, evolved from",develops from
+P2825,"journey via, intermediate point, waystation, routing point, route via, calling at, called at, stopover, journey stopover, calling point",via
+P4934,computed from,calculated from
+P2462,"of the deme, deme",member of the deme
+P2937,legislative term,parliamentary term
+P2828,executive officer,corporate officer
+P1416,"affiliated with, sister society, affiliated to",affiliation
+P2094,"class for competition, qualification class, qualifies for, compclass, weight class, disability sport classifications, rated at",competition class
+P180,"depiction of, painting of, motif, portrait of, landscape of, represents, portrays, subject, depicting, pictures, shows, show of, plot, resembles, displays",depicts
+P9047,type of archaeological site,archaeological site of
+P451,"girlfriend, boyfriend, lover, cohabitant, partner, domestic partner, significant other, enbyfriend, sex partner, romantic partner, life partner, partners, is partner of, is the partner of, SO, partner of, posslq",unmarried partner
+P1657,Motion Picture Association of America film rating,MPAA film rating
+P400,"platforms, computing platform, game platform, environment, runtime, published on, hardware",platform
+P197,"next station, previous station, next stop, neighbouring station",adjacent station
+P681,"subcellular localization, present in the cell component",cell component
+P425,"profession's field, activity corresponding to this occupation, field of this profession, practices, practice, field of occupation, field of profession, works in",field of this occupation
+P2061,"image aspect ratio, ratio, aspect ratio",aspect ratio (W:H)
+P6364,"official colors, signature color, signature colors",official color
+P8786,"has museum, associated heritage entity",dedicated heritage entity
+P1789,COO,chief operating officer
+P802,"students, teacher of, pupil, pupils, disciple, disciples, teacher to",student
+P1049,deity of,worshipped by
+P831,"parent team, major league affiliate, affiliate of",parent club
+P2289,"vein, venous return",venous drainage
+P2175,"disease treated, treats, treats medical condition, treats disease, capable of inhibiting or preventing pathological process",medical condition treated
+P3512,"locomotion, locomotion method",means of locomotion
+P5475,"variant Chinese character, variant character, simplified character, traditional character, Z-variant",CJKV variant character
+P9161,dissertation committee member,thesis committee member
+P4843,development,development of anatomical structure
+P1336,"claimed by, sovereignty claimed by, territorial claim by",territory claimed by
+P1066,"teacher, professor, pupil of, supervisor, academic supervisor, disciple of, studied under, master, mentor, advisor, tutor, apprentice of, degree advisor, degree supervisor, thesis advisor, master's thesis advisor, master's supervisor, master's advisor",student of
+P418,"seal, seal description","has seal, badge, or sigil"
+P121,"fleet, aircraft in fleet, aircraft operated, equipment operated, facility operated, service operated, operator of, operated, operates, eq, acop, aircraft carried, item used, uses item, runs, controls",item operated
+P156,"continued as, prequel of, succeded by, next is, precedes, sequel is, successor, preceeds, comes before, next, next element, then",followed by
+P61,"inventor, discoverer, inventor or discoverer, developer, coined, first described, invented by, created by, invented, discovered by, developed by, introduced by, devised by",discoverer or inventor
+P8701,has human population census,has census
+P9929,"madhab, mazhab, school of thought",madhhab
+P1731,vocal specialization,Fach
+P1343,"described in source, written about in, entry, subject of, described by encyclopedia, described by reference work, described by biography, reviewed in, source of item, described by obituary, mentioned in news article",described by source
+P1903,VEI,volcanic explosivity index
+P2353,unit,statistical unit
+P1571,"range, function codomain, codomain of a function",codomain
+P972,"catalogue, registry, exhibition catalogue",catalog
+P2375,"superpartner, has sparticle, sparticle, has supersymmetric particle, supersymmetric particle",has superpartner
+P47,"bordered by, adjacent to, next to, border, borders clockwise",shares border with
+P39,"political office held, political seat, public office, office held, position occupied, holds position, function, held position",position held
+P3461,"designated as terrorist group by, designated as terrorist organization by",designated as terrorist by
+P688,codes for,encodes
+P6116,changes,chord progression
+P5051,"destination, terminus, termini, in the direction of, terminating station, last stop, final station",towards
+P276,"moveable object location, located in, event location, venue, is in, location of item, place held, based in, neighborhood, region, in, located, locality, locale, from",location
+P200,"inflow, inflows, lake inflow, river inflows",inflows
+P1924,target disease,vaccine for
+P852,"Entertainment Software Rating Board rating, ESRB",ESRB rating
+P703,"found in species, present in taxon",found in taxon
+P5816,conservation status,state of conservation
+P2210,"from, compared to, in relation to, with respect to, compared object, compared with",relative to
+P4614,"river basin, water basin, catchment area, river basin district, watershed",drainage basin
+P2308,type,class
+P9073,"applicable stated in value, applicable ""stated in"" value, applicable P248 value, corresponding P248 value",applicable 'stated in' value
+P3501,"Catholic liturgical rite, Christian rite, Catholic rite",Christian liturgical rite
+P2673,upstream crossing adjacent,next crossing upstream
+P1706,"shared with, award shared with, tied with, featuring, feat., accompanied by, with, roommate, room mate",together with
+P1318,"proven by, proof by, author of proof",proved by
+P1327,"collaborator, professional partner, sports partner, sport partner, partner in sports, team mate, team-mate, work partner, business partner, partnership with, partnered with, partner in business, writing partner, colleague",partner in business or sport
+P2551,"metre used, used meter, meter used, scansion",used metre
+P2578,"learning what?, working on what?, is a study of, academic field for, scholarly field for, study of, research, researches",studies
+P5125,outline,Wikimedia outline
+P138,"eponym, named for, namesake, etymology, toponym, name after, named in honor of, linked with",named after
+P812,"major, academic field, academic subject, subject, field of study, studied",academic major
+P201,"outflows, outflow",lake outflow
+P1887,"Watsonian vice-county, Praeger vice-county, vice county",vice-county
+P8058,"logo of, flag of, seal of, emblem of",symbol of
+P8764,port of call,port calls
+P4584,"debut, initial appearance, first episode, first film, introduced in work, appeared first in, present initially in",first appearance
+P4446,frequent flyer program,reward program
+P551,"lives in, hometown, home town, place of residence, resident of, resided in, resided at, lived in, resident in, has resided in",residence
+P641,"sports, sport played, play, plays",sport
+P1532,"sporting nationality, sports nationality, sport nationality, sport country, sports country, representative nationality",country for sport
+P65,discovery site,site of astronomical discovery
+P522,"orbit, orbit type",type of orbit
+P9302,"handwriting style, type style, style of script",script style
+P5523,PyanxChet,fanqie
+P344,"cinematographer, DOP",director of photography
+P805,"article, artfor, subject of the claim, subject of the statement, dedicated article, dedicated item, is subject of, subject of, related item of statement, decided by, decided in, decided with",statement is subject of
+P2560,graphics processing unit,GPU
+P2319,"type of electors, qualified voters, eligible voters",elector
+P1889,"different than, different to, is not, distinct from, not the same as, isn't, distinguished from, to be distinguished from, disambiguated from, not same as, confused with, is different from, mistakenly taken for, differs from, differ from, often confused with, rejected match, not to be confused with, ≠, not equal to, is not the same as, do not confuse with, not identical to, different thing from, different entity from, is not same as, different entity than, different thing than",different from
+P407,"broadcasting language, audio language, available in, language of work, language of the reference, language of website, language of URL, used language, language of the name, language of name, language of spoken text, named in language, language",language of work or name
+P2396,"image, range, function range, function image",image of function
+P1454,"type of business entity, legal structure, structured as",legal form
+P467,"enacted by, passed by",legislated by
+P8745,checkin time,check-in time
+P375,"carrier rocket, launch vehicle, rocket used",space launch vehicle
+P2363,NMHH movie rating,NMHH film rating
+P3349,"cargo, carries, intended to carry, intended cargo, intended payload, design payload",designed to carry
+P2500,"relegation to, level below (league)",league level below
+P2851,"payment methods accepted, credit cards accepted",payment types accepted
+P7137,"acknowledges, has acknowledgment of",acknowledged
+P3075,"state religion, established religion",official religion
+P264,label,record label
+P1312,facet of a polytope,has facet polytope
+P726,"electoral candidate, candidate in this election, election has candidate, has election candidate",candidate
+P5102,"frequency, nature, condition, status of statement, modality of statement, validity of statement, refine statement",nature of statement
+P527,"formed from, formed out of, assembled from, assembled out of, created from, created out of, amalgamation of, set of, consists of, holonym of, parts, comprised of, includes part, has as part, has component, have part, composed of, has ingredient, has ingredients, ingredients, contain, contains, includes, has member, has branch, divided by, incorporates, had part, has parts, has part(s)",has part
+P2098,"office of replacement, office of deputy, office of substitute, deputy office, replacement office, substitute office, vice office, vice position",substitute/deputy/replacement of office/officeholder
+P736,cover artist,cover art by
+P6112,"category for players, category for team members",category for members of a team
+P1398,"replacement building, replaces (structure), replaced by (structure)",structure replaces
+P9071,"stock character, -dere, dere",character type
+P770,"reason of failure, destroyed by",cause of destruction
+P1393,"viceroy, regent",proxy
+P1170,"transmits, signal transmitted",transmitted signal type
+P2821,"byproduct, has by-product, has byproduct, produces by-product, yields by-product, secondary product",by-product
+P531,"embassy, resident mission",diplomatic mission sent
+P4743,breed,animal breed
+P1313,"office of head of government, position of head of government, position held by head of government, title of head of government, head of government's office",office held by head of government
+P3037,"SRS, coordinate reference system, CRS",spatial reference system
+P1026,"doctoral dissertation, dissertation, thesis, PhD thesis, Ph.D. thesis, Ph. D. thesis, masters thesis, master's thesis, bachelor thesis, bachelor's thesis, undergraduate thesis, B.A. thesis, B.S. thesis, A.B. thesis",academic thesis
+P5460,"confers, awards, bestows",grants
+P25,"mum, mom, mam, has mother, parent, is son of, is daughter of, is child of, son of, daughter of, child of, mummy",mother
+P157,"killer, assassin, murderer, murdered by, executioner, assassinated by, slain by, mortally wounded by, executed by, slaughtered by, shot dead by",killed by
+P1878,"font type, typeface variety",Vox-ATypI classification
+P4745,"documents event, is conference proceedings from",is proceedings from
+P2629,BBFC certificate,BBFC rating
+P3161,"mood, grammatical mood, has grammatical mode, mode, grammatical mode",has grammatical mood
+P78,"TLD, top level domain, domain, internet domain, gTLD",top-level Internet domain
+P8791,"digitized by, scanned by",digitised by
+P2095,"codriver, copilot, co-pilot, navigator",co-driver
+P466,"tenant, inhabitant, renter, lessee, houses, location of, resident, home team, occupier, occupiers, occupants",occupant
+P747,"editions, translation(s), edition, has translation, has edition, version, has version, released as",has edition or translation
+P720,spectral type of an asteroid,asteroid spectral type
+P658,"track list, track listing, list of tracks, songs, tracks",tracklist
+P991,"elected person, winner of election, election winner, elected candidate, elected, election won by",successful candidate
+P2238,"official emblem, emblem, floral emblem, symbol, state tartan, official tartan",official symbol
+P2674,downstream crossing adjacent,next crossing downstream
+P8324,"funded by, donor, has funder, has donor, sponsor, sponsored by, benefactor, financier",funder
+P2701,"format, file type, compression format, document format",file format
+P115,"ground, home field, arena, home ground, stadium, ballpark, home water, venue",home venue
+P5024,choir director,choral conductor
+P7108,"location of point of view, view point, point of view, viewpoint location",location of the point of view
+P1340,"eyecolor, eyecolour, eye colour, eyes",eye color
+P8047,"flag state, flag of convenience, ship's flag",country of registry
+P6216,copyright restriction,copyright status
+P3342,"notable person, friend, friends, person associated with the subject, associated person, key person, key people, significant people, associated people, sign. person, notable people, relevant person, relevant people, important person, important people, employee",significant person
+P928,Ligands,activating neurotransmitter
+P5753,"IDSes, IDS",ideographic description sequences
+P1876,"orbiter, spaceship, spacecraft, ship, boat, craft, vessel, uses vehicle, used vehicle, vehicle used",vehicle
+P7153,"place associated with the subject, sign. place, key place, significant location",significant place
+P2378,"assigned by, emitted by, issuing body, issuing agent, assigning body, assigning agent, identifier issuing body, identifier issued by, identifier assigned by",issued by
+P5591,"normalised Unicode character, NFC character",normalized Unicode character
+P1040,"editor, edited by",film editor
+P113,"hub, hub airport",airline hub
+P190,"twin town, sister town, twin cities, twin city, partner city, partner town, sister city",twinned administrative body
+P1071,"assembly location, place built, place made, location of origin, place of origin, made in, minted at, mint, manufactured in, manufacturing location, location created, creation location, place of production, production place, place of manufacture, location of creation, location of final assembly, created at, written at, place of creation, production location, location of production",location of creation
+P3300,"musical director, conductor, choir director, music director, principal conductor",musical conductor
+P2848,"wifi, Wi-Fi, WLAN",Wi-Fi access
+P608,"salon, exhibited at, shown at, displayed at, shown",exhibition history
+P2822,byproduct of,by-product of
+P2936,"working languages, working language, languages used, medium of instruction, used language",language used
+P7374,student classification,educational stage
+P81,"railway line, line connected to, rail line connected to, is on",connecting line
+P8500,middle name,Vietnamese middle name
+P414,"exchange, listed on, listed on exchange, listed on stock exchange",stock exchange
+P4424,"requires, requests",mandates
+P518,"valid for part, line item, apply to, applied to, applies to aspect, applies to form, apply to part, in form, when viewed as, of part, limited to part, involved part, for",applies to part
+P6439,lyrics that this work has,has lyrics
+P3716,"social class, social status",social classification
+P112,"co-founder, founders, established by, co-founded by, founder, started by, cofounder, cofounded by",founded by
+P170,"artist (non-musical), created by, painter, sculptor, creators, painters, sculptors, made by, created",creator
+P412,"vocal type, range of voice, type of voice, register, tessitura, voice category",voice type
+P833,"OSI, out of station interchange",interchange station
+P289,"ship class, submarine class, spacecraft class, class of vessel, ship type",vessel class
+P707,"spacecraft bus, bus",satellite bus
+P369,"Sandbox, Sandbox property-item",Sandbox-Item
+P1001,"of jurisdiction, linked to jurisdiction, belongs to jurisdiction, jurisdiction, country of jurisdiction, valid in jurisdiction, applies to territorial jurisdiction, applied to jurisdiction, applies to place, applies to area, applies to geographic place, applies to geographic area, applies to region, applicable jurisdiction, applicable geographic place, applicable place, applicable territorial jurisdiction, applicable location, applicable country, applicable area",applies to jurisdiction
+P2499,"promotion to, level above (league)",league level above
+P108,"employed by, works at, working for, worked for, works for, worked at, working place, working at, organization, organisation",employer
+P6886,"writing languages, language for writing, language of writings, languages for writing, languages of writings, language of works, languages of works, language written, languages written",writing language
+P2176,"used for treatment, treatment, prescribed drug, treated by",drug or therapy used for treatment
+P1002,configuration of engine cylinders,engine configuration
+P3842,"today part of, located in present day administrative territorial entity, would today be located in administrative territorial entity, located in the present-day administrative territorial entity, located in the current administrative territorial entity",located in present-day administrative territorial entity
+P1365,"forefather, previous job holder, replaced, preceded by, succeeds, predecessor, supersedes, continues from, continues, deprecates",replaces
+P1777,"style of, imitator of",manner of
+P1574,"includes work, contents, contains work",exemplar of
+P797,"executive authority, governing body, governing authority, has authority, has governing body, governed by, issuer, issued by",authority
+P22,"dad, daddy, has father, parent, is son of, is daughter of, is child of, son of, daughter of, child of",father
+P1387,"political position, alignment",political alignment
+P4149,"protonated form of, has conjugate base",conjugate base
+P355,"subsidiary company, subsidiary entities, imprint, has imprint, subordinate body, subordinate unit, parent company of, owns, has subsidiary, subsidiary body, subsidiary organization, daughter company, daughter organization",subsidiary
+P6,"mayor, prime minister, premier, first minister, head of national government, chancellor, governor, government headed by, executive power headed by, president",head of government
+P91,sexuality,sexual orientation
+P2550,"recording of, performance of, performance or recording of",recording or performance of
+P611,order,religious order
+P2541,"area served, area operated, area of responsibility, area of operations, region served, operating region, service area, geographic area operated, geographic region operated, operates in area, operates in geographic area, operates in geographic region, operates in jurisdiction, jurisdiction operated, serves area, serves geographic area, serves geographic region, serves jurisdiction, serves region, geographic area served, geographic region served, jurisdiction served, operates in, serves place, serves location, location served, place of activity, place of operation, operation area",operating area
+P1344,"attended, took part, took part in, participated in, competed in, participant of event, takes part, competes in, present at, participant of",participant in
+P1754,"list's category, list category, category equivalent to list",category related to list
+P54,"member of team, team, played for, teams played for, of team, club played for, player of, part of team, team played for, plays for, sport team",member of sports team
+P479,"input, digitiser, input device",input method
+P1533,"related surname, related family name, family name identical to this first name, corresponding surname, corresponding family name, surname identical to this given name, surname identical to this first name, last name identical to this first name",family name identical to this given name
+P9788,"performance place, performance location, performance venue, gave performance at, location of performance, place of performance, venue of performance",performed at
+P837,"day of periodic occurrence, day in year, day, date, recurring event, periodic occurrence, takes place on, takes places during, took place on, take place on",day in year for periodic occurrence
+P31,"is a, is an, has class, has type, is a particular, is a specific, is an individual, is a unique, is an example of, member of, unique individual of, distinct member of, unitary element of class, distinct element of, distinct individual member of, rdf:type, type, main type, is a(n), type of, is a type of",instance of
+P110,"illustration by, illustrated by, inker, photographer",illustrator
+P541,"position contested, contested office, contested position",office contested
+P185,"doctoral candidate, supervisee, supervised doctoral student",doctoral student
+P1576,"has lifestyle, follows lifestyle, diet",lifestyle
+P609,"destination, departure point, from, to, between",terminus location
+P1558,"tempo, musical tempo",tempo marking
+P1774,studio of,workshop of
+P931,"serves city, city served, train station serves",place served by transport hub
+P504,homeport,home port
+P511,"style prefix, pre-nominal, called, referred to as, honorific title",honorific prefix
+P9237,"re-release, repackage, re-edition",reissue of
+P4908,"television season, television series, TV season, TV series, series of television program",season
+P915,"location of filming, location where filmed, studio where filmed, place of filming, place where filmed, filmed at, shooting location, filming location, film location, shot in, filmed in",filming location
+P193,"building contractor, built by, constructed by, builder, main contractor, general contractor, prime contractor",main building contractor
+P1906,"state headed by, head of state, position held by head of state",office held by head of state
+P945,"fidelity, loyalty",allegiance
+P408,"engine of software, game engine, powered by, render engine",software engine
+P5185,gender,grammatical gender
+P4647,"place of first performance, first performance location, first performance place, first performed at, first broadcasted at",location of first performance
+P1079,launch service provider,launch contractor
+P1399,"guilty of, found guilty of, conviction",convicted of
+P512,"degree, diploma, academic diploma",academic degree
+P3279,"statistical leader, record setter, most valuable player, MVP",statistical leader
+P406,"has soundtrack album, soundtrack extended play, soundtrack single, soundtrack album, OST",soundtrack release
+P2365,cognomen,Roman cognomen
+P4220,battle formation,order of battle
+P5514,accreditation,accredited by
+P735,"forename, first name, personal name, middle name, Christian name, name",given name
+P126,"maintenance, administered by, maintainer, custodian, administrator",maintained by
+P1408,"city of license, community of license",licensed to broadcast to
+P5137,"denotes, sense, means, sense item, item",item for this sense
+P1552,"trait, inherent property, attribute, aspect, defining feature, has feature, has characteristic, has property, characterized by, required property, quality, defining parameter, parameter, requirement, defined by",has quality
+P5009,"conforms to, built to standard, conforms to standard, complies with standard, standard, technical standard, satisfies standard, specified in, specified by standard",complies with
+P423,dominant hand shooting,shooting handedness
+P8626,"opening hours, opens at",opening time
+P1560,"female version of this male given name, male version of this female given name, gender inflection of given name",given name version for other gender
+P533,"military target, target of attack, attack target",target
+P7782,Commons category for ship name,category for ship name
+P306,OS,operating system
+P176,"manufactured by, maker, mfr, built by, builder, made by, producer (of product), product of, provider, provided by, assembler, assembled by",manufacturer
+P1383,populated places within,contains settlement
+P2849,secreted by,produced by
+P21,"gender identity, gender expression, gender, biological sex, man, woman, male, female, intersex, sex",sex or gender
+P6569,taxa especially protected in area,taxon especially protected in area
+P6758,"fan of sports team, supports sports team, is a fan of team, sports team supported, team supported",supported sports team
+P5817,use status,state of use
+P2371,FAO status,FAO risk status
+P5059,"adaptation of, arrangement of, version of, modification of",modified version of
+P3005,"applies to location, valid in location, applies to place, country, true in, valid in territory",valid in place
+P655,"translated by, translation by, has translator, is translated by, is translation by",translator
+P8196,"electoral system, voting system, type of election",voting system
+P9652,"personality trait of fictitious character, fictional character personality trait, fictitious character personality trait, trait of fictional character, trait of fictitious character, personal quality of fictional character, personal quality of fictitious character, fictional character personal quality, fictitious character personal quality, fictional character trait, fictitious character trait, character trait of fictional character, character trait of fictitious character, trait, traits, personality trait, personality",personality trait of fictional character
+P9028,CCC clasification,Consejo de Calificación Cinematográfica rating category
+P5422,"pattern, motif, decorated with, has decorative pattern",has pattern
+P912,"facility, has amenity, amenity, has feature, features",has facility
+P3156,"ACB, ACB rating",Australian Classification
+P7377,"family name prefix, family name affix",tussenvoegsel
+P8045,organised response related to outbreak,organized response related to outbreak
+P3014,"law applied, legal base, applied law",laws applied
+P1192,halt of,connecting service
+P910,"main category, category for this topic, subject category, has category, category, Wikimedia category, Wikipedia category, Wiki category",topic's main category
+P3578,sister cell line,autologous cell line
+P8031,"criminal, murderer, terrorist, assassin, attacker, torturer, lead by, agressor, perp, culprit, offender, perpetrators, bomber, victimiser, indirect perpetrator, direct perpetrator, criminal perpetrator, thief, robber, killer, suicide bomber, contract killer, spree killer, mass murderer, serial killer, material author, criminals, backpack bomber, domestic terrorist, kidnapper, accomplice, committed by, by, perpetrated by, assailant, wrong-doer",perpetrator
+P3876,category for alumnae of educational institution,category for alumni of educational institution
+P4379,youth organisation,youth wing
+P710,"participants, attendee, player, competitor, party, event participant, agent, belligerents, between, suspect, accused",participant
+P4101,"thesis submitted to, submitted to",dissertation submitted to
+P2563,"superpower, supernatural abilities, magic",superhuman feature or ability
+P2360,"designed for, target group, target market, serving, audience of, for audience of, for market, made for, created for, for, target audience, target demographic, intended audience",intended public
+P5607,"Parish, Deanery, Vicariate, located in ecclesiastical territorial entity, ecclesiastical territorial entity",located in the ecclesiastical territorial entity
+P57,"directed by, film director, movie director",director
+P547,"memorial to, celebrates, in memory of, monument to, honors, honours, in honor of, in honour of, marks, commemorandum",commemorates
+P7604,"has supervisor, is supervised by, is supervisee of, supervisee of, supervisor",supervised by
+P2922,"month, month of year",month of the year
+P793,"key event, key incident, significant incident, notable event, notable incident, major event, big event, main events, fate, outcome, event, known for, significant achievment, sign. event, important event",significant event
+P5970,Medieradet,Medierådet rating
+P880,"central processing unit, processor",CPU
+P2408,"era, set in era, period, set during, narrative period, period covered, narrative time, takes place in time, set in time, setting, time period, features event, significant event, set in, period of setting, period set in, time period of setting, time period set in, era of setting, era set in",set in period
+P2239,first aid response,first aid measures
+P3032,"located next to, neighboring building, next to",adjacent building
+P1637,"landing gear, aircraft landing gear, aircraft undercarriage",undercarriage
+P1411,"nominee for, nomination received, nomination to, have nomination to",nominated for
+P560,facing,direction
+P6241,"creator, archive creator, archive of, archives of, archival collection creator",collection creator
+P3015,"backup team, backup crew, reserve team, reserve crew",backup or reserve team or crew
+P2846,"accessibility for wheelchair users, disabled accessibility, easy access, step-free access, ADA",wheelchair accessibility
+P1596,"judicial sentence, sentence, punishment",penalty
+P881,variable type,type of variable star
+P2756,EIRIN film rating category,EIRIN film rating
+P5131,"medical findings, medical finding",possible medical findings
+P885,"river source, stream source, source of a stream, water source, water origin, river head, source of watercourse, origin of the water body, origin of the body of water, water body origin",origin of the watercourse
+P1403,protonym,original combination
+P3373,"sister, has sister, bro, has brother, brother or sister, sister or brother, sis, sib, siblings, sisters, brother, brothers and sisters, sisters and brothers, has sibling, is sibling of, is the sibling of, brothers, is brother of, is the brother of, is sister of, is the sister of, half-brother, half-sister, half-sibling",sibling
+P5804,program committee member,has program committee member
+P5030,"show guest, guest, participant in talk show, participant in podcast interview, podcast guest",talk show guest
+P2341,"native to, endemic to",indigenous to
+P6106,"capitalizes, uses capitalisation for, capitalises",uses capitalization for
+P4132,typology,linguistic typology
+P1027,"awarded by, bestowed by, given by, granted by, presented by, from, by, degree from, degree conferred by, degree awarded by, officiated by",conferred by
+P4070,"ID shared with, shares ID with, shared ID, shares identifier with",identifier shared with
+P2127,INES,International Nuclear Event Scale
+P3019,"signalling system, signalling type, type of signalling",railway signalling system
+P361,"meronym of, section of, system of, subsystem of, subassembly of, merged into, contained within, assembly of, part of-property, merged with, component of, in, within, is part of, subgroup of, collateral branch of, cadet branch of, branch of, element of, chain",part of
+P5805,"ISO/OSI Model layer location, OSI layer, OSI Model layer",OSI Model layer location
+P941,"source of inspiration, inspiration",inspired by
+P971,"combines topics, topics of category, subjects of category, cct, category intersects topics",category combines topics
+P1877,"copy of a work by, artist who inspired this, inspiring artist, inspirational artist",after a work by
+P4969,"is the basis for, has adaptation, adaptation, adapted as, has derivative, source work of, is source work of, source for, is source for, is source work for, is adapted as, source of adaptation of, has derivative work, has derivation, derived work, has derived work",derivative work
+P9239,"union, workers union, trades union, labor union",affiliated worker organisation
+P6658,"RCQ, Régie du Cinéma Québécois",RCQ classification
+P3969,hand-signed form,signed form
+P6718,"song video, videoclip, music clip, MV, has music video",music video
+P629,"edition of, version of, translation of",edition or translation of
+P92,"legally established by, governing text, governing document, bylaws, by-laws, legal basis, regulated by, statutory authorization, statutory authority, key document, authorizing legislation",main regulatory text
+P520,"armed with, weapon, ship armament, wields",armament
+P4844,"exposure, intervention, experimental variable, treatment, study intervention, experimental intervention",research intervention
+P205,basin countries,basin country
+P8111,"unit, unit of measurement, measured in, standard unit of measurement",recommended unit of measurement
+P943,"software developer, programmed by",programmer
+P1028,"given by, bestowed by, gift from, donation from, donor, gift of",donated by
+P8225,"metaclass for, is metaclass of, metaclass of",is metaclass for
+P6426,"rights statement, standardized rights statement, RS, rights",RightsStatements.org statement according to source website
+P3452,implied by,inferred from
+P447,"reviewer, score issuer, publication, scorer",review score by
+P40,"son, daughter, kid, has child, children, sons, daughters, kids, has children, has son, has sons, has daughter, has daughters, has kid, has kids, offspring, progeny, issue, parent of, descendants",child
+P2596,"civilisation, archaeological culture",culture
+P468,"go rank, judo rank, wushu rank, shogi rank, renju rank, kendo rank",dan/kyu rank
+P3113,"missing, doesn't have, has part missing, lacks, does not include",does not have part
+P1478,"has immediate causes, immediate effect of, immediate result of, immediate outcome of, has proximate cause, has proximate causes, proximate effect of, proximate result of, proximate outcome of, is immediately caused by, is proximately caused by, immediately caused by, proximately caused by, immediate cause",has immediate cause
+P706,"takes place in, on geographical feature, on natural feature, is on, is in, location (terrain feature), loc (terr), on, geographical region, terrain feature, located on the terrain feature, located on terrain feature, located on physical feature, landform",located in/on physical feature
+P9493,"has artist file at, has artist files at, artist file in, artist files in, has artist file in, has artist files in, artist file held at, artist files held at, artist file held by, artist files held by, artist file at",artist files at
+P1018,regulatory body,language regulatory body
+P53,"house, royal house, dynasty, noble family",family
+P403,"watercourse outflow, watercourse drain, outflow, drain, river mouth, outlet, watercourse ends in, flows into",mouth of the watercourse
+P485,"papers at, correspondence at, archive location",archives at
+P2507,"corrigendum, errata, erratum, corrigenda, corrected by",corrigendum / erratum
+P2912,jersey,distinctive jersey
+P3301,"broadcaster, TV channel, TV network, radio channel, radio network, TV station, radio station, streamed by, broadcast on",broadcast by
+P2681,verso,is recto of
+P1568,"domain, function domain, domain of definition",definition domain
+P859,"patron, endorsed by, sponsored by, benefactor",sponsor
+P5236,prime factors,prime factor
+P2964,suffrage,right to vote
+P767,"assistant, contributor, collaborator, contributor(s) to the subject",contributor to the creative work or subject
+P916,"CSRR rating, GSRMR rating",GSRR rating
+P97,"peerage, title (hereditary), hereditary title, royal title, royal and noble ranks, title of nobility, nobility title",noble title
+P16,"system of routes, transport network, routes system, part of network, road type, network, highway system, trail system",transport network
+P1622,"drives on the, drive on, traffic side, rule of the road",driving side
+P4082,"camera used, photographed with, filmed with, recorded with, camera model, taken with, image captured with, recording device, equipment used",captured with
+P98,"compiler, edited by, compiled by, associate editor",editor
+P5025,"Roman gens, ancient Roman gens",gens
+P3093,"recovery vehicle, recovery group",recovered by
+P4661,"lake created, dam created reservoir, creates reservoir, creates lake, impounds",reservoir created
+P1202,"scientific equipment, metering equipment",carries scientific instrument
+P9566,"nocturnal or diurnal animal, diurnal or nocturnal animal",diel cycle
+P437,"media, media type, type of media, form of publication, format, edition, book format, media format, medium, distribution, method of distribution",distribution format
+P7309,"normal route, summit trail",climbing route
+P127,"is owned by, owner, belongs to, shareholder, stockholder, shareholders, stockholders, owners, provenance, belonged to, is owner of, proprietor",owned by
+P1853,blood group,blood type
+P3148,"cancels, invalidates, revokes",repeals
+P6153,"place researched, where researched, location of research, research location, site of research",research site
+P1406,"letter directionality, script direction, letter direction, writing directionality, writing direction, directionality",script directionality
+P4878,"a symbol for, symbol for, symbolises",symbolizes
+P17,"sovereign state, state, land, host country",country
+P3815,"volcano monitored by, eruption monitored by, monitored by",volcano observatory
+P6477,"does not have property, does not meet condition, does not have characteristic, lacks quality, lacks property, lacks condition",does not have quality
+P5072,screened at,presented in
+P3919,"contributor to, contributor, collaborator on, contributed to",contributed to creative work
+P5658,handedness of railway traffic,railway traffic side
+P9883,"made for, produced for, work created for",created for
+P19,"birthplace, born in, POB, birth place, location born, born at, birth location, location of birth, birth city",place of birth
+P286,"manager, club manager, senior coach, team manager, coach, coached by, led by, trainer",head coach
+P4320,best climber classification,mountains classification
+P501,"enclaved by, surrounded by, enclosed by, is enclave within, enitrely surrounded by, entirely enclaved by",enclave within
+P3415,since period,start period
+P9714,"range, taxon geographic range, geographic range, range of taxon, geographic range of taxon",taxon range
+P4675,"transforms into, takes the form of, shapeshifts into, appears as",appears in the form of
+P3091,"horse, steed",mount
+P3179,"partially contains territorial extent, partly located in territorial entity, partially located in territorial entity, overlaps, partially overlaps, partly overlaps, partially coincident with, partly coincident with",territory overlaps
+P206,"on lake, next to lake, located on body of water, on bay, on harbour, on shore of, on the shore of, on the coast of, on coast of, on river, ocean, sea, lake, bay, located next to body of water, loc (water), body of water, borders body of water, water next to the subject, along river",located in or next to body of water
+P3440,"meter signature, metre signature, measure signature",time signature
+P1429,"pet, owns pet, keeps pet",has pet
+P3938,"coined by, namer",named by
+P6087,"trainer of sports team, manager of sports team, coach of sports team, club manager of sports team, team manager of sports team, senior coach of sports team, trainer of, manager of, coach of, club manager of, team manager of, senior coach of, head coach of, goalie coach of, co-manager of, coach of sports club",coach of sports team
+P3082,"structures destroyed, were destroyed",destroyed
+P1591,"respondant, accused",defendant
+P642,"scope, in, in the scope of, within the scope of, in scope of, within scope of, applies to, for, of or for or applies to, applicable to, applicable for, used for",of
+P1703,"pollination by, pollinator",is pollinated by
+P2743,coordinate name,this zoological name is coordinate with
+P2321,GC,general classification of race participants
+P2579,"science, that studies, domain, researched by, researched in, studied in, in branch of science",studied by
+P371,"host, hostess, TV presenter, TV host, presented by, hosted by",presenter
+P9901,"issuing agent (work), issuing agency of work, issuing agency (work), issued by, work issued by, issuing body (work), issuing body of work, house publication of, house organ of, house journal of, organ of, official organ of, official publication of, official journal of",issuing agent of work
+P184,"advisor, doctoral supervisor, supervisor, PhD advisor, promotor, doctoral student of, PhD supervisor",doctoral advisor
+P3858,"RDT, Wikimedia RDT, route template",route diagram
+P2852,emergency telephone number,emergency phone number
+P834,"railway depot, depot, rail yard",train depot
+P9899,"created for, music for, music made for, music for work, is music for work, music written for, music composed for, music written for work, music composed for work, composed for, composed for work, music made for work",music created for
+P2682,"Backside, (opposite side to the front side - recto)",is verso of
+P1039,"kinship, relationship (kinship), type of relationship, nature of kinship, type of kinship, object has role",kinship to subject
+P660,Enzyme Commission classification name,EC enzyme classification
+P3096,"KML, Keyhole Markup Language file",KML file
+P1321,"lieu d'origine, Heimatort, Bürgerort, luogo d'origine",place of origin (Switzerland)
+P4345,"director of excavations, excavation director",director of archaeological fieldwork
+P8203,"supported attributes, data stored",supported metadata
+P6185,"is a tautomer of, tautomeric with, tautomer",tautomer of
+P9700,"river delta of, delta source",delta of
+P5004,"opposes, opposed, protests against, protested against, opposition to",in opposition to
+P9597,"lens, has lens, Fresnel",type of lens
+P2869,"world record, olympic record",record or record progression
+P2512,"spin-offs, has spin-off, television series spin-off, television series spinoff, TV spin-off, TV spinoff, TV series spin-off, TV series spinoff, series spinoff",series spin-off
+P725,"voice dubber, dubbed by, VO, voiced by, CV, VA, voice actress, voice actors, voice actresses, seiyu, vocal role as",voice actor
+P6962,motif,narrative motif
+P1620,"claimant, pursuer, litigant",plaintiff
+P460,"same as, the same as, equivalent to, equivalent of, is the same as, is said to be the same as, similar to, close to, same, see also, conspecific with, said to be equal to, equal to, could be equal to, may be equal to, could be, may be, said to be same as",said to be the same as
+P6840,student organisation of,student organization of
+P397,"parent body, orbits, star, planetary system, primary",parent astronomical body
+P2366,agnomen,Roman agnomen
+P459,"determined by, method, methodology, method of determination, standard, rationale, justification, measured by",determination method
+P1299,"portrayed by, played by, acted by, appears in, depicted in",depicted by
+P3989,"member occupation, occupation of members, member profession, profession of members, members have profession, group of, consists of, organization of, organization for, organisation of, organisation for, members are",members have occupation
+P7959,"ancient or geographic county, traditional county, located in historic UK county, located in historic county of Ireland",historic county
+P462,"colour, colors, colours, has color, has colour, pigment, dye, has the colour, has the color, of the color, of the colour, with the colour, with the color",color
+P749,"parent organisation, owned by (company or organisation), holding, holding company, part of, parent unit, parent agency, superior formation, owned by (company or organization), subsidiary of, parent company",parent organization
+P6534,"rear suspension, suspension (rear)",type of rear suspension
+P2976,"patronym, matronym",patronym or matronym for this name
+P5314,scope,property scope
+P241,"branch, formation, service branch, unit branch",military branch
+P1791,"category for place of burial, category for people buried here, buried here: Wikimedia category for, category for burials",category of people buried here
+P1064,gauge,track gauge
+P1891,"signed by, ratified by, signatories, first signatories",signatory
+P360,"main topic of list, list of, main article of list, lists",is a list of
+P2842,"location of marriage, marriage location, married at, married in, wedding location, wed at",place of marriage
+P3174,artistic director,art director
+P734,"last name, surname",family name
+P2429,"completeness, expected level of completion",expected completeness
+P4552,"range, located in mountain range, parent range, mountain system, located on mountain range, system of mountains, hill range, mountain belt",mountain range
+P421,"timezone, time zone, TZ",located in time zone
+P548,"release type, software version type",version type
+P10019,"closest concept in higher taxon, equivalent in higher taxon, term in larger group, term in higher-order taxon, equivalent in larger group, term in higher taxon, subclass of higher-taxon concept",term in higher taxon
+P2739,"font, typeface, is sample of, lettering",typeface/font used
+P2302,"constraint, rdfs:domain, rdfs:range",property constraint
+P410,"rank, naval rank",military rank
+P3335,"hazard on site, hazardousness",associated hazard
+P1269,"aspect of, subitem of, topic of, subtopic of, main topic, subject in, section in",facet of
+P1640,"has curator, keeper, curation authority, biocurator, digital curator, curated by",curator
+P366,"function, role, mission, purpose, utility, used for, used in, usage, used as, as, unit mission, use",has use
+P1046,detection method,discovery method
+P1441,"from work, from narrative, featured in work, in work, in narrative, appears in, is shown in, appeared in, appears in work, character in",present in work
+P942,theme song,theme music
+P9969,"artist catalog, artist catalogue",catalogue raisonné
+P8571,"statutory auditor, auditor, external",external auditor
+P2989,"has case, cases",has grammatical case
+P1427,"flight origin, start location, from, journey start, journey origin, launch location, launch site, launch pad, start place",start point
+P279,"rdfs:subClassOf, hyponym of, has superclass, is also a, subtype of, is a subtype of, subcategory of, is a category of, is thereby also a, is necessarily also a, whose instances are among, whose instances ⊆ those of, ⊆, ⊂, is a type of, is a class of, subset of, type of, form of, sc, way of",subclass of
+P676,"lyricist, words by, writer (of song lyrics), author",lyrics by
+P7078,"type system, typing",typing discipline
+P1672,"this taxon is the source of, this taxon is a source of, has natural product, produces natural product, produces, secretes, natural product",this taxon is source of
+P3701,"reincarnation of, avatar of",incarnation of
+P3438,"drives this car, automobile used, motorcycle driven by subject, cars normally used, trains normally used",vehicle normally used
+P9600,"oral histories at, oral history in collection at, oral history in collection of, oral history held by",oral history at
+P2702,format,dataset distribution
+P514,interbedded with,interleaves with
+P826,"musical key, key of musical composition, in key, key used, written in key, musical tonality",tonality
+P8872,"lineage marker, has       lineage marker",has marker
+P1652,umpire,referee
+P4224,is set of,category contains
+P2789,"connected with, attached to, attaches to, connects to, connected to, couples with, mates with, binds to, intersects at grade, meets at grade, contacts, affixed to, links to",connects with
+P1542,"effect, has result, result, has outcome, outcome, has symptom, consequence, causes, implies, cause of, led to, caused",has effect
+P1151,"portal, main portal",topic's main Wikimedia portal
+P376,"planet, astronomical body (location), located on astronomical location",located on astronomical body
+P5026,light designer,lighting designer
+P9215,"set during holiday, narrative holiday, set during event, narrative event",set during recurring event
+P3150,birth day,birthday
+P1424,"topic's main infobox, topic infobox, template of topic, main template, topic has template",topic's main template
+P1740,"cat films shot, cfsi, cff, category of films shot at this location, films shot at this location",category for films shot at this location
+P5138,"sports season of club or team, season of team, season of club, season of athletics program",season of club or team
+P2389,"organization directed from the office, head of, directs, leads, heads, runs, leader of, organization led from the office or person, organization headed by, organization led by, organization directed by",organization directed by the office or position
+P9549,podcast,official podcast
+P101,"field of study, fields, discipline, subject, area, specialism, domain, academic discipline, scientific discipline, academic area, scientific area, FOW, studies, responsible for, conduct research about, be researcher in, research on, speciality, activity, domain of activity, activity domain, academic subject, trade, area of work, specialty, research, field of research, research fields",field of work
+P562,"issuer, authority, issuing authority",central bank/issuer
+P1589,"extreme point lowest, extreme point deepest, deepest point",lowest point
+P2517,"recipient category, recipcat",category for recipients of this award
+P5323,"lexeme form found in, form of lexeme found in",attested in
+P7763,"copyright status as creator, statut des droits d'auteur du createur, copyright status of works, copyright status of creator's works",copyright status as a creator
+P3025,"open on days, days open, opening days",open days
+P924,"therapy, medical therapy, treatment, health treatment, medical treatment",possible treatment
+P1595,"criminal charge, charged with",charge
+P2894,day of the week,day of week
+P1196,"death manner, death type, type of death, circumstance of death, nature of death",manner of death
+P2033,"Commons photos by camera category, taken with this camera, category for images taken with camera, category for photos taken with camer",category for pictures taken with camera
+P1598,"consecrated by, has consecrator, has ordainer, ordainer, ordained by",consecrator
+P2959,"duplicate, duplicate item, duplicate of, duplicate of item, permanently duplicated item, identical to, same concept as, same as",permanent duplicated item
+P3095,"studied by, associated with, has proponent, practioner, proponent, has practitioner, implemented by, implementor, occupation of this field, done by, practitioners",practiced by
+P9660,"not attested in, not described by source",not found in
+P102,"party, member of, member of party, party membership, political party member, political party",member of political party
+P1880,measured by,measurement scale
+P1536,"immediate effect, immediate result, immediate outcome, is immediate cause of, has immediate effect, has immediate result, has immediate outcome",immediate cause of
+P5056,"matronym, patronym",patronym or matronym for this person
+P1535,"user, played by",used by
+P1479,"has contributing factors, contributing factor, significant contributing factor, indirect cause, indirectly caused by, is/was indirectly caused by",has contributing factor
+P9831,"music release of, release of music",release of
+P921,"index term, topic of work, main topic, about, topic, subject, subject heading, mainly about, theme, main issue, main thing, keyword, is about, primary topic, primary subject, describes, artistic theme, sitter, regards, regarding, in regards to, content is about, content describes, content deals with, has a subject, /common/topic/subject, plot keyword",main subject
+P694,replaced name,replaced synonym (for nom. nov.)
+P3450,"is season of, is a season of, seasons of, season of, season of sports competition, season of sports tournament, season of sports league, sport season",sports season of league or competition
+P8371,"references, alludes to","references work, tradition or theory"
+P6977,reviews,review of
+P1950,"Spanish maternal name, second surname in Spanish name, maternal surname, Spanish second name, second Spanish name, Maternal family name, Spanish mother's maiden name, segundo apellido en nombre en español, segundo apellido",second family name in Spanish name
+P974,"affluent, has tributary, receives river, has river inflow, has inflow of, receives tributary",tributary
+P199,"divisions, has division, has business division",business division
+P669,"is on, street, square, road, address street, on street, located at street (item)",located on street or square
+P780,"symptoms, has symptom",symptoms and signs
+P8001,"supported by, endorsement by",endorsed by
+P1464,category for place of birth,category for people born here
+P209,"supreme court, has supreme court, highest court",highest judicial authority
+P3137,"parent mountain, Island parent",parent peak
+P878,"sensors, electronics",avionics
+P8411,"setting location, narrative set in, set in location, takes place in, playing in, environmental location",set in environment
+P169,"CEO, chief executive, ceo, executive director",chief executive officer
+P7501,audio format,audio system
+P7010,imprimatur,imprimatur granted by
+P3781,"active ingredient, contains active ingredient, includes active ingredients",has active ingredient
+P612,"motherhouse, cell of",mother house
+P748,named by,appointed by
+P3931,"licensor, copyright ‘owner’, proprietor, copyright owner",copyright holder
+P8693,fan group name,fandom
+P8738,does not prohibit,permits
+P6379,"works in collection, has works in the collection(s), work in collection, has work in the collection, museum housing this person's work",has works in the collection
+P1029,member of crew of,crew member(s)
+P1283,"list of films with the person, list of films about the person, list of films the person contributed to",filmography
+P1531,"parent(s) of this hybrid, parent of this hybrid, parents of this hybrid, cultivar from","parent of this hybrid, breed, or cultivar"
+P2388,"leader's office, secretary's office, minister's office, chairperson's office, chief's office, CEO's office, president's office, head's office, position held by head of the organisation, office held by head of the organisation, headed by, head of the organization",office held by head of the organization
+P8596,"Commons category for the exterior of the item, exterior category",category for the exterior of the item
+P3902,last meal,had as last meal
+P2354,"accompanying list, has this list, list, list article, list for this topic, related list, topic list, topic's list",has list
+P172,"ethnicity, culture, people, (cultural) nationality, race",ethnic group
+P872,printer,printed by
+P1999,AWLD status,UNESCO language status
+P4967,"requirement, necessary condition, required beforehand",prerequisite
+P5196,output device,output method
+P552,dominant hand,handedness
+P1347,"casualty classification, casualty type",military casualty classification
+P1753,"category's list, list equivalent to category",list related to category
+P7779,"military unit, unit",member of military unit
+P1557,"realization of, reification of",manifestation of
+P6193,"ratification, acceptance, approval, accession",ratified by
+P6022,"expression, facial expression, gesture, movement, position, pose, action","expression, gesture or body pose"
+P5109,"grammatical genders, has genders",has grammatical gender
+P5707,"samples, samples audio from, work sampled, samples work",samples from work
+P196,asteroid group,minor planet group
+P789,"mushroom edibility, palatiblity",edibility
+P4032,"examined by, peer reviewed by",reviewed by
+P832,"bank holiday, legal holiday, national holiday",public holiday
+P2868,"role, had role, as, function, duty, purpose, has role, subject had role, subject has generic identity, acting as, job title, status, subject of qualified statement has role, subject of statement has role, subject performed task",subject has role
+P194,"representative body, parliament, council, assembly, diet, rural council, district council, municipal council, aboriginal council, indigenous council, city council, local government area, LGA, District, Tehsil, Zila, Jila",legislative body
+P144,"fork of, derived from, extended from, copy of, adapted from, based upon, theme, themed after, adaptation of, remake of, modeled after, modelled after, replica of, cover of, inherits from, inspired by, source work, based on work, derivative of, derivative work of",based on
+P105,"taxonomic rank, rank, type of taxon",taxon rank
+P7479,has key col,key col
+P2359,nomen gentilicium,Roman nomen gentilicium
+P9419,"personal library located at, personal library held at, personal library held by",personal library at
+P3416,until period,end period
+P50,"written by, writer, writers, authors, author(s), writer(s), by, creator",author
+P1268,"represents organisation, stands for, symbolizes, symbolises",represents
+P1290,"godfather, godmother",godparent
+P914,Unterhaltungssoftware Selbstkontrolle rating,USK rating
+P8431,meal course,course
+P2975,host taxon,host
+P5021,"test taken, certification, exam, examination, review per method",assessment
+P1346,"won by, victor, champion, winners, champ, top dog, leader, titleholder, prizewinner, 1st place medalist, awardee, nominee",winner
+P2384,statement about,statement describes
+P248,"originating source, source of claim, in statement",stated in
+P6339,"data interval, data periodicity, mesurements periodicity",reports periodicity
+P4622,"medal awarded, cup awarded, diploma awarded",trophy awarded
+P143,"imported from, imported from WM project, import from Wikimedia project, import from WM project, Wikimedia project, imported from Wikipedia project, Wikipedia project",imported from Wikimedia project
+P887,"heuristic, heuristically based on",based on heuristic
+P4792,impounded by,dam
+P9192,"sensor, has sensor, has detector, detector, sensor equipment",sensors
+P6291,"campaigns for, promotes",advertises
+P739,"cartridge, ammo",ammunition
+P1074,fictional version of,fictional analog of
+P1073,"writes file format, file format written, can write",writable file format
+P607,"war, battle, participated in conflict, participant in conflict, in conflict, in action, theater (military), theatre (military), military conflict, military engagement, engagement",conflict
+P553,"user account on, social media account on, account on, has account on  website",website account on
+P1593,"attorney, defence team, lawyers, defense attorney, defense team",defender
+P4791,"commander, captain, commanding officer",commanded by
+P4810,read environment variable,reads environment variable
+P1303,"musical instrument, plays instrument, instrument played, plays, instrument taught, teaches instrument, player of",instrument
+P3028,"end opening season, end of opening season, open until",open period to
+P7378,disputed by,item disputed by
+P210,"party chief, communist party chief, party secretary, Communist Party Secretary",party chief representative
+P1433,"on the tracklist of, venue, part of work, published in journal, album, music album, track on album, chapter of, article of, essay of, track of, track on, song on album, song on",published in
+P2522,"won event, awarded, winner of, won",victory
+P1582,"fruit of (taxon), comes from (taxon), made from, product of taxon, produced by taxon, derived from",natural product of taxon
+P175,"artist, musician, played by, portrayed by, recorded by, recording by, dancer, actor, musical artist, performed by, actress, sung by, singer",performer
+P161,"starring, film starring, actor, actress, contestant of a play, featuring, starring (film/play), feat.",cast member
+P937,"workplace, work location, place of activity, active in, location of work, place of work, working at, work place, work residence, place of employment, work area, conducts business at, conducts business in",work location
+P8956,supports,compatible with
+P610,"highest peak, zenith, summit, extreme point highest, pinnacle, elevation of highest point",highest point
+P208,executive branch,executive body
+P751,new feature,introduced feature
+P8670,character modeler,character designer
+P398,"child body, satellite, orbited by, has planet, has moon, secondary",child astronomical body
+P807,"forked from, schism from, seceded from, split from, broke from, branched from",separated from
+P737,"informed by, has influence, favorite player, role model",influenced by
+P1830,"owns, shareholder of, owns property",owner of
+P1075,Rector (academia),rector
+P790,erected by,approved by
+P162,"record producer, film producer, produced by",producer
+P3831,"as, value has role, object has generic identity, role, specifically, has role, circumstances of employment, object of qualified statement has role, object of statement has role, object had role",object has role
+P8929,philosophical position,religion or world view (OBSOLETE)
+P2445,metaclass of,metasubclass of
+P1037,"manager, director, manager/director, general manager, director general, chief, boss, head, managing director, leader",director / manager
+P1041,"cpu slot, cpu socket",socket supported
+P853,Computer Entertainment Rating Organization rating,CERO rating
+P1779,creator (possible),possible creator
+P86,"songwriter, composed by, musical score by, music by, written by, film score by",composer
+P3403,"same territory as, territory identical with, coterminous with",coextensive with
+P7047,"opponent of, rival of, archenemy of, arch-enemy of, archrival of, archfoe of, archvillain of, archnemesis of",enemy of
+P1200,"category associated with the basin of the bodies of water, water system category",bodies of water basin category
+P3822,classification rules,rules for classification
+P5201,IMDA classification,IMDA rating
+P5769,"executive editor, editor in chief, lead editor, managing editor, EiC, directed by",editor-in-chief
+P8627,closes at,closing time
+P2770,"income source, source of revenue, revenue source",source of income
+P4794,season begins,season starts

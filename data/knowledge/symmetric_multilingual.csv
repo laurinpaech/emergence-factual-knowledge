@@ -1,0 +1,61 @@
+Unnamed: 0,id,en,es,fr,de,ru,ja,zh,count
+0,P530,diplomatic relation,relación diplomática,relation diplomatique,diplomatische Beziehung,дипломатические отношения,国交のある国,邦交國,7046
+1,P47,shares border with,comparte fronteras con,limitrophe de,gemeinsame Grenze mit,имеет границы с,隣の国または行政区画,接壤,605173
+2,P461,opposite of,opuesto a,contraire,Gegenteil von,противоположно,反対の概念,相反面,23857
+3,P460,said to be the same as,se dice que es lo mismo que,réputé identique à,eventuell gleichwertig,предположительно одно и то же с,同一とされる事物,据称相同,285208
+4,P3373,sibling,hermano o hermana,frère ou sœur,Geschwister,брат/сестра,兄弟姉妹,兄弟姊妹,407131
+5,P26,spouse,cónyuge,conjoint,Ehepartner(in),супруг(а),配偶者,配偶,731197
+6,P7047,enemy of,enemigo de,ennemi de,Feind von,враг,敵,敌人,3809
+7,P451,unmarried partner,pareja,partenaire,Lebenspartner/-in,сожитель,婚姻関係にないパートナー,非婚伴侣,14156
+8,P1889,different from,diferente de,à ne pas confondre avec,verschieden von,не путать с,以下と異なる,相异於,801466
+9,P3403,coextensive with,mismo territorio que,a le même territoire que,koexistiert mit,занимает ту же территорию с,同一境界,空间重合实体,4076
+10,P190,twinned administrative body,ciudad hermana,jumelage ou partenariat,Partnerkommune,город-побратим,姉妹都市,友好城市,48990
+11,P2152,antiparticle,antipartícula,antiparticule,Antiteilchen,античастица,反粒子,,79
+12,P1382,partially coincident with,parcialmente coincidente con,coïncide partiellement avec,teilweise übereinstimmend mit,частично совпадает с,重複,部分重合物,17887
+13,P4777,has boundary,delimitado por,délimité par,hat als Grenze,имеет границей,以下を境界として持つ,,1156
+14,P1038,relative,pariente,parentèle,Verwandte,родственник,親族,亲属,52123
+15,P197,adjacent station,estación adyacente,gare voisine,benachbarte Station,соседний остановочный пункт,隣の駅,相邻车站,209079
+16,P833,interchange station,estación de intercambio,pôle d'échanges,Umsteigebahnhof,станция пересадки,乗換駅,换乘车站,3685
+17,P2789,connects with,se conecta con,se connecte avec,physisch verbunden mit,соединяется с,以下と接続,连接,183333
+18,P3342,significant person,persona relevante,personne clé,relevante Person,значимый человек,重要な人物,重要人物,15439
+19,P1327,partner in business or sport,en conjunto con,partenaire professionnel ou sportif,Berufs- oder Sportpartner,партнёр в спорте или профессии,専門家またはスポーツのパートナー,专业或体育合作伙伴,17571
+20,P399,companion of,compañero de,compagnon de,Begleiter,компаньон,伴天体,伴天体,4476
+21,P1420,taxon synonym,sinónimo taxonómico,synonyme taxinomique,taxonomische Synonyme,синоним таксона,シノニム,同物異名,21387
+22,P129,physically interacts with,interactúa físicamente con,interagit physiquement avec,interagiert physikalisch mit,взаимодействует с,物理的相互作用,物理相互作用于,9480
+23,P1322,dual to,dual de,dual de,dual zu,двойственнен к,双対,對偶幾何圖形,351
+24,P2375,has superpartner,tiene como s-partícula,a comme superpartenaire,hat Superpartner,суперсимметричный партнёр,超対称性パートナー,其超對稱粒子為,20
+25,P8702,parallel street,calle paralela,rue parallèle,Parallelstraße,,並行道,,54
+26,P1639,pendant of,pendant de,pendant de,Pendant,пандан для,以下と対,,2268
+27,P3032,adjacent building,edificio adyacente,bâtiment adjacent,Nachbargebäude,смежное здание,隣接する建築物,相邻建筑,5242
+28,P6185,tautomer of,tautómero de,tautomère de,Tautomer von,таутомер,以下の互変異性体,互变异构体,1063
+29,P3179,territory overlaps,solapamiento territorial,recouvrement territorial,Territorium überschneidet sich mit,территория перекрывается с,重なる地域,领土重合于,8370
+30,P144,based on,basado en,basé sur,basiert auf,создано на основе,派生元,改編自,52294
+31,P737,influenced by,influenciado por,influencé par,beeinflusst von,испытал влияние от,影響を受けたもの,影响自,18552
+32,P2444,homoglyph,homoglifo,homoglyphe,Homoglyph,омоглиф,ホモグリフ,同形字,1752
+33,P8865,mathematical inverse,inverso matemático,inverse mathématique,mathematische Umkehroperation,обратно к,数学的な逆,,84
+34,P2329,antagonist muscle,músculo antagonista,muscle antagoniste,antagonistischer Muskel,мышца-антагонист,拮抗筋,,101
+35,P684,ortholog,ortólogo,gène orthologue,ortholog,ортолог,オーソログ,种间同源基因,4320878
+36,P2652,partnership with,en sociedad con,en partenariat avec,Geschäftsbeziehung zu,в партнёрстве с,連携先,,3328
+37,P3364,stereoisomer of,estereoisómero de,stéréoisomère de,Stereoisomer von,стереоизомер для,以下の立体異性体,立體異構體,2013
+38,P53,family,familia,famille,Familie,род,家系,家族,89379
+39,P1416,affiliation,afiliación,affilié à,Zugehörigkeit zu,принадлежит к,所属機関,所属机构,86685
+40,P3113,does not have part,no contiene,ne comprend pas,enthält nicht,не включает,以下を含まない,不包含的部分,499
+41,P514,interleaves with,intercalada con,s'imbrique avec,verzahnt mit,перемежается с,,,31
+42,P2860,cites work,referencia,cite le document,zitiert,ссылается на,引用文献,引用作品,285213488
+43,P8956,compatible with,compatible con,compatible avec,kompatibel mit,совместим с,,,222
+44,P807,separated from,separado de,séparé de,abgetrennt von,отделилось от,以下より分立,分离自,2321
+45,P1557,manifestation of,manifestación de,manifestation de,Manifestation von,является воплощением,表現する概念,表现概念,2120
+46,P2210,relative to,relativo a,relatif à,Bezugspunkt,по отношению к,以下を基準として,,48
+47,P4675,appears in the form of,aparece bajo la forma de,se métamorphose en,angenommene Gestalt,появляется в виде,変身先,形态,373
+48,P6477,does not have quality,no tiene la cualidad,caractérisé par l'absence de,Mangel an,не обладает свойством,持たない特性,不具备的特性,344
+49,P2650,interested in,interesado en,intéressé par,interessiert an,область интересов,興味の対象,关注对象,14947
+50,P547,commemorates,conmemora,commémore,erinnert an,в память о,記念対象,紀念對象,26003
+51,P5004,in opposition to,en oposición a,en opposition à,in Opposition zu,против,以下に反対,反對,461
+52,P1268,represents,representa,représente,repräsentiert,представляет,以下の代表,代表对象,5411
+53,P825,dedicated to,dedicado a,dédicataire,Widmung an,посвящено,献呈先,呈献对象,50406
+54,P7719,generalization of,implica,généralisation de,impliziert,влечёт за собой,,,37
+55,P31,instance of,instancia de,nature de l'élément,ist ein(e),это частный случай понятия,分類,隶属于,103114325
+56,P1441,present in work,presente en la obra,présent dans l'œuvre,kommt vor in,представлено в работе,登場する作品,登场作品,126749
+57,P828,has cause,causado por,a pour cause,Ursache,причиной является,原因,起因,9257
+58,P1542,has effect,causa de,a pour effet,Ursache von,вызывает,以下の原因,導致,5715
+59,P2737,union of,unión de,union de,Vereinigung von,является объединением,以下の和集合,并集,375

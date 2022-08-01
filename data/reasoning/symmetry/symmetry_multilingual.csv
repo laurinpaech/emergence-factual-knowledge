@@ -1,0 +1,32 @@
+id,en,es,fr,de,ru,ja,zh,count
+P530,diplomatic relation,relación diplomática,relation diplomatique,diplomatische Beziehung,дипломатические отношения,国交のある国,邦交國,7046
+P47,shares border with,comparte fronteras con,limitrophe de,gemeinsame Grenze mit,имеет границы с,隣の国または行政区画,接壤,605173
+P461,opposite of,opuesto a,contraire,Gegenteil von,противоположно,反対の概念,相反面,23857
+P460,said to be the same as,se dice que es lo mismo que,réputé identique à,eventuell gleichwertig,предположительно одно и то же с,同一とされる事物,据称相同,285208
+P3373,sibling,hermano o hermana,frère ou sœur,Geschwister,брат/сестра,兄弟姉妹,兄弟姊妹,407131
+P26,spouse,cónyuge,conjoint,Ehepartner(in),супруг(а),配偶者,配偶,731197
+P7047,enemy of,enemigo de,ennemi de,Feind von,враг,敵,敌人,3809
+P451,unmarried partner,pareja,partenaire,Lebenspartner,сожитель,婚姻関係にないパートナー,非婚伴侣,14156
+P1889,different from,diferente de,à ne pas confondre avec,verschieden von,не путать с,以下と異なる,相异於,801466
+P3403,coextensive with,mismo territorio que,a le même territoire que,koexistiert mit,занимает ту же территорию с,同一境界,空间重合实体,4076
+P1382,partially coincident with,parcialmente coincidente con,coïncide partiellement avec,teilweise übereinstimmend mit,частично совпадает с,重複,部分重合物,17887
+P4777,has boundary,delimitado por,délimité par,hat als Grenze,имеет границей,以下を境界として持つ,有邊界,1156
+P1038,relative,pariente,parentèle,Verwandte,родственник,親族,亲属,52123
+P197,adjacent station,estación adyacente,gare voisine,benachbarte Station,соседний остановочный пункт,隣の駅,相邻车站,209079
+P2789,connects with,se conecta con,se connecte avec,verbunden mit,соединяется с,以下と接続,连接,183333
+P3342,significant person,persona relevante,personne clé,relevante Person,значимый человек,重要な人物,重要人物,15439
+P399,companion of,compañero de,compagnon de,Begleiter von,компаньон,伴天体,伴天体,4476
+P129,physically interacts with,interactúa físicamente con,interagit physiquement avec,interagiert physikalisch mit,взаимодействует с,物理的相互作用,物理相互作用于,9480
+P1322,dual to,dual de,dual de,dual zu,двойственнен к,双対,對偶幾何圖形,351
+P8702,parallel street,calle paralela,rue parallèle,Parallelstraße,параллельная улица,並行道,平行街,54
+P3032,adjacent building,edificio adyacente,bâtiment adjacent,Nachbargebäude,смежное здание,隣接する建築物,相邻建筑,5242
+P6185,tautomer of,tautómero de,tautomère de,Tautomer von,таутомер,以下の互変異性体,互变异构体,1063
+P3179,territory overlaps,solapamiento territorial,recouvrement territorial,Territorium überschneidet sich mit,территория перекрывается с,重なる地域,领土重合于,8370
+P737,influenced by,influenciado por,influencé par,beeinflusst von,испытал влияние от,影響を受けたもの,影响自,18552
+P2652,partnership with,en sociedad con,en partenariat avec,Geschäftsbeziehung zu,в партнёрстве с,連携先,被影響,3328
+P53,family,familia,famille,Familie,род,家系,家族,89379
+P3113,does not have part,no contiene,ne comprend pas,enthält nicht,не включает,以下を含まない,不包含的部分,499
+P514,interleaves with,intercalada con,s'imbrique avec,verzahnt mit,перемежается с,インターリーブ,與聯鎖,31
+P8956,compatible with,compatible con,compatible avec,kompatibel mit,совместим с,と互換性があります,兼容,222
+P2210,relative to,relativo a,relatif à,Bezugspunkt,по отношению к,以下を基準として,關於,48
+P2650,interested in,interesado en,intéressé par,interessiert an,область интересов,興味の対象,关注对象,14947

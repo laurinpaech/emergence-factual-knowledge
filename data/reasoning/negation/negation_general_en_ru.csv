@@ -1,0 +1,704 @@
+id,en,ru,en_negated,ru_negated,count
+P457,foundational text,основополагающий текст,not foundational text,не основополагающий текст,50541
+P532,port of registry,порт приписки,not port of registry,не порт приписки,25629
+P740,location of formation,место создания,not location of formation,не место создания,44482
+P1817,addressee,получатель,not addressee,не получатель,49021
+P58,screenwriter,сценарист,not screenwriter,не сценарист,186866
+P3085,qualifies for event,отборочный этап для,not qualifies for event,не отборочный этап для,2803
+P1704,is pollinator of,опылитель для,not is pollinator of,не опылитель для,58
+P1716,brand,бренд,not brand,не бренд,15374
+P3173,offers view on,открывает вид на,not offers view on,не открывает вид на,905
+P1165,home world,родной мир,not home world,не родной мир,1648
+P741,playing hand,играющая рука,not playing hand,не играющая рука,6284
+P4043,emulates,эмулирует,not emulates,не эмулирует,345
+P3719,regulated by,регулируется,not regulated by,не регулируется,475
+P8839,hairstyle,причёска,not hairstyle,не причёска,595
+P4646,representation of,представление интересов,not representation of,не представление интересов,165
+P8546,recording location,место записи,not recording location,не место записи,314
+P7167,does not have effect,не вызывает,not does not have effect,не не вызывает,30
+P1951,investor,инвестор,not investor,не инвестор,6294
+P2554,production designer,художник-постановщик,not production designer,не художник-постановщик,13508
+P66,ancestral home,предки из,not ancestral home,не предки из,1811
+P7163,typically sells,обычно продаёт,not typically sells,не обычно продаёт,299
+P106,occupation,род занятий,not occupation,не род занятий,9260065
+P636,route of administration,способ введения,not route of administration,не способ введения,3001
+P85,anthem,гимн,not anthem,не гимн,1691
+P2841,age of onset,возраст манифестации,not age of onset,не возраст манифестации,7
+P5588,invasive to,инвазионный вид для,not invasive to,не инвазионный вид для,107
+P1158,location of landing,место посадки,not location of landing,не место посадки,502
+P689,afflicts,поражает,not afflicts,не поражает,4196
+P568,overlies,лежачий бок,not overlies,не лежачий бок,1555
+P3158,enclosure,включает,not enclosure,не включает,96
+P2453,nominee,номинант,not nominee,не номинант,164
+P9813,container,упаковка,not container,не упаковка,60
+P38,currency,денежная единица,not currency,не денежная единица,2098
+P183,endemic to,является эндемиком в,not endemic to,не является эндемиком в,32262
+P6902,era name,девиз правления,not era name,не девиз правления,345
+P2438,narrator,рассказчик,not narrator,не рассказчик,2267
+P3491,muscle insertion,конечное место крепления мышцы,not muscle insertion,не конечное место крепления мышцы,57
+P282,writing system,письменность,not writing system,не письменность,611234
+P291,place of publication,место публикации,not place of publication,не место публикации,271222
+P6275,copyright representative,защитник авторских прав,not copyright representative,не защитник авторских прав,81054
+P20,place of death,место смерти,not place of death,не место смерти,1212693
+P3680,statement supported by,утверждение поддерживает,not statement supported by,не утверждение поддерживает,58
+P5202,adapted by,адаптирован,not adapted by,не адаптирован,3430
+P2184,history of topic,история темы,not history of topic,не история темы,2171
+P3027,open period from,сезон открыт с,not open period from,не сезон открыт с,16
+P1455,list of works,список произведений,not list of works,не список произведений,1228
+P5126,assistant director,второй режиссёр,not assistant director,не второй режиссёр,559
+P2882,relegated,выбывшие,not relegated,не выбывшие,2906
+P2634,sitter,модель,not sitter,не модель,280
+P1625,has melody,содержит мелодию,not has melody,не содержит мелодию,2139
+P5096,member of the crew of,член экипажа,not member of the crew of,не член экипажа,1386
+P5880,video designer,видеодизайнер,not video designer,не видеодизайнер,1229
+P1990,species kept,содержащиеся виды,not species kept,не содержащиеся виды,7902
+P9972,illustrative content,иллюстративное содержание,not illustrative content,не иллюстративное содержание,61
+P6954,online access status,статус онлайн-доступности,not online access status,не статус онлайн-доступности,5602
+P136,genre,жанр,not genre,не жанр,1527395
+P452,industry,отрасль,not industry,не отрасль,104004
+P1462,standards body,орган по стандартизации,not standards body,не орган по стандартизации,2799
+P4510,describes a project that uses,используется в описываемом проекте,not describes a project that uses,не используется в описываемом проекте,87086
+P449,original broadcaster,первоначальный вещатель,not original broadcaster,не первоначальный вещатель,93087
+P6001,applies to people,касается людей,not applies to people,не касается людей,16
+P2872,visitor centre,туристический центр,not visitor centre,не туристический центр,554
+P5800,narrative role,нарративная роль,not narrative role,не нарративная роль,4591
+P517,interaction,фундаментальные взаимодействия,not interaction,не фундаментальные взаимодействия,291
+P7937,form of creative work,форма искусства,not form of creative work,не форма искусства,342698
+P6872,has written for,писал для,not has written for,не писал для,3252
+P1884,hair color,цвет волос,not hair color,не цвет волос,11981
+P3018,located in protected area,находится в охранной зоне,not located in protected area,не находится в охранной зоне,36798
+P483,recorded at studio or venue,записано на,not recorded at studio or venue,не записано на,5412
+P1686,for work,за работу,not for work,не за работу,50
+P4241,refine date,уточнение даты,not refine date,не уточнение даты,0
+P3975,secretary general,генеральный секретарь,not secretary general,не генеральный секретарь,1431
+P1050,medical condition,состояние здоровья,not medical condition,не состояние здоровья,241962
+P2286,arterial supply,артериальное кровоснабжение,not arterial supply,не артериальное кровоснабжение,288
+P140,religion or world view,религия,not religion or world view,не религия,444622
+P59,constellation,созвездие,not constellation,не созвездие,7371215
+P1434,takes place in fictional universe,описывает вымышленный мир,not takes place in fictional universe,не описывает вымышленный мир,15814
+P8289,parish church,приходская церковь,not parish church,не приходская церковь,7312
+P3912,newspaper format,газетный формат,not newspaper format,не газетный формат,4083
+P1923,participating team,команда-участница,not participating team,не команда-участница,148066
+P149,architectural style,архитектурный стиль,not architectural style,не архитектурный стиль,124958
+P1389,product certification,сертификат продукта,not product certification,не сертификат продукта,8990
+P1656,unveiled by,кем торжественно открыт,not unveiled by,не кем торжественно открыт,444
+P509,cause of death,причина смерти,not cause of death,не причина смерти,115623
+P967,guest of honor,почётный гость,not guest of honor,не почётный гость,803
+P3026,closed on,закрыто,not closed on,не закрыто,136
+P3081,damaged,повреждено,not damaged,не повреждено,86
+P6271,demonym of,этнохороним от,not demonym of,не этнохороним от,2640
+P1013,criterion used,используемый критерий,not criterion used,не используемый критерий,69
+P7469,orientation,ориентация,not orientation,не ориентация,374
+P8646,expansion of,дополнение относится к,not expansion of,не дополнение относится к,1507
+P5998,distributary,речной рукав,not distributary,не речной рукав,119
+P538,fracturing,излом,not fracturing,не излом,11
+P4968,relevant qualification,соответствующая квалификация,not relevant qualification,не соответствующая квалификация,55
+P35,head of state,глава государства,not head of state,не глава государства,1841
+P2715,elected in,выбран по результатам,not elected in,не выбран по результатам,183
+P1677,index case of,указывающий случай для,not index case of,не указывающий случай для,29
+P516,powered by,движитель,not powered by,не движитель,11110
+P1142,political ideology,политическая идеология,not political ideology,не политическая идеология,23809
+P8345,media franchise,медиафраншиза,not media franchise,не медиафраншиза,28359
+P2700,protocol,протокол,not protocol,не протокол,231
+P1911,increased expression in,увеличенная экспрессия приводит к,not increased expression in,не увеличенная экспрессия приводит к,148
+P9241,demographics of topic,демография темы,not demographics of topic,не демография темы,1155
+P2159,computes solution to,решает,not computes solution to,не решает,119
+P2568,repealed by,скорректирован,not repealed by,не скорректирован,33377
+P823,speaker,выступающий,not speaker,не выступающий,5293
+P4100,parliamentary group,парламентская группа,not parliamentary group,не парламентская группа,1970
+P495,country of origin,страна происхождения,not country of origin,не страна происхождения,1345801
+P1056,product or material produced,продукция,not product or material produced,не продукция,45764
+P3602,candidacy in election,кандидат на выборах,not candidacy in election,не кандидат на выборах,158938
+P3610,fare zone,тарифная зона,not fare zone,не тарифная зона,5161
+P1412,"languages spoken, written or signed","языки, на которых говорит или пишет персона","not languages spoken, written or signed","не языки, на которых говорит или пишет персона",2221570
+P750,distributed by,распространяется,not distributed by,не распространяется,158589
+P453,character role,играет роль персонажа,not character role,не играет роль персонажа,506
+P787,spore print color,цвет спорового порошка,not spore print color,не цвет спорового порошка,727
+P840,narrative location,место действия,not narrative location,не место действия,91176
+P3437,people or cargo transported,перевозимый груз,not people or cargo transported,не перевозимый груз,223
+P8453,public transport stop,остановка общественного транспорта,not public transport stop,не остановка общественного транспорта,132
+P3103,has tense,имеет время,not has tense,не имеет время,145
+P6532,has phenotype,имеет фенотип,not has phenotype,не имеет фенотип,169
+P4543,has listed ingredient,используется ингредиент,not has listed ingredient,не используется ингредиент,604
+P5134,evaluation of,оценка для,not evaluation of,не оценка для,26
+P88,commissioned by,заказчик произведения,not commissioned by,не заказчик произведения,23429
+P3189,innervated by,иннервируется,not innervated by,не иннервируется,293
+P1885,cathedral,собор,not cathedral,не собор,2133
+P3092,film crew member,член съёмочной команды,not film crew member,не член съёмочной команды,4973
+P9810,remix of,микс или ремикс аудиотрека,not remix of,не микс или ремикс аудиотрека,87
+P427,taxonomic type,номенклатурный тип,not taxonomic type,не номенклатурный тип,28515
+P2587,has phoneme,содержит фонему,not has phoneme,не содержит фонему,99
+P1423,template has topic,основная тема шаблона,not template has topic,не основная тема шаблона,21545
+P1011,excluding,исключая,not excluding,не исключая,6
+P1918,altered regulation leads to,изменение регуляции приводит к,not altered regulation leads to,не изменение регуляции приводит к,14
+P1995,health specialty,медицинская специальность,not health specialty,не медицинская специальность,10263
+P415,radio format,формат радио,not radio format,не формат радио,3611
+P1910,decreased expression in,уменьшенная экспрессия приводит к,not decreased expression in,не уменьшенная экспрессия приводит к,27
+P1310,statement disputed by,утверждение оспаривается,not statement disputed by,не утверждение оспаривается,5
+P4330,contains,содержит,not contains,не содержит,8269
+P803,professorship,учёное звание,not professorship,не учёное звание,12404
+P5095,fault,разлом,not fault,не разлом,20
+P118,league,выступает в лиге,not league,не выступает в лиге,192730
+P2633,geography of topic,география темы,not geography of topic,не география темы,726
+P800,notable work,известная работа,not notable work,не известная работа,96985
+P1775,follower of,является последователем,not follower of,не является последователем,22
+P1606,natural reservoir of,является носителем патогена,not natural reservoir of,не является носителем патогена,17
+P1264,valid in period,действительно для периода,not valid in period,не действительно для периода,219
+P4774,biological phase,биологическая фаза,not biological phase,не биологическая фаза,21
+P3739,inflorescence,соцветие,not inflorescence,не соцветие,166
+P27,country of citizenship,гражданство,not country of citizenship,не гражданство,4426813
+P1660,has index case,указывающий случай,not has index case,не указывающий случай,28
+P3274,content deliverer,хостинг,not content deliverer,не хостинг,6
+P2679,author of foreword,автор предисловия,not author of foreword,не автор предисловия,1543
+P913,notation,обозначение,not notation,не обозначение,214
+P1909,side effect,побочный эффект,not side effect,не побочный эффект,39
+P413,position played on team / speciality,позиция в команде,not position played on team / speciality,не позиция в команде,401425
+P1534,end cause,конечный результат,not end cause,не конечный результат,171
+P2079,fabrication method,метод изготовления,not fabrication method,не метод изготовления,126162
+P1605,has natural reservoir,носитель возбудителя инфекции,not has natural reservoir,не носитель возбудителя инфекции,443
+P8852,facial hair,волосы на лице,not facial hair,не волосы на лице,365
+P1537,contributing factor of,способствует,not contributing factor of,не способствует,324
+P6259,epoch,эпоха,not epoch,не эпоха,8076517
+P9745,translation of,является переводом,not translation of,не является переводом,412
+P2881,promoted,вышедшие,not promoted,не вышедшие,1228
+P469,lakes on river,водоём на реке,not lakes on river,не водоём на реке,3384
+P542,officially opened by,кем официально открыт,not officially opened by,не кем официально открыт,1047
+P8739,prohibits,запрещает,not prohibits,не запрещает,16
+P2318,debut participant,дебют для участника,not debut participant,не дебют для участника,217
+P4290,official app,официальное приложение,not official app,не официальное приложение,101
+P2675,reply to,в ответ на,not reply to,не в ответ на,387
+P275,copyright license,лицензия,not copyright license,не лицензия,161241
+P87,librettist,автор либретто,not librettist,не автор либретто,7358
+P1363,points/goal scored by,кем забиты голы или набраны очки,not points/goal scored by,не кем забиты голы или набраны очки,2441
+P768,electoral district,избирательный округ,not electoral district,не избирательный округ,18986
+P1068,instruction set,набор инструкций,not instruction set,не набор инструкций,448
+P358,discography,дискография,not discography,не дискография,11952
+P84,architect,архитектор,not architect,не архитектор,75317
+P3985,supports programming language,поддерживает язык программирования,not supports programming language,не поддерживает язык программирования,228
+P4733,produced sound,производит звук,not produced sound,не производит звук,56
+P2505,carries,несёт на себе,not carries,не несёт на себе,12478
+P2680,author of afterword,автор послесловия,not author of afterword,не автор послесловия,99
+P5054,cabinet,кабинет,not cabinet,не кабинет,5
+P1080,from narrative universe,из вымышленного мира,not from narrative universe,не из вымышленного мира,31385
+P1875,represented by,кто представляет,not represented by,не кто представляет,8117
+P8030,size designation,обозначение размера,not size designation,не обозначение размера,339
+P4788,storage device,запоминающее устройство,not storage device,не запоминающее устройство,582
+P135,movement,школа (движение),not movement,не школа (движение),58648
+P1210,supercharger,нагнетатель,not supercharger,не нагнетатель,7
+P7500,comorbidity,коморбидность,not comorbidity,не коморбидность,19
+P618,source of energy,источник энергии,not source of energy,не источник энергии,6188
+P923,medical examinations,медицинский осмотр,not medical examinations,не медицинский осмотр,993
+P8107,bus,шина,not bus,не шина,17
+P2632,place of detention,место содержания под стражей,not place of detention,не место содержания под стражей,145141
+P2935,connector,разъём,not connector,не разъём,788
+P1012,including,включая,not including,не включая,59
+P1547,depends on software,зависит от,not depends on software,не зависит от,18192
+P5280,radical,радикал,not radical,не радикал,2355
+P8032,victim,жертва,not victim,не жертва,870
+P272,production company,производящая компания,not production company,не производящая компания,119102
+P1419,shape,имеет форму,not shape,не имеет форму,1875
+P5824,is retracted by,отозвано в,not is retracted by,не отозвано в,1462
+P2416,sports discipline competed in,спортивная дисциплина,not sports discipline competed in,не спортивная дисциплина,49498
+P3828,wears,надето,not wears,не надето,1752
+P5389,permanent resident of,постоянный резидент,not permanent resident of,не постоянный резидент,1288
+P4006,overrules,отвергает,not overrules,не отвергает,10
+P69,educated at,учебное заведение,not educated at,не учебное заведение,2269402
+P189,location of discovery,место обнаружения,not location of discovery,не место обнаружения,26285
+P3094,develops from,развивается из,not develops from,не развивается из,110
+P2825,via,через,not via,не через,861
+P4934,calculated from,вычисляется из,not calculated from,не вычисляется из,578
+P2462,member of the deme,член дема,not member of the deme,не член дема,195
+P2937,parliamentary term,срок полномочий парламента,not parliamentary term,не срок полномочий парламента,6378
+P2828,corporate officer,сотрудник организации,not corporate officer,не сотрудник организации,98
+P400,platform,платформа,not platform,не платформа,98555
+P4353,nominated by,кто номинировал,not nominated by,не кто номинировал,230
+P690,space group,кристаллографическая группа,not space group,не кристаллографическая группа,2228
+P681,cell component,компонент клетки,not cell component,не компонент клетки,899727
+P425,field of this occupation,сфера деятельности,not field of this occupation,не сфера деятельности,5765
+P6364,official color,официальный цвет,not official color,не официальный цвет,3090
+P8786,dedicated heritage entity,специализированное учреждение наследия,not dedicated heritage entity,не специализированное учреждение наследия,170
+P1049,worshipped by,божество относится к,not worshipped by,не божество относится к,2380
+P1881,list of characters,список персонажей,not list of characters,не список персонажей,878
+P2175,medical condition treated,применяется для лечения,not medical condition treated,не применяется для лечения,6992
+P4843,development of anatomical structure,развитие анатомической структуры,not development of anatomical structure,не развитие анатомической структуры,160
+P8701,has census,имеет перепись населения,not has census,не имеет перепись населения,596
+P2353,statistical unit,статистическая единица,not statistical unit,не статистическая единица,25
+P1571,codomain,кодомен,not codomain,не кодомен,76
+P972,catalog,каталог,not catalog,не каталог,69086
+P3461,designated as terrorist by,признаётся террористической организацией по версии,not designated as terrorist by,не признаётся террористической организацией по версии,238
+P688,encodes,кодирует,not encodes,не кодирует,973826
+P1592,prosecutor,обвинитель,not prosecutor,не обвинитель,426
+P5051,towards,по направлению к,not towards,не по направлению к,64
+P200,inflows,впадающие в озеро реки,not inflows,не впадающие в озеро реки,14887
+P1924,vaccine for,является вакциной против,not vaccine for,не является вакциной против,203
+P4954,may prevent,Может предотвращать,not may prevent,не Может предотвращать,10
+P1706,together with,совместно с,not together with,не совместно с,72
+P1318,proved by,кем доказано,not proved by,не кем доказано,125
+P2551,used metre,использованный метр,not used metre,не использованный метр,344
+P2578,studies,предмет изучения,not studies,не предмет изучения,1954
+P812,academic major,специальность,not academic major,не специальность,2838
+P8058,symbol of,является символом,not symbol of,не является символом,49
+P4584,first appearance,первое появление,not first appearance,не первое появление,6985
+P1456,list of monuments,список памятников,not list of monuments,не список памятников,20144
+P4446,reward program,программа вознаграждения,not reward program,не программа вознаграждения,275
+P1532,country for sport,представляет страну в спорте,not country for sport,не представляет страну в спорте,201826
+P1809,choreographer,хореограф,not choreographer,не хореограф,4208
+P522,type of orbit,тип орбиты,not type of orbit,не тип орбиты,1169
+P9302,script style,стиль шрифта,not script style,не стиль шрифта,310
+P344,director of photography,кинооператор,not director of photography,не кинооператор,91536
+P2319,elector,избиратель,not elector,не избиратель,67
+P500,exclave of,эксклав от,not exclave of,не эксклав от,130
+P407,language of work or name,язык произведения или названия,not language of work or name,не язык произведения или названия,14800503
+P2396,image of function,множество значений,not image of function,не множество значений,47
+P1454,legal form,организационно-правовая форма,not legal form,не организационно-правовая форма,197130
+P467,legislated by,принят законодателем,not legislated by,не принят законодателем,46724
+P3349,designed to carry,предназначен для перевозки,not designed to carry,не предназначен для перевозки,166
+P2500,league level below,лига на уровень ниже,not league level below,не лига на уровень ниже,6576
+P7137,acknowledged,благодарности,not acknowledged,не благодарности,858
+P264,record label,лейбл звукозаписи,not record label,не лейбл звукозаписи,338731
+P5102,nature of statement,природа утверждения,not nature of statement,не природа утверждения,29
+P8625,bibliography,библиография,not bibliography,не библиография,70
+P736,cover art by,художник обложки,not cover art by,не художник обложки,6718
+P2820,cardinality of this set,мощность множества,not cardinality of this set,не мощность множества,52
+P9071,character type,тип персонажа,not character type,не тип персонажа,3186
+P770,cause of destruction,причина разрушения,not cause of destruction,не причина разрушения,1380
+P1393,proxy,представитель,not proxy,не представитель,49
+P2821,by-product,побочный продукт,not by-product,не побочный продукт,49
+P647,drafted by,задрафтован,not drafted by,не задрафтован,11790
+P531,diplomatic mission sent,дипломатическая миссия,not diplomatic mission sent,не дипломатическая миссия,1710
+P6338,colorist,колорист,not colorist,не колорист,1312
+P4743,animal breed,порода животных,not animal breed,не порода животных,8622
+P1313,office held by head of government,должность главы правительства,not office held by head of government,не должность главы правительства,62785
+P3037,spatial reference system,система пространственной привязки,not spatial reference system,не система пространственной привязки,3
+P7045,chassis,шасси,not chassis,не шасси,48
+P1026,academic thesis,диссертация,not academic thesis,не диссертация,11022
+P7261,use restriction status,статус ограничения использования,not use restriction status,не статус ограничения использования,415440
+P5460,grants,присуждает учёную степень,not grants,не присуждает учёную степень,696
+P6149,running mate,кандидат в вице-президенты или в вице-губернаторы,not running mate,не кандидат в вице-президенты или в вице-губернаторы,2
+P78,top-level Internet domain,интернет-домен верхнего уровня,not top-level Internet domain,не интернет-домен верхнего уровня,344
+P4312,camera setup,метод съёмки,not camera setup,не метод съёмки,1871
+P8791,digitised by,оцифровано,not digitised by,не оцифровано,2705
+P658,tracklist,композиции,not tracklist,не композиции,33907
+P991,successful candidate,победивший кандидат,not successful candidate,не победивший кандидат,23167
+P2674,next crossing downstream,следующая переправа ниже по течению,not next crossing downstream,не следующая переправа ниже по течению,1604
+P8324,funder,заказчик,not funder,не заказчик,1904
+P2701,file format,формат файла,not file format,не формат файла,566
+P7108,location of the point of view,место точки зрения,not location of the point of view,не место точки зрения,512
+P1780,school of,принадлежит школе,not school of,не принадлежит школе,19
+P1340,eye color,цвет глаз,not eye color,не цвет глаз,10047
+P1302,primary destinations,основные направления,not primary destinations,не основные направления,3923
+P8047,country of registry,страна приписки,not country of registry,не страна приписки,68644
+P6216,copyright status,статус авторского права,not copyright status,не статус авторского права,1817697
+P6568,inscription mentions,надпись упоминает,not inscription mentions,не надпись упоминает,1719
+P1876,vehicle,транспортное средство,not vehicle,не транспортное средство,846
+P3816,film script,киносценарий,not film script,не киносценарий,28
+P2378,issued by,кем выдан,not issued by,не кем выдан,1797
+P841,feast day,праздник святого,not feast day,не праздник святого,8747
+P4599,monomer of,является мономером,not monomer of,не является мономером,61
+P2822,by-product of,побочный продукт от,not by-product of,не побочный продукт от,35
+P7374,educational stage,уровень образования,not educational stage,не уровень образования,81
+P414,stock exchange,биржа,not stock exchange,не биржа,13231
+P518,applies to part,указано для части,not applies to part,не указано для части,203
+P6439,has lyrics,имеет текст,not has lyrics,не имеет текст,404
+P7767,serving temperature,температура подачи,not serving temperature,не температура подачи,29
+P412,voice type,певческий голос,not voice type,не певческий голос,34254
+P289,vessel class,тип судна,not vessel class,не тип судна,13365
+P707,satellite bus,платформа космического аппарата,not satellite bus,не платформа космического аппарата,113
+P505,general manager,генеральный менеджер,not general manager,не генеральный менеджер,1482
+P2499,league level above,лига на уровень выше,not league level above,не лига на уровень выше,6639
+P6886,writing language,язык письменных произведений,not writing language,не язык письменных произведений,162201
+P693,cleavage,спайность,not cleavage,не спайность,63
+P1777,manner of,в манере,not manner of,не в манере,9
+P1574,exemplar of,является экземпляром,not exemplar of,не является экземпляром,1740
+P1387,political alignment,позиция в политическом спектре,not political alignment,не позиция в политическом спектре,4250
+P4149,conjugate base,сопряженное основание,not conjugate base,не сопряженное основание,358
+P5444,model year,год выпуска модели,not model year,не год выпуска модели,63
+P91,sexual orientation,сексуальная ориентация,not sexual orientation,не сексуальная ориентация,4111
+P30,continent,часть света,not continent,не часть света,83038
+P2515,costume designer,дизайнер костюмов,not costume designer,не дизайнер костюмов,12686
+P2577,admissible rule in,допустимое правило в,not admissible rule in,не допустимое правило в,8
+P2647,source of material,источник материала,not source of material,не источник материала,147
+P611,religious order,монашеский орден,not religious order,не монашеский орден,33053
+P2541,operating area,зона обслуживания,not operating area,не зона обслуживания,17829
+P3294,encoding,кодировка,not encoding,не кодировка,2
+P54,member of sports team,член спортивной команды,not member of sports team,не член спортивной команды,1546197
+P479,input method,способ ввода,not input method,не способ ввода,15149
+P6885,historical region,исторический регион,not historical region,не исторический регион,15038
+P2058,depositary,депозитарий,not depositary,не депозитарий,229
+P8403,theorised by,предсказано кем,not theorised by,не предсказано кем,83
+P110,illustrator,иллюстратор,not illustrator,не иллюстратор,14607
+P541,office contested,это выборы на должность,not office contested,не это выборы на должность,42849
+P588,coolant,охладитель,not coolant,не охладитель,485
+P1576,lifestyle,образ жизни,not lifestyle,не образ жизни,1288
+P1558,tempo marking,музыкальный темп,not tempo marking,не музыкальный темп,133
+P1774,workshop of,из мастерской,not workshop of,не из мастерской,7
+P543,oath made by,кто давал клятву,not oath made by,не кто давал клятву,90
+P504,home port,основной порт,not home port,не основной порт,5863
+P9237,reissue of,переиздание,not reissue of,не переиздание,202
+P4908,season,сезон,not season,не сезон,63882
+P6166,quotes work,цитирует работу,not quotes work,не цитирует работу,410
+P193,main building contractor,основная строительная организация,not main building contractor,не основная строительная организация,2904
+P945,allegiance,принадлежность,not allegiance,не принадлежность,60876
+P408,software engine,движок,not software engine,не движок,9860
+P5185,grammatical gender,грамматический род,not grammatical gender,не грамматический род,240803
+P4647,location of first performance,место первого исполнения,not location of first performance,не место первого исполнения,18266
+P1079,launch contractor,подрядчик запуска,not launch contractor,не подрядчик запуска,254
+P1399,convicted of,осуждён за,not convicted of,не осуждён за,10528
+P114,airline alliance,авиационный альянс,not airline alliance,не авиационный альянс,278
+P512,academic degree,учёная степень,not academic degree,не учёная степень,132400
+P3279,statistical leader,лидер по статистике,not statistical leader,не лидер по статистике,2642
+P4220,order of battle,порядок битвы,not order of battle,не порядок битвы,409
+P5514,accredited by,аккредитован,not accredited by,не аккредитован,4154
+P2501,results,результаты,not results,не результаты,84
+P735,given name,личное имя,not given name,не личное имя,6673611
+P126,maintained by,ответственность несёт,not maintained by,не ответственность несёт,528563
+P1408,licensed to broadcast to,лицензия на вещание в,not licensed to broadcast to,не лицензия на вещание в,16665
+P5137,item for this sense,элемент для смысла,not item for this sense,не элемент для смысла,115540
+P5009,complies with,соответствует норме,not complies with,не соответствует норме,163
+P1437,plea,признание вины,not plea,не признание вины,7
+P533,target,цель,not target,не цель,1496
+P306,operating system,операционная система,not operating system,не операционная система,39330
+P816,decays to,распадается на,not decays to,не распадается на,7387
+P2291,charted in,занял место в,not charted in,не занял место в,1601
+P1383,contains settlement,включает населённый пункт,not contains settlement,не включает населённый пункт,32821
+P2849,produced by,продуцируется,not produced by,не продуцируется,272
+P21,sex or gender,пол или гендер,not sex or gender,не пол или гендер,7876165
+P682,biological process,биологический процесс,not biological process,не биологический процесс,1194167
+P5817,state of use,состояние использования,not state of use,не состояние использования,62593
+P5059,modified version of,модифицированная версия от,not modified version of,не модифицированная версия от,1466
+P3005,valid in place,истинно для места,not valid in place,не истинно для места,173
+P655,translator,переводчик,not translator,не переводчик,18384
+P1840,investigated by,расследуется,not investigated by,не расследуется,576
+P5422,has pattern,имеет орнамент,not has pattern,не имеет орнамент,407
+P912,has facility,оборудован,not has facility,не оборудован,16547
+P3014,laws applied,применяемый закон,not laws applied,не применяемый закон,173
+P4634,premiere type,вид премьеры,not premiere type,не вид премьеры,469
+P6524,expression of,выражение для,not expression of,не выражение для,1406
+P1192,connecting service,обслуживается маршрутом,not connecting service,не обслуживается маршрутом,41150
+P8031,perpetrator,преступник,not perpetrator,не преступник,818
+P4101,dissertation submitted to,диссертация защищалась в,not dissertation submitted to,не диссертация защищалась в,69721
+P2563,superhuman feature or ability,сверхчеловеческая особенность или способность,not superhuman feature or ability,не сверхчеловеческая особенность или способность,6800
+P2360,intended public,целевая аудитория,not intended public,не целевая аудитория,7870
+P2839,gait,походка,not gait,не походка,17
+P57,director,режиссёр,not director,не режиссёр,332848
+P7604,supervised by,надзор осуществляет,not supervised by,не надзор осуществляет,77
+P2922,month of the year,месяц,not month of the year,не месяц,4599
+P2408,set in period,действие происходит в эпоху,not set in period,не действие происходит в эпоху,7382
+P2239,first aid measures,меры первой помощи,not first aid measures,не меры первой помощи,2825
+P1637,undercarriage,шасси летательного аппарата,not undercarriage,не шасси летательного аппарата,225
+P560,direction,направление,not direction,не направление,36
+P6241,collection creator,создатель коллекции,not collection creator,не создатель коллекции,6094
+P1596,penalty,наказание,not penalty,не наказание,1918
+P881,type of variable star,тип переменной звезды,not type of variable star,не тип переменной звезды,385883
+P4387,update method,метод обновления,not update method,не метод обновления,119
+P5030,talk show guest,гость ток-шоу,not talk show guest,не гость ток-шоу,15550
+P2341,indigenous to,происходит из,not indigenous to,не происходит из,18247
+P8097,network bands,сетевые диапазоны,not network bands,не сетевые диапазоны,26
+P6106,uses capitalization for,использует заглавные буквы для,not uses capitalization for,не использует заглавные буквы для,38
+P4132,linguistic typology,языковая типология,not linguistic typology,не языковая типология,2248
+P8938,artistic director,художественный руководитель,not artistic director,не художественный руководитель,78
+P1027,conferred by,награда от,not conferred by,не награда от,15110
+P4070,identifier shared with,разделяет идентификатор с,not identifier shared with,не разделяет идентификатор с,19
+P785,hymenium attachment,тип прикрепления гимения,not hymenium attachment,не тип прикрепления гимения,893
+P941,inspired by,вдохновлено,not inspired by,не вдохновлено,5758
+P1877,after a work by,в результате влияния работы,not after a work by,не в результате влияния работы,12339
+P4969,derivative work,производная работа,not derivative work,не производная работа,19804
+P6440,maintenance method,метод обслуживания,not maintenance method,не метод обслуживания,38
+P3969,signed form,жестовая форма,not signed form,не жестовая форма,3
+P6237,real estate developer,застройщик,not real estate developer,не застройщик,79
+P1915,gene inversion association with,инверсия гена связана с,not gene inversion association with,не инверсия гена связана с,2
+P92,main regulatory text,главный регулирующий текст,not main regulatory text,не главный регулирующий текст,9320
+P520,armament,вооружение,not armament,не вооружение,5520
+P5028,sound designer,звукорежиссёр,not sound designer,не звукорежиссёр,3237
+P925,presynaptic connection,пресинаптическая связь,not presynaptic connection,не пресинаптическая связь,6
+P4844,research intervention,параметр исследования,not research intervention,не параметр исследования,148111
+P205,basin country,бассейн объекта в странах,not basin country,не бассейн объекта в странах,17703
+P8111,recommended unit of measurement,рекомендуемая единица измерения,not recommended unit of measurement,не рекомендуемая единица измерения,1167
+P943,programmer,программист,not programmer,не программист,388
+P8744,economy of topic,экономика темы,not economy of topic,не экономика темы,1377
+P1028,donated by,подарок от,not donated by,не подарок от,9673
+P8225,is metaclass for,метакласс для,not is metaclass for,не метакласс для,372
+P3452,inferred from,вывод из,not inferred from,не вывод из,2
+P447,review score by,оценка от,not review score by,не оценка от,14
+P7086,start grade,начальный класс,not start grade,не начальный класс,3730
+P6224,level of description,уровень описания,not level of description,не уровень описания,628069
+P2392,teaching method,методика обучения,not teaching method,не методика обучения,58
+P2817,appears in the heritage monument list,входит в состав списка памятников культурного наследия,not appears in the heritage monument list,не входит в состав списка памятников культурного наследия,268047
+P2596,culture,культура,not culture,не культура,10030
+P1478,has immediate cause,непосредственной причиной является,not has immediate cause,не непосредственной причиной является,125023
+P9493,artist files at,файлы артиста по адресу,not artist files at,не файлы артиста по адресу,55899
+P1018,language regulatory body,регулятор языка,not language regulatory body,не регулятор языка,208
+P485,archives at,архивы хранятся в,not archives at,не архивы хранятся в,75475
+P2507,corrigendum / erratum,публикация со списком ошибок и неточностей,not corrigendum / erratum,не публикация со списком ошибок и неточностей,33265
+P2912,distinctive jersey,отличительный знак лидера,not distinctive jersey,не отличительный знак лидера,2
+P3310,muscle action,действие мышцы,not muscle action,не действие мышцы,253
+P2974,habitat,среда обитания,not habitat,не среда обитания,162
+P3301,broadcast by,транслируется на,not broadcast by,не транслируется на,7431
+P1654,wing configuration,аэродинамическая схема,not wing configuration,не аэродинамическая схема,1109
+P2681,is recto of,лицевая сторона для,not is recto of,не лицевая сторона для,164
+P1568,definition domain,область определения,not definition domain,не область определения,125
+P1914,gene insertion association with,генная вставка связана с,not gene insertion association with,не генная вставка связана с,2
+P5236,prime factor,простой множитель,not prime factor,не простой множитель,151194
+P2964,right to vote,право голоса,not right to vote,не право голоса,68
+P97,noble title,титул,not noble title,не титул,54552
+P1136,solved by,кем решена,not solved by,не кем решена,116
+P1851,input set,область определения частично определённой функции,not input set,не область определения частично определённой функции,32
+P16,transport network,система автомагистралей,not transport network,не система автомагистралей,52704
+P1622,driving side,сторона автомобильного движения,not driving side,не сторона автомобильного движения,428
+P4082,captured with,снято на,not captured with,не снято на,20
+P5025,gens,древнеримский род,not gens,не древнеримский род,6395
+P1897,highest note,верхняя нота,not highest note,не верхняя нота,6
+P3093,recovered by,возвращён,not recovered by,не возвращён,57
+P4661,reservoir created,дамбовое водохранилище,not reservoir created,не дамбовое водохранилище,3203
+P3148,repeals,отменяет,not repeals,не отменяет,28838
+P6153,research site,место проведения исследования,not research site,не место проведения исследования,266976
+P5642,risk factor,фактор риска,not risk factor,не фактор риска,198
+P4878,symbolizes,символизирует,not symbolizes,не символизирует,51
+P5072,presented in,представлено на,not presented in,не представлено на,846
+P3919,contributed to creative work,является соавтором опубликованной работы,not contributed to creative work,не является соавтором опубликованной работы,5086
+P5658,railway traffic side,сторона железнодорожного движения,not railway traffic side,не сторона железнодорожного движения,282
+P9883,created for,создано для,not created for,не создано для,35
+P811,academic minor,второстепенный общеобразовательный предмет,not academic minor,не второстепенный общеобразовательный предмет,103
+P19,place of birth,место рождения,not place of birth,не место рождения,3035164
+P4320,mountains classification,горная классификация,not mountains classification,не горная классификация,10054
+P501,enclave within,анклав в,not enclave within,не анклав в,249
+P8258,field of training,область обучения,not field of training,не область обучения,19
+P3415,start period,начало периода,not start period,не начало периода,58
+P9714,taxon range,ареал таксона,not taxon range,не ареал таксона,60
+P5133,has evaluation,имеет оценку,not has evaluation,не имеет оценку,24
+P3091,mount,верховое животное,not mount,не верховое животное,746
+P3440,time signature,размер такта,not time signature,не размер такта,81
+P1429,has pet,питомец,not has pet,не питомец,318
+P3938,named by,кем названо,not named by,не кем названо,628
+P6087,coach of sports team,тренер спортивной команды,not coach of sports team,не тренер спортивной команды,11850
+P3871,tributary orientation,сторона притока,not tributary orientation,не сторона притока,547
+P3082,destroyed,уничтожено,not destroyed,не уничтожено,283
+P1591,defendant,обвиняемый,not defendant,не обвиняемый,4610
+P642,of,относится к,not of,не относится к,5091
+P1703,is pollinated by,опылитель,not is pollinated by,не опылитель,79
+P6195,funding scheme,схема финансирования,not funding scheme,не схема финансирования,3765
+P3780,active ingredient in,является активным ингредиентом в,not active ingredient in,не является активным ингредиентом в,2529
+P2414,substrate of,сырьё для,not substrate of,не сырьё для,9
+P4000,has fruit type,имеет плод типа,not has fruit type,не имеет плод типа,3039
+P2746,production statistics,статистика производства,not production statistics,не статистика производства,52
+P4600,polymer of,полимер для,not polymer of,не полимер для,71
+P4444,reward,вознаграждение,not reward,не вознаграждение,24
+P3858,route diagram,маршрутная карта,not route diagram,не маршрутная карта,3626
+P2852,emergency phone number,номер телефона экстренной службы,not emergency phone number,не номер телефона экстренной службы,634
+P834,train depot,железнодорожное депо,not train depot,не железнодорожное депо,691
+P702,encoded by,кодирующий ген,not encoded by,не кодирующий ген,976836
+P9899,music created for,музыка создана для,not music created for,не музыка создана для,182
+P2682,is verso of,оборотная сторона для,not is verso of,не оборотная сторона для,165
+P2279,ambitus,амбитус,not ambitus,не амбитус,37
+P9597,type of lens,тип линз,not type of lens,не тип линз,1726
+P545,torch lit by,кем зажжён факел,not torch lit by,не кем зажжён факел,73
+P4151,game mechanics,игровая механика,not game mechanics,не игровая механика,1760
+P2869,record or record progression,рекорд или история рекордов,not record or record progression,не рекорд или история рекордов,172
+P725,voice actor,актёр озвучивания,not voice actor,не актёр озвучивания,63208
+P6962,narrative motif,литературный мотив,not narrative motif,не литературный мотив,431
+P1620,plaintiff,истец,not plaintiff,не истец,365
+P397,parent astronomical body,родительское тело,not parent astronomical body,не родительское тело,12507
+P459,determination method,метод определения,not determination method,не метод определения,329
+P1299,depicted by,изображается на,not depicted by,не изображается на,10979
+P3989,members have occupation,род деятельности членов,not members have occupation,не род деятельности членов,1768
+P7959,historic county,историческое графство,not historic county,не историческое графство,782765
+P462,color,цвет,not color,не цвет,195178
+P1776,circle of,из круга,not circle of,не из круга,7
+P6540,multi-channel network,многоканальная сеть,not multi-channel network,не многоканальная сеть,44
+P3261,anatomical branch of,анатомически ответвляется от,not anatomical branch of,не анатомически ответвляется от,415
+P5314,property scope,используется как,not property scope,не используется как,1
+P241,military branch,вид или род войск,not military branch,не вид или род войск,114815
+P1891,signatory,подписавшийся,not signatory,не подписавшийся,17166
+P8864,identity element,нейтральный элемент,not identity element,не нейтральный элемент,6
+P2842,place of marriage,место свадьбы,not place of marriage,не место свадьбы,3
+P3174,art director,арт-директор,not art director,не арт-директор,1254
+P734,family name,фамилия,not family name,не фамилия,3641074
+P2429,expected completeness,ожидаемая полнота,not expected completeness,не ожидаемая полнота,3866
+P421,located in time zone,часовой пояс,not located in time zone,не часовой пояс,2008070
+P6587,league system,система спортивных лиг,not league system,не система спортивных лиг,231
+P410,military rank,воинское звание,not military rank,не воинское звание,157572
+P3335,associated hazard,грозящая опасность,not associated hazard,не грозящая опасность,71
+P1640,curator,куратор,not curator,не куратор,1600
+P546,docking port,док-порт,not docking port,не док-порт,56
+P1046,discovery method,метод обнаружения,not discovery method,не метод обнаружения,4253
+P942,theme music,музыкальная тема,not theme music,не музыкальная тема,3967
+P8363,study type,тип исследования,not study type,не тип исследования,349385
+P2989,has grammatical case,имеет падежи,not has grammatical case,не имеет падежи,430
+P7419,gender educated,пол студентов,not gender educated,не пол студентов,2904
+P5012,special rank,специальное звание или классный чин,not special rank,не специальное звание или классный чин,715
+P1445,fictional universe described in,вымышленная вселенная описана в,not fictional universe described in,не вымышленная вселенная описана в,4613
+P7078,typing discipline,типизация данных,not typing discipline,не типизация данных,774
+P3701,incarnation of,воплощение для,not incarnation of,не воплощение для,88
+P3438,vehicle normally used,обычно используемое транспортное средство,not vehicle normally used,не обычно используемое транспортное средство,2901
+P9600,oral history at,устная история в,not oral history at,не устная история в,743
+P5132,suggests the existence of,предполагает болезнь,not suggests the existence of,не предполагает болезнь,234
+P826,tonality,тональность,not tonality,не тональность,5039
+P873,phase point,фазовая точка,not phase point,не фазовая точка,27
+P1652,referee,рефери,not referee,не рефери,19997
+P3447,mirrors data from,повторяет данные из,not mirrors data from,не повторяет данные из,8
+P765,surface played on,тип покрытия,not surface played on,не тип покрытия,3968
+P3262,has anatomical branch,анатомически ветвится на,not has anatomical branch,не анатомически ветвится на,286
+P5026,lighting designer,художник-осветитель,not lighting designer,не художник-осветитель,5171
+P9215,set during recurring event,происходит во время повторяющегося события,not set during recurring event,не происходит во время повторяющегося события,3770
+P634,captain,капитан,not captain,не капитан,539
+P3150,birthday,день рождения,not birthday,не день рождения,3191
+P7936,business model,бизнес-модель,not business model,не бизнес-модель,2359
+P9353,does not have cause,не имеет причиной,not does not have cause,не не имеет причиной,11
+P101,field of work,область деятельности,not field of work,не область деятельности,252599
+P562,central bank/issuer,эмитент,not central bank/issuer,не эмитент,443
+P1589,lowest point,глубочайшая точка,not lowest point,не глубочайшая точка,512
+P5323,attested in,подтверждено в,not attested in,не подтверждено в,121128
+P924,possible treatment,лечение,not possible treatment,не лечение,699
+P1595,charge,предъявленное обвинение,not charge,не предъявленное обвинение,4516
+P1196,manner of death,род смерти,not manner of death,не род смерти,100146
+P3095,practiced by,практикуется,not practiced by,не практикуется,4814
+P8413,academic appointment,академическое назначение,not academic appointment,не академическое назначение,3220
+P2376,superpartner of,суперсимметричный партнёр для,not superpartner of,не суперсимметричный партнёр для,21
+P102,member of political party,член политической партии,not member of political party,не член политической партии,502780
+P1536,immediate cause of,является непосредственной причиной,not immediate cause of,не является непосредственной причиной,18761
+P1479,has contributing factor,способствовавшим фактором является,not has contributing factor,не способствовавшим фактором является,588
+P9831,release of,является релизом,not release of,не является релизом,2480
+P870,instrumentation,инструментовка,not instrumentation,не инструментовка,7611
+P6977,review of,рецензия на,not review of,не рецензия на,9683
+P199,business division,бизнес-подразделения,not business division,не бизнес-подразделения,1686
+P669,located on street or square,расположен на улице,not located on street or square,не расположен на улице,164995
+P780,symptoms and signs,симптомы,not symptoms and signs,не симптомы,10915
+P970,neurological function,неврологическая функция,not neurological function,не неврологическая функция,4
+P3263,base,основание фигуры,not base,не основание фигуры,116
+P878,avionics,авионика,not avionics,не авионика,168
+P1349,ploidy,плоидия,not ploidy,не плоидия,41
+P8411,set in environment,происходит в типе места,not set in environment,не происходит в типе места,15928
+P7501,audio system,аудио-система,not audio system,не аудио-система,2087
+P7010,imprimatur granted by,Имприматур дан,not imprimatur granted by,не Имприматур дан,5
+P3781,has active ingredient,имеет активный ингредиент,not has active ingredient,не имеет активный ингредиент,2691
+P612,mother house,головной монастырь,not mother house,не головной монастырь,820
+P748,appointed by,кем назначен,not appointed by,не кем назначен,5538
+P3931,copyright holder,владелец авторских прав,not copyright holder,не владелец авторских прав,3231
+P8693,fandom,фэндом,not fandom,не фэндом,63
+P8738,permits,разрешает,not permits,не разрешает,23
+P1029,crew member(s),члены экипажа,not crew member(s),не члены экипажа,2976
+P3679,stock market index,фондовый индекс,not stock market index,не фондовый индекс,76
+P1283,filmography,фильмография,not filmography,не фильмография,1518
+P2388,office held by head of the organization,должность руководителя организации,not office held by head of the organization,не должность руководителя организации,12812
+P3902,had as last meal,последняя трапеза,not had as last meal,не последняя трапеза,72
+P172,ethnic group,этническая группа,not ethnic group,не этническая группа,160731
+P872,printed by,отпечатано,not printed by,не отпечатано,2905
+P4967,prerequisite,предпосылка,not prerequisite,не предпосылка,191
+P4884,court,суд,not court,не суд,21138
+P5196,output method,способ вывода,not output method,не способ вывода,305
+P552,handedness,рабочая рука,not handedness,не рабочая рука,2257
+P7779,member of military unit,состоит в воинском формировании,not member of military unit,не состоит в воинском формировании,2490
+P6193,ratified by,ратифицирован(о/а),not ratified by,не ратифицирован(о/а),2631
+P5589,microstructure,микроструктура,not microstructure,не микроструктура,5
+P5248,medical evacuation to,медицинская эвакуация в,not medical evacuation to,не медицинская эвакуация в,36
+P5707,samples from work,образец,not samples from work,не образец,160
+P624,guidance system,тип системы наведения,not guidance system,не тип системы наведения,248
+P789,edibility,съедобность,not edibility,не съедобность,792
+P4032,reviewed by,рецензент,not reviewed by,не рецензент,510
+P832,public holiday,официальный праздник,not public holiday,не официальный праздник,1481
+P2868,subject has role,в качестве,not subject has role,не в качестве,353857
+P2012,cuisine,кухня,not cuisine,не кухня,2328
+P194,legislative body,законодательный орган,not legislative body,не законодательный орган,4257
+P9059,subdivision of this unit,делится на единицы,not subdivision of this unit,не делится на единицы,133
+P567,underlies,висячий бок,not underlies,не висячий бок,1542
+P1604,biosafety level,уровень биологической безопасности,not biosafety level,не уровень биологической безопасности,12
+P9419,personal library at,личная библиотека хранится в,not personal library at,не личная библиотека хранится в,285
+P3416,end period,окончание периода,not end period,не окончание периода,15
+P1290,godparent,крёстный родитель,not godparent,не крёстный родитель,1464
+P1594,judge,судья,not judge,не судья,9995
+P8431,course,тип блюда,not course,не тип блюда,95
+P2975,host,носитель,not host,не носитель,7413
+P7075,mod of,мод для,not mod of,не мод для,186
+P5021,assessment,оценивался тест,not assessment,не оценивался тест,25144
+P2384,statement describes,элемент или утверждение описывает,not statement describes,не элемент или утверждение описывает,197
+P248,stated in,утверждается в,not stated in,не утверждается в,785
+P6339,reports periodicity,интервал значений,not reports periodicity,не интервал значений,18159
+P4622,trophy awarded,вручаемая награда,not trophy awarded,не вручаемая награда,255
+P887,based on heuristic,на основе эвристики,not based on heuristic,не на основе эвристики,1
+P4792,dam,плотина,not dam,не плотина,3135
+P6291,advertises,рекламирует,not advertises,не рекламирует,866
+P739,ammunition,патрон,not ammunition,не патрон,2509
+P1074,fictional analog of,аналог в реальном мире,not fictional analog of,не аналог в реальном мире,1877
+P607,conflict,война/сражение,not conflict,не война/сражение,221623
+P553,website account on,учётная запись в социальных медиа,not website account on,не учётная запись в социальных медиа,2218
+P4791,commanded by,командир,not commanded by,не командир,3546
+P1303,instrument,музыкальный инструмент,not instrument,не музыкальный инструмент,210870
+P3028,open period to,сезон открыт до,not open period to,не сезон открыт до,13
+P7378,item disputed by,оспаривается,not item disputed by,не оспаривается,13
+P1433,published in,опубликовано в,not published in,не опубликовано в,37916091
+P937,work location,место активности,not work location,не место активности,339031
+P610,highest point,наивысшая точка,not highest point,не наивысшая точка,5503
+P208,executive body,исполнительная власть,not executive body,не исполнительная власть,1672
+P8670,character designer,дизайнер персонажей,not character designer,не дизайнер персонажей,1818
+P2738,disjoint union of,является одним и только одним из,not disjoint union of,не является одним и только одним из,458
+P790,approved by,получил одобрение от,not approved by,не получил одобрение от,29098
+P817,decay mode,тип распада,not decay mode,не тип распада,3
+P3831,object has role,значение выступает в роли,not object has role,не значение выступает в роли,65
+P2575,measures,измеряет,not measures,не измеряет,252
+P2445,metasubclass of,метаподкласс от,not metasubclass of,не метаподкласс от,41
+P1779,possible creator,возможный создатель,not possible creator,не возможный создатель,38
+P86,composer,композитор,not composer,не композитор,188471
+P7781,exonerated of,реабилитрован в,not exonerated of,не реабилитрован в,48
+P5769,editor-in-chief,шеф-редактор,not editor-in-chief,не шеф-редактор,2325
+P7152,copyright exemption,исключение из авторского права,not copyright exemption,не исключение из авторского права,1
+P2770,source of income,источник дохода,not source of income,не источник дохода,500
+P926,postsynaptic connection,постсинаптическая связь,not postsynaptic connection,не постсинаптическая связь,7
+P530,diplomatic relation,дипломатические отношения,not diplomatic relation,не дипломатические отношения,7046
+P47,shares border with,имеет границы с,not shares border with,не имеет границы с,605173
+P461,opposite of,противоположно,not opposite of,не противоположно,23857
+P460,said to be the same as,предположительно одно и то же с,not said to be the same as,не предположительно одно и то же с,285208
+P3373,sibling,брат/сестра,not sibling,не брат/сестра,407131
+P26,spouse,супруг(а),not spouse,не супруг(а),731197
+P7047,enemy of,враг,not enemy of,не враг,3809
+P451,unmarried partner,сожитель,not unmarried partner,не сожитель,14156
+P1889,different from,не путать с,not different from,не не путать с,801466
+P3403,coextensive with,занимает ту же территорию с,not coextensive with,не занимает ту же территорию с,4076
+P190,twinned administrative body,город-побратим,not twinned administrative body,не город-побратим,48990
+P2152,antiparticle,античастица,not antiparticle,не античастица,79
+P1382,partially coincident with,частично совпадает с,not partially coincident with,не частично совпадает с,17887
+P4777,has boundary,имеет границей,not has boundary,не имеет границей,1156
+P1038,relative,родственник,not relative,не родственник,52123
+P197,adjacent station,соседний остановочный пункт,not adjacent station,не соседний остановочный пункт,209079
+P833,interchange station,станция пересадки,not interchange station,не станция пересадки,3685
+P2789,connects with,соединяется с,not connects with,не соединяется с,183333
+P3342,significant person,значимый человек,not significant person,не значимый человек,15439
+P1327,partner in business or sport,партнёр в спорте или профессии,not partner in business or sport,не партнёр в спорте или профессии,17571
+P399,companion of,компаньон,not companion of,не компаньон,4476
+P1420,taxon synonym,синоним таксона,not taxon synonym,не синоним таксона,21387
+P129,physically interacts with,взаимодействует с,not physically interacts with,не взаимодействует с,9480
+P1322,dual to,двойственнен к,not dual to,не двойственнен к,351
+P2375,has superpartner,суперсимметричный партнёр,not has superpartner,не суперсимметричный партнёр,20
+P1639,pendant of,пандан для,not pendant of,не пандан для,2268
+P3032,adjacent building,смежное здание,not adjacent building,не смежное здание,5242
+P6185,tautomer of,таутомер,not tautomer of,не таутомер,1063
+P3179,territory overlaps,территория перекрывается с,not territory overlaps,не территория перекрывается с,8370
+P144,based on,создано на основе,not based on,не создано на основе,52294
+P737,influenced by,испытал влияние от,not influenced by,не испытал влияние от,18552
+P2444,homoglyph,омоглиф,not homoglyph,не омоглиф,1752
+P8865,mathematical inverse,обратно к,not mathematical inverse,не обратно к,84
+P2329,antagonist muscle,мышца-антагонист,not antagonist muscle,не мышца-антагонист,101
+P684,ortholog,ортолог,not ortholog,не ортолог,4320878
+P2652,partnership with,в партнёрстве с,not partnership with,не в партнёрстве с,3328
+P3364,stereoisomer of,стереоизомер для,not stereoisomer of,не стереоизомер для,2013
+P53,family,род,not family,не род,89379
+P1416,affiliation,принадлежит к,not affiliation,не принадлежит к,86685
+P3113,does not have part,не включает,not does not have part,не не включает,499
+P514,interleaves with,перемежается с,not interleaves with,не перемежается с,31
+P2860,cites work,ссылается на,not cites work,не ссылается на,285213488
+P8956,compatible with,совместим с,not compatible with,не совместим с,222
+P807,separated from,отделилось от,not separated from,не отделилось от,2321
+P1557,manifestation of,является воплощением,not manifestation of,не является воплощением,2120
+P2210,relative to,по отношению к,not relative to,не по отношению к,48
+P4675,appears in the form of,появляется в виде,not appears in the form of,не появляется в виде,373
+P6477,does not have quality,не обладает свойством,not does not have quality,не не обладает свойством,344
+P2650,interested in,область интересов,not interested in,не область интересов,14947
+P547,commemorates,в память о,not commemorates,не в память о,26003
+P5004,in opposition to,против,not in opposition to,не против,461
+P1268,represents,представляет,not represents,не представляет,5411
+P825,dedicated to,посвящено,not dedicated to,не посвящено,50406
+P7719,generalization of,влечёт за собой,not generalization of,не влечёт за собой,37
+P31,instance of,это частный случай понятия,not instance of,не это частный случай понятия,103114325
+P1441,present in work,представлено в работе,not present in work,не представлено в работе,126749
+P828,has cause,причиной является,not has cause,не причиной является,9257
+P1542,has effect,вызывает,not has effect,не вызывает,5715
+P2737,union of,является объединением,not union of,не является объединением,375

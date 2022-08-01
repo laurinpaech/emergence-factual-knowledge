@@ -1,0 +1,53 @@
+id1,en1,es1,fr1,de1,ru1,ja1,zh1,id2,en2,es2,fr2,de2,ru2,ja2,zh2,count1,count2
+P1535,used by,utilizado por,utilisé par,verwendet von,находится в пользовании у,使用者,由誰使用,P2283,uses,utiliza,utilise,benutzt,использует,使用するもの,使用,9765,27605
+P1411,nominated for,nominado a,nommé pour,nominiert für,номинирован(а) на,ノミネート,提名或入圍獎項,P2453,nominee,nominado,nommé,Nominierter,номинант,候補者,被提名人,68638,164
+P3148,repeals,revoca,abroge,hebt auf,отменяет,以下の文書を廃止,廢除,P2568,repealed by,abrogado por,abrogé par,aufgehoben durch,скорректирован,以下の文書によって廃止,取代者,28838,33377
+P2579,studied by,estudiado por,discipline dont c'est l'objet,Forschungsthema in,изучается в,研究する分野,研究学科,P2578,studies,estudia,objet de la discipline,studiert,предмет изучения,研究分野,研究對象,5967,1954
+P2682,is verso of,es verso de,est le verso,ist Rückseite von,оборотная сторона для,の逆です,反面是,P2681,is recto of,es recto de,est le recto,ist Vorderseite von,лицевая сторона для,の直腸です,是前面,165,164
+P770,cause of destruction,causa de destrucción,cause de la destruction,Grund der Zerstörung,причина разрушения,破壊原因,衰亡原因,P3082,destroyed,ha destruido,détruit,zerstört,уничтожено,全壊,毀壞,1380,283
+P425,field of this occupation,ámbito de la ocupación,domaine d'occupation,Betätigungsfeld des Berufes,сфера деятельности,専門的職業の分野,专业领域,P3095,practiced by,practicado por,pratiqué par,praktiziert von,практикуется,従事者,从业者,5765,4814
+P3730,next higher rank,rango inmediatamente superior,rang immédiatement supérieur,nächsthöherer Rang,уровень выше,一つ上位のランク,下一個更高級別,P3729,next lower rank,rango inmediatamente inferior,rang immédiatement inférieur,nächstniedrigerer Rang,уровень ниже,一つ下位のランク,下一層,4403,4149
+P144,based on,basado en,basé sur,basiert auf,создано на основе,派生元,改編自,P4969,derivative work,obra derivada,œuvre dérivée,Bearbeitung,производная работа,派生作品,衍生作品,52294,19804
+P5135,greater than,mayor que,supérieur à,größer als,больше чем,超,大於,P5136,less than,menor que,inférieur à,weniger als,меньше чем,未満,少於,77,64
+P1027,conferred by,conferido por,décerné par,verliehen von,награда от,授与者,颁发者,P5460,grants,confiere,diplôme ou distinction délivré,verleiht akademischen Grad,присуждает учёную степень,授与する学位・称号,贈款,15110,696
+P8032,victim,víctima,victime,Opfer,жертва,被害者,受害人,P8031,perpetrator,perpetrador,perpétrateur,Täter,преступник,加害者,加害人,870,818
+P1308,officeholder,titular del cargo,titulaire,Amtsinhaber,должность занимает,在職者,公职人员,P39,position held,cargo ocupado,fonction,öffentliches Amt oder Stellung,занимаемая должность,公職,职务,17533,1456025
+P22,father,padre,père,Vater,отец,父親,父亲,P40,child,hijo o hija,enfant,Kind(er),дети,子,子女,952062,1551742
+P25,mother,madre,mère,Mutter,мать,母親,母亲,P40,child,hijo o hija,enfant,Kind(er),дети,子,子女,601247,1551742
+P8810,parent,padres,parent,Elternteil,родитель,親,亲代,P40,child,hijo o hija,enfant,Kind(er),дети,子,子女,13,1551742
+P1830,owner of,propietario de,propriétaire de,Inhaber von,владеет,所有物,擁有,P127,owned by,propietario,propriétaire,Eigentümer,владельцем является,所有者,所有者,45238,466709
+P156,followed by,sucedido por,suivi par,Nachfolger,следующее по порядку,次,之后是,P155,follows,precedido por,précédé par,Vorgänger,предыдущее по порядку,前,之前是,1118555,1136252
+P453,character role,rol,rôle,Rolle,играет роль персонажа,配役,人物角色,P175,performer,intérprete,interprète,Interpret,исполнитель/артист,演者・演奏者・歌手,表演者,506,499822
+P1299,depicted by,representado por,est dépeint par,dargestellt von,изображается на,描写した作品,描绘作品,P180,depicts,representa a,dépeint,Motiv,изображённый объект,題材,描繪內容,10979,614541
+P184,doctoral advisor,supervisor doctoral,directeur de thèse,Promotionsbetreuer,научный руководитель,博士論文指導教授,博士生导师,P185,doctoral student,doctorando,doctorant,Doktorand,аспиранты / докторанты,博士課程指導学生,博士生,302831,297261
+P749,parent organization,organización matriz,organisation mère,übergeordnete Organisation,"материнская компания (организация, учреждение)",上部組織,母组织,P355,subsidiary,filial,organisation fille,nachgeordnete Organisation,"дочерние компании (организации, учреждения)",下部組織,子组织,122549,93001
+P568,overlies,suprayacente a,mur,Liegend,лежачий бок,下位層,覆蓋,P567,underlies,infrayacente a,toit,Hangend,висячий бок,上位層,底層,1555,1542
+P1441,present in work,presente en la obra,présent dans l'œuvre,kommt vor in,представлено в работе,登場する作品,登场作品,P674,characters,personajes,personnages,Figuren,персонажи,登場人物,登场角色,126749,120548
+P688,encodes,codifica,synthètise,codiert,кодирует,遺伝子産物,生物编码,P702,encoded by,codificado por,codé par,codiert von,кодирующий ген,コードしている遺伝子,編碼基因,973826,976836
+P3602,candidacy in election,candidato en la elección,candidat à l'élection,kandidiert(e) für,кандидат на выборах,立候補選挙,競選,P726,candidate,candidato,candidat,Kandidat,кандидаты,立候補者,候選人,158938,90180
+P3919,contributed to creative work,contribuyó en la obra publicada,a contribué à une œuvre publiée,Mitarbeit an Publikationen,является соавтором опубликованной работы,貢献作品,為創造性工作做出了貢獻,P767,contributor to the creative work or subject,colaborador,collaborateur,Mitarbeiter des Werks,"соавтор, сделавший вклад в субъект",作品の協力者,创作作品或主题的贡献者,5086,41528
+P1542,has effect,causa de,a pour effet,Ursache von,вызывает,以下の原因,導致,P828,has cause,causado por,a pour cause,Ursache,причиной является,原因,起因,5715,9257
+P201,lake outflow,emisario del lago,émissaire du lac,Abfluss,вытекающие из озера реки,流出先,流出,P885,origin of the watercourse,origen del curso de agua,source,Quelle des Wasserlaufs,исток водотока,水源,源头,9202,12289
+P925,presynaptic connection,conexión presináptica,connexion présynaptique,präsynaptische Verbindung,пресинаптическая связь,シナプス前細胞,突触,P926,postsynaptic connection,conexión postsináptica,connexion postsynaptique,postsynaptische Verbindung,постсинаптическая связь,シナプス後細胞,突觸後連接,6,7
+P5096,member of the crew of,tripulante de,membre de l'équipage de,Mitglied der Besatzung von,член экипажа,以下の乗組員,船員,P1029,crew member(s),tripulante,équipage,Mannschaftsmitglied,члены экипажа,乗組員,機組人員,1386,2976
+P1875,represented by,representante,représenté par,repräsentiert von,кто представляет,仲介者,代表者,P1268,represents,representa,représente,repräsentiert,представляет,以下の代表,代表对象,8117,5411
+P1620,plaintiff,demandante,demandeur,Kläger,истец,原告,原告,P1591,defendant,imputado,défendeur,Angeklagter,обвиняемый,被告,被告人,365,4610
+P2522,victory,victoria,victoire,Sieg,победа,優勝歴,獲勝賽事,P1346,winner,ganador,vainqueur,Sieger,победитель,勝者,獲勝者,17913,246743
+P1366,replaced by,reemplazado por,remplacé par,ersetzt durch,заменён на,後継,後繼者,P1365,replaces,reemplaza a,remplace,ersetzt,заменил,先行,取代對象,86569,85769
+P1643,departure transaction,transacción de salida,conditions de départ,Abgang des Sportlers,как игрок вышел из состава,出発取引,離境交易,P1642,acquisition transaction,condiciones de la transferencia,conditions de transfert,Transferabwicklung,сделка по приобретению,獲得方法,收購交易,0,1
+P1434,takes place in fictional universe,describe el universo ficticio,décrit l'univers de fiction,beschreibt fiktives Universum,описывает вымышленный мир,舞台の架空世界,发生在虚构的宇宙中,P1445,fictional universe described in,universo ficticio descrito en,univers de fiction décrit dans,fiktives Universum wird beschrieben in,вымышленная вселенная описана в,舞台とする作品,虚构世界描述于,15814,4613
+P1066,student of,alumno de,élève de,Schüler von,обучался у,師匠,老師,P802,student,discípulo,élève,Schüler,ученики,弟子,學生,86511,62796
+P5134,evaluation of,evaluación de,évaluation de,Auswertung von,оценка для,以下の評価,評估,P5133,has evaluation,tiene evaluación,a pour évaluation,hat Auswertung,имеет оценку,主題の評価,医学发现,26,24
+P360,is a list of,lista de,est une liste de,Liste von,в этом списке перечисляются,一覧の主題,列表所属项目,P2354,has list,lista del elemento,liste d'éléments,entsprechende Liste,соответствующий список,一覧,相关列表,249192,32329
+P527,has part,compuesto por,comprend,besteht aus,состоит из,以下を含む,可分為,P361,part of,forma parte de,partie de,ist Teil von,часть от,以下の一部分,从属于,1935300,4368193
+P1479,has contributing factor,factor contribuyente,a comme facteur contributif,hat mitwirkenden Faktor,способствовавшим фактором является,寄与因子,影响因素,P1537,contributing factor of,factor contribuyente de,facteur contributif de,Co-Faktor von,способствует,以下の寄与因子,是该对象的影响因素,588,324
+P1606,natural reservoir of,reservorio natural de,réservoir naturel de,Erregerreservoir von,является носителем патогена,以下の自然宿主,为其天然宿主,P1605,has natural reservoir,tiene reservorio natural,a pour réservoir naturel,hat Erregerreservoir,носитель возбудителя инфекции,自然宿主,帶有天然水庫,17,443
+P1677,index case of,caso índice de,patient zéro de,Indexpatient von,указывающий случай для,初発患者,指數患者,P1660,has index case,tiene como caso índice,patient zéro,hat Indexpatient,указывающий случай,初発症例,索引病人,29,28
+P1704,is pollinator of,polinizador,pollinisateur de,Bestäuber von,опылитель для,以下の送粉者,是傳粉者,P1703,is pollinated by,polinización,pollinisé par,bestäubt durch,опылитель,送粉者,被授粉,58,79
+P747,has edition or translation,edición o traducción,édition,hat Ausgaben,издание(я) или перевод(ы),版,版本,P629,edition or translation of,edición o traducción de,édition ou traduction de,Ausgabe oder Übersetzung von,является изданием или переводом,原典・翻訳元,版本屬於或翻譯自,87363,87268
+P1536,immediate cause of,causa inmediata de,cause immédiate de,direkte Ursache von,является непосредственной причиной,以下の直接の原因,直接结果,P1478,has immediate cause,causa inmediata,a pour cause immédiate,hat unmittelbare Ursache,непосредственной причиной является,直接の原因,直接原因,18761,125023
+P8517,view,vista,vue,Aussicht,вид,景色,景觀,P7108,location of the point of view,lugar del punto de vista,position du point de vue,Standort des Beobachters,место точки зрения,展望場所,觀察者的位置,1346,512
+P137,operator,operador,opérateur,Betreiber,оператор,運営者,營運者,P121,item operated,elemento operado,élément utilisé,eingesetztes Objekt,использует объект,以下を運用する,運營项目,538793,12994
+P150,contains administrative territorial entity,subdividido en (división administrativa),contient les subdivisions territoriales administratives,Untereinheit (administrative Einheit),административно делится на,直下の行政区画,下辖行政领土实体,P131,located in the administrative territorial entity,situado en la entidad territorial administrativa,localisation administrative,liegt in der Verwaltungseinheit,административно-территориальная единица,位置する行政区画,所在行政领土实体,1045005,11213234
+P1056,product or material produced,producto,produit,Produkt,продукция,生産品目,产品,P176,manufacturer,fabricante,fabricant,Hersteller,производитель,製造元,制造者,45764,130741
+P6087,coach of sports team,entrenador de,équipe sportive entraînée,Trainer von Sportteam oder -verein,тренер спортивной команды,スポーツチームのコーチ,體育隊,P286,head coach,entrenador,entraîneur / directeur sportif,Cheftrainer,тренер,チーム監督またはヘッドコーチ,主教练,11850,53908
